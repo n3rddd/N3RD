@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ctx.web_name}}</title>
+<meta name="referrer" content="no-referrer" />
+<meta name="keywords" content="{{ctx.web_name}},电影网,电视剧网,电视剧大全,动画片,樱花动漫,最新综艺,美剧网,韩剧网,追剧TV,在线观看" />
+<meta name="description" content="{{ctx.web_name}}-为您提供最新电影和免费电影在线观看，支持综艺节目、动漫影片以及电视剧等在线电影免费观看；如果您喜欢看高清电影/看电视剧，记得一定要收藏本站哦！以免您在找电影的路上迷了路！" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link rel="shortcut icon" href="/static/img/favicon.svg" type="image/x-icon" />
+<link rel="stylesheet" href="/web/cms/mxpro/css/iconfont.css" type="text/css" />
+<link rel="stylesheet" href="/web/cms/mxpro/css/stui_default.css" type="text/css" />
+<script type="text/javascript" src="/static/js/jquery.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.cookie.min.js "></script>
+<script type="text/javascript" src="/static/js/jquery.lazyload.min.js "></script>
+<script type="text/javascript" src="/web/cms/mxpro/js/index.js"></script>
+<script type="text/javascript" src="/web/cms/mxpro/js/home.js"></script>
+<script src="/static/js/vue3.js"></script>
+<script src="/static/js/axios.min.js"></script>
+<script src="/static/js/eruda.js"></script>
+
+<script src="/web/cms/mxpro/js/commonUI.js"></script>
+<link rel="stylesheet" href="/web/cms/mxpro/css/commonUI.css" type="text/css" />
+<script>var maccms={"path":"","mid":"","url":"5imv.cc","wapurl":"www.5imv.cc","mob_status":"2"};</script>
+<!--[if lt IE 9]>
+<script src="/web/cms/mxpro/js/html5shiv.min.js"></script>
+<script src="/web/cms/mxpro/js/respond.min.js"></script>
+<![endif]-->
+<style type="text/css">
+	.stui-vodlist__thumb.banner{ padding-top: 30%;}
+	@media (max-width:767px){.stui-vodlist__thumb.banner{ padding-top: 45%;}}
+</style>
+</head>
+<body>
+
+
+<div id="app">
+<div class="container">
+	<div class="row">
+		<div class="stui-pannel">
+			<div class="stui-pannel__hd">
+				<!--vue组件-头部导航-->
+				<stu-header :ctx="ctx" :items="items" :hotsuggs="hotsuggs" :is_home="is_home"></stu-header>
+			</div>
+
+			<!--vue组件-轮播图-->
+			<stu-banner></stu-banner>
+
+			<div class="stui-pannel__bd">
+					<div class="stui-vodlist__head">
+                	      <a class="pull-right hidden-xs" ><span class="STYLE1">本站共有视频资源：<span class="STYLE2">{[items.list.length]}</span> 部 首页推荐：<span class="STYLE2">{[items.list.length]}</span> 部 </span></a>
+                	       <a class="pull-right visible-xs" ><span class="STYLE1">首页推荐：<span class="STYLE2">{[items.list.length]}</span> 部 </span></a>
+						<h3><i class="iconfont icon-hot"></i> 首页推荐</h3>
+					</div>
+        			<!-- 首页推荐 -->
+        			<ul class="stui-vodlist clearfix">
+						<li v-for="item in items.list">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" :href="'{{ctx.path}}?vod_id='+item.vod_id+'&vod_name='+item.vod_name" :title="item.vod_name" :data-original="item.vod_pic">
+									<span class="play hidden-xs"></span>
+									<span class="pic-text1 text-right"><b>{[item.no_use?item.no_use.type_name:'']}</b></span>
+									<span class="pic-text text-right"><b>{[item.vod_remarks]}</b></span>
+								</a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a :href="'{{ctx.path}}?vod_id='+item.vod_id+'&vod_name='+item.vod_name" :title="item.vod_name">{[item.vod_name]}</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">{[item.vod_name]}剧情简介</p>
+								</div>
+							</div>
+						</li>
+					</ul>
+					<!-- end 热门推荐 -->
+
+					<!-- 分类列表 -->
+
+					<!--vue组件-分类列表-->
+					<stu-category :ctx="ctx" :items="items"> </stu-category>
+
+					<!-- end 分类列表 -->
+
+					<!-- 最新专题 -->
+					<stu-topic></stu-topic>
+					<!-- end 最新专题 -->
+        		</div>
+				<div class="stui-pannel_ft col-pd">
+					<!-- 友链 -->
+					<stu-links :links="links"></stu-links>
+<!--					<ul class="stui-link__text clearfix">-->
+<!--						<li><span>友情链接：</span>-->
+<!--							<a href="https://www.baidu.com">百度</a>-->
+<!--							<a href="https://www.baidu.com">百度</a>-->
+<!--						</li>-->
+<!--					</ul>-->
+					<!-- end 友链 -->
+				</div>
+
+        	</div>
+        </div>
+    </div>
+		<!--组件调用一定要右闭合,否则后面的代码无法正常运行-->
+<!--vue组件-版权信息-->
+	<copy-right path="{{ctx.path}}" web_name="{{ctx.web_name}}" ></copy-right>
+
+<!--vue组件-底部按钮-->
+	<foot-button></foot-button>
+
+	<!--vue组件-弹窗信息-->
+	<note-popup path="{{ctx.path}}" url="{{ctx.url}}"></note-popup>
+
+</div>
+<!--vue结束-->
+
+<script>
+const { createApp,reactive, toRefs, ref,getCurrentInstance,onBeforeMount, onMounted,onBeforeUpdate,onUpdated,onBeforeUnmount, onUnmounted, watch,computed } = Vue;
+const app = createApp({
+	delimiters: ['{[', ']}'],//delimiters：改变默认的插值符号
+	props: {},
+	setup(props, context) {
+		onMounted(()=> {
+			console.log('---onMounted---');
+			axios.get(`/vod?pwd=${pwd}&rule=${web_name}`).then((resp) => {
+            	console.log(resp.data);
+            	items.value = resp.data;
+				// 存浏览器session里，然后其它页面好获取出来
+				sessionStorage.setItem('items',JSON.stringify(resp.data));
+				// console.log(typeof(stui.images.lazyload));
+				setTimeout(function (){
+					stui.images.lazyload();
+					stui.images.carousel();
+				},100);
+        	});
+
+			axios.get(`/hotsugg`).then((resp) => {
+				console.log(resp.data);
+				hotsuggs.value = resp.data;
+				sessionStorage.setItem('hotsuggs',JSON.stringify(resp.data));
+        	});
+
+		});
+		onBeforeUnmount(()=>{
+        //销毁页面组件前， 即关闭
+        console.log("*******onBeforeUnmount******")
+    	});
+		onUnmounted(()=>{
+			//销毁后
+			console.log("*******onUnmounted******")
+		});
+
+		console.log('---setup---');
+		//获取当前实例
+		// const {self, proxy} = getCurrentInstance();
+		const web_name = '{{ctx.web_name}}';
+		const pwd = '{{ctx.pwd}}';
+		console.log(web_name);
+		// 图片不加载问题，在接口渲染后调用jquery的lazy-load即可解决???
+
+		const ctx_str = "ctxObj={{ctx|safe}}";
+		eval(ctx_str);
+		console.log(ctxObj)
+		const ctx = ref(ctxObj);
+
+		const items = ref({
+			class:[],
+			list:[],
+		});
+		// const hotsuggs = ref({"code":200,"count":50,"data":[{"title":"漫长的季节","url":""},{"title":"你给我的喜欢","url":""},{"title":"奔跑吧 第7季","url":""},{"title":"斗破苍穹年番","url":""},{"title":"完美世界","url":""},{"title":"平凡之路","url":""},{"title":"斗罗大陆","url":""},{"title":"画江湖之不良人 第6季","url":""},{"title":"云襄传","url":""},{"title":"满江红","url":""},{"title":"遮天","url":""},{"title":"只是结婚的关系","url":""},{"title":"哈哈哈哈哈 第3季","url":""},{"title":"星辰变 第5季","url":""},{"title":"吞噬星空","url":""},{"title":"极限挑战 第9季","url":""},{"title":"月升沧海","url":""},{"title":"听说你喜欢我","url":""},{"title":"雪中悍刀行","url":""},{"title":"无间","url":""},{"title":"小猪佩奇第9季","url":""},{"title":"流浪地球2","url":""},{"title":"迪迦奥特曼 普通话版","url":""},{"title":"宝贝赳赳 第五季","url":""},{"title":"天赐的声音 第4季","url":""},{"title":"银河护卫队","url":""},{"title":"一人之下 第5季","url":""},{"title":"我们的婚姻","url":""},{"title":"全职法师 第6季","url":""},{"title":"汪汪队立大功第八季","url":""},{"title":"青春环游记 第4季","url":""},{"title":"欢乐颂4","url":""},{"title":"新三国","url":""},{"title":"扫黑风暴","url":""},{"title":"黑豹2","url":""},{"title":"《人生路不熟》主创漫谈","url":""},{"title":"爱情而已","url":""},{"title":"长月烬明","url":""},{"title":"王牌对王牌 第8季","url":""},{"title":"你是我的荣耀","url":""},{"title":"大话西游之大圣娶亲·加长纪念版","url":""},{"title":"陈情令","url":""},{"title":"熊出没之冬日乐翻天","url":""},{"title":"新僵尸先生","url":""},{"title":"沸腾人生","url":""},{"title":"银河护卫队2","url":""},{"title":"那年花开月正圆","url":""},{"title":"名侦探柯南 普通话版","url":""},{"title":"云顶天宫","url":""},{"title":"欢乐颂","url":""}],"msg":"获取成功"});
+		const hotsuggs = ref({
+			data:[]
+		});
+		const is_home = ref(true);
+		const links = ref([
+			{name:'百度',url:'https://www.baidu.com'},{name:'drpy-第二派',url:'https://github.com/hjdhnx'},{name:'zyPlayer',url:'https://github.com/Hiram-Wong/ZyPlayer'}
+		]);
+		try {
+		items.value = JSON.parse(sessionStorage.getItem('items'))||items.value;
+		hotsuggs.value = JSON.parse(sessionStorage.getItem('hotsuggs'))||hotsuggs.value;
+		}catch (e) {
+			console.log(e.message)
+		}
+		return {
+			ctx,
+			items,
+			links,
+			hotsuggs,
+			web_name,
+			is_home,
+		}
+	},
+});
+// 默认请求的基础url（如果axios请求的地址不带域名，自动添加baseURL）（默认请求域名，/当前域名）
+axios.defaults.baseURL = "/";
+// 设置post请求头的content-Type值
+// axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
+axios.defaults.headers.post['Content-Type'] = 'application/json';
+// 请求超时5000毫秒
+axios.defaults.timeout = 5000;
+app.config.globalProperties.$http = axios;
+console.log('---这里最先执行---');
+app.component('copy-right',  copyRightComponent);
+app.component('foot-button', footButtonComponent);
+app.component('note-popup',  notePopup);
+app.component('stu-header', stuHeaderComponent);
+app.component('stu-banner', stuBannerComponent);
+app.component('stu-category', stuCategoryComponent);
+app.component('stu-topic', stuTopicComponent);
+app.component('stu-links', stuLinksComponent);
+app.mount('#app');
+eruda.init();
+
+</script>
+<!--<script src='/web/cms/mxpro/js/rich-tf.js' id="richid" data='s=7214'></script>-->
+<!--<script charset="UTF-8" id="LA_COLLECT" src="/web/cms/mxpro/js/js-sdk-pro.min.js"></script>-->
+<!--<script>LA.init({id:"JYQUFCtAOBTUMsNQ",ck:"JYQUFCtAOBTUMsNQ"})</script>-->
+<script type="text/javascript" src="/web/cms/mxpro/js/stui_default.js "></script>
+<!--弹窗样式和自动弹窗方法-->
+<link rel="stylesheet" href="/web/cms/mxpro/css/notice.css" type="text/css">
+<script type="text/javascript" src="/web/cms/mxpro/js/mxhtml.js"></script>
+
+<script type="text/javascript">
+
+$(".stui_header__user li a").click(function(){
+	$(this).parent().find(".dropdown").toggle();
+});
+function notnull() {
+if (window.document.search.wd.value=="") {
+alert("您未输入任何信息！");
+return false;
+}else {
+return true;
+}
+}
+
+$(function(){
+	$(window).scroll(function() {
+		if($(window).scrollTop() >= 100){
+			$('.ant-back-top').fadeIn(300);
+		}else{
+			$('.ant-back-top').fadeOut(300);
+		}
+	});
+	$('.ant-back-top').click(function(){
+	$('html,body').animate({scrollTop: '0px'}, 800);});
+});
+
+</script>
+
+</body>
+</html>
