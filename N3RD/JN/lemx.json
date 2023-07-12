@@ -1,0 +1,396 @@
+{
+    "wallpaper":"https://agit.ai/n3rd/N3RD/raw/branch/master/W/crimetv.png",
+    
+    "spider": "https://agit.ai/n3rd/N3RD/raw/branch/master/J/xyq0302.jar;md5;899D8CE213A531A07363DAD1593CD2D3",
+    
+    "lives":[{"name":"live","type":0,"url":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/tv.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
+
+    "sites": [
+        {"key":"T4db_豆瓣搜索","name":"📡雷蒙影视XYQ专线 豆瓣搜索","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"drjs_豆瓣js","name":"📡雷蒙影视XYQ专线 豆瓣推荐","type":3,"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/drpy.js"},
+        
+        {"key":"Gitcafe","name":"💑Lem专属 小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+        {"key":"csp_Zhaozy","name":"💑Lem专属 找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+        {"key":"csp_AliPS","name":"💑Lem专属 喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+        {"key":"csp_Yisou","name":"💑Lem专属 易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+        {"key":"csp_Upyunso","name":"💑Lem专属 UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+        {"key":"push_agent","name":"💑Lem专属 推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+        {"key":"360_spider","name":"💑Lem专属 360影视(SP)","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
+        {"key":"csp_Kuaikan","name":"💑Lem专属 快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Czsapp","name":"💑Lem专属 厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Bdys01","name":"💑Lem专属 哔嘀影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Ddys","name":"💑Lem专属 低端影视(SP)","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Kunyu77","name":"💑Lem专属 77影视(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+        {"key": "csp_LiteApple","name": "💑Lem专属 小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+        
+        {"key": "csp_XYQHiker_兔小贝","name":"💑Lem专属 兔小贝(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/兔小贝.json"},
+        {"key": "csp_XYQHiker_兔小贝2","name":"💑Lem专属 兔小贝2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/兔小贝2.json"},
+        {"key": "csp_XYQHiker_有声小说吧","name":"💑Lem专属 有声小说吧(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/有声小说吧.json"},
+        {"key": "csp_XYQHiker_DJ呦呦音乐网","name":"💑Lem专属 DJ呦呦音乐网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/DJ呦呦音乐网.json"},
+        {"key": "csp_XYQHiker_野荷塘影院","name":"💑Lem专属 野荷塘影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/野荷塘影院.json"},
+        {"key": "csp_XYQHiker_野马影视","name":"💑Lem专属 野马影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/野马影视.json"},
+        {"key": "csp_XYQHiker_红领巾影院","name":"💑Lem专属 红领巾影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/红领巾影院.json"},
+        {"key": "csp_XYQHiker_星辰影院","name":"💑Lem专属 星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/星辰影院.json"},
+        {"key": "csp_XYQHiker_小猫咪","name":"💑Lem专属 小猫咪(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/小猫咪.json"},
+        {"key": "csp_XYQHiker_188影视","name":"💑Lem专属 188影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/188影视.json"},
+        {"key": "csp_XYQHiker_555影视","name":"💑Lem专属 555影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/555影视.json"},
+        {"key": "csp_XYQHiker_特播影院","name":"💑Lem专属 特播影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/特播影院.json"},
+        {"key": "csp_XYQHiker_IMAX影视","name":"💑Lem专属 IMAX影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/IMAX影视.json"},
+        {"key": "csp_XYQHiker_农民影视","name":"💑Lem专属 ‍农民影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/农民影视.json"},
+        {"key": "csp_XYQHiker_奇趣影视","name":"💑Lem专属 奇趣影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/奇趣影视.json"},
+        {"key": "csp_XYQHiker_双十电影","name":"💑Lem专属 双十电影(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/双十电影.json"},
+        {"key": "csp_XYQHiker_348电影网","name":"💑Lem专属 348电影网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/348电影网.json"},
+        {"key": "csp_XYQHiker_90影视网","name":"💑Lem专属 90影视网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/90影视网.json"},
+        {"key": "csp_XYQHiker_98影院","name":"💑Lem专属 98影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/98影院.json"},
+        {"key": "csp_XYQHiker_七新影视","name":"💑Lem专属 七新影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/七新影视.json"},
+        {"key": "csp_XYQHiker_23影视","name": "💑Lem专属 23影视(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/23影视网.json"},
+        {"key": "csp_XYQHiker_追剧达人","name":"💑Lem专属 追剧达人(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/追剧达人.json"},
+        {"key": "csp_XYQHiker_电影港","name":"💑Lem专属 电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/电影港磁力.json"},
+        {"key": "csp_XYQHiker_饭团影视","name": "💑Lem专属 饭团影视(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/饭团影视.json"},
+        {"key": "csp_XYQHiker_布蕾蓝光影城","name": "💑Lem专属 布蕾蓝光影城(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/布蕾蓝光影城.json"},
+        {"key": "csp_XYQHiker_看看电影","name":"💑Lem专属 看看电影(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/看看电影.json"},
+        {"key": "csp_XYQHiker_秋霞电影","name":"💑Lem专属 秋霞电影(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/秋霞电影.json"},
+        {"key": "csp_XYQHiker_乐猪影视","name": "💑Lem专属 乐猪影视(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/乐猪TV.json"},
+        {"key": "csp_XYQHiker_在线之家","name":"💑Lem专属 在线之家(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/在线之家.json"},
+        {"key": "csp_XYQHiker_看一看","name":"💑Lem专属 看一看影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/看一看影视.json"},
+        {"key": "csp_XYQHiker_HDmoli","name":"💑Lem专属 HDmoli(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/HDmoli.json"},
+        {"key": "csp_XYQHiker_AB影院","name":"💑Lem专属 AB影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/AB影院.json"},
+        {"key": "csp_XYQHiker_魔戒影院","name":"💑Lem专属 魔戒影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/魔戒影院.json"},
+        {"key": "csp_XYQHiker_voflix HD","name":"💑Lem专属 voflix HD(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/voflix HD.json"},
+        {"key": "csp_XYQHiker_鸭奈飞影视","name":"💑Lem专属 鸭奈飞影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/鸭奈飞影视.json"},
+        {"key": "csp_XYQHiker_蓝光影院","name": "💑Lem专属 蓝光影院(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/蓝光影院.json"},
+        {"key": "csp_XYQHiker_影渣渣影视","name":"💑Lem专属 影渣渣影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/影渣渣影视.json"},
+        {"key": "csp_XYQHiker_电影牛影院","name":"💑Lem专属 电影牛影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/电影牛影院.json"},
+        {"key": "csp_XYQHiker_电影盒子","name":"💑Lem专属 电影盒子(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/电影盒子.json"},
+        {"key": "csp_XYQHiker_段友影视","name":"💑Lem专属 段友搜索(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/段友影视.json"},
+        {"key": "csp_XYQHiker_耐看点播","name":"💑Lem专属 耐看点播(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/耐看点播.json"},
+        {"key": "csp_XYQHiker_回响影视","name":"💑Lem专属 回响影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/回响影视.json"},
+        {"key": "csp_XYQHiker_灵异影视","name":"💑Lem专属 灵异影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/灵异影视.json"},
+        {"key": "csp_XYQHiker_天空影视","name":"💑Lem专属 天空影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/天空影视.json"},
+        {"key": "csp_XYQHiker_疯狗影视","name":"💑Lem专属 疯狗影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/疯狗影视.json"},
+        {"key": "csp_XYQHiker_我不卡影院","name": "💑Lem专属 我不卡影院(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/我不卡影院.json"},
+        {"key": "csp_XYQHiker_爱看影视","name":"💑Lem专属 爱看影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/爱看影视.json"},
+        {"key": "csp_XYQHiker_爱看影视6","name":"💑Lem专属 爱看影视6(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/爱看影视6.json"},
+        {"key": "csp_XYQHiker_艾菲影视","name":"💑Lem专属 艾菲影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/艾菲影视.json"},
+        {"key": "csp_XYQHiker_GimyTV劇迷","name": "💑Lem专属 GimyTV劇迷(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/GimyTV劇迷.json"},
+        {"key": "csp_XYQHiker_曲奇动漫","name":"💑Lem专属 曲奇动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/曲奇动漫.json"},
+        {"key": "csp_XYQHiker_利丽娅电影","name": "💑Lem专属 利丽娅电影(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/利丽娅电影.json"},
+        {"key": "csp_XYQHiker_北川影视","name": "💑Lem专属 北川影视(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/北川影视.json"},
+        {"key": "csp_XYQHiker_子子影视","name":"💑Lem专属 子子影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/子子影视.json"},
+        {"key": "csp_XYQHiker_素白白影视","name":"💑Lem专属 素白白影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/素白白影视.json"},
+        {"key": "csp_XYQHiker_厂长影视","name":"💑Lem专属 厂长影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/厂长影视.json"},
+        {"key": "csp_XYQHiker_MayiTube","name":"💑Lem专属 MayiTube(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/MayiTube.json"},
+        {"key": "csp_XYQHiker_巨人影院","name":"💑Lem专属 巨人影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/巨人影院.json"},
+        {"key": "csp_XYQHiker_Vidhub视频库","name":"💑Lem专属 Vidhub视频库(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/Vidhub视频库.json"},
+        {"key": "csp_XYQHiker_宝仙HD","name":"💑Lem专属 宝仙HD(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/宝仙HD.json"},
+        {"key": "csp_XYQHiker_星空影院","name":"💑Lem专属 星空影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/星空影院.json"},
+        {"key": "csp_XYQHiker_l0l影院","name":"💑Lem专属 l0l影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/l0l影院.json"},
+        {"key": "csp_XYQHiker_F7好看剧","name":"💑Lem专属 F7好看剧(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/F7好看剧.json"},
+        {"key": "csp_XYQHiker_FreeOK","name":"💑Lem专属 FreeOK(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/FreeOK.json"},
+        {"key": "csp_XYQHiker_无插件直播","name": "💑Lem专属 无插件直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/无插件直播.json"},
+        {"key": "csp_XYQHiker_l0l直播","name":"💑Lem专属 l0l直播(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/l0l直播.json"},
+        {"key": "csp_XYQHiker_虎牙直播","name": "💑Lem专属 虎牙直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQHIKER/虎牙直播.json"},
+        
+        {"key": "csp_drjs_虎牙直播","name":"💑Lem专属 虎牙直播(JS)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js?inline=false","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/虎牙直播.js?inline=false","searchable": 0,"quickSearch": 0,"filterable": 0},
+
+        {"key": "csp_XYQBiu_88看球","name":"💑Lem专属 88看球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/88看球.json"},
+        {"key": "csp_XYQBiu_网易CC直播","name": "💑Lem专属 网易CC直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/网易CC直播.json"},
+        {"key": "csp_XYQBiu_310直播","name": "💑Lem专属 310直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/310直播.json"},
+        {"key": "csp_XYQBiu_抓饭直播","name": "💑Lem专属 抓饭直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/抓饭直播.json"},
+        {"key": "csp_XYQBiu_斗鱼直播","name": "💑Lem专属 斗鱼直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/斗鱼直播.json"},
+        {"key": "csp_XYQBiu_好恐怖","name":"💑Lem专属 好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/好恐怖磁力.json"},
+        {"key": "csp_XYQBiu_影视工场","name":"💑Lem专属 影视工场(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/影视工场.json"},
+        {"key": "csp_XYQBiu_完美看看","name":"💑Lem专属 完美看看(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/完美看看.json"},
+        {"key": "csp_XYQBiu_石榴电影","name":"💑Lem专属 石榴电影(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/石榴电影.json"},
+        {"key": "csp_XYQBiu_喵喵电影网","name":"💑Lem专属 喵喵电影网(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/喵喵电影网.json"},
+        {"key": "csp_XYQBiu_剧荒","name":"💑Lem专属 剧荒影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/剧荒.json"},
+        {"key": "csp_XYQBiu_神马","name":"💑Lem专属 神马影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/神马影院.json"},
+        {"key": "csp_XYQBiu_NetflixMOM","name":"💑Lem专属 NetflixMOM(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/NetflixMOM.json"},
+        {"key": "csp_XYQBiu_骚火电影网","name":"💑Lem专属 骚火电影网(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/骚火电影网.json"},
+        {"key": "csp_XYQBiu_骚火电影VIP","name":"💑Lem专属 骚火电影VIP(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/骚火电影VIP.json"},
+        {"key": "csp_XYQBiu_凌云影视","name":"💑Lem专属 凌云影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/凌云.json"},
+        {"key": "csp_XYQBiu_COKEMV影视","name":"💑Lem专属 COKEMV影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/COKEMV.json"},
+        {"key": "csp_XYQBiu_Auete影视","name":"💑Lem专属 Auete影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/Auete影视.json"},
+        {"key": "csp_XYQBiu_fositv","name":"💑Lem专属 fositv(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/fositv.json"},
+        {"key": "csp_XYQBiu_VIP电影","name":"💑Lem专属 VIP电影(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/VIP电影.json"},
+        {"key": "csp_XYQBiu_1985电影网","name":"💑Lem专属 1985电影网(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/1985电影网.json"},
+        {"key": "csp_XYQBiu_大师兄影视","name":"💑Lem专属 大师兄影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/大师兄影视.json"},
+        {"key": "csp_XYQBiu_莫扎兔","name":"💑Lem专属 莫扎兔影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/莫扎兔.json"},
+        {"key": "csp_XYQBiu_大米星球","name":"💑Lem专属 大米星球(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/大米星球.json"},
+        {"key": "csp_XYQBiu_酷客影视","name":"💑Lem专属 酷客影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/酷客影视.json"},
+        {"key": "csp_XYQBiu_七小时影院","name":"💑Lem专属 七小时影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/七小时影院.json"},
+        {"key": "csp_XYQBiu_花猫TV","name":"💑Lem专属 花猫TV(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/花猫TV.json"},
+        {"key": "csp_XYQBiu_TVB云播","name":"💑Lem专属 TVB云播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/TVB云播.json"},
+        {"key": "csp_XYQBiu_Libvio","name":"💑Lem专属 Libvio(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/libvio.json"},
+        {"key": "csp_XYQBiu_万能影视","name":"💑Lem专属 万能影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/万能影视.json"},
+        {"key": "csp_XYQBiu_电影先生","name":"💑Lem专属 电影先生(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/电影先生.json"},
+        {"key": "csp_XYQBiu_萌番组","name":"💑Lem专属 萌番组(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/萌番组.json"},
+        {"key": "csp_XYQBiu_酷奇MV","name":"💑Lem专属 酷奇MV(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/酷奇MV.json"},
+        {"key": "csp_XYQBiu_分享短视频","name":"💑Lem专属 分享短视频(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/XYQBiu/分享短视频.json"},
+        
+        {"key":"csp_appysv2_MX影视","name":"💑Lem专属 MX影视(小龟)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://49.235.107.145:81/api.php/app/"},
+        {"key":"天堂资源","name":"💑Lem专属 天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+        {"key":"木子看剧","name":"💑Lem专属 木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
+        {"key":"忆梦","name":"💑Lem专属 忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1}
+        
+    ],
+    "parses": [
+        {"name":"解析聚合","type":3,"url":"Demo"},
+        {"name":"Json并发","type":2,"url":"Parallel"},
+        {"name":"Json轮询","type":2,"url":"Sequence"},
+        {"name":"1-看看","type":0,"url":"https://jx.m3u8.pw/?url="},
+        {"name":"2-虾米","type":0,"url":"https://jx.xmflv.com/?url="},
+        {"name":"3-麒麟","type":0,"url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
+        {"name":"4-parwix1","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+        {"name":"5-OK解析","type":0,"url":"http://okjx.cc/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+        {"name":"6-ckflv","type":1,"url":"http://api.ckflv.cn/?url="},
+        {"name":"7-m3u8tv","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+        {"name":"8-鸿途PCUA","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+        {"name":"9-yparse","type":0,"url":"https://jx.yparse.com/index.php?url="}
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "bilibili",
+        "renrenmi"
+    ],
+    "rules":[
+        {
+        "host":"www.iesdouyin.com",
+        "rule":["playwm/?video_id="]
+        },
+        {
+        "host":"v.douyin.com",
+        "rule":["playwm/?video_id="]
+        }
+    ],
+"ijk": [
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ]
+}
