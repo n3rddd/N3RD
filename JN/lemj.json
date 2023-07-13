@@ -45,7 +45,7 @@
 {"key":"drjs_爱看机器人","name":"👺Lem专属 爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"lfjs_爱看机器人","name":"👺Lem专属 爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot2_4_min.js"},
 
-{"key":"drjs_荐片","name":"👺Lem专属 荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js"},
+{"key":"drjs_荐片","name":"👺Lem专属 荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
 {"key":"drjs_蘑菇","name":"👺Lem专属 蘑菇(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/蘑菇.js"},
 {"key":"drjs_饭团影视","name":"👺Lem专属 饭团影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/饭团影视.js"},
 {"key":"drjs_玄天","name":"👺Lem专属 玄天(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/玄天.js"},
