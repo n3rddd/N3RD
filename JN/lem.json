@@ -306,7 +306,7 @@
 {"key":"drjs_MV库","name":"👺Lem专属 MV库(DRPY)","type":3,"api":"./EXT/JS/lf_live_min.js","ext":"./EXT/JS/lf_live_min3.txt"},
 {"key":"drjs_酷云77","name":"👺Lem专属 酷云77(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/酷云77.js"},
 
-{"key":"drjs_荐片","name":"👺Lem专属 荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js"},
+{"key":"drjs_荐片","name":"👺Lem专属 荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
 {"key":"drjs_蘑菇","name":"👺Lem专属 蘑菇(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/蘑菇.js"},
 {"key":"drjs_饭团影视","name":"👺Lem专属 饭团影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/饭团影视.js"},
 {"key":"drjs_玄天","name":"👺Lem专属 玄天(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/玄天.js"},
