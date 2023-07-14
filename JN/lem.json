@@ -5,7 +5,7 @@
 //"spider":"./N3RD/J/lem0712.jar;md5;6F8E6C529BCB74C73D3FD2760456D1A0",
 //"spider":"./N3RD/J/lem0710.jar;md5;C8CDF9F4974F0A9D5EA737D113BE25D2",
 //"spider":"./N3RD/J/lem0709.jar;md5;72A65B250DF1C0A32B151AA1DDB09343",
-//"spider":"./N3RD/J/lem0705.jar;md5;AEF3BCCEC942EAB59FABDDC87B985C90",  
+//"spider":"./N3RD/J/lem0705.jar;md5;AEF3BCCEC942EAB59FABDDC87B985C90",
 //"spider":"./N3RD/J/lem0703.jar;md5;34EF46E340815D16D2EB3B8EA9F937C5",
 //"spider":"./N3RD/J/lem0630.jar;md5;639D1ED3BDA0ED6C5981C72E19400471",
 //"spider":"./N3RD/J/lem0626.jar;md5;FE1E21B8F16B4BE9B4B0906164DBB9FB",
@@ -1828,14 +1828,15 @@
 
 //HongFeiQ
 {"name":"小米","type":1,"url":"http://xhww.fun:63/小米特别爱肥猫.php?v=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua"],"header":{"User-Agent":"Dalvik/2.1.0(Android10)"}}},
-{"name":"小米-FY1","type":1,"url":"http://xhww.fun:63/fy.php?v=","User-Agent":"okhttp/3.12.0","flag":["iqiyi","youku","qq","FY","mgtv"]},
-{"name":"小米-FY2","type":0,"url":"https://fy.wuye3d.com/fy27.php?url=","ext":{"flag":["FY"],"header":{"user-agent":"Mozilla/5.0 (iPad)","Referer":"http://www.tvyb03.com/"}}},
+{"name":"飞云官解","type":1,"url":"https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url=","User-Agent":"okhttp/3.12.0","flag":["FY"]},
+{"name":"小米-FY1","type":1,"url":"http://xhww.fun:63/fy8.php?v=","User-Agent":"okhttp/3.12.0","flag":["iqiyi","youku","qq","FY","mgtv"]},
+{"name":"小米-FY2","type":0,"url":"https://fy.wuye3d.com/fy27.php?url=","ext":{"flag":["FY"],"header":{"user-agent":"Lavf/58.12.100","Referer":"http://www.tvyb03.com/"}}},
 {"name":"米来","type":1,"url":"http://htp.behds.cn/json/202372345678911app/gf.php?url=","header":{"User-Agent":"LuaSocket 3.0-rc1"},"ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
-{"name":"米来-FY","type":1,"url":"https://htp.behds.cn/json/520235app6/mlzjphp111.php?url=","header":{"User-Agent":"LuaSocket 3.0-rc1"},"ext":{"flag":["FY"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
+{"name":"米来-FY","type":1,"url":"https://htp.behds.cn/json/520237app7/mlzjphp111.php?url=","header":{"User-Agent":"LuaSocket 3.0-rc1"},"ext":{"flag":["FY"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
 {"name":"云视-1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","header":{"User-Agent":"Dart/2.17 (dart:io)"},"ext":{"flag":["iqiyi","youku","qq","mgtv","sohu","le"],"header":{"User-Agent":"Dart/2.17 (dart:io)"}}},
 {"name":"云视-2","type":1,"url":"https://m3u8.co/json/?url=","header":{"User-Agent":"Dart/2.17 (dart:io)"},"ext":{"flag":["iqiyi","youku","qq","mgtv","sohu","bilibili"],"header":{"User-Agent":"Dart/2.17 (dart:io)"}}},
-{"name":"云视-FY","type":1,"url":"https://json.8i7.cn/api/?key=R9Ah232tBzRxK9oC9m&url=","header":{"User-Agent":"Mozilla/5.0"},"ext":{"flag":["FY"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"影视范-FY","type":1,"url":"http://1.117.111.78:93/home/api?type=ys&uid=77&key=影视范公众号免费提供&url=","header":{"User-Agent":"Mozilla/5.0"},"ext":{"flag":["FY"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"云视-FY1","type":1,"url":"https://jx.g2.pub/?url=","header":{"User-Agent":"okhttp/3.12.11"},"ext":{"flag":["FY","iqiyi","youku","qq","mgtv"],"header":{"User-Agent":"okhttp/3.12.11"}}},
+{"name":"云视-FY2","type":1,"url":"https://json.8i7.cn/api/?key=R9Ah232tBzRxK9oC9m&url=","header":{"User-Agent":"Mozilla/5.0"},"ext":{"flag":["FY"],"header":{"User-Agent":"Mozilla/5.0"}}},
 
 //XIAOMI
 {"name":"✌️夜曲","type":1,"url":"http://xhww.fun:63/爱肥猫.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua","nongmin","CL4K","xfyun","ffm3u8","lzm3u8","netease","pgyer","qzone","FY","ppayun","Feiyun","zhibo"],"header":{"User-Agent":""}}},
