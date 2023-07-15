@@ -66,7 +66,7 @@
 {"key":"csp_YGP","name":"🎞Lem专属 预告片(SP)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"drjs_爱看机器人","name":"👹Lem专属 爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"lfjs_爱看机器人","name":"👹Lem专属 爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot2_4_min.js"},
-{"key":"xml_暴风资源","name":"🚀Lem专属 暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","犯罪片","香港剧","韩国剧","台湾剧","日本剧","海外剧","其他片","悬疑片","奇幻片","动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key":"xml_暴风资源","name":"🚀Lem专属 暴风资源","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","playUrl":"","categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
 {"key":"xml_量子资源","name":"🚀Lem专属 量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","searchable":1,"quickSearch":1,"m3u8ads":"hd.youyhn.com||vip.lz"},
 {"key":"xml_非凡资源","name":"🚀Lem专属 非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"xml_光速资源","name":"🚀Lem专属 光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
@@ -269,7 +269,7 @@
 //{"key":"csp_Dy555_TS","name":"5️⃣️Lem专属 555电影(备用)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"f41992bd740145ed58cb212dc0876582"},
 //{"key":"T4_豆瓣聚合","name":"📡Lem专属 豆瓣聚合","type":4,"api":"http://42.192.248.11:5395/vod?sites=all&ali_token=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_LiteApple","name":"🍎Lem专属 小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
+//{"key":"xml_暴风资源","name":"🚀Lem专属 暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","犯罪片","香港剧","韩国剧","台湾剧","日本剧","海外剧","其他片","悬疑片","奇幻片","动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
 
 //搜索
@@ -307,6 +307,8 @@
 {"key":"drjs_酷云77","name":"👺Lem专属 酷云77(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/酷云77.js"},
 {"key":"drjs_荐片","name":"👺Lem专属 荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
 
+{"key":"drjs_新片场","name":"👺Lem专属 新片场(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新片场.js"},
+{"key":"drjs_看看剧[V2]","name":"👺Lem专属 看看剧[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/看看剧[V2].js"},
 {"key":"drjs_南柯电影网","name":"👺Lem专属 南柯电影网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/南柯电影网.js"},
 {"key":"drjs_HG影院[V2]","name":"👺Lem专属 HG影院[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/HG影院[V2].js"},
 {"key":"drjs_异世界动漫","name":"👺Lem专属 异世界动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/异世界动漫.js"},
@@ -318,7 +320,6 @@
 {"key":"drjs_ddys","name":"👺Lem专属 低端影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ddys.js"},
 {"key":"drjs_武享吧","name":"👺Lem专属 武享吧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/武享吧.js"},
 {"key":"drjs_中国人","name":"👺Lem专属 中国人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/中国人.js"},
-{"key":"drjs_看看剧[V2]","name":"👺Lem专属 看看剧[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/看看剧[V2].js"},
 {"key":"drjs_Icio影视","name":"👺Lem专属 Icio影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/Icio影视.js"},
 {"key":"drjs_F7好看剧[V2]","name":"👺Lem专属 F7好看剧[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/F7好看剧[V2].js"},
 {"key":"drjs_4K电影网","name":"👺Lem专属 4K电影网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/4K电影网.js"},
@@ -364,7 +365,6 @@
 {"key":"drjs_宫下动漫","name":"👺Lem专属 宫下动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/宫下动漫.js"},
 {"key":"drjs_嘶哩嘶哩","name":"👺Lem专属 嘶哩嘶哩(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/嘶哩嘶哩.js"},
 {"key":"drjs_兰花影院","name":"👺Lem专属 兰花影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/兰花影院.js"},
-{"key":"drjs_新片场","name":"👺Lem专属 新片场(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新片场.js"},
 {"key":"drjs_好趣网","name":"👺Lem专属 好趣网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/好趣网.js"},
 {"key":"drjs_奇米动漫","name":"👺Lem专属 奇米动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/奇米动漫.js"},
 {"key":"drjs_天空影视","name":"👺Lem专属 天空影视(DRPY)","type":1,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/天空影视.js"},
