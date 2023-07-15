@@ -1,7 +1,7 @@
 雷蒙影視概念宣傳片,#genre#
-雷蒙影視 PV1,https://pic.clem7.repl.co/VIDS/CRIMETVPV1.mkv
-雷蒙影視 PV2,https://pic.clem7.repl.co/VIDS/CRIMETVPV2.mkv
-雷蒙影視 PV3,https://pic.clem7.repl.co/VIDS/CRIMETVPV3.mkv
+雷蒙影視 PV1,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETV PV1.mkv
+雷蒙影視 PV2,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETV PV2.mkv
+雷蒙影視 PV3,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETV PV3.mkv
 
 新聞,#genre#
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
