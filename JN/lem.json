@@ -64,6 +64,7 @@
 {"key":"drjs_豆瓣推荐","name":"📡Lem专属 豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 {"key":"lfjs_豆瓣推荐","name":"📡Lem专属 豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_douban1_1_min.js"},
 {"key":"csp_YGP","name":"🎞Lem专属 预告片(SP)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"drjs_荐片","name":"🏆雷蒙影视PRO版独享 荐片(P2P)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
 {"key":"drjs_爱看机器人","name":"👹Lem专属 爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"lfjs_爱看机器人","name":"👹Lem专属 爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot2_4_min.js"},
 {"key":"xml_暴风资源","name":"🚀Lem专属 暴风资源","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","playUrl":"","categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
@@ -305,7 +306,6 @@
 {"key":"drjs_AList","name":"👺Lem专属 AList(DRPY)","type":3,"api":"./EXT/LIB/alist.min.js","searchable":0,"ext":"./N3RD/T/li.json"},
 {"key":"drjs_MV库","name":"👺Lem专属 MV库(DRPY)","type":3,"api":"./EXT/JS/lf_live_min.js","ext":"./EXT/JS/lf_live_min3.txt"},
 {"key":"drjs_酷云77","name":"👺Lem专属 酷云77(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/酷云77.js"},
-{"key":"drjs_荐片","name":"👺Lem专属 荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
 
 {"key":"drjs_酷影[V2]","name":"👺Lem专属 酷影[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷影[V2].js"},
 {"key":"drjs_cokemv","name":"👺Lem专属 Cokemv(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/cokemv.js"},
@@ -318,8 +318,6 @@
 {"key":"drjs_皮皮鸭","name":"👺Lem专属 皮皮鸭(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/皮皮鸭.js"},
 {"key":"drjs_往往影视","name":"👺Lem专属 往往影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/往往影视.js"},
 {"key":"drjs_子子影视","name":"👺Lem专属 子子影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/子子影视.js"},
-
-
 {"key":"drjs_人人影视","name":"👺Lem专属 人人影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/人人影视.js"},
 {"key":"drjs_Auete","name":"👺Lem专属 Auete(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/Auete.js"},
 {"key":"drjs_新片场","name":"👺Lem专属 新片场(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新片场.js"},
