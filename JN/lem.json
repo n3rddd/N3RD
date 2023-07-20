@@ -50,7 +50,7 @@
 
 //Lem缝合包
 
-{"key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"雷蒙影视独家资源，私享即可，请勿传播！豆瓣图片已修复，请从网址lemmy.tk下载新版雷蒙影视APP。"},
+{"key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"雷蒙影视独家资源，私享即可，请勿传播！已支持荐片，请从网址lemmy.tk下载新版雷蒙影视APP。"},
 {"key":"公告1","name":"📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./EXT/XB/ANNOUNCEMENT.json"},
 //{"key":"公告2","name":"📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Dora","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"85b2986381a134ba3ebbaf25ae8138e7#./EXT/XB/ANNOUNCEMENT.json"},
 {"key":"Live","name":"雷蒙影视PRO版独享 | 电视直播(开启APP自动进入)","type":3,"api":"csp_Live","searchable":0,"filterable":0,"changeable":0,"ext":"2000"},
@@ -64,7 +64,7 @@
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_douban1_1_min.js"},
 {"key":"csp_YGP","name":"雷蒙影视 | 🎞预告片(SP)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"drjs_荐片","name":"雷蒙影视PRO版独享 | 🏆荐片(P2P)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
+{"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(P2P)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
 {"key":"drjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"lfjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot2_4_min.js"},
 {"key":"xml_暴风资源","name":"雷蒙影视 | 🚀暴风资源","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","playUrl":"","categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
