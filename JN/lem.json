@@ -79,7 +79,6 @@
 {"key":"csp_Czsapp","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_MmYs","name":"雷蒙影视 | 🍄蘑菇影视(SP)","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
-{"key":"csp_Ysyc","name":"雷蒙影视 | 👨布蕾蓝光(SP)","type":3,"api":"csp_Ysyc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"雷蒙影视 | 🍙饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
 {"key":"csp_Cokemv","name":"雷蒙影视 | 🥤Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -270,6 +269,7 @@
 //{"key":"T4_豆瓣聚合","name":"雷蒙影视 | 📡豆瓣聚合","type":4,"api":"http://42.192.248.11:5395/vod?sites=all&ali_token=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_LiteApple","name":"雷蒙影视 | 🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"xml_暴风资源","name":"雷蒙影视 | 🚀暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","犯罪片","香港剧","韩国剧","台湾剧","日本剧","海外剧","其他片","悬疑片","奇幻片","动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+//{"key":"csp_Ysyc","name":"雷蒙影视 | 👨布蕾蓝光(SP)","type":3,"api":"csp_Ysyc","searchable":1,"quickSearch":1,"filterable":1},
 
 
 //搜索
@@ -1865,12 +1865,13 @@
 {"name":"🐱手动点击诺讯","type":0,"url":"https://yun.nxflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
   
 //HongFeiQ
-{"name":"小米","type":1,"url":"http://xhww.fun:63/小米特别爱肥猫.php?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua"],"header":{"User-Agent":"okhttp/3.12.0"}}},
-{"name":"小米-FY","type":0,"url":"https://fy.wuye3d.com/fy27.php?url=","ext":{"flag":["FY"],"header":{"User-Agent":"Lavf/58.12.100","Referer":"http://www.tvyb03.com/"}}},
-{"name":"云视-1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","sohu","le"],"header":{"User-Agent":"Dart/2.17 (dart:io)"}}},
-{"name":"云视-FY1","type":1,"url":"https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url=","ext":{"flag":["FY"],"header":{"User-Agent":"Lavf/58.12.100","Referer":"https://www.123pan.com/"}}},
-{"name":"云视-FY2","type":1,"url":"https://daina.hk/api/?key=055c277c77defa75e0bbae415c1e4f04&url=","ext":{"flag":["FY"],"header":{"User-Agent":"Lavf/58.12.100","Referer":"https://www.123pan.com/"}}},
-{"name":"云视-FY3","type":1,"url":"https://json.8i7.cn/api/?key=R9Ah232tBzRxK9oC9m&url=","ext":{"flag":["FY"],"header":{"User-Agent":"Lavf/58.12.100","Referer":"https://www.123pan.com/"}}},
+{"name":"💧爱优腾-小米","type":1,"url":"http://xhww.fun:63/小米特别爱肥猫.php?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+{"name":"💧爱优腾-米来","type":1,"url":"http://htp.behds.cn/json/202372345678911app/gf.php?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
+{"name":"💧爱优腾-云视","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","sohu","le"],"header":{"User-Agent":"Dart/2.17 (dart:io)"}}},
+{"name":"🧣FY-米来","type":1,"url":"https://htp.behds.cn/json/520237app7/mlzjphp111.php?url=","ext":{"flag":["FY"],"header":{"User-Agent":"LuaSocket 3.0-rc1","Referer":"https://www.123pan.com/"}}},
+{"name":"🧣FY-云视","type":1,"url":"https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url=","ext":{"flag":["FY"],"header":{"User-Agent":"Lavf/58.12.100","Referer":"https://www.123pan.com/"}}},
+{"name":"🧣FY-POST","type":1,"url":"https://player.gfysys.cc/API.php;url","ext":{"flag":["FY"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🧣FY-嗅探","type":0,"url":"https://fy.wuye3d.com/fy27.php?url=","ext":{"flag":["FY"],"header":{"User-Agent":"Lavf/58.12.100","Referer":"http://www.tvyb03.com/"}}},
 
 //XIAOMI
 {"name":"✌️夜曲","type":1,"url":"http://xhww.fun:63/小米特别爱肥猫.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
