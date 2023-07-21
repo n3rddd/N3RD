@@ -143,6 +143,7 @@
 {"key":"xml_1080资源库","name":"雷蒙影视 | 🚀1080资源库","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
 {"key":"xml_爱酷","name":"雷蒙影视 | 🚀爱酷","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影","连续剧","综艺","动漫"]},
 {"key":"xml_肥猫","name":"雷蒙影视 | 🚀肥猫","type":1,"api":"http://i.xn--z7x900a.love:63/api.php/provide/vod?ac=list","playUrl":"json:http://1.117.111.78:93/home/api?type=ys&uid=92756&key=yunhsuche&url=","categories":["电影","电视剧","综艺","动漫"]},
+{"key":"xml_阿里","name":"雷蒙影视 | 🚀阿里","type":1,"api":"https://cms.alyzy.xyz/api.php/provide/vod/","searchable":1,"playUrl":"https://player.emofun.cn/player/ec.php?code=xy&if=1&url=","quickSearch":1},
 
 {"key":"csp_AppYsV2_影探","name":"雷蒙影视 | 🖤影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lfytyl.com/api.php/app/"},
 {"key":"csp_AppYsV2_云视","name":"雷蒙影视 | 🖤云视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.goyiquan.com/api.php/app/","playerType":1},
