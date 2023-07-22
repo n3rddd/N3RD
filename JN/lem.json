@@ -173,7 +173,6 @@
 {"key":"csp_AppYsV2_明帝影视","name":"雷蒙影视 | 🖤明帝影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
 {"key":"csp_AppYsV2_F7好剧看","name":"雷蒙影视 | 🖤F7好剧看(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.f7hkj.cc/api.php/app/"}, 
 {"key":"csp_AppYsV2_鸭奈飞","name":"雷蒙影视 | 🖤鸭奈飞(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
-{"key":"csp_AppYsV2_MULTIJAR_影探","name":"雷蒙影视 | 🖤影探(MULTI)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lyyytv.cn/yt/yt.json###jx###sites###ext###lfytyl.com","jar":"./N3RD/J/hfq0706.jar"},
 
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./N3RD/T/a.json"},
 
@@ -271,6 +270,7 @@
 //{"key":"csp_LiteApple","name":"雷蒙影视 | 🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"xml_暴风资源","name":"雷蒙影视 | 🚀暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","犯罪片","香港剧","韩国剧","台湾剧","日本剧","海外剧","其他片","悬疑片","奇幻片","动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 //{"key":"csp_Ysyc","name":"雷蒙影视 | 👨布蕾蓝光(SP)","type":3,"api":"csp_Ysyc","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_AppYsV2_MULTIJAR_影探","name":"雷蒙影视 | 🖤影探(MULTI)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lyyytv.cn/yt/yt.json###jx###sites###ext###lfytyl.com","jar":"./N3RD/J/hfq0706.jar"},
 
 
 //搜索
