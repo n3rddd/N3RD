@@ -176,7 +176,7 @@
 {"key":"csp_AppYsV2_明帝影视","name":"雷蒙影视 | 🖤明帝影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
 {"key":"csp_AppYsV2_F7好剧看","name":"雷蒙影视 | 🖤F7好剧看(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.f7hkj.cc/api.php/app/"}, 
 {"key":"csp_AppYsV2_鸭奈飞","name":"雷蒙影视 | 🖤鸭奈飞(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
-{"key":"csp_AppYsV2_云视","name":"雷蒙影视 | 🖤云视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xz.yy365.vip/api.php/app/"},
+{"key":"csp_AppYsV2_云视2","name":"雷蒙影视 | 🖤云视2(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xz.yy365.vip/api.php/app/"},
 {"key":"csp_AppYsV2_速看100","name":"雷蒙影视 | 🖤速看100(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/"},
 
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./N3RD/T/a.json"},
