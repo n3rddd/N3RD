@@ -287,7 +287,7 @@
 {"key":"csp_YiSo","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_Wogg2","name":"雷蒙影视 | 😺玩偶哥哥(阿里APP扫码)","type":3,"api":"csp_Wogg2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt$$$http://tvfan.xxooo.cf/"},
 {"key":"csp_Sean_TS","name":"雷蒙影视 | 😺Sean(阿里APP扫码)","type":"3","api":"csp_Sean","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"./N3RD/T/t.txt"},
-{"key":"csp_Gitcafe","name":"雷蒙影视 | 😺小纸条(阿里APP扫码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./N3RD/T/t.txt","jar":"./N3RD/J/hfq.jar"},
+{"key":"csp_Gitcafe_MULTIJAR","name":"雷蒙影视 | 😺小纸条(阿里APP扫码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./N3RD/T/t.txt","jar":"./N3RD/J/hfq.jar"},
 {"key":"push_agent","name":"雷蒙影视 | 😺推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/t.txt"},
 
 //{"key":"csp_Paper","name":"雷蒙影视 | 😺小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
