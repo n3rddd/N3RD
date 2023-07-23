@@ -310,7 +310,10 @@
 {"key":"drjs_AList","name":"雷蒙影视 | 👺AList(DRPY)","type":3,"api":"./EXT/LIB/alist.min.js","searchable":0,"ext":"./N3RD/T/li.json"},
 {"key":"drjs_MV库","name":"雷蒙影视 | 👺MV库(DRPY)","type":3,"api":"./EXT/JS/lf_live_min.js","ext":"./EXT/JS/lf_live_min3.txt"},
 {"key":"drjs_酷云77","name":"雷蒙影视 | 👺酷云77(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/酷云77.js"},
+{"key":"drjs_厂长资源","name":"雷蒙影视 | 👺厂长资源(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/厂长资源.js"},
+{"key":"drjs_ddys","name":"雷蒙影视 | 👺低端影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ddys.js"},
 
+{"key":"drjs_Anime1动畫","name":"雷蒙影视 | 👺Anime1动畫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/Anime1动畫.js"},
 {"key":"drjs_六度TV","name":"雷蒙影视 | 👺六度TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/六度TV.js"},
 {"key":"drjs_干饭影视","name":"雷蒙影视 | 👺干饭影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/干饭影视.js"},
 {"key":"drjs_农民影视","name":"雷蒙影视 | 👺农民影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/农民影视.js"},
@@ -333,8 +336,6 @@
 {"key":"drjs_异世界动漫","name":"雷蒙影视 | 👺异世界动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/异世界动漫.js"},
 {"key":"drjs_饭团影视","name":"雷蒙影视 | 👺饭团影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/饭团影视.js"},
 {"key":"drjs_玄天","name":"雷蒙影视 | 👺玄天(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/玄天.js"},
-{"key":"drjs_厂长资源","name":"雷蒙影视 | 👺厂长资源(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/厂长资源.js"},
-{"key":"drjs_ddys","name":"雷蒙影视 | 👺低端影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ddys.js"},
 {"key":"drjs_武享吧","name":"雷蒙影视 | 👺武享吧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/武享吧.js"},
 {"key":"drjs_中国人","name":"雷蒙影视 | 👺中国人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/中国人.js"},
 {"key":"drjs_Icio影视","name":"雷蒙影视 | 👺Icio影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/Icio影视.js"},
@@ -549,7 +550,6 @@
 {"key":"drjs_555影视","name":"雷蒙影视 | 👺555影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/555影视.js"},
 {"key":"drjs_360影视","name":"雷蒙影视 | 👺360影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/360影视.js"},
 {"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/腾云驾雾.js"},
-{"key":"drjs_番茄影视","name":"雷蒙影视 | 👺番茄影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/番茄影视.js"},
 {"key":"drjs_奇珍异兽","name":"雷蒙影视 | 👺奇珍异兽(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/奇珍异兽.js"},
 {"key":"drjs_奇优影院","name":"雷蒙影视 | 👺奇优影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/奇优影院.js"},
 {"key":"drjs_影视工厂","name":"雷蒙影视 | 👺影视工厂(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/影视工厂.js"},
@@ -698,7 +698,7 @@
 //{"key":"drjs_冷曦影视","name":"雷蒙影视 | 👺冷曦影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/冷曦影视.js"},
 //{"key":"drjs_利丽娅电影","name":"雷蒙影视 | 👺利丽娅电影(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/利丽娅电影.js"},
 //{"key":"drjs_小猫咪","name":"雷蒙影视 | 👺小猫咪(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/小猫咪.js"},
-  
+//{"key":"drjs_番茄影视","name":"雷蒙影视 | 👺番茄影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/番茄影视.js"},  
 
 //XBPQ规则
 
