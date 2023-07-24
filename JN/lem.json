@@ -148,7 +148,7 @@
 {"key":"xml_阿里","name":"雷蒙影视 | 🚀阿里","type":1,"api":"https://cms.alyzy.xyz/api.php/provide/vod/","searchable":1,"playUrl":"https://player.emofun.cn/player/ec.php?code=xy&if=1&url=","quickSearch":1},
 
 {"key":"csp_AppYsV2_影探","name":"雷蒙影视 | 🖤影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lfytyl.com/api.php/app/"},
-{"key":"csp_AppYsV2_MULTIJAR_影探","name":"雷蒙影视 | 🖤影探(MULTI)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lfytyl.com/api.php/app/","jar":"./N3RD/J/hfq.jar"},
+{"key":"csp_AppYsV2_MULTIJAR_影探","name":"雷蒙影视 | 🖤影探(MULTI)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lyyytv.cn/yt/yt.json###jx###sites###ext###lfytyl.com","jar":"./N3RD/J/hfq.jar"},
 
 {"key":"csp_AppYsV2_云视","name":"雷蒙影视 | 🖤云视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.goyiquan.com/api.php/app/","playerType":1},
 {"key":"csp_AppYsV2_伊人","name":"雷蒙影视 | 🖤伊人(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1cms.redpors.cn/api.php/app/"},
