@@ -307,11 +307,12 @@
 
 //CatVodOpen规则
 
-{"key":"open_厂长","name":"雷蒙影视 | 🍭厂长(OPENJS)","type":3,"api":"./EXT/OPENJS/czzy_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"open_爱看","name":"雷蒙影视 | 🍭爱看(OPENJS)","type":3,"api":"./EXT/OPENJS/ikanbot_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"open_快看","name":"雷蒙影视 | 🍭快看(OPENJS)","type":3,"api":"./EXT/OPENJS/kkys_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"open_独播库","name":"雷蒙影视 | 🍭独播库(OPENJS)","type":3,"api":"./EXT/OPENJS/duboku_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"open_泥土","name":"雷蒙影视 | 🍭泥土(OPENJS)","type":3,"api":"./EXT/OPENJS/nivod_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"888解忧愁"},
+{"key":"open_酷云77","name":"雷蒙影视PRO独享 | 🍭酷云77(OPENJS)","type":3,"api":"./EXT/OPENJS/kunyu77_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_厂长资源","name":"雷蒙影视PRO独享 | 🍭厂长资源(OPENJS)","type":3,"api":"./EXT/OPENJS/czzy_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_爱看机器人","name":"雷蒙影视PRO独享 | 🍭爱看机器人(OPENJS)","type":3,"api":"./EXT/OPENJS/ikanbot_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_快看影视","name":"雷蒙影视PRO独享 | 🍭快看影视(OPENJS)","type":3,"api":"./EXT/OPENJS/kkys_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_泥视频","name":"雷蒙影视PRO独享 | 🍭泥视频(OPENJS)","type":3,"api":"./EXT/OPENJS/nivod_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"888解忧愁"},
+{"key":"open_独播库","name":"雷蒙影视PRO独享 | 🍭独播库(OPENJS)","type":3,"api":"./EXT/OPENJS/duboku_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 //道长DRPY-JS规则
 
@@ -358,6 +359,7 @@
 {"key":"drjs_F7好看剧[V2]","name":"雷蒙影视 | 👺F7好看剧[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/F7好看剧[V2].js"},
 {"key":"drjs_4K电影网","name":"雷蒙影视 | 👺4K电影网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/4K电影网.js"},
 {"key":"drjs_飞云[V2]","name":"雷蒙影视 | 👺飞云[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/飞云[V2].js"},
+
 {"key":"drjs_肥猫[V2]","name":"雷蒙影视 | 👺肥猫[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/肥猫[V2].js"},
 {"key":"drjs_gaze","name":"雷蒙影视 | 👺Gaze(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/gaze.js"},
 {"key":"drjs_voflix","name":"雷蒙影视 | 👺Voflix(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/voflix.js"},
