@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0723.jar;md5;9645A6BEB433048968DDAE489B81B05D",
+"spider":"./N3RD/J/lem0724.jar;md5;B443168944C2F70B1189F1B0560A0FAE",
 
+//"spider":"./N3RD/J/lem0723.jar;md5;9645A6BEB433048968DDAE489B81B05D",
 //"spider":"./N3RD/J/lem0713.jar;md5;F62F481831273FE9713218FE6F435904",
 //"spider":"./N3RD/J/lem0712.jar;md5;6F8E6C529BCB74C73D3FD2760456D1A0",
 //"spider":"./N3RD/J/lem0710.jar;md5;C8CDF9F4974F0A9D5EA737D113BE25D2",
@@ -303,6 +304,14 @@
 //{"key":"Zhaozy","name":"雷蒙影视 | 😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://ali.xn--sss604efuw.ml/token$$$xxooo$$$qq112233"},
 //{"key":"csp_TuGou","name":"雷蒙影视 | 😺土狗(阿里APP扫码)","type":3,"api":"csp_TuGou","searchable":1,"changeable":0},
 
+
+//CatVodOpen规则
+
+{"key":"open_厂长","name":"雷蒙影视 | 🍭厂长(OPENJS)","type":3,"api":"./EXT/OPENJS/czzy_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_爱看","name":"雷蒙影视 | 🍭爱看(OPENJS)","type":3,"api":"./EXT/OPENJS/ikanbot_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_快看","name":"雷蒙影视 | 🍭快看(OPENJS)","type":3,"api":"./EXT/OPENJS/kkys_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_独播库","name":"雷蒙影视 | 🍭独播库(OPENJS)","type":3,"api":"./EXT/OPENJS/duboku_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_泥土","name":"雷蒙影视 | 🍭泥土(OPENJS)","type":3,"api":"./EXT/OPENJS/nivod_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"888解忧愁"},
 
 //道长DRPY-JS规则
 
