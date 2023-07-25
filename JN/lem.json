@@ -323,7 +323,7 @@
 {"key":"drjs_MV库","name":"雷蒙影视 | 👺MV库(DRPY)","type":3,"api":"./EXT/JS/lf_live_min.js","ext":"./EXT/JS/lf_live_min3.txt"},
 {"key":"drjs_酷云77","name":"雷蒙影视 | 👺酷云77(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/酷云77.js"},
 {"key":"drjs_厂长资源","name":"雷蒙影视 | 👺厂长资源(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/厂长资源.js"},
-{"key":"drjs_ddys","name":"雷蒙影视 | 👺低端影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ddys.js"},
+{"key":"drjs_ddys","name":"雷蒙影视 | 👺低端影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ddys.js","playerType":2},
 {"key":"drjs_在线之家","name":"雷蒙影视 | 👺在线之家(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/在线之家.js"},
 {"key":"drjs_LIBVIO","name":"雷蒙影视 | 👺LIBVIO(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/LIBVIO.js"},
 {"key":"drjs_LIBVIO2","name":"雷蒙影视 | 👺LIBVIO2(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/LIBVIO2.js"},
