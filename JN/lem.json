@@ -312,8 +312,7 @@
 {"key":"open_爱看机器人","name":"雷蒙影视PRO独享 | 🍭爱看机器人(OPENJS)","type":3,"api":"./EXT/OPENJS/open/ikanbot_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_快看影视","name":"雷蒙影视PRO独享 | 🍭快看影视(OPENJS)","type":3,"api":"./EXT/OPENJS/open/kkys_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_泥视频","name":"雷蒙影视PRO独享 | 🍭泥视频(OPENJS)","type":3,"api":"./EXT/OPENJS/open/nivod_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"888解忧愁"},
-{"key":"open_独播库1","name":"雷蒙影视PRO独享 | 🍭独播库1(OPENJS)","type":3,"api":"./EXT/OPENJS/open/duboku1_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"open_独播库2","name":"雷蒙影视PRO独享 | 🍭独播库2(OPENJS)","type":3,"api":"./EXT/OPENJS/open/duboku1_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_独播库","name":"雷蒙影视PRO独享 | 🍭独播库(OPENJS)","type":3,"api":"./EXT/OPENJS/open/duboku_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_玩偶哥哥","name":"雷蒙影视PRO独享 | 🍭玩偶哥哥(OPENJS)","type":3,"api":"./EXT/OPENJS/open/wogg_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"/N3RD/T/t.txt"},
 
 
