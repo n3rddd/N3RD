@@ -101,12 +101,12 @@
 {"key":"csp_Fantuan","name":"雷蒙影视 | 🍙饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_蓝光影院","name":"雷蒙影视 | 💦蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"csp_Dy1010","name":"雷蒙影视 | 🔟双十电影(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysgc","name":"雷蒙影视 | 🏭影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 {"key":"csp_Jianying","name":"雷蒙影视 | ✂简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_YT","name":"雷蒙影视 | 🏵影探(SP)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MmYs","name":"雷蒙影视 | 🍄蘑菇影视(SP)","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_Ys555","name":"雷蒙影视 | 5️⃣️555电影(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+{"key":"csp_Ysgc","name":"雷蒙影视 | 🏭影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 {"key":"csp_SP33","name":"雷蒙影视 | 📺360(SP)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_SP360","name":"雷蒙影视 | 📺360(备用)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Itv","name":"雷蒙影视 | 🥝爱奇艺(SP)","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},
@@ -195,11 +195,9 @@
 {"key":"csp_Dovx","name":"雷蒙影视 | 😺七夜(阿里APP扫码)","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 😺PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_YiSo","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/t.txt"},
-{"key":"csp_YiSou_ZAL","name":"雷蒙影视 | 😺易搜2(阿里APP扫码)","type":3,"api":"csp_YiSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_Wogg2","name":"雷蒙影视 | 😺玩偶哥哥(阿里APP扫码)","type":3,"api":"csp_Wogg2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt$$$http://tvfan.xxooo.cf/"},
 {"key":"csp_Hdhive_ZAL","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_Paper_ZAL","name":"雷蒙影视 | 😺小纸条(阿里APP扫码)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
-{"key":"csp_Gitcafe_XYQ","name":"雷蒙影视 | 😺小纸条2(阿里APP扫码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
 {"key":"push_agent","name":"雷蒙影视 | 😺推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/t.txt"},
 
 
@@ -320,8 +318,8 @@
 //{"key":"csp_TuGou","name":"雷蒙影视 | 😺土狗(阿里APP扫码)","type":3,"api":"csp_TuGou","searchable":1,"changeable":0},
 //{"key":"csp_Sean_TS","name":"雷蒙影视 | 😺Sean(阿里APP扫码)","type":"3","api":"csp_Sean","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"./N3RD/T/t.txt"},
 //{"key":"csp_Gitcafe_MULTIJAR","name":"雷蒙影视 | 😺小纸条2(阿里APP扫码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./N3RD/T/t.txt","jar":"./N3RD/J/hfq.jar"},
-  
-  
+//{"key":"csp_YiSou_ZAL","name":"雷蒙影视 | 😺易搜2(阿里APP扫码)","type":3,"api":"csp_YiSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/t.txt"},  
+//{"key":"csp_Gitcafe_XYQ","name":"雷蒙影视 | 😺小纸条2(阿里APP扫码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},  
   
 //MAGNET
   
