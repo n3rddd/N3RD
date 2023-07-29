@@ -70,6 +70,7 @@ async function init(cfg) {
         device.ua = 'Dalvik/2.1.0 (Linux; U; Android ' + device.release + '; ' + device.model + ' Build/' + device.buildId + ')';
         await local.set(key, deviceKey, JSON.stringify(device));
     }
+    
     await request(url + '/api.php/provide/getDomain');
     await request(url + '/api.php/provide/config');
     await request(url + '/api.php/provide/checkUpgrade');
@@ -255,10 +256,12 @@ async function play(flag, id, flags) {
     }
 }
 
-async function search(wd, quick) {
-    let data = JSON.parse(await request(url + '/api.php/provide/searchVideo?searchName=' + wd + '&pg=1', 'okhttp/3.12.0')).data;
+async function search(wd, quick, pg) {
+    let page = pg || 1;
+    if (page == 0) page = 1;
+    let data = JSON.parse(await request(url + '/api.php/provide/searchVideo?searchName=' + wd + '&pg=' + page, 'okhttp/3.12.0'));
     let videos = [];
-    for (const vod of data) {
+    for (const vod of data.data) {
         videos.push({
             vod_id: vod.id,
             vod_name: vod.videoName,
@@ -267,6 +270,8 @@ async function search(wd, quick) {
         });
     }
     return JSON.stringify({
+        page: page,
+        pagecount: data.pages,
         list: videos,
     });
 }
