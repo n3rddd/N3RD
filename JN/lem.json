@@ -368,6 +368,8 @@
 
 {"key":"drjs_新片场","name":"雷蒙影视 | 👺新片场(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新片场.js"},
 {"key":"drjs_影探[V2]","name":"雷蒙影视 | 👺影探[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/影探[V2].js"},
+{"key":"drjs_鸭奈飞[V2]","name":"雷蒙影视 | 👺鸭奈飞[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/鸭奈飞[V2].js"},
+{"key":"drjs_鸭奈飞","name":"雷蒙影视 | 👺鸭奈飞(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/鸭奈飞.js"},
 {"key":"drjs_萌蛋蛋[V2]","name":"雷蒙影视 | 👺萌蛋蛋[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/萌蛋蛋[V2].js"},
 {"key":"drjs_UM电影[V2]","name":"雷蒙影视 | 👺UM电影[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/UM电影[V2].js"},
 {"key":"drjs_KUBO影视[飞]","name":"雷蒙影视 | 👺KUBO影视[飞](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/KUBO影视[飞].js"},
@@ -745,8 +747,6 @@
 //{"key":"drjs_番茄影视","name":"雷蒙影视 | 👺番茄影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/番茄影视.js"},  
 //{"key":"drjs_酷影[V2]","name":"雷蒙影视 | 👺酷影[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷影[V2].js"},
 //{"key":"drjs_宫下动漫","name":"雷蒙影视 | 👺宫下动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/宫下动漫.js"},
-//{"key":"drjs_鸭奈飞[V2]","name":"雷蒙影视 | 👺鸭奈飞[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/鸭奈飞[V2].js"},
-//{"key":"drjs_鸭奈飞","name":"雷蒙影视 | 👺鸭奈飞(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/鸭奈飞.js"},
 
   
 //XBPQ规则
