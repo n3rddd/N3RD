@@ -59,7 +59,6 @@
 
 {"key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"雷蒙影视独家资源，私享即可，请勿传播！已支持荐片，请从网址lemmy.tk下载新版雷蒙影视APP。"},
 {"key":"公告1","name":"📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./EXT/XB/ANNOUNCEMENT.json"},
-//{"key":"公告2","name":"📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Dora","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"85b2986381a134ba3ebbaf25ae8138e7#./EXT/XB/ANNOUNCEMENT.json"},
 {"key":"Live","name":"雷蒙影视PRO版独享 | 电视直播(开启APP自动进入)","type":3,"api":"csp_Live","searchable":0,"filterable":0,"changeable":0,"ext":"2000"},
 //{"key":"csp_Live2Vod","name":"雷蒙影视 | 🖥电视直播(SP)","type":3,"playerType":1,"api":"csp_Live2Vod","changeable":0,"ext":"雷蒙$./N3RD/JN/tv.txt#百事通$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u#重庆有线$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u#4K8K$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u#爱尚$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u#YSLive$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#FMLive$http://home.jundie.top:81/Cat/tv/live.txt#歌华有线$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u#iTouch$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u"},
 {"key":"csp_Live2Vod","name":"雷蒙影视 | 🖥电视直播(SP)","type":3,"playerType":1,"api":"csp_Live2Vod","changeable":0,"ext":"./EXT/JS/直播.js"},
@@ -73,7 +72,7 @@
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search2_min.js"},
 {"key":"lfjs_磁力搜索","name":"雷蒙影视 | 🧲磁力搜索(LFJS)","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./EXT/JS/lf_p2p_min.js","ext":""},
 {"key":"csp_YGP","name":"雷蒙影视 | 🎞预告片(SP)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(P2P)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
+{"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
 {"key":"csp_JianPian_XYQ","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_爱看机器人1","name":"雷蒙影视 | 👹爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👹爱看机器人2(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot3.js"},
@@ -109,17 +108,15 @@
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_Ys555","name":"雷蒙影视 | 5️⃣️555电影(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"csp_Ysgc","name":"雷蒙影视 | 🏭影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
-{"key":"csp_SP33","name":"雷蒙影视 | 📺360(SP)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_SP360","name":"雷蒙影视 | 📺360(备用)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP33","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_SP360","name":"雷蒙影视 | 3️⃣360(备用)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Itv","name":"雷蒙影视 | 🥝爱奇艺(SP)","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mtv","name":"雷蒙影视 | 🥭芒果TV(SP)","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Qtv","name":"雷蒙影视 | 🐧腾讯视频(SP)","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YOUKU_ZAL","name":"雷蒙影视 | 🔻优酷(SP)","type":3,"api":"csp_YOUKU","searchable":1,"filterable":1,"changeable":0},
 {"key":"csp_Yj1211","name":"雷蒙影视 | 🎙JustLive直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"csp_Bilituys","name":"雷蒙影视 | 🐇哔哩兔(SP)","type":3,"api":"csp_Bilituys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xiaoh","name":"雷蒙影视 | 👶小宝影院(需翻墙)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-{"key":"csp_If101","name":"雷蒙影视 | 1️⃣If101(需翻墙)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Tangrenjie","name":"雷蒙影视 | 🍬唐人街(需翻墙)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Tangrenjie","name":"雷蒙影视 | 🍜唐人街(需翻墙)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_NiNi","name":"雷蒙影视 | 🏝泥巴影院(需翻墙)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"雷蒙影视 | 🤖Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_Acg","name":"雷蒙影视 | 🤖Acg动漫(SP)","type":3,"api":"csp_Acg","searchable":1,"quickSearch":1,"filterable":1},
@@ -320,6 +317,10 @@
 //{"key":"csp_Gitcafe_MULTIJAR","name":"雷蒙影视 | 😺小纸条2(阿里APP扫码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./N3RD/T/t.txt","jar":"./N3RD/J/hfq.jar"},
 //{"key":"csp_YiSou_ZAL","name":"雷蒙影视 | 😺易搜2(阿里APP扫码)","type":3,"api":"csp_YiSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/t.txt"},  
 //{"key":"csp_Gitcafe_XYQ","name":"雷蒙影视 | 😺小纸条2(阿里APP扫码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},  
+//{"key":"csp_Xiaoh_TS","name":"雷蒙影视 | 👶小宝影院(需翻墙)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
+//{"key":"csp_If101","name":"雷蒙影视 | 1️⃣If101(需翻墙)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"公告2","name":"📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Dora","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"85b2986381a134ba3ebbaf25ae8138e7#./EXT/XB/ANNOUNCEMENT.json"},
+
   
 //MAGNET
 
