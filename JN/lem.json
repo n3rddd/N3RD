@@ -70,7 +70,6 @@
 {"key":"csp_DoubanForTVBox","name":"雷蒙影视 | 📡豆瓣片单(SP)","type":3,"api":"csp_DoubanForTVBox","searchable":0},
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search2_min.js"},
-{"key":"lfjs_磁力搜索","name":"雷蒙影视 | 🧲磁力搜索(LFJS)","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./EXT/JS/lf_p2p_min.js","ext":""},
 {"key":"csp_YGP","name":"雷蒙影视 | 🎞预告片(SP)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
 {"key":"csp_JianPian_XYQ","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -186,6 +185,8 @@
 
 //搜索
 
+{"key":"csp_Hdhive_ZAL","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
+{"key":"csp_Paper_ZAL","name":"雷蒙影视 | 😺小纸条(阿里APP扫码)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_PanSou","name":"雷蒙影视 | 🐱盘搜(阿里APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_Zhaozy","name":"雷蒙影视 | 😺找资源(阿里APP扫码)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/t.txt$$$crimetv$$$88888888"},
 {"key":"csp_UpYun","name":"雷蒙影视 | 😺云搜(阿里APP扫码)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/t.txt"},
@@ -193,8 +194,6 @@
 {"key":"csp_PanSearch","name":"雷蒙影视 | 😺PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_YiSo","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_Wogg2","name":"雷蒙影视 | 😺玩偶哥哥(阿里APP扫码)","type":3,"api":"csp_Wogg2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt$$$http://tvfan.xxooo.cf/"},
-{"key":"csp_Hdhive_ZAL","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
-{"key":"csp_Paper_ZAL","name":"雷蒙影视 | 😺小纸条(阿里APP扫码)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
 {"key":"push_agent","name":"雷蒙影视 | 😺推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/t.txt"},
 
 
@@ -324,6 +323,7 @@
   
 //MAGNET
 
+{"key":"lfjs_磁力搜索","name":"雷蒙影视 | 🧲磁力搜索(LFJS)","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./EXT/JS/lf_p2p_min.js","ext":""},
 {"key":"csp_BTPiaoHua","name":"雷蒙影视 | 🧲新飘花电影网(SP)","type":3,"api":"csp_BTPiaoHua","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6vdy.org/"},
 {"key": "csp_Mp4Mov_XYQ","name":"雷蒙影视 | 🧲Mp4电影(SP)","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
