@@ -151,12 +151,12 @@
 
 //APP
 {"key":"csp_AppYsV2_MULTIJAR_影探","name":"雷蒙影视 | 🖤影探(MULTI)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"yt###65f6621af391c903###12345678","jar":"./N3RD/J/hfq.jar"},
+{"key":"csp_AppYsV2_酷影","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_蘑菇2","name":"️雷蒙影视 | 🖤蘑菇2(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.moguys.xyz/api.php/app/"},
 {"key":"csp_AppYsV2_年年","name":"雷蒙影视 | 🖤年年(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/"},
 {"key":"csp_AppYsV2_1080","name":"雷蒙影视 | 🖤1080(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://1080dyw.com/icciu_api.php/v1.vod"},
-{"key":"csp_AppYsV2_酷影","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"key":"csp_AppYsV2_泰泰","name":"雷蒙影视 | 🖤泰泰(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"csp_AppYsV2_酷喵","name":"雷蒙影视 | 🖤酷喵(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"http://wkking.top/ikumiao_api.php/v1.vod"},
-{"key":"csp_AppYsV2_酷云","name":"雷蒙影视 | 🖤酷云(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_云视","name":"雷蒙影视 | 🖤云视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.goyiquan.com/api.php/app/","playerType":1},
 {"key":"csp_AppYsV2_伊人","name":"雷蒙影视 | 🖤伊人(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1cms.redpors.cn/api.php/app/"},
 {"key":"csp_AppYsV2_飞云","name":"雷蒙影视 | 🖤飞云(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
