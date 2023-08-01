@@ -75,7 +75,7 @@
 {"key":"csp_JianPian_XYQ","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_爱看机器人1","name":"雷蒙影视 | 👹爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👹爱看机器人2(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot3.js"},
-{"key":"lfjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot3_1_min.js"},
+{"key":"lfjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot3_2_min.js"},
 {"key":"csp_Ikanbot_XYQ","name":"雷蒙影视 | 👹爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_暴风资源","name":"雷蒙影视 | 🚀暴风资源","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","playUrl":"","categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
 {"key":"xml_量子资源","name":"雷蒙影视 | 🚀量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","searchable":1,"quickSearch":1,"m3u8ads":"hd.youyhn.com||vip.lz"},
