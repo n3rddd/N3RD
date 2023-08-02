@@ -467,7 +467,6 @@
 {"key":"drjs_时光影视","name":"雷蒙影视 | 👺时光影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/时光影视.js"},
 {"key":"drjs_动漫岛","name":"雷蒙影视 | 👺动漫岛(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/动漫岛.js"},
 {"key":"drjs_啊班[V2]","name":"雷蒙影视 | 👺啊班[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/啊班[V2].js"},
-{"key":"drjs_慢大浪","name":"雷蒙影视 | 👺慢大浪(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/慢大浪.js"},
 {"key":"drjs_酷客影院","name":"雷蒙影视 | 👺酷客影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷客影院.js"},
 {"key":"drjs_爱弹幕","name":"雷蒙影视 | 👺爱弹幕(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱弹幕.js"},
 {"key":"drjs_城市电影","name":"雷蒙影视 | 👺城市电影(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/城市电影.js"},
@@ -756,6 +755,7 @@
 //{"key":"drjs_番茄影视","name":"雷蒙影视 | 👺番茄影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/番茄影视.js"},  
 //{"key":"drjs_酷影[V2]","name":"雷蒙影视 | 👺酷影[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷影[V2].js"},
 //{"key":"drjs_宫下动漫","name":"雷蒙影视 | 👺宫下动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/宫下动漫.js"},
+//{"key":"drjs_慢大浪","name":"雷蒙影视 | 👺慢大浪(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/慢大浪.js"},
 
   
 //XBPQ规则
