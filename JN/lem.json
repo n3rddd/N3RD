@@ -375,6 +375,7 @@
 {"key":"drjs_新视觉影视","name":"雷蒙影视 | 👺新视觉影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新视觉影视.js"},
 {"key":"drjs_乐猪TV","name":"雷蒙影视 | 👺乐猪TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/乐猪TV.js"},
 
+{"key":"drjs_菜狗","name":"雷蒙影视 | 👺菜狗(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/菜狗.js"},
 {"key":"drjs_胖虎","name":"雷蒙影视 | 👺胖虎(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/胖虎.js"},
 {"key":"drjs_看韩剧","name":"雷蒙影视 | 👺看韩剧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/看韩剧.js"},
 {"key":"drjs_热播库","name":"雷蒙影视 | 👺热播库(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/热播库.js"},
@@ -442,7 +443,6 @@
 {"key":"drjs_9U电影","name":"雷蒙影视 | 👺9U电影(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/9U电影.js"},
 {"key":"drjs_007影视","name":"雷蒙影视 | 👺007影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/007影视.js"},
 {"key":"drjs_斗鱼直播","name":"雷蒙影视 | 👺斗鱼直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/斗鱼直播.js"},
-{"key":"drjs_菜狗","name":"雷蒙影视 | 👺菜狗(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/菜狗.js"},
 {"key":"drjs_优酷","name":"雷蒙影视 | 👺优酷(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/优酷.js"},
 {"key":"drjs_零度影视","name":"雷蒙影视 | 👺零度影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/零度影视.js"},
 {"key":"drjs_柒之社","name":"雷蒙影视 | 👺柒之社(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/柒之社.js"},
