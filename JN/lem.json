@@ -132,10 +132,11 @@
 
 //QJ SPIDER
 {"key":"csp_Bdys01_QJ","name":"雷蒙影视 | 📯哔嘀影视(备用)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc"},
+{"key":"csp_KanKan_QJ","name":"雷蒙影视 | 👁看看视频(SP)","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ShiLiuDY_QJ","name":"雷蒙影视 | 🍇石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
 {"key":"csp_NanGua_QJ","name":"雷蒙影视 | 🎃南瓜影视(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_Youguo_QJ","name":"雷蒙影视 | 🥑油果视频(SP)","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_DDMJ_QJ","name":"雷蒙影视 | 🗽多多美剧(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zhuiju.co"},
 {"key":"csp_Yswc_QJ","name":"雷蒙影视 | 🤴影视王朝(SP)","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_SC1080_QJ","name":"雷蒙影视 | 🕐时常影视(SP)","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_HDMOLI_QJ","name":"雷蒙影视 | 🌼HDMOLI(SP)","api":"csp_HDMOLI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -285,7 +286,6 @@
 //{"key":"csp_Abanwl","name":"雷蒙影视 | 🍕啊班影视(SP)","type":3,"api":"csp_Abanwl","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":""},
 //{"key":"T4_欧乐","name":"雷蒙影视 | 👌🏻欧乐(T4)","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php"},
 //{"key":"csp_Bdys02","name":"雷蒙影视 | 📯哔嘀影视(SSSVIP)","type": 3,"api": "csp_Bdys02","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"csp_Mayiys","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","api":"csp_Mayiys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"csp_APPTT","name":"雷蒙影视 | 🗺图图影视(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 //{"key":"csp_AppTT_TS","name":"雷蒙影视 | 🗺图图影视(备用)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5#U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=@@@U3FYMms0cWJZR2kzbzZzWQ=="},
 //{"key":"csp_TutuYs","name":"雷蒙影视 | 🗺图图影视(备用)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW"},
@@ -308,7 +308,9 @@
 //{"key":"csp_IKan_TS","name":"雷蒙影视 | 💖爱看(SP)","type":3,"api":"csp_Dora","quickSearch":1,"searchable":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 //{"key":"csp_ShiLiu_TS","name":"雷蒙影视 | 🍇石榴电影(SP)","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
 //{"key":"csp_DuoX","name":"雷蒙影视 | 💢多线(SP)","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_DDMJ_QJ","name":"雷蒙影视 | 🗽多多美剧(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zhuiju.co"},
 
+  
 //{"key":"csp_Paper","name":"雷蒙影视 | 😺小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 //{"key":"Yisou","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
 //{"key":"UPanSo","name":"雷蒙影视 | 😺优盘搜(普画可用)","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
