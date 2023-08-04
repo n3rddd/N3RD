@@ -1,0 +1,77 @@
+{
+	"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.2bt0.com/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"电影":"1"},
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://www.2bt0.com/movie/{cateId}.html?sb=&sc=&sct=&scn=&sd=&sdt=&sdn=&se=&set=&sen=&sf=&sft=&sfn=&sg=1&sh=&sht=&shn=&page={catePg}",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[contains(@class, 'masonry_item')]/a",
+	"cateVodName": "/figure/figcaption/h2/text()",
+	"cateVodId": "/@href",
+    "cateVodIdR": "/mv/(\\S+).htm",
+	"cateVodImg": "/figure/div[2]/div/@style",
+	"cateVodImgR": "url\\((.*?)\\)",
+	"cateVodMark": "/figure/figcaption/em/text()",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.2bt0.com/mv/{vid}.html",
+    // 详情节点
+	"dtNode": "//body",
+    // 视频名
+	"dtName": "//span[@class='info-title lh32']/text()",
+	    // 视频图片
+	"dtImg": "//div[@class='masonry__item']/div/img/@src",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//ul[@class='tabs']/li[1]",
+    // 播放源名称
+	"dtFromName": "/div/span/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点  ///../../following-sibling::div/ul
+	"dtUrlNode": "//body",
+    // 播放地址节点
+	"dtUrlSubNode": "//body",
+    // 播放地址
+	"dtUrlId": "//a[contains(@href, 'magnet')][1]/@href",
+    // 二次处理正则
+	"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "//a[contains(@href, 'magnet')][1]/div/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "",
+		// 搜索地址
+	"searchUrl": "https://www.2bt0.com/search.php?sb={wd}",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//div[@class='masonry_item col-md-3 col-sm-6 marb60']",
+	"scVodName": "/div[1]/div/h5/text()",
+	"scVodId": "/a/@href",
+	"scVodIdR": "/mv/(\\S+).htm",
+	"scVodImg": "/a/div/div/@style",
+    "scVodImgR": "url\\((.*?)\\)",
+	"scVodMark": "/div[1]/div/h5/span/text()"
+}
