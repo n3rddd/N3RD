@@ -2,20 +2,23 @@ import {load, _, Uri} from './lib/cat.js';
 import {log} from './lib/utils.js';
 import {initAli, detailContent, playContent}  from './lib/ali.js';
 
-let siteKey = 'wogg';
+let siteKey = '';
 let siteType = 0;
 let siteUrl = 'https://wogg.xyz';
 let UA = "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1";
 let patternAli = /(https:\/\/www\.aliyundrive\.com\/s\/[^"]+)/
 
+// cfg = {skey: siteKey, ext: extend}
 async function init(cfg) {
-    try {
-        siteKey = _.isEmpty(cfg.skey) ? '' : cfg.skey;
-        siteType = _.isEmpty(cfg.stype) ? '' : cfg.stype;
-        await initAli(cfg);
-    } catch (e) {
-        await log('init:' + e.message + ' line:' + e.lineNumber);
+    let ext = '';
+    if (typeof cfg == 'object') {
+        siteKey = cfg.skey;
+        siteType = cfg.stype;
+        ext = cfg.ext;
+    } else {
+        ext = cfg; //适配影视
     }
+    await initAli(ext);
 }
 
 async function request(reqUrl, agentSp) {
@@ -92,29 +95,18 @@ async function category(tid, pg, filter, extend) {
 }
 
 async function detail(id) {
-    try {
-        await log('detail:id:---' + id);
-        let preMatches = id.match(patternAli);
-        if (!_.isEmpty(preMatches)) return await detailContent(preMatches[1]);
-        let url = siteUrl + id;
-        let aliUrl = await getString(url);
-        let matches = aliUrl.match(patternAli);
-        console.log('detailmatche---');
-        console.log(matches[1]);
-        if (!_.isEmpty(matches)) return await detailContent(matches[1]);
-        return '';
-    } catch (e) {
-        await log( 'detail:' + e.message + ' line:' + e.lineNumber);
-    }
+    let preMatches = id.match(patternAli);
+    if (!_.isEmpty(preMatches)) return await detailContent(preMatches[1]);
+    let url = siteUrl + id;
+    let aliUrl = await getString(url);
+    let matches = aliUrl.match(patternAli);
+    if (!_.isEmpty(matches)) return await detailContent(matches[1]);
+    return '';
 }
 
 
 async function play(flag, id, flags) {
-    try {
-        return await playContent(flag, id, flags);
-    }  catch (e) {
-        await log( 'play:' + e.message + ' line:' + e.lineNumber);
-    }
+    return await playContent(flag, id, flags);
 }
 
 
