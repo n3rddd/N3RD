@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0804.jar;md5;A082FF03C20D0B2EA79CCEBAF3EB36B1",
+"spider":"./N3RD/J/lem0805.jar;md5;082EA07F051619E193678113C81A95DB",
 
+//"spider":"./N3RD/J/lem0804.jar;md5;A082FF03C20D0B2EA79CCEBAF3EB36B1",
 //"spider":"./N3RD/J/lem0802.jar;md5;59EDB33FBC0F507A77984EB122C31C5C",
 //"spider":"./N3RD/J/lem0801.jar;md5;83EE92E997DA1052C46FC15CC1750E4D",
 //"spider":"./N3RD/J/lem0729.jar;md5;BFDB9DE9E53D37EC67A4362650A92C13",
@@ -338,12 +339,14 @@
 {"key":"lfjs_磁力搜索","name":"雷蒙影视 | 🧲磁力搜索(LFJS)","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./EXT/JS/lf_p2p1_2_min.js","ext":""},
 {"key":"csp_BTPiaoHua","name":"雷蒙影视 | 🧲新飘花电影网(SP)","type":3,"api":"csp_BTPiaoHua","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6vdy.org/"},
-{"key": "csp_Mp4Mov_XYQ","name":"雷蒙影视 | 🧲Mp4电影(SP)","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Mp4Mov_XYQ","name":"雷蒙影视 | 🧲Mp4电影(SP)","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SeedHub_XYQ","name":"雷蒙影视 | 🧲SeedHub(SP)","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_KubaCL_XYQ","name":"雷蒙影视 | 🧲酷吧电影(SP)","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MeijuTT_XYQ","name":"雷蒙影视 | 🧲美剧天堂(SP)","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MeijuMi_XYQ","name":"雷蒙影视 | 🧲美剧迷(SP)","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_New6v_XYQ","name":"雷蒙影视 | 🧲新6V(SP)","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
+{"key":"csp_New6v_XYQ","name":"雷蒙影视 | 🧲新6V(SP)","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
+{"key":"csp_BLSGod_XYQ","name":"雷蒙影视 | 🧲80S影视(SP)","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xunlei8_XYQ","name":"雷蒙影视 | 🧲迅雷吧(SP)","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mdygang_ZAL","name":"雷蒙影视 | 🧲电影港(SP)","type":3,"api":"csp_Mdygang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bt0","name":"雷蒙影视 | 🧲不太灵(SP)","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/MAG/bt0.json"},
 {"key":"drjs_6V新版[磁]","name":"雷蒙影视 | 🧲6V新版(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/6V新版[磁].js"},
