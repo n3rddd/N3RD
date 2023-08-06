@@ -385,6 +385,7 @@
 {"key":"drjs_新视觉影视","name":"雷蒙影视 | 👺新视觉影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新视觉影视.js"},
 {"key":"drjs_乐猪TV","name":"雷蒙影视 | 👺乐猪TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/乐猪TV.js"},
 
+{"key":"drjs_影视之家","name":"雷蒙影视 | 👺影视之家(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/影视之家.js"},
 {"key":"drjs_007影视","name":"雷蒙影视 | 👺007影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/007影视.js"},
 {"key":"drjs_539影视","name":"雷蒙影视 | 👺539影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/539影视.js"},
 {"key":"drjs_555影视[飞]","name":"雷蒙影视 | 👺555影视[飞](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/555影视[飞].js"},
@@ -516,7 +517,6 @@
 {"key":"drjs_MV263","name":"雷蒙影视 | 👺MV263(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/MV263.js"},
 {"key":"drjs_69美剧[V2]","name":"雷蒙影视 | 👺69美剧[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/69美剧[V2].js"},
 {"key":"drjs_JRKAN直播","name":"雷蒙影视 | 👺JRKAN直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/JRKAN直播.js"},
-{"key":"drjs_影视之家","name":"雷蒙影视 | 👺影视之家(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/影视之家.js"},
 {"key":"drjs_爱车MV","name":"雷蒙影视 | 👺爱车MV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱车MV.js"},
 {"key":"drjs_米爱影视","name":"雷蒙影视 | 👺米爱影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/米爱影视.js"},
 {"key":"drjs_路漫漫","name":"雷蒙影视 | 👺路漫漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/路漫漫.js"},
