@@ -443,7 +443,6 @@
 {"key":"drjs_cokemv","name":"雷蒙影视 | 👺Cokemv(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/cokemv.js"},
 {"key":"drjs_双十电影","name":"雷蒙影视 | 👺双十电影(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/双十电影.js"},
 {"key":"drjs_骚火电影","name":"雷蒙影视 | 👺骚火电影(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/骚火电影.js"},
-{"key":"drjs_风车动漫","name":"雷蒙影视 | 👺风车动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/风车动漫.js"},
 {"key":"drjs_私人影院","name":"雷蒙影视 | 👺私人影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/私人影院.js"},
 {"key":"drjs_人人影视","name":"雷蒙影视 | 👺人人影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/人人影视.js"},
 {"key":"drjs_Auete","name":"雷蒙影视 | 👺Auete(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/Auete.js"},
@@ -769,6 +768,7 @@
 //{"key":"drjs_南柯电影网","name":"雷蒙影视 | 👺南柯电影网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/南柯电影网.js"},
 //{"key":"drjs_我爱跟剧","name":"雷蒙影视 | 👺我爱跟剧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/我爱跟剧.js"},
 //{"key":"drjs_爱看电影","name":"雷蒙影视 | 👺爱看电影(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱看电影.js"},
+//{"key":"drjs_风车动漫","name":"雷蒙影视 | 👺风车动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/风车动漫.js"},
 
   
 //XBPQ规则
