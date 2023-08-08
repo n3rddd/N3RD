@@ -110,6 +110,7 @@
 {"key":"csp_Dy1010","name":"雷蒙影视 | 🔟双十电影(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"雷蒙影视 | ✂简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_YT","name":"雷蒙影视 | 🏵影探(SP)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":"yt###65f6621af391c906###12345678","jar":"./N3RD/J/hfq.jar"},
 {"key":"csp_MmYs","name":"雷蒙影视 | 🍄蘑菇影视(SP)","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuying","name":"雷蒙影视 | 💡酷影(SP)","type":3,"api":"csp_Kuying","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_WebFreeOk_ZAL","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_WebFreeOk","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/XP/freeok.json"},
@@ -158,7 +159,6 @@
 {"key":"xml_享看","name":"雷蒙影视 | 🚀享看","type":1,"api":"https://xkanzy10.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
   
 //APP
-{"key":"csp_AppYsV2_影探_MULTIJAR","name":"雷蒙影视 | 🖤影探(MULTI)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"yt###65f6621af391c903###12345678","jar":"./N3RD/J/hfq.jar"},
 {"key":"csp_AppYsV2_影探_ZAL","name":"雷蒙影视 | 🖤影探(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://yt123.lfytyl.com/api.php/app/"},
 {"key":"csp_AppYsV2_酷影_ZAL","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
