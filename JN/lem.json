@@ -1914,11 +1914,13 @@
   
 //HongFeiQ
 {"name":"💧左岸","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"💧小新","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=eoprsxEGHKNSUXZ149&url=","ext":{"flag":["iqiyi","youku","qq"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
 {"name":"💧米来","type":1,"url":"http://htp.behds.cn/json/202372345678911app/gf.php?url=","ext":{"flag":["iqiyi","youku","qq"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
-{"name":"💧芒果","type":1,"url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=","ext":{"flag":["mgtv"]}},
-{"name":"💧G9","type":1,"url":"http://json.g9.pub:66/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv"]}},
+{"name":"💧稻香","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","ext":{"flag":["iqiyi","youku","qq","mgtv"]}},
 {"name":"💧云视","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["iqiyi","youku","qq","mgtv"],"header":{"User-Agent":"Dart/2.17 (dart:io)"}}},
+{"name":"💧小米","type":1,"url":"http:/xhww.fun:63/特别爱小米.php?url=","ext":{"flag":["qiqi","CL4K","NBY","qq","youku","mgtv"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+{"name":"🧣小米YuMi","type":1,"url":"http://123.99.192.241:5000/api/jiexi/xg?Key=NLoNjn48GAF3UQdsP0&url=","ext":{"flag":["YuMi-vip","YuMi-AL"]},"header":{"User-Agent":"okhttp/3.12.0"}},
+{"name":"🧣米来YuMi","type":1,"url":"http://htp.behds.cn/json/520238app8/mlyumi.php?url=","ext":{"flag":["YuMi-vip","YuMi-AL"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
+{"name":"🧣米来NBY","type":1,"url":"http://htp.behds.cn/json/520237app7/mlzjxmy.php?url=","ext":{"flag":["NBY"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
 {"name":"🧣FY","type":1,"url":"https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url=","ext":{"flag":["FY"],"header":{"User-Agent":"Lavf/58.12.100"}}},
 
 //XIAOMI
