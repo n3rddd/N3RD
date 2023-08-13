@@ -151,7 +151,6 @@
 
 //XML
 {"key":"xml_快看","name":"雷蒙影视 | ️🚀快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod","categories":["网络电影","动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","国产动漫","日本动漫","国产剧","韩国剧","港台剧","欧美剧","国产综艺","港台综艺"]},
-{"key":"xml_轻简","name":"雷蒙影视 | 🚀轻简","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/窗外.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","综艺","动漫"]},
 {"key":"xml_小猫咪","name":"雷蒙影视 | 🚀小猫咪","type":1,"api":"http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list","playUrl":"https://jx.jsonplayer.com/player/?url=","categories":["国产剧","综艺","动漫","香港剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片"]},
 {"key":"xml_1080资源库","name":"雷蒙影视 | 🚀1080资源库","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
 {"key":"xml_爱酷","name":"雷蒙影视 | 🚀爱酷","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影","连续剧","综艺","动漫"]},
@@ -164,6 +163,7 @@
 {"key":"csp_AppYsV2_酷影_ZAL","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
+{"key":"csp_AppYsV2_玉米","name":"雷蒙影视 | 🖤玉米(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mdy.ahailove.cn/api.php/app/"},
 {"key":"csp_AppYsV2_蘑菇2","name":"️雷蒙影视 | 🖤蘑菇2(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.moguys.xyz/api.php/app/"},
 {"key":"csp_AppYsV2_年年","name":"雷蒙影视 | 🖤年年(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/"},
 {"key":"csp_AppYsV2_1080","name":"雷蒙影视 | 🖤1080(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://1080dyw.com/icciu_api.php/v1.vod"},
@@ -318,7 +318,8 @@
 //{"key":"csp_DuoX","name":"雷蒙影视 | 💢多线(SP)","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DDMJ_QJ","name":"雷蒙影视 | 🗽多多美剧(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zhuiju.co"},
 //{"key":"csp_MianHua_QJ","name":"雷蒙影视 | ☁棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.haokantj.com"},
-
+//{"key":"xml_轻简","name":"雷蒙影视 | 🚀轻简","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/窗外.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","综艺","动漫"]},
+  
   
 //{"key":"csp_Paper","name":"雷蒙影视 | 😺小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 //{"key":"Yisou","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
@@ -407,6 +408,8 @@
 {"key":"drjs_新视觉影视","name":"雷蒙影视 | 👺新视觉影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新视觉影视.js"},
 {"key":"drjs_乐猪TV","name":"雷蒙影视 | 👺乐猪TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/乐猪TV.js"},
 
+{"key":"drjs_F7好看剧[V2]","name":"雷蒙影视 | 👺F7好看剧[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/F7好看剧[V2].js"},
+{"key":"drjs_爱弹幕","name":"雷蒙影视 | 👺爱弹幕(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱弹幕.js"},
 {"key":"drjs_哔哩直播","name":"雷蒙影视 | 👺哔哩直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/哔哩直播.js"},
 {"key":"drjs_哔哩影视","name":"雷蒙影视 | 👺哔哩影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/哔哩影视.js"},
 {"key":"drjs_JustLive","name":"雷蒙影视 | 👺JustLive(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/JustLive.js"},
@@ -513,7 +516,6 @@
 {"key":"drjs_速看100[V2]","name":"雷蒙影视 | 👺速看100[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/速看100[V2].js"},
 {"key":"drjs_动漫岛","name":"雷蒙影视 | 👺动漫岛(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/动漫岛.js"},
 {"key":"drjs_啊班[V2]","name":"雷蒙影视 | 👺啊班[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/啊班[V2].js"},
-{"key":"drjs_爱弹幕","name":"雷蒙影视 | 👺爱弹幕(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱弹幕.js"},
 {"key":"drjs_咕噜[V2]","name":"雷蒙影视 | 👺咕噜[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/咕噜[V2].js"},
 {"key":"drjs_扛把子影院","name":"雷蒙影视 | 👺扛把子影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/扛把子影院.js"},
 {"key":"drjs_奈飞中文","name":"雷蒙影视 | 👺奈飞中文(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/奈飞中文.js"},
@@ -784,7 +786,6 @@
 //{"key":"drjs_酷影[V2]","name":"雷蒙影视 | 👺酷影[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷影[V2].js"},
 //{"key":"drjs_宫下动漫","name":"雷蒙影视 | 👺宫下动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/宫下动漫.js"},
 //{"key":"drjs_慢大浪","name":"雷蒙影视 | 👺慢大浪(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/慢大浪.js"},
-//{"key":"drjs_F7好看剧[V2]","name":"雷蒙影视 | 👺F7好看剧[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/F7好看剧[V2].js"},
 //{"key":"drjs_南柯电影网","name":"雷蒙影视 | 👺南柯电影网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/南柯电影网.js"},
 //{"key":"drjs_我爱跟剧","name":"雷蒙影视 | 👺我爱跟剧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/我爱跟剧.js"},
 //{"key":"drjs_爱看电影","name":"雷蒙影视 | 👺爱看电影(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱看电影.js"},
