@@ -195,8 +195,8 @@
 {"key":"csp_AppYsV2_速看100","name":"雷蒙影视 | 🖤速看100(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/"},
 
 {"key":"T4_JianPian","name":"雷蒙影视 | 4️⃣荐片(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"T4_WoGG","name":"雷蒙影视 | 4️⃣玩偶哥哥(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"T4_Ali","name":"雷蒙影视 | 4️⃣阿里聚合搜(T4)","type":4,"api":"http://home.jundie.top:9520/ali/cli_Ali","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_WoGG","name":"雷蒙影视 | 4️⃣玩偶哥哥(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://dpaste.com/7TWX659XA.txt","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_Ali","name":"雷蒙影视 | 4️⃣阿里聚合搜(T4)","type":4,"api":"http://home.jundie.top:9520/ali/cli_Ali&token=https://dpaste.com/7TWX659XA.txt","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./N3RD/T/a.json"},
 
 
