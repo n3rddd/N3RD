@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0812.jar;md5;5861E8BAE55F98043DDD3A9550937C9B",
+"spider":"./N3RD/J/lem0814.jar;md5;92961BBBC6D4EDA648686EB2BE53613C",
 
+//"spider":"./N3RD/J/lem0812.jar;md5;5861E8BAE55F98043DDD3A9550937C9B",
 //"spider":"./N3RD/J/lem0805.jar;md5;082EA07F051619E193678113C81A95DB",
 //"spider":"./N3RD/J/lem0804.jar;md5;A082FF03C20D0B2EA79CCEBAF3EB36B1",
 //"spider":"./N3RD/J/lem0802.jar;md5;59EDB33FBC0F507A77984EB122C31C5C",
@@ -94,6 +95,7 @@
 {"key":"csp_Kuaikan","name":"雷蒙影视 | 👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt$$$http://tvfan.xxooo.cf/"},
 {"key":"csp_Czsapp","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Czsapp2_ZAL","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz01.me"},
 {"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
 {"key":"csp_Cokemv","name":"雷蒙影视 | 🥤Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
@@ -356,13 +358,13 @@
 {"key":"csp_BLSGod_XYQ","name":"雷蒙影视 | 🧲80S影视(SP)","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xunlei8_XYQ","name":"雷蒙影视 | 🧲迅雷吧(SP)","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_MagnetYinfansZAL","name":"雷蒙影视 | 🧲音范丝(SP)","type": 3,"api": "csp_MagnetYinfans","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"csp_Magnet4khdrZAL","name":"雷蒙影视 | 🧲4KHDR(SP)","type": 3,"api": "csp_Magnet4khdr","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"csp_MagnetSeedhubZAL","name":"雷蒙影视 | 🧲SEED(SP)","type": 3,"api": "csp_MagnetSeedhub","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"csp_MagnetMy4kZAL","name":"雷蒙影视 | 🧲蚂蚁4K(SP)","type": 3,"api": "csp_MagnetMy4k","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"csp_MagnetDygangZAL","name":"雷蒙影视 | 🧲电影港(SP)","type": 3,"api": "csp_MagnetDygang","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"csp_MagnetMp4usZAL","name":"雷蒙影视 | 🧲MP4(SP)","type": 3,"api": "csp_MagnetMp4us","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"csp_MagnetBt0ZAL","name":"雷蒙影视 | 🧲不太灵(SP)","type": 3,"api": "csp_MagnetBt0","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"csp_MagnetYinfans_ZAL","name":"雷蒙影视 | 🧲音范丝(SP)","type": 3,"api": "csp_MagnetYinfans","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"csp_Magnet4khdr_ZAL","name":"雷蒙影视 | 🧲4KHDR(SP)","type": 3,"api": "csp_Magnet4khdr","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"csp_MagnetSeedhub_ZAL","name":"雷蒙影视 | 🧲SEED(SP)","type": 3,"api": "csp_MagnetSeedhub","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"csp_MagnetMy4k_ZAL","name":"雷蒙影视 | 🧲蚂蚁4K(SP)","type": 3,"api": "csp_MagnetMy4k","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"csp_MagnetDygang_ZAL","name":"雷蒙影视 | 🧲电影港(SP)","type": 3,"api": "csp_MagnetDygang","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"csp_MagnetMp4us_ZAL","name":"雷蒙影视 | 🧲MP4(SP)","type": 3,"api": "csp_MagnetMp4us","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"csp_MagnetBt0_ZAL","name":"雷蒙影视 | 🧲不太灵(SP)","type": 3,"api": "csp_MagnetBt0","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 {"key":"drjs_6V新版[磁]","name":"雷蒙影视 | 🧲6V新版(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/6V新版[磁].js"},
 {"key":"drjs_磁力熊[磁]","name":"雷蒙影视 | 🧲磁力熊(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/磁力熊[磁].js"},
