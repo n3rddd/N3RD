@@ -1,6 +1,6 @@
 {
 
-"spider":"./N3RD/J/lem0816.jar;md5;29757629220CD0B00D50152EBCBF098A",
+"spider":"./N3RD/J/lem0816.jar;md5;BE370EC5C86FE7554D1936BD59630BD6",
 
 //"spider":"./N3RD/J/lem0814.jar;md5;92961BBBC6D4EDA648686EB2BE53613C",
 //"spider":"./N3RD/J/lem0812.jar;md5;5861E8BAE55F98043DDD3A9550937C9B",
@@ -109,7 +109,6 @@
 {"key":"csp_Voflix","name":"雷蒙影视 | 🌀Voflix(SP)","type":"3","api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix2","name":"雷蒙影视 | 🌀Voflix(备用)","type":"3","api":"csp_Voflix2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.me/"},
 {"key":"csp_Fantuan","name":"雷蒙影视 | 🍙饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
-{"key":"csp_Dy1010","name":"雷蒙影视 | 🔟双十电影(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"雷蒙影视 | ✂简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_YT","name":"雷蒙影视 | 🏵影探(SP)","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://smallmi.xiaohewanwan.love:63/cili/fan.txt"},
 {"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yjz.lyyytv.cn###67f6621af391c903###12345678","jar":"./N3RD/J/hfq.jar"},
@@ -314,7 +313,7 @@
 //{"key":"csp_MmYs","name":"雷蒙影视 | 🍄蘑菇影视(SP)","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Ys555","name":"雷蒙影视 | 5️⃣️555电影(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 //{"key":"csp_Bttwoo","name":"雷蒙影视 | ✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-
+//{"key":"csp_Dy1010","name":"雷蒙影视 | 🔟双十电影(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
   
 //{"key":"csp_Paper","name":"雷蒙影视 | 😺小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 //{"key":"Yisou","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
