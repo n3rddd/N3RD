@@ -402,6 +402,10 @@
 {"key":"drjs_新视觉影视","name":"雷蒙影视 | 👺新视觉影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新视觉影视.js"},
 {"key":"drjs_乐猪TV","name":"雷蒙影视 | 👺乐猪TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/乐猪TV.js"},
 
+{"key":"drjs_蘑菇","name":"雷蒙影视 | 👺蘑菇(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/蘑菇.js"},
+{"key":"drjs_抓饭体育","name":"雷蒙影视 | 👺抓饭体育(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/抓饭体育.js"},
+{"key":"drjs_我爱跟剧","name":"雷蒙影视 | 👺我爱跟剧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/我爱跟剧.js"},
+{"key":"drjs_影探[V2]","name":"雷蒙影视 | 👺影探[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/影探[V2].js"},
 {"key":"drjs_F7好看剧[V2]","name":"雷蒙影视 | 👺F7好看剧[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/F7好看剧[V2].js"},
 {"key":"drjs_爱弹幕","name":"雷蒙影视 | 👺爱弹幕(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱弹幕.js"},
 {"key":"drjs_哔哩直播","name":"雷蒙影视 | 👺哔哩直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/哔哩直播.js"},
@@ -435,7 +439,6 @@
 {"key":"drjs_爱看影院","name":"雷蒙影视 | 👺爱看影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱看影院.js"},
 {"key":"drjs_独播库[飞]","name":"雷蒙影视 | 👺独播库[飞](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/独播库[飞].js"},
 {"key":"drjs_美剧网","name":"雷蒙影视 | 👺美剧网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/美剧网.js"},
-{"key":"drjs_蘑菇","name":"雷蒙影视 | 👺蘑菇(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/蘑菇.js"},
 {"key":"drjs_蛋蛋剧","name":"雷蒙影视 | 👺蛋蛋剧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/蛋蛋剧.js"},
 {"key":"drjs_西瓜影院","name":"雷蒙影视 | 👺西瓜影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/西瓜影院.js"},
 {"key":"drjs_酷客影院","name":"雷蒙影视 | 👺酷客影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷客影院.js"},
@@ -447,7 +450,6 @@
 {"key":"drjs_朴樱影视","name":"雷蒙影视 | 👺朴樱影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/朴樱影视.js"},
 {"key":"drjs_大豆","name":"雷蒙影视 | 👺大豆影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/大豆.js"},
 {"key":"drjs_新片场","name":"雷蒙影视 | 👺新片场(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新片场.js"},
-{"key":"drjs_影探[V2]","name":"雷蒙影视 | 👺影探[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/影探[V2].js"},
 {"key":"drjs_鸭奈飞[V2]","name":"雷蒙影视 | 👺鸭奈飞[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/鸭奈飞[V2].js"},
 {"key":"drjs_鸭奈飞","name":"雷蒙影视 | 👺鸭奈飞(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/鸭奈飞.js"},
 {"key":"drjs_萌蛋蛋[V2]","name":"雷蒙影视 | 👺萌蛋蛋[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/萌蛋蛋[V2].js"},
@@ -649,7 +651,7 @@
 {"key":"drjs_欧帝影院","name":"雷蒙影视 | 👺欧帝影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/欧帝影院.js"},
 {"key":"drjs_冲TV","name":"雷蒙影视 | 👺冲TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/冲TV.js"},
 {"key":"drjs_BD影视","name":"雷蒙影视 | 👺BD影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/BD影视.js"},
-{"key":"drjs_JRS看直播","name":"雷蒙影视 | 👺JRS看直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/JRS看直播.js"},
+
 {"key":"drjs_八蛋影视","name":"雷蒙影视 | 👺八蛋影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/八蛋影视.js"},
 {"key":"drjs_学生球赛录像[js1]","name":"雷蒙影视 | 👺学生球赛录像[js1](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/学生球赛录像[js1].js"},
 {"key":"drjs_唐人街影视[飞]","name":"雷蒙影视 | 👺唐人街影视[飞](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/唐人街影视[飞].js"},
@@ -674,13 +676,11 @@
 {"key":"drjs_小品网","name":"雷蒙影视 | 👺小品网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/小品网.js"},
 {"key":"drjs_追剧啦","name":"雷蒙影视 | 👺追剧啦(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/追剧啦.js"},
 {"key":"drjs_麻花影视","name":"雷蒙影视 | 👺麻花影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/麻花影视.js"},
-{"key":"drjs_JRS看球网","name":"雷蒙影视 | 👺JRS看球网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/JRS看球网.js"},
 {"key":"drjs_天天影视","name":"雷蒙影视 | 👺天天影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/天天影视.js"},
 {"key":"drjs_金曼影视","name":"雷蒙影视 | 👺金曼影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/金曼影视.js"},
 {"key":"drjs_KOK影视","name":"雷蒙影视 | 👺KOK影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/KOK影视.js"},
 {"key":"drjs_8号影院","name":"雷蒙影视 | 👺8号影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/8号影院.js"},
 {"key":"drjs_天天视频","name":"雷蒙影视 | 👺天天视频(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/天天视频.js"},
-{"key":"drjs_抓饭体育","name":"雷蒙影视 | 👺抓饭体育(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/抓饭体育.js"},
 {"key":"drjs_310直播","name":"雷蒙影视 | 👺310直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/310直播.js"},
 {"key":"drjs_爱迪影视","name":"雷蒙影视 | 👺爱迪影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱迪影视.js"},
 {"key":"drjs_2099电影","name":"雷蒙影视 | 👺2099电影(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/2099电影.js"},
@@ -781,9 +781,11 @@
 //{"key":"drjs_宫下动漫","name":"雷蒙影视 | 👺宫下动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/宫下动漫.js"},
 //{"key":"drjs_慢大浪","name":"雷蒙影视 | 👺慢大浪(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/慢大浪.js"},
 //{"key":"drjs_南柯电影网","name":"雷蒙影视 | 👺南柯电影网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/南柯电影网.js"},
-//{"key":"drjs_我爱跟剧","name":"雷蒙影视 | 👺我爱跟剧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/我爱跟剧.js"},
 //{"key":"drjs_爱看电影","name":"雷蒙影视 | 👺爱看电影(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱看电影.js"},
 //{"key":"drjs_风车动漫","name":"雷蒙影视 | 👺风车动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/风车动漫.js"},
+//{"key":"drjs_JRS看直播","name":"雷蒙影视 | 👺JRS看直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/JRS看直播.js"},
+//{"key":"drjs_JRS看球网","name":"雷蒙影视 | 👺JRS看球网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/JRS看球网.js"},
+
 
   
 //XBPQ规则
