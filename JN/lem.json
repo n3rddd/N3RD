@@ -101,7 +101,6 @@
 {"key":"csp_Cokemv","name":"雷蒙影视 | 🥤Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"雷蒙影视 | 📹在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
-{"key":"csp_Bttwoo","name":"雷蒙影视 | ✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQK","name":"雷蒙影视 | 📺一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_AppMr","name":"雷蒙影视 | 👻明日影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NongMing","name":"雷蒙影视 | 👨‍🌾农民影视(SP)","type":3,"api":"csp_NongMing","searchable":1,"quickSearch":1,"filterable":1},
@@ -314,6 +313,8 @@
 //{"key":"csp_蓝光影院","name":"雷蒙影视 | 💦蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 //{"key":"csp_MmYs","name":"雷蒙影视 | 🍄蘑菇影视(SP)","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Ys555","name":"雷蒙影视 | 5️⃣️555电影(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+//{"key":"csp_Bttwoo","name":"雷蒙影视 | ✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+
   
 //{"key":"csp_Paper","name":"雷蒙影视 | 😺小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 //{"key":"Yisou","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
@@ -1885,7 +1886,7 @@
   
 //HongFeiQ
 {"name":"💧左岸","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"💧米来","type":1,"url":"http://42.51.37.161:5678/json/202372345678911app/gf.php?url=","ext":{"flag":["iqiyi","youku","qq"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
+//{"name":"💧米来","type":1,"url":"http://42.51.37.161:5678/json/202372345678911app/gf.php?url=","ext":{"flag":["iqiyi","youku","qq"],"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
 {"name":"💧稻香","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","ext":{"flag":["iqiyi","youku","qq","mgtv"]}},
 {"name":"💧云视","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["iqiyi","youku","qq","mgtv"],"header":{"User-Agent":"Dart/2.17 (dart:io)"}}},
 {"name":"💧小米","type":1,"url":"http:/xhww.fun:63/特别爱小米.php?url=","ext":{"flag":["qiqi","CL4K","NBY","qq","youku","mgtv"],"header":{"User-Agent":"okhttp/3.12.0"}}},
