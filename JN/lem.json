@@ -164,6 +164,8 @@
 {"key":"csp_AppYsV2_酷影_ZAL","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
+{"key":"csp_AppYsV2_天天","name":"雷蒙影视 | 🖤天天(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ttsp.live/api.php/app/"},
+{"key":"csp_AppYsV2_酷酷","name":"雷蒙影视 | 🖤酷酷(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://ys.realdou.cn:2683/api.php/app/"},
 {"key":"csp_AppYsV2_陌陌","name":"雷蒙影视 | 🖤陌陌(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://wushutvcms.byzz.top/api.php/app/"},
 {"key":"csp_AppYsV2_莓莓","name":"雷蒙影视 | 🖤莓莓(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://22222.yiyingys.asia/api.php/app/"},
 {"key":"csp_AppYsV2_哈喽","name":"雷蒙影视 | 🖤哈喽(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
