@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0819.jar;md5;F283675B1DBA32CE2936D348EE144FA6",
+"spider":"./N3RD/J/lem0823.jar;md5;AFDFD13154850793286DF1EAF224945D",
 
+//"spider":"./N3RD/J/lem0819.jar;md5;F283675B1DBA32CE2936D348EE144FA6",
 //"spider":"./N3RD/J/lem0818.jar;md5;831CD6ABB1604F83F61E7526E9925FB1",
 //"spider":"./N3RD/J/lem0816.jar;md5;BE370EC5C86FE7554D1936BD59630BD6",
 //"spider":"./N3RD/J/lem0814.jar;md5;92961BBBC6D4EDA648686EB2BE53613C",
@@ -161,6 +162,7 @@
 {"key":"xml_享看","name":"雷蒙影视 | 🚀享看","type":1,"api":"https://xkanzy10.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
   
 //APP
+{"key":"csp_AppYsV2_影探_ZAL","name":"雷蒙影视 | 🖤影探(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"yt#vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn#2.2.230815"},
 {"key":"csp_AppYsV2_酷影_ZAL","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
