@@ -87,7 +87,7 @@
 {"key":"csp_RinHome_ZAL","name":"雷蒙影视 | 🏆荐片(备用)","type":3,"api":"csp_RinHome","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_爱看机器人1","name":"雷蒙影视 | 👹爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👹爱看机器人2(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot3.js"},
-{"key":"lfjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot3_2_min.js"},
+{"key":"lfjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot5_2_min.js"},
 //{"key":"lfjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot4_min.js"},
 {"key":"csp_Ikanbot_XYQ","name":"雷蒙影视 | 👹爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_暴风资源","name":"雷蒙影视 | 🚀暴风资源","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","playUrl":"","categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
@@ -369,10 +369,15 @@
 
 {"key":"drjs_6V新版[磁]","name":"雷蒙影视 | 🧲6V新版(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/6V新版[磁].js"},
 {"key":"drjs_磁力熊[磁]","name":"雷蒙影视 | 🧲磁力熊(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/磁力熊[磁].js"},
-{"key":"drjs_jiyingw","name":"雷蒙影视 | 🧲极影网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/jiyingw.js"},
-{"key":"drjs_dygang","name":"雷蒙影视 | 🧲电影港(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dygang.js"},
-{"key":"drjs_4khdr","name":"雷蒙影视 | 🧲4KHDR(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/4khdr.js"},
-{"key":"drjs_mp4us","name":"雷蒙影视 | 🧲MP4US(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/mp4us.js"},
+
+{"key":"drjs_jiyingw_PG","name":"雷蒙影视 | 🧲极影网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/jiyingw.js"},
+{"key":"drjs_dygang_PG","name":"雷蒙影视 | 🧲电影港(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dygang.js"},
+{"key":"drjs_4khdr_PG","name":"雷蒙影视 | 🧲4KHDR(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/4khdr.js"},
+{"key":"drjs_mp4us_PG","name":"雷蒙影视 | 🧲MP4US(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/mp4us.js"},
+{"key":"drjs_kkpans_PG","name":"雷蒙影视 | 🧲KK网盘(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kkpans.js"},
+{"key":"drjs_kkpans_PG","name":"雷蒙影视 | 🧲KK网盘(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kkpans.js"},
+{"key":"drjs_kuba_PG","name":"雷蒙影视 | 🧲酷吧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kuba.js"},
+{"key":"drjs_meijumi_PG","name":"雷蒙影视 | 🧲美剧迷(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/meijumi.js"},
 
   
 //{"key":"csp_Mdygang_ZAL","name":"雷蒙影视 | 🧲电影港(SP)","type":3,"api":"csp_Mdygang","searchable":1,"quickSearch":1,"filterable":1},
