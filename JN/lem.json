@@ -399,10 +399,16 @@
 {"key":"open_爱上你听书网","name":"雷蒙影视PRO独享 | 🍭爱上你听书网(OPENJS)","type":3,"api":"./EXT/OPENJS/open/230ts_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_素白白","name":"雷蒙影视PRO独享 | 🍭素白白(OPENJS)","type":3,"api":"./EXT/OPENJS/open/subaibai_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_南瓜影视","name":"雷蒙影视PRO独享 | 🍭南瓜影视(OPENJS)","type":3,"api":"./EXT/OPENJS/open/ng_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_世纪DJ音乐网","name":"雷蒙影视PRO独享 | 🍭世纪DJ音乐网(OPENJS)","type":3,"api":"./EXT/OPENJS/open/dj0898_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_酷奇MV","name":"雷蒙影视PRO独享 | 🍭酷奇MV(OPENJS)","type":3,"api":"./EXT/OPENJS/open/kuqimv_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_视聚场","name":"雷蒙影视PRO独享 | 🍭视聚场(OPENJS)","type":3,"api":"./EXT/OPENJS/open/cntv_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_在线之家","name":"雷蒙影视PRO独享 | 🍭在线之家(OPENJS)","type":3,"api":"./EXT/OPENJS/open/zxzj_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_泥视频","name":"雷蒙影视PRO独享 | 🍭泥视频(OPENJS)","type":3,"api":"./EXT/OPENJS/open/nivod_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"888解忧愁"},
 {"key":"open_独播库","name":"雷蒙影视PRO独享 | 🍭独播库(OPENJS)","type":3,"api":"./EXT/OPENJS/open/duboku_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_玩偶哥哥","name":"雷蒙影视PRO独享 | 🍭玩偶哥哥(OPENJS)","type":3,"api":"./EXT/OPENJS/open/wogg_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"/N3RD/T/t.txt"},
-
+{"key":"open_兔小贝","name":"雷蒙影视PRO独享 | 🍭兔小贝(OPENJS)","type":3,"api":"./EXT/OPENJS/open/tuxiaobei_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_贝乐虎","name":"雷蒙影视PRO独享 | 🍭贝乐虎(OPENJS)","type":3,"api":"./EXT/OPENJS/open/ubestkid_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_童趣","name":"雷蒙影视PRO独享 | 🍭童趣(OPENJS)","type":3,"api":"./EXT/OPENJS/open/boosj_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
   
 
 //道长DRPY-JS规则
