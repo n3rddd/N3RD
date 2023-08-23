@@ -85,8 +85,8 @@ let liste = [];
 d.forEach(function(it){
 	let burl = pdfh(it, 'a&&href');
 	let title = pdfh(it, 'a&&Text');
-	log('dygang title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-	log('dygang burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	log('4khdr title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+	log('4khdr burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
 	if (burl.startsWith("https://www.aliyundrive.com/s/")){
 		if (TABS.length==1){
@@ -137,7 +137,7 @@ let new_host= HOST + '/search.php';
 let new_html=request(new_host);
 let formhash = pdfh(new_html, 'input[name="formhash"]&&value');
 log("4khdr formhash>>>>>>>>>>>>>>>" + formhash);
-let params = 'formhash=' + formhash + '&searchsubmit=yes&srchtxt=' + KEY;
+let params = 'formhash=' + formhash + '&searchsubmit=yes&srchtxt=' + encodeURIComponent(KEY);
 let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
 let postData = {
     body: params
