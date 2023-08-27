@@ -3,7 +3,9 @@
 
 "wallpaper":"https://PIC.clem7.repl.co",
 
-"lives":[{"name":"麒麟","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/Renly/main/TVBox/tv/麒麟0806.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives":[
+{"name":"麒麟","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/Renly/main/TVBox/tv/麒麟0806.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+],
 
 "sites":[
 
