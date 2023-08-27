@@ -347,7 +347,6 @@
   
 //MAGNET
 
-{"key":"lfjs_磁力搜索","name":"雷蒙影视 | 🧲磁力搜索(LFJS)","type":3,"api":"./EXT/JS/lf_p2p2_min.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_BTPiaoHua","name":"雷蒙影视 | 🧲新飘花电影网(SP)","type":3,"api":"csp_BTPiaoHua","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6vdy.org/"},
 
@@ -415,7 +414,9 @@
   
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 👺豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search3_min.js"},
 {"key":"lfjs_爱看机器人","name":"雷蒙影视 | 👺爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot5_2_min.js"},
+{"key":"lfjs_磁力搜索","name":"雷蒙影视 | 🧲磁力搜索(LFJS)","type":3,"api":"./EXT/JS/lf_p2p2_min.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"ext":""},
 
+  
   
 //道长DRPY-JS规则
   
