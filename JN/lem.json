@@ -116,7 +116,7 @@
 {"key":"csp_Fantuan","name":"雷蒙影视 | 🍙饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_Jianying","name":"雷蒙影视 | ✂简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_YT","name":"雷蒙影视 | 🏵影探(SP)","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"},
-{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.lyyytv.cn###d2f9e0f2ab7a392b###zwwwvwwvwwvwwwvvvwvvvvwwwwwvvvwwwwwwwvvvvvwwwwwvvwwwwwwvvwwwwww;gvvwvvvvwwwvvvvvvwvwwvwvwvwvwvwvwvwvwvwwvwvwvwvwvwvwvwvvwvwvwvv","jar":"./N3RD/J/hfq.jar"},
+{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.lyyytv.cn###d2f9e0f2ab7a392b","jar":"./N3RD/J/hfq.jar"},
 {"key":"csp_Kuying","name":"雷蒙影视 | 💡酷影(SP)","type":3,"api":"csp_Kuying","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_WebFreeOk_ZAL","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_WebFreeOk","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/XP/freeok.json"},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
