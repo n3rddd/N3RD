@@ -42,13 +42,16 @@
 {"key":"drjs_aipanso_PG","name":"雷蒙影视 | 🧲爱盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/aipanso.js"},
 {"key":"drjs_funletu_PG","name":"雷蒙影视 | 🧲趣盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/funletu.js"},
 
-{"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/pg.txt"},
+{"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/pg.txt"}
+]
   
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
-{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
+{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
+{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
 {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
-{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
+{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
+],
 
 "rules":[
 {"name":"磁力廣告","hosts":["magnet"],"regex":["更多","更 多","社區","社 區","x u u","xuu","最新","最 新","直播","直 播","更新","更 新","社区","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
@@ -57,7 +60,8 @@
 {"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}],
+{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}
+],
 
 "ads": [
 "wan.51img1.com",
@@ -121,5 +125,6 @@
 "cdnjs.hnfenxun.com",
 "cms.qdwght.com",
 "api.htpan.net",
-"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
+"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+]
 }
