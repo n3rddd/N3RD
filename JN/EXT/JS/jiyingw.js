@@ -16,7 +16,7 @@ var rule = {
 	filterable:1,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':'https://ghproxy.com/https://raw.githubusercontent.com/13998394872/Renly/main/TVBox/Json/极影网_Cookie.json',
+         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/jiyingw.txt',
 		'Accept':'*/*',
 		'Referer': 'https://www.jiyingw.net/'
 	},
