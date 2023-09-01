@@ -1,5 +1,5 @@
 {
-"spider":"./N3RD/J/pg.jar;md5;C81D875F53022E96F8EEA089C9FBF22C",
+"spider":"./N3RD/J/pg.jar;md5;E65CF06977132042D91A5D8E3D46146B",
 
 "wallpaper":"https://PIC.clem7.repl.co",
 
@@ -56,6 +56,9 @@
 {"key":"drjs_cilixiong_PG","name":"雷蒙影视 | 🧲磁力熊(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/cilixiong.js"},
 {"key":"drjs_aipanso_PG","name":"雷蒙影视 | 🧲爱盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/aipanso.js"},
 {"key":"drjs_funletu_PG","name":"雷蒙影视 | 🧲趣盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/funletu.js"},
+{"key":"drjs_xzys_PG","name":"雷蒙影视 | 🧲校长影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/xzys.js"},
+{"key":"drjs_dydhhy_PG","name":"雷蒙影视 | 🧲DYD(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dydhhy.js"},
+{"key":"drjs_yyets_PG","name":"雷蒙影视 | 🧲人人影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/yyets.js"},
 
 {"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/pg.txt"}
 ],
