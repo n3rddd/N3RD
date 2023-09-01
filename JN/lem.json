@@ -1,6 +1,6 @@
 {
 
-"spider":"./N3RD/J/lem0901.jar;md5;BC612167F48900199E59AD3B2F68C9F0",
+"spider":"./N3RD/J/lem0901.jar;md5;321E7B732B4D6734ACC469F8DAB72099",
 
 //"spider":"./N3RD/J/lem0823.jar;md5;AFDFD13154850793286DF1EAF224945D",
 //"spider":"./N3RD/J/lem0819.jar;md5;F283675B1DBA32CE2936D348EE144FA6",
@@ -163,7 +163,6 @@
 {"key":"xml_享看","name":"雷蒙影视 | 🚀享看","type":1,"api":"https://xkanzy10.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
   
 //APP
-{"key":"csp_AppYsV2_影探_ZAL","name":"雷蒙影视 | 🖤影探(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"yt#vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn#2.2.230815"},
 {"key":"csp_AppYsV2_酷影_ZAL","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
@@ -327,7 +326,7 @@
 //{"key":"csp_Bttwoo","name":"雷蒙影视 | ✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Dy1010","name":"雷蒙影视 | 🔟双十电影(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kuying","name":"雷蒙影视 | 💡酷影(SP)","type":3,"api":"csp_Kuying","searchable":1,"quickSearch":1,"changeable":1},
-
+//{"key":"csp_AppYsV2_影探_ZAL","name":"雷蒙影视 | 🖤影探(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"yt#vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn#2.2.230815"},
 
 //{"key":"csp_Paper","name":"雷蒙影视 | 😺小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/PanSo/token.txt"},
 //{"key":"Yisou","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
@@ -352,7 +351,7 @@
   
 //MAGNET
 
-{"key":"csp_BTPiaoHua","name":"雷蒙影视 | 🧲新飘花电影网(SP)","type":3,"api":"csp_BTPiaoHua","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_PiaoHua","name":"雷蒙影视 | 🧲新飘花电影网(SP)","type":3,"api":"csp_PiaoHua","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},
 
 {"key":"csp_Mp4Mov_XYQ","name":"雷蒙影视 | 🧲Mp4电影(SP)","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
