@@ -440,6 +440,7 @@
 {"key":"drjs_新视觉影视","name":"雷蒙影视 | 👺新视觉影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新视觉影视.js"},
 {"key":"drjs_乐猪TV","name":"雷蒙影视 | 👺乐猪TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/乐猪TV.js"},
 
+{"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/腾云驾雾.js"},
 {"key":"drjs_酷奇MV","name":"雷蒙影视 | 👺酷奇MV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷奇MV.js"},
 {"key":"drjs_蘑菇","name":"雷蒙影视 | 👺蘑菇(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/蘑菇.js"},
 {"key":"drjs_斗鱼直播","name":"雷蒙影视 | 👺斗鱼直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/斗鱼直播.js"},
@@ -675,7 +676,6 @@
 {"key":"drjs_AnFuns","name":"雷蒙影视 | 👺AnFuns(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/AnFuns.js"},
 {"key":"drjs_555影视","name":"雷蒙影视 | 👺555影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/555影视.js"},
 {"key":"drjs_360影视","name":"雷蒙影视 | 👺360影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/360影视.js"},
-{"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/腾云驾雾.js"},
 {"key":"drjs_奇珍异兽","name":"雷蒙影视 | 👺奇珍异兽(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/奇珍异兽.js"},
 {"key":"drjs_奇优影院","name":"雷蒙影视 | 👺奇优影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/奇优影院.js"},
 {"key":"drjs_影视工厂","name":"雷蒙影视 | 👺影视工厂(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/影视工厂.js"},
