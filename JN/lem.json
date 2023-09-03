@@ -134,7 +134,6 @@
 
 
 // ⇩⇩ XML ⇩⇩ 
-{"key":"xml_魔都","name":"雷蒙影视 | ️🚀魔都","type":1,"api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影"]},
 {"key":"xml_夜兔","name":"雷蒙影视 | ️🚀夜兔","type":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_快车","name":"雷蒙影视 | ️🚀快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","动画片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
 {"key":"xml_火狐","name":"雷蒙影视 | ️🚀火狐","type":1,"style":{"type":"rect","ratio":0.8},"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
@@ -145,6 +144,7 @@
 {"key":"xml_爱酷","name":"雷蒙影视 | 🚀爱酷","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影","连续剧","综艺","动漫"]},
 {"key":"xml_阿里","name":"雷蒙影视 | 🚀阿里","type":1,"api":"https://cms.alyzy.xyz/api.php/provide/vod/","searchable":1,"playUrl":"https://player.emofun.cn/player/ec.php?code=xy&if=1&url=","quickSearch":1},
 {"key":"xml_享看","name":"雷蒙影视 | 🚀享看","type":1,"api":"https://xkanzy10.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_魔都","name":"雷蒙影视 | ️🚀魔都","type":1,"api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影"]},
 
 
 // ⇩⇩ APP ⇩⇩ 
@@ -217,6 +217,8 @@
 {"key":"drjs_dydhhy_PG","name":"雷蒙影视 | 🧲DYD(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dydhhy.js"},
 {"key":"drjs_yyets_PG","name":"雷蒙影视 | 🧲人人影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/yyets.js"},
 {"key":"drjs_libvio_PG","name":"雷蒙影视 | 🧲Libvio(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/libvio.js"},
+{"key":"drjs_ddyspg_PG","name":"雷蒙影视 | 🧲低端(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/ddyspg.js"},
+{"key":"drjs_tzfile_PG","name":"雷蒙影视 | 🧲团长资源(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/tzfile.js"},
 
 //{"key":"csp_Mdygang_ZAL","name":"雷蒙影视 | 🧲电影港(SP)","type":3,"api":"csp_Mdygang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Bt0_ZAL","name":"雷蒙影视 | 🧲不太灵(SP)","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/MAG/bt0.json"},
