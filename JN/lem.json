@@ -1929,6 +1929,27 @@
 {"name":"🧣Yumi-2","type":1,"url":"https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=ej3wiesZW7XTa6ygDD&url=","ext":{"flag":["YuMi-vip","YuMi-AL"]}},
 {"name":"🧣NBY","type":1,"url":"http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=","ext":{"flag":["NBY"]}},
 
+//MMDBB
+{"name":"dy6g","type":0,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","Referer":"https://www.dy6g.com/"}}},
+{"name":"欧歌","type":0,"url":"http://tv.nxog.eu.org/%E6%AC%A7%E6%AD%8C.html?url="},
+{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"大虾","type":"0","url":"https://dm.xmflv.com:4433/?url="},
+{"name":"大米","type":"0","url":"https://dmjx.m3u8.tv/?url="},
+{"name":"17云","type":"0","url":"https://www.1717yun.com/1717yun/?url="},
+{"name":"80哥","type":"0","url":"https://www.8090g.cn/?url="},
+{"name":"90哥","type":"0","url":"https://www.8090g.cn/jiexi/?url="},
+{"name":"play","type":"0","url":"https://www.playm3u8.cn/jiexi.php?url="},
+{"name":"刺客","type":"0","url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"盘古","type":"0","url":"https://www.pangujiexi.com/jiexi/?url="},
+{"name":"WPS","type":0,"url":"http://api.wpsseo.cn/?v=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"皮皮","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"三七","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"饭粒","type":0,"url":"http://91fanli.top/m3u8/?url="},
+{"name":"仨伍","type":0,"url":"https://jiexi.555jiexi.net:555/player/?url="},
+{"name":"阳途","type":0,"url":"https://jx.yangtu.top/?url="},
+
 //XIAOMI
 {"name":"黄黄🍌","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"稻香🌾","type":1,"url":"http://27.124.4.42:4567//jhjson//ceshi.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
