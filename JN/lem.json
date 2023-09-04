@@ -146,6 +146,7 @@
 {"key":"xml_阿里","name":"雷蒙影视 | 🚀阿里","type":1,"api":"https://cms.alyzy.xyz/api.php/provide/vod/","searchable":1,"playUrl":"https://player.emofun.cn/player/ec.php?code=xy&if=1&url=","quickSearch":1},
 {"key":"xml_享看","name":"雷蒙影视 | 🚀享看","type":1,"api":"https://xkanzy10.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_魔都","name":"雷蒙影视 | ️🚀魔都","type":1,"api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影"]},
+{"key":"xml_星影","name":"雷蒙影视 | ️🚀星影","type":1,"api":"https://www.xy1080.net/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 
 // ⇩⇩ APP ⇩⇩ 
