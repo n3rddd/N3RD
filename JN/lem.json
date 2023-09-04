@@ -38,7 +38,7 @@
 "sites":[
 
 // ⇩⇩ Lem缝合包 ⇩⇩ 
-{"key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"雷蒙影视独家资源，私享即可，请勿传播！已支持荐片，请从网址lemmy.tk下载新版雷蒙影视APP。"},
+{"key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"雷蒙影视独家资源，私享即可，请勿传播！"},
 {"key":"公告1","name":"📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./EXT/XB/ANNOUNCEMENT.json"},
 {"key":"Live","name":"雷蒙影视PRO版独享 | 电视直播(开启APP自动进入)","type":3,"api":"csp_Live","searchable":0,"filterable":0,"changeable":0,"ext":"2000"},
 //{"key":"csp_Live2Vod","name":"雷蒙影视 | 🖥电视直播(SP)","type":3,"playerType":1,"api":"csp_Live2Vod","changeable":0,"ext":"雷蒙$./N3RD/JN/tv.txt#百事通$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u#重庆有线$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u#4K8K$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u#爱尚$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u#YSLive$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#FMLive$http://home.jundie.top:81/Cat/tv/live.txt#歌华有线$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u#iTouch$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u"},
@@ -85,7 +85,7 @@
 {"key":"csp_Fantuan","name":"雷蒙影视 | 🍙饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_Jianying","name":"雷蒙影视 | ✂简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_YTVIP","name":"雷蒙影视 | 🏵影探(SP)","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
-{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"f2f9e8f2ab7a692b","passwd":"12345678"},"jar":"./N3RD/J/hfq.jar"},
+{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"f219e8f2ab7a692b","recommend":"http://vipcms.lyyytv.cn/api.php/app/","port":""},"jar":"./N3RD/J/hfq.jar"},
 {"key":"csp_WebFreeOk_ZAL","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_WebFreeOk","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/XP/freeok.json"},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_Ysgc","name":"雷蒙影视 | 🏭影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc1.cc"},
@@ -1447,7 +1447,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Web解析聚合","type":3,"url":"Web"},
   
-//HongFeiQ
+//HFQ
 {"name":"💧左岸","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"💧QQ-4K","type":1,"url":"http://119.91.31.224:81/txqq.php?url=","ext":{"flag":["qq"]}},
 {"name":"💧稻香","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","ext":{"flag":["iqiyi","youku","qq","mgtv"]}},
