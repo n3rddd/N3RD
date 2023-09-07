@@ -272,6 +272,7 @@
 {"key":"drjs_新视觉影视","name":"雷蒙影视 | 👺新视觉影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新视觉影视.js"},
 {"key":"drjs_乐猪TV","name":"雷蒙影视 | 👺乐猪TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/乐猪TV.js"},
 
+{"key":"drjs_小纸条","name":"雷蒙影视 | 👺小纸条(DRPY)","type":3,"api":"./EXT/JS/小纸条.js","searchable":1,"searchable":1,"changeable":1},
 {"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/腾云驾雾.js"},
 {"key":"drjs_酷奇MV","name":"雷蒙影视 | 👺酷奇MV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷奇MV.js"},
 {"key":"drjs_蘑菇","name":"雷蒙影视 | 👺蘑菇(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/蘑菇.js"},
