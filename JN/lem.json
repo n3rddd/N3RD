@@ -1,12 +1,12 @@
 {
 
-"spider":"./N3RD/J/lem0904.jar;md5;DC0B6B20C25BEFC9D83D2EBFC677E41C",
+"spider":"./N3RD/J/lem0907.jar;md5;171A6779EDB193DF7FB528487CCA39A6",
 
+//"spider":"./N3RD/J/lem0904.jar;md5;DC0B6B20C25BEFC9D83D2EBFC677E41C",
 //"spider":"./N3RD/J/lem0901.jar;md5;8312A40665A9420E66CB98E49DD87C7A",
 //"spider":"./N3RD/J/lem0823.jar;md5;AFDFD13154850793286DF1EAF224945D",
 //"spider":"./N3RD/J/lem0819.jar;md5;F283675B1DBA32CE2936D348EE144FA6",
 //"spider":"./N3RD/J/lem0818.jar;md5;831CD6ABB1604F83F61E7526E9925FB1",
-//"spider":"./N3RD/J/lem0816.jar;md5;BE370EC5C86FE7554D1936BD59630BD6",
 
 "wallpaper":"https://PIC.clem7.repl.co",
 
@@ -99,6 +99,8 @@
 {"key":"csp_Bilituys","name":"雷蒙影视 | 🐇哔哩兔(SP)","type":3,"api":"csp_Bilituys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tangrenjie","name":"雷蒙影视 | 🍜唐人街(需翻墙)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_NiNi","name":"雷蒙影视 | 🏝泥巴影院(需翻墙)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Star","name":"雷蒙影视 | ⭐星星(需翻墙)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_YingShi","name":"雷蒙影视 | 🚥影視(需翻墙)","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Anime1","name":"雷蒙影视 | 🤖Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_Acg","name":"雷蒙影视 | 🤖Acg动漫(SP)","type":3,"api":"csp_Acg","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"雷蒙影视 | 🤖动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
@@ -107,6 +109,9 @@
 {"key":"csp_Bdys_XYQ","name":"雷蒙影视 | 📯哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
+{"key":"csp_YingKa_QJ","name":"雷蒙影视 | ☕影咖视频(SP)","type":3,"api":"csp_YingKa","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
+{"key":"csp_DDMJ_QJ","name":"雷蒙影视 | 🍚米酷视频(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.222.188.33:6688"},
+{"key":"csp_DDMJ2_QJ","name":"雷蒙影视 | 🔘剧圈视频(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://211.101.233.143:7788"},
 {"key":"csp_Bdys01_QJ","name":"雷蒙影视 | 📯哔嘀影视(备用)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu_QJ","name":"雷蒙影视 | 🐷乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
 {"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc"},
