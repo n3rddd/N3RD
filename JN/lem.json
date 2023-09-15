@@ -223,7 +223,11 @@
 {"key":"drjs_libvio_PG","name":"雷蒙影视 | 🧲Libvio(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/libvio.js"},
 {"key":"drjs_ddyspg_PG","name":"雷蒙影视 | 🧲低端(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/ddyspg.js"},
 {"key":"drjs_tzfile_PG","name":"雷蒙影视 | 🧲团长资源(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/tzfile.js"},
-
+{"key":"drjs_97tvs_PG","name":"雷蒙影视 | 🧲高清MP4吧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/97tvs.js"},
+{"key":"drjs_meow_PG","name":"雷蒙影视 | 🧲Meow搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/meow.js"},
+{"key":"drjs_qimiao_PG","name":"雷蒙影视 | 🧲奇妙搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/qimiao.js"},
+{"key":"drjs_rrdyw_PG","name":"雷蒙影视 | 🧲RRDY网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/rrdyw.js"},
+ 
 //{"key":"csp_Mdygang_ZAL","name":"雷蒙影视 | 🧲电影港(SP)","type":3,"api":"csp_Mdygang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Bt0_ZAL","name":"雷蒙影视 | 🧲不太灵(SP)","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/MAG/bt0.json"},
 //{"key":"csp_XPath_音范丝","name":"雷蒙影视 | 🧲音范丝(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"./EXT/MAG/yinfans.json"},
