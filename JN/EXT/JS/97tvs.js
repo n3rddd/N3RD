@@ -1,22 +1,24 @@
 var rule = {
-	title:'MP4电影[磁]',
-	host:'https://www.mp4us.com',
+	title:'高清MP4吧',
+	host:'https://www.97tvs.com',
         homeUrl: '/',
-	url: '/list/fyclass-fypage.html?',
+	url: '/fyclass/page/fypage?',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
-	searchUrl: '/search/**-1.html',
+	searchUrl: '/?s=**',
 	searchable:2,
 	quickSearch:0,
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':''
+         	'Cookie':'',
+		'Referer': 'http://www.97tvs.com/'
 	},
+	图片来源:'@Headers={"Accept":"*/*","Referer":"https://www.97tvs.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"}',
 	timeout:5000,
-	class_name: '动作片&科幻片&爱情片&喜剧片&恐怖片&战争片&剧情片&纪录片&动画片&电视剧',
-	class_url: '1&2&3&4&5&6&7&8&9&10',
+  	class_name: "动作片&科幻片&爱情片&喜剧片&剧情片&惊悚片&战争片&灾难片&罪案片&动画片&综艺&电视剧",
+  	class_url: "action&science&love&comedy&story&thriller&war&disaster&crime&cartoon&variety&sitcoms",
 	play_parse:true,
 	play_json:[{
 		re:'*',
@@ -27,21 +29,50 @@ var rule = {
 	}],
 	lazy:'',
 	limit:6,
-	推荐:'div.index_update ul li;a&&Text;;b&&Text;a&&href',
-	一级:'div#list_all ul li;img.lazy&&alt;img.lazy&&data-original;span.update_time&&Text;a&&href',
+	推荐:`js:
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+let d = [];
+let html = request(input);
+let list = pdfa(html, 'div.mainleft ul#post_container li');
+list.forEach(it => {
+	d.push({
+		title: pdfh(it, 'div.thumbnail img&&alt'),
+		desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
+		pic_url: pd(it, 'div.thumbnail img&&src', HOST),
+		url: pd(it, 'div.thumbnail&&a&&href',HOST)
+	});
+});
+setResult(d);
+	`,
+	一级:`js:
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+let d = [];
+let html = request(input);
+let list = pdfa(html, 'div.mainleft ul#post_container li');
+list.forEach(it => {
+	d.push({
+		title: pdfh(it, 'div.thumbnail img&&alt'),
+		desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
+		pic_url: pd(it, 'div.thumbnail img&&src', HOST),
+		url: pd(it, 'div.thumbnail&&a&&href',HOST)
+	});
+})
+setResult(d);
+`,
 	二级:{
-		title:"div.article-header h1&&Text",
-		img:"div.article-header div.pic img&&src",
-		desc:'div.article-header div.text&&Text',
-		content:'div.article-related.info p&&Text',
+		title:"div.article_container h1&&Text",
+		img:"div#post_content img&&src",
+		desc:"div#post_content&&Text",
+		content:"div#post_content&&Text",
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-let d = pdfa(html, 'ul.down-list&&li a');
+let d = pdfa(html, 'div#post_content p');
 let tabsa = [];
 let tabsq = [];
 let tabsm = false;
 let tabse = false;
+let tabm3u8 = [];
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
 	if (burl.startsWith("https://www.aliyundrive.com/s/")){
@@ -60,9 +91,6 @@ if (tabsm === true){
 if (tabse === true){
 	TABS.push("電驢");
 }
-if (false && tabsa.length + tabsq.length > 1){
-	TABS.push("選擇右側綫路");
-}
 let tmpIndex;
 tmpIndex=1;
 tabsa.forEach(function(it){
@@ -74,22 +102,26 @@ tabsq.forEach(function(it){
 	TABS.push(it + tmpIndex);
 	tmpIndex = tmpIndex + 1;
 });
-log('mp4us TABS >>>>>>>>>>>>>>>>>>' + TABS);
+tabm3u8.forEach(function(it){
+	TABS.push(it);
+});
+log('97tvs TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
-let d = pdfa(html, 'ul.down-list&&li a');
+let d = pdfa(html, 'div#post_content p');
 let lista = [];
 let listq = [];
 let listm = [];
 let liste = [];
+let listm3u8 = {};
 d.forEach(function(it){
 	let burl = pdfh(it, 'a&&href');
 	let title = pdfh(it, 'a&&Text');
-	log('dygang title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-	log('dygang burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	log('97tvs title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+	log('97tvs burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
 	if (burl.startsWith("https://www.aliyundrive.com/s/")){
 		if (true){
@@ -99,8 +131,8 @@ d.forEach(function(it){
 			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
 		}
 		}else{
-			burl = "push://" + burl;
-		}
+                        burl = "push://" + burl;
+                }
 		loopresult = title + '$' + burl;
 		lista.push(loopresult);
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
@@ -122,13 +154,10 @@ d.forEach(function(it){
 	}
 });
 if (listm.length>0){
-	LISTS.push(listm.reverse());
+	LISTS.push(listm);
 }
 if (liste.length>0){
-	LISTS.push(liste.reverse());
-}
-if (false && lista.length + listq.length > 1){
-	LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
+	LISTS.push(liste);
 }
 lista.forEach(function(it){
 	LISTS.push([it]);
@@ -136,41 +165,37 @@ lista.forEach(function(it){
 listq.forEach(function(it){
 	LISTS.push([it]);
 });
+for ( const key in listm3u8 ){
+	if (listm3u8.hasOwnProperty(key)){
+		LISTS.push(listm3u8[key]);
+	}
+};
 `,
 
 	},
 	搜索:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-if (rule_fetch_params.headers.Cookie.startsWith("http")){
-	rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
-	let cookie = rule_fetch_params.headers.Cookie;
-	setItem(RULE_CK, cookie);
-};
-log('mp4us seach cookie>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
-let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
-//log("mp4us search params>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-let search_html = request( HOST + '/search/' + encodeURIComponent(KEY) + '-1.html', _fetch_params)
-//log("mp4us search result>>>>>>>>>>>>>>>" + search_html);
+let search_html = request(input)
+//log("97tvs search result>>>>>>>>>>>>>>>" + search_html);
 let d=[];
-//'div#list_all li;img.lazy&&alt;img.lazy&&src;div.text_info h2&&Text;a&&href;p.info&&Text',
-let dlist = pdfa(search_html, 'div#list_all li');
+let dlist = pdfa(search_html, 'div.mainleft ul#post_container li');
 dlist.forEach(function(it){
-	let title = pdfh(it, 'img.lazy&&alt');
+	let title = pdfh(it, 'div.thumbnail img&&alt').replace( /(<([^>]+)>)/ig, '');
 	if (title.includes(KEY)){
 		if (searchObj.quick === true){
 			title = KEY;
 		}
-		let img = pd(it, 'img.lazy&&src', HOST);
-		let content = pdfh(it, 'div.text_info h2&&Text');
-		let desc = pdfh(it, 'p.info&&Text');
-		let url = pd(it, 'a&&href', HOST);
+		let img = pd(it, 'div.thumbnail img&&src', HOST);
+		let content = pdfh(it, 'div.article div.entry_post&&Text');
+		let desc = pdfh(it, 'div.info&&span.info_date&&Text');
+		let url = pd(it, 'div.thumbnail&&a&&href', HOST);
 		d.push({
 			title:title,
 			img:img,
 			content:content,
 			desc:desc,
 			url:url
-			})
+			});
 	}
 });
 setResult(d);
