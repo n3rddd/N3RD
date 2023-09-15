@@ -159,7 +159,7 @@
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
 {"key":"csp_AppYsV2_玉米","name":"雷蒙影视 | 🖤玉米(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.iptv.ski/api.php/app/"},
-{"key":"csp_AppYsV2_率率","name":"雷蒙影视 | 🖤率率(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://s.ether-mine.com/api.php/app/"},
+{"key":"csp_AppYsV2_率率","name":"雷蒙影视 | 🖤率率(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://caiji.ghlyys.com/yumi/api.php/app/"},
 {"key":"csp_AppYsV2_爱迪","name":"雷蒙影视 | 🖤爱迪(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"csp_AppYsV2_爱迪2","name":"雷蒙影视 | 🖤爱迪2(APP)","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_AppYsV2_迷你库","name":"雷蒙影视 | 🖤迷你库(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
@@ -278,8 +278,11 @@
 {"key":"drjs_农民影视","name":"雷蒙影视 | 👺农民影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/农民影视.js"},
 {"key":"drjs_新视觉影视","name":"雷蒙影视 | 👺新视觉影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新视觉影视.js"},
 {"key":"drjs_乐猪TV","name":"雷蒙影视 | 👺乐猪TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/乐猪TV.js"},
-
 {"key":"drjs_小纸条","name":"雷蒙影视 | 👺小纸条(DRPY)","type":3,"api":"./EXT/JS/小纸条.js","searchable":1,"searchable":1,"changeable":1},
+ 
+{"key":"drjs_哔哩直播","name":"雷蒙影视 | 👺哔哩直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/哔哩直播.js"},
+{"key":"drjs_哔哩影视","name":"雷蒙影视 | 👺哔哩影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/哔哩影视.js"},
+{"key":"drjs_JustLive","name":"雷蒙影视 | 👺JustLive(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/JustLive.js"},
 {"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/腾云驾雾.js"},
 {"key":"drjs_酷奇MV","name":"雷蒙影视 | 👺酷奇MV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷奇MV.js"},
 {"key":"drjs_蘑菇","name":"雷蒙影视 | 👺蘑菇(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/蘑菇.js"},
@@ -289,9 +292,6 @@
 {"key":"drjs_影探[V2]","name":"雷蒙影视 | 👺影探[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/影探[V2].js"},
 {"key":"drjs_F7好看剧[V2]","name":"雷蒙影视 | 👺F7好看剧[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/F7好看剧[V2].js"},
 {"key":"drjs_爱弹幕","name":"雷蒙影视 | 👺爱弹幕(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱弹幕.js"},
-{"key":"drjs_哔哩直播","name":"雷蒙影视 | 👺哔哩直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/哔哩直播.js"},
-{"key":"drjs_哔哩影视","name":"雷蒙影视 | 👺哔哩影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/哔哩影视.js"},
-{"key":"drjs_JustLive","name":"雷蒙影视 | 👺JustLive(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/JustLive.js"},
 {"key":"drjs_有声小说吧","name":"雷蒙影视 | 👺有声小说吧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/有声小说吧.js"},
 {"key":"drjs_影视之家","name":"雷蒙影视 | 👺影视之家(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/影视之家.js"},
 {"key":"drjs_007影视","name":"雷蒙影视 | 👺007影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/007影视.js"},
