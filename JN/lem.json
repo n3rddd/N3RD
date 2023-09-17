@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0907.jar;md5;171A6779EDB193DF7FB528487CCA39A6",
+"spider":"./N3RD/J/lem0917.jar;md5;C46073BEF3B84AABB9EC1A0583D03FC3",
 
+//"spider":"./N3RD/J/lem0907.jar;md5;171A6779EDB193DF7FB528487CCA39A6",
 //"spider":"./N3RD/J/lem0904.jar;md5;DC0B6B20C25BEFC9D83D2EBFC677E41C",
 //"spider":"./N3RD/J/lem0901.jar;md5;8312A40665A9420E66CB98E49DD87C7A",
 //"spider":"./N3RD/J/lem0823.jar;md5;AFDFD13154850793286DF1EAF224945D",
@@ -71,6 +72,7 @@
 {"key":"csp_Wogg","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"./N3RD/T/t.txt","filter":"./N3RD/T/wogg.json"}},
 {"key":"csp_Czsapp","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Czsapp2_ZAL","name":"雷蒙影视 | 👴厂长资源(备用)","type":3,"api":"csp_Czsapp2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz01.me"},
+{"key":"csp_Mayiys","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc"},
 {"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
 {"key":"csp_Cokemv","name":"雷蒙影视 | 🥤Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
@@ -117,7 +119,6 @@
 {"key":"csp_DDMJ2_QJ","name":"雷蒙影视 | 🔘剧圈视频(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://211.101.233.143:7788"},
 {"key":"csp_Bdys01_QJ","name":"雷蒙影视 | 📯哔嘀影视(备用)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu_QJ","name":"雷蒙影视 | 🐷乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
-{"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc"},
 {"key":"csp_KanKan_QJ","name":"雷蒙影视 | 👁看看视频(SP)","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ShiLiuDY_QJ","name":"雷蒙影视 | 🍇石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
 {"key":"csp_NanGua_QJ","name":"雷蒙影视 | 🎃南瓜影视(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
@@ -161,7 +162,7 @@
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
 {"key":"csp_AppYsV2_玉米","name":"雷蒙影视 | 🖤玉米(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.iptv.ski/api.php/app/"},
-{"key":"csp_AppYsV2_率率","name":"雷蒙影视 | 🖤率率(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://caiji.ghlyys.com/yumi/api.php/app/"},
+{"key":"csp_AppYsV2_率率","name":"雷蒙影视 | 🖤率率(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://22222.yiyingys.asia/api.php/app/"},
 {"key":"csp_AppYsV2_爱迪","name":"雷蒙影视 | 🖤爱迪(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"csp_AppYsV2_爱迪2","name":"雷蒙影视 | 🖤爱迪2(APP)","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_AppYsV2_迷你库","name":"雷蒙影视 | 🖤迷你库(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
