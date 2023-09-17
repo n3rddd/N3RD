@@ -110,7 +110,7 @@
 {"key":"csp_Bdys_XYQ","name":"雷蒙影视 | 📯哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
-{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://vip.lyyytv.cn","maccode":"f219e8f2ab7a692b","recommend":"","port":""},"jar":"./N3RD/J/hfq.jar"},
+{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766921","recommend":"http://vipcms.lyyytv.cn/api.php/app/","ip":"120.235.62.207"},"jar":"./N3RD/J/hfq.jar"},
 {"key":"csp_Maolv_MULTIJAR","name":"雷蒙影视 | 🐴毛驴(MULTI)","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
