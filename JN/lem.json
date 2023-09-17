@@ -75,7 +75,7 @@
 {"key":"csp_Mayiys","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc"},
 {"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
 {"key":"csp_Cokemv","name":"雷蒙影视 | 🥤Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_Zxzj","name":"雷蒙影视 | 📹在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_YQK","name":"雷蒙影视 | 📺一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_AppMr","name":"雷蒙影视 | 👻明日影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
