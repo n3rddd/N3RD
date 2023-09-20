@@ -1,13 +1,13 @@
 {
 
-"spider":"./N3RD/J/lem0917.jar;md5;C46073BEF3B84AABB9EC1A0583D03FC3",
+"spider":"./N3RD/J/lem0920.jar;md5;133986118F97313C2860024E081AB70A",
 
+//"spider":"./N3RD/J/lem0917.jar;md5;C46073BEF3B84AABB9EC1A0583D03FC3",
 //"spider":"./N3RD/J/lem0907.jar;md5;171A6779EDB193DF7FB528487CCA39A6",
 //"spider":"./N3RD/J/lem0904.jar;md5;DC0B6B20C25BEFC9D83D2EBFC677E41C",
 //"spider":"./N3RD/J/lem0901.jar;md5;8312A40665A9420E66CB98E49DD87C7A",
 //"spider":"./N3RD/J/lem0823.jar;md5;AFDFD13154850793286DF1EAF224945D",
 //"spider":"./N3RD/J/lem0819.jar;md5;F283675B1DBA32CE2936D348EE144FA6",
-//"spider":"./N3RD/J/lem0818.jar;md5;831CD6ABB1604F83F61E7526E9925FB1",
 
 "wallpaper":"https://PIC.clem7.repl.co",
 
@@ -46,6 +46,7 @@
 {"key":"csp_Live2Vod","name":"雷蒙影视 | 🖥电视直播(SP)","type":3,"playerType":1,"api":"csp_Live2Vod","changeable":0,"ext":"./EXT/JS/直播.js"},
 {"key":"drjs_直播","name":"雷蒙影视 | 🖥电视直播(DRJS)","type":3,"playerType":1,"api":"./EXT/JS/直播转点播.js","changeable":0,"ext":"./EXT/JS/直播.js&&&./N3RD/W/IMG.jpg"},
 {"key":"csp_CCTV_ZAL","name":"雷蒙影视 | ©央视(SP)","type":3,"api":"csp_CCTV","searchable":1,"filterable":0,"changeable":0,"ext":"./EXT/XB/cctv.json"},
+{"key":"csp_FirstAid","name":"雷蒙影视 | 🚑急救教学(SP)","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"YOUTUBE直播","name":"雷蒙影视 | ▶YOUTUBE直播【翻墙观看】▶","type":3,"playerType":2,"api":"./EXT/JS/lf_live8_min.js","ext":"./EXT/JS/YT.txt"},
 {"key":"雷蒙影视K歌库","name":"雷蒙影视 | 🎤雷蒙影视K歌库【选[音轨]切换原音/伴奏】🎤","type":1,"api":"https://mv.clem7.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"T4_豆瓣搜索","name":"雷蒙影视 | 📡豆瓣搜索(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://box.smjc.cc/box/JS/lib/token.txt","searchable":1,"quickSearch":1,"filterable":1},
@@ -73,7 +74,7 @@
 {"key":"csp_Czsapp","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Czsapp2_ZAL","name":"雷蒙影视 | 👴厂长资源(备用)","type":3,"api":"csp_Czsapp2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz01.me"},
 {"key":"csp_Mayiys","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc"},
-{"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
+{"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/"},
 {"key":"csp_Cokemv","name":"雷蒙影视 | 🥤Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_Zxzj","name":"雷蒙影视 | 📹在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
@@ -84,6 +85,7 @@
 {"key":"csp_Auete","name":"雷蒙影视 | 🎀Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"雷蒙影视 | 🌀Voflix(SP)","type":"3","api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix2","name":"雷蒙影视 | 🌀Voflix(备用)","type":"3","api":"csp_Voflix2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.me/"},
+{"key":"csp_Bttwoo","name":"雷蒙影视 | ✌两个BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"雷蒙影视 | 🍙饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_Jianying","name":"雷蒙影视 | ✂简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_YTVIP","name":"雷蒙影视 | 🏵影探(SP)","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
@@ -112,7 +114,8 @@
 // ⇩⇩ MULTIJAR ⇩⇩ 
 {"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766921","recommend":"http://vipcms.lyyytv.cn/api.php/app/","ip":"120.235.62.207"},"jar":"./N3RD/J/hfq.jar"},
 {"key":"csp_Maolv_MULTIJAR","name":"雷蒙影视 | 🐴毛驴(MULTI)","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
-
+{"key":"csp_XiaoYa_MULTIJAR","name":"雷蒙影视 | 🙋‍♀️小雅(MULTI)","type":3,"api":"csp_XiaoYa","searchable":1,,"quickSearch":1,"filterable":1,"changeable":0,"ext":"eyJhcGlLZXkiOiIxNWJjMjRjYS00ODBhLTQ1ODktOWFmYi02ZjJmMmNjYjk4MGYiLCJhcGkiOiJodHRwOi8vMjE4Ljc5LjExNi45OjkyNDUifQ==","jar":"./N3RD/J/xiaoya.jar"},
+ 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_YingKa_QJ","name":"雷蒙影视 | ☕影咖视频(SP)","type":3,"api":"csp_YingKa","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_DDMJ_QJ","name":"雷蒙影视 | 🍚米酷视频(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.222.188.33:6688"},
@@ -162,6 +165,7 @@
 {"key":"csp_AppYsV2_酷影_ZAL","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
+{"key":"csp_AppYsV2_奇奇","name":"雷蒙影视 | 🖤奇奇(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 {"key":"csp_AppYsV2_爱迪","name":"雷蒙影视 | 🖤爱迪(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"csp_AppYsV2_爱迪2","name":"雷蒙影视 | 🖤爱迪2(APP)","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_AppYsV2_迷你库","name":"雷蒙影视 | 🖤迷你库(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
