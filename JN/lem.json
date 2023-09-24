@@ -115,7 +115,7 @@
 {"key":"csp_Maolv_MULTIJAR","name":"雷蒙影视 | 🐴毛驴(MULTI)","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
 {"key":"csp_YQKan_MULTIJAR","name":"雷蒙影视 | 📺一起看(MULTI)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
 {"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766921","recommend":"http://vipcms.lyyytv.cn/api.php/app/","ip":"120.235.62.207"},"jar":"./N3RD/J/hfq.jar"},
-{"key":"csp_XiaoYa_MULTIJAR","name":"雷蒙影视 | 🙋‍♀️小雅(MULTI)","type":3,"api":"csp_XiaoYa","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"eyJhcGlLZXkiOiIxNWJjMjRjYS00ODBhLTQ1ODktOWFmYi02ZjJmMmNjYjk4MGYiLCJhcGkiOiJodHRwOi8vMjE4Ljc5LjExNi45OjkyNDUifQ==","jar":"./N3RD/J/xiaoya.jar"},
+{"key":"csp_XiaoYa_MULTIJAR","name":"雷蒙影视 | 🙋‍♀️小雅(MULTI)","type":3,"api":"csp_XiaoYa","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"eyJhcGlLZXkiOiJjYzA1OTA2NS1iOGI3LTQ2ZTEtYWY3NS1jZjQ2Yzk5NDk0ODUiLCJhcGkiOiJodHRwOi8vNDMuMTM4LjE1NS4xNDA6NDU2NyJ9","jar":"./N3RD/J/xiaoya.jar"},
  
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_YingKa_QJ","name":"雷蒙影视 | ☕影咖视频(SP)","type":3,"api":"csp_YingKa","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
