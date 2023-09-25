@@ -113,11 +113,6 @@
 {"key":"csp_Ysj","name":"雷蒙影视 | 🤖异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bdys_XYQ","name":"雷蒙影视 | 📯哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 
-// ⇩⇩ MULTIJAR ⇩⇩ 
-{"key":"csp_YQKan_MULTIJAR","name":"雷蒙影视 | 📺一起看(MULTI)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
-{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766922","recommend":"http://vipcms.lyyytv.cn/api.php/app/","port":"","ip":""},"jar":"./N3RD/J/hfq.jar"},
-//{"key":"csp_XiaoYa_MULTIJAR","name":"雷蒙影视 | 🙋‍♀️小雅(MULTI)","type":3,"api":"csp_XiaoYa","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"eyJhcGlLZXkiOiJjYzA1OTA2NS1iOGI3LTQ2ZTEtYWY3NS1jZjQ2Yzk5NDk0ODUiLCJhcGkiOiJodHRwOi8vNDMuMTM4LjE1NS4xNDA6NDU2NyJ9","jar":"./N3RD/J/xiaoya.jar"},
- 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_YingKa_QJ","name":"雷蒙影视 | ☕影咖视频(SP)","type":3,"api":"csp_YingKa","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_DDMJ_QJ","name":"雷蒙影视 | 🍚米酷视频(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.222.188.33:6688"},
@@ -134,16 +129,20 @@
 {"key":"csp_Music_QJ","name":"雷蒙影视 | 🎵音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1},
 
 // ⇩⇩ CM SPIDER ⇩⇩ 
-{"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
-{"key":"csp_CandyMuj_sstv","name":"雷蒙影视 | 🚗速搜影院(SP)","type":3,"api":"csp_CandyMuj_sstv","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CandyMuj_sstv","name":"雷蒙影视 | 🚗速搜影院(SP)","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_haokongbu","name":"雷蒙影视 | 🧛‍♂️好恐怖(SP)","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_taoju","name":"雷蒙影视 | 🌊淘剧影院(SP)","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_lm5","name":"雷蒙影视 | 🌃星辰影院(SP)","type":3,"api":"csp_CandyMuj_lm5","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_CandyMuj_lm5","name":"雷蒙影视 | 🌃星辰影院(SP)","type":3,"api":"csp_CandyMuj_lm5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_cokemv","name":"雷蒙影视 | 🥤Cokemv(备用)","type":3,"api":"csp_CandyMuj_cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_yinfans","name":"雷蒙影视 | 🧲音范丝(SP)","type":3,"api":"csp_CandyMuj_yinfans","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_qiqiyy","name":"雷蒙影视 | 👩琪琪影院(SP)","type":3,"api":"csp_CandyMuj_qiqiyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_nkvod","name":"雷蒙影视 | 🔱耐看点播(SP)","type":3,"api":"csp_CandyMuj_nkvod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_yzzy","name":"雷蒙影视 | 💯优质资源(SP)","type":3,"api":"csp_CandyMuj_yzzy","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_CandyMuj_yzzy","name":"雷蒙影视 | 💯优质资源(SP)","type":3,"api":"csp_CandyMuj_yzzy","searchable":1,"quickSearch":1,"filterable":1},
+
+// ⇩⇩ MULTIJAR ⇩⇩ 
+{"key":"csp_YQKan_MULTIJAR","name":"雷蒙影视 | 📺一起看(MULTI)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
+{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766922","recommend":"http://vipcms.lyyytv.cn/api.php/app/","port":"","ip":""},"jar":"./N3RD/J/hfq.jar"},
 
 // ⇩⇩ 搜索 ⇩⇩ 
 {"key":"csp_Hdhive_ZAL","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
