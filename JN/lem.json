@@ -74,6 +74,7 @@
 {"key":"csp_Czsapp","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Czsapp2_ZAL","name":"雷蒙影视 | 👴厂长资源(备用)","type":3,"api":"csp_Czsapp2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz01.me"},
 {"key":"csp_Mayiys","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc"},
+{"key":"csp_Maolv","name":"雷蒙影视 | 🐴毛驴(SP)","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type": 3,"api": "csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/"},
 {"key":"csp_Cokemv","name":"雷蒙影视 | 🥤Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
@@ -89,7 +90,7 @@
 {"key":"csp_Fantuan","name":"雷蒙影视 | 🍙饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_Jianying","name":"雷蒙影视 | ✂简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_YTVIP","name":"雷蒙影视 | 🏵影探(SP)","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
-{"key":"csp_WebFreeOk_ZAL","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_WebFreeOk","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/XP/freeok.json"},
+{"key":"csp_WebFreeOk_ZAL","name":"雷蒙影视 | 🆗FreeOK(XPSP)","type":3,"api":"csp_WebFreeOk","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/XP/freeok.json"},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_Ysgc","name":"雷蒙影视 | 🏭影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc1.cc"},
 {"key":"csp_SP33","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -112,7 +113,6 @@
 {"key":"csp_Bdys_XYQ","name":"雷蒙影视 | 📯哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
-{"key":"csp_Maolv_MULTIJAR","name":"雷蒙影视 | 🐴毛驴(MULTI)","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
 {"key":"csp_YQKan_MULTIJAR","name":"雷蒙影视 | 📺一起看(MULTI)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
 {"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766922","recommend":"http://vipcms.lyyytv.cn/api.php/app/","port":"","ip":""},"jar":"./N3RD/J/hfq.jar"},
 //{"key":"csp_XiaoYa_MULTIJAR","name":"雷蒙影视 | 🙋‍♀️小雅(MULTI)","type":3,"api":"csp_XiaoYa","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"eyJhcGlLZXkiOiJjYzA1OTA2NS1iOGI3LTQ2ZTEtYWY3NS1jZjQ2Yzk5NDk0ODUiLCJhcGkiOiJodHRwOi8vNDMuMTM4LjE1NS4xNDA6NDU2NyJ9","jar":"./N3RD/J/xiaoya.jar"},
@@ -131,6 +131,18 @@
 {"key":"csp_SC1080_QJ","name":"雷蒙影视 | 🕐时常影视(SP)","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_HDMOLI_QJ","name":"雷蒙影视 | 🌼HDMOLI(SP)","api":"csp_HDMOLI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Music_QJ","name":"雷蒙影视 | 🎵音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1},
+
+// ⇩⇩ CM SPIDER ⇩⇩ 
+{"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
+{"key":"csp_CandyMuj_sstv","name":"雷蒙影视 | 🚗速搜影院(SP)","type":3,"api":"csp_CandyMuj_sstv","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_CandyMuj_haokongbu","name":"雷蒙影视 | 🧛‍♂️好恐怖(SP)","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CandyMuj_taoju","name":"雷蒙影视 | 🌊淘剧影院(SP)","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CandyMuj_lm5","name":"雷蒙影视 | 🌃星辰影院(SP)","type":3,"api":"csp_CandyMuj_lm5","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_CandyMuj_cokemv","name":"雷蒙影视 | 🥤Cokemv(备用)","type":3,"api":"csp_CandyMuj_cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CandyMuj_yinfans","name":"雷蒙影视 | 🧲音范丝(SP)","type":3,"api":"csp_CandyMuj_yinfans","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CandyMuj_qiqiyy","name":"雷蒙影视 | 👩琪琪影院(SP)","type":3,"api":"csp_CandyMuj_qiqiyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CandyMuj_nkvod","name":"雷蒙影视 | 🔱耐看点播(SP)","type":3,"api":"csp_CandyMuj_nkvod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CandyMuj_yzzy","name":"雷蒙影视 | 💯优质资源(SP)","type":3,"api":"csp_CandyMuj_yzzy","searchable":0,"quickSearch":0,"filterable":1},
 
 // ⇩⇩ 搜索 ⇩⇩ 
 {"key":"csp_Hdhive_ZAL","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
@@ -207,7 +219,7 @@
 {"key":"csp_BLSGod_XYQ","name":"雷蒙影视 | 🧲80S影视(SP)","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xunlei8_XYQ","name":"雷蒙影视 | 🧲迅雷吧(SP)","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_MagnetYinfans_ZAL","name":"雷蒙影视 | 🧲音范丝(SP)","type":3,"api":"csp_MagnetYinfans","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MagnetYinfans_ZAL","name":"雷蒙影视 | 🧲音范丝(备用)","type":3,"api":"csp_MagnetYinfans","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Magnet4khdr_ZAL","name":"雷蒙影视 | 🧲4KHDR(SP)","type":3,"api":"csp_Magnet4khdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MagnetSeedhub_ZAL","name":"雷蒙影视 | 🧲SEED(SP)","type":3,"api":"csp_MagnetSeedhub","searchable":1,"quickSearch": 1,"filterable":1},
 {"key":"csp_MagnetMy4k_ZAL","name":"雷蒙影视 | 🧲蚂蚁4K(SP)","type":3,"api":"csp_MagnetMy4k","searchable":1,"quickSearch": 1,"filterable":1},
