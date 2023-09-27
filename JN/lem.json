@@ -173,28 +173,21 @@
 {"key":"xml_49","name":"雷蒙影视 | ️🚀49","type":1,"api":"https://49zyw.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影解说","国产剧","欧美剧","日剧","韩国剧","海外据","台湾剧","香港剧","泰国剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","奇幻片","动画片","日本动漫","欧美动漫","国产动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
 {"key":"xml_索尼","name":"雷蒙影视 | ️🚀索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","伦理片"]},
 {"key":"xml_快帆","name":"雷蒙影视 | ️🚀快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","恐怖片","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
-
+{"key":"xml_海外看","name":"雷蒙影视 | ️🚀海外看","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
  
 // ⇩⇩ APP ⇩⇩ 
 {"key":"csp_AppYsV2_酷影_ZAL","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
-{"key":"csp_AppYsV2_奇奇","name":"雷蒙影视 | 🖤奇奇(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 {"key":"csp_AppYsV2_爱迪","name":"雷蒙影视 | 🖤爱迪(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"csp_AppYsV2_爱迪2","name":"雷蒙影视 | 🖤爱迪2(APP)","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_AppYsV2_迷你库","name":"雷蒙影视 | 🖤迷你库(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"csp_AppYsV2_光影猫","name":"雷蒙影视 | 🖤光影猫(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://gymcms.xn--654a.cc/api.php/app/"},
-{"key":"csp_AppYsV2_天天","name":"雷蒙影视 | 🖤天天(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ttsp.live/api.php/app/"},
-{"key":"csp_AppYsV2_酷酷","name":"雷蒙影视 | 🖤酷酷(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://ys.realdou.cn:2683/api.php/app/"},
 {"key":"csp_AppYsV2_陌陌","name":"雷蒙影视 | 🖤陌陌(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://wushutvcms.byzz.top/api.php/app/"},
 {"key":"csp_AppYsV2_哈喽","name":"雷蒙影视 | 🖤哈喽(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
-{"key":"csp_AppYsV2_蚂蚁","name":"雷蒙影视 | 🖤蚂蚁(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wushutvcms.byzz.top/api.php/app/"},
 {"key":"csp_AppYsV2_泰泰","name":"雷蒙影视 | 🖤泰泰(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"csp_AppYsV2_酷喵","name":"雷蒙影视 | 🖤酷喵(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"http://wkking.top/ikumiao_api.php/v1.vod"},
-{"key":"csp_AppYsV2_北极狐","name":"雷蒙影视 | 🖤北极狐(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"csp_AppYsV2_咕噜","name":"雷蒙影视 | 🖤咕噜(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
-{"key":"csp_AppYsV2_看看剧","name":"雷蒙影视 | 🖤看看剧(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://kankanju.cc/api.php/app/"},
-{"key":"csp_AppYsV2_明帝影视","name":"雷蒙影视 | 🖤明帝影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
 {"key":"csp_AppYsV2_速看100","name":"雷蒙影视 | 🖤速看100(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/"},
 
 
