@@ -1,7 +1,7 @@
 import { Crypto, load, _ } from './lib/cat.js';
 
 let key = 'ikanbot';
-let url = 'https://www.ikanbot.com';
+let url = 'https://www.aikanbot.com';
 let siteKey = '';
 let siteType = 0;
 
@@ -116,7 +116,7 @@ async function detail(id) {
 		vod_area: $(detail).find('h3:nth-child(4)').text(),
 		vod_actor: $(detail).find('h3:nth-child(5)').text(),
 	};
-	const res = await req(url + '/api/getResN?videoId=' + id.substring(id.lastIndexOf('/') + 1) + '&mtype=2', {
+	const res = await req(url + '/api/getResN?videoId=' + id.substring(id.lastIndexOf('/') + 1) + '&mtype=2&token=9109590b194731fde643ce27924fcf6f', {
 		headers: {
 			Referer: 'play',
 			'User-Agent': UA,
@@ -140,25 +140,25 @@ async function detail(id) {
 			arr.push({
 				flag: '快看',
 				url: playlist[key],
-				sort: 1
+				sort: 4
 			})
 		} else if ('bfzym3u8' == key) {
 			arr.push({
 				flag: '暴风',
 				url: playlist[key],
-				sort: 2
+				sort: 1
 			})
 		} else if ('ffm3u8' == key) {
 			arr.push({
 				flag: '非凡',
 				url: playlist[key],
-				sort: 3
+				sort: 2
 			})
 		} else if ('lzm3u8' == key) {
 			arr.push({
 				flag: '量子',
 				url: playlist[key],
-				sort: 4
+				sort: 3
 			})
 		} else {
 			arr.push({
