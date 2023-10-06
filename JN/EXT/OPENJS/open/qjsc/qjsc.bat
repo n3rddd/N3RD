@@ -1,0 +1,1 @@
+%~dp0\qjsc_open.exe -I %~dp0\..\ -O %~dp0\bytecode -m -c  kunyu77_open.js
