@@ -1,6 +1,6 @@
 {
 
-"spider":"./N3RD/J/lem1006.jar;md5;787F1E06ACFE866AEB795AA0DD40DE2F",
+"spider":"./N3RD/J/lem1006.jar;md5;EEDE50D570226EEEC10D72CF474DB755",
 
 //"spider":"./N3RD/J/lem0925.jar;md5;5C19C0FC4006D824177FCCB1D9007038",
 //"spider":"./N3RD/J/lem0920.jar;md5;133986118F97313C2860024E081AB70A",
@@ -51,7 +51,6 @@
 {"key":"csp_FirstAid","name":"雷蒙影视 | 🚑急救教学(SP)","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"YOUTUBE直播","name":"雷蒙影视 | ▶YOUTUBE直播【翻墙观看】▶","type":3,"playerType":2,"api":"./EXT/JS/lf_live8_min.js","ext":"./EXT/JS/YT.txt"},
 {"key":"雷蒙影视K歌库","name":"雷蒙影视 | 🎤雷蒙影视K歌库【选[音轨]切换原音/伴奏】🎤","type":1,"api":"https://mv.clem7.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"T4_豆瓣搜索","name":"雷蒙影视 | 📡豆瓣搜索(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://box.smjc.cc/box/JS/lib/token.txt","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DouDou","name":"雷蒙影视 | 📡豆瓣片单(SP)","type":3,"api":"csp_DouDou","searchable":0},
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 //{"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search2_min.js"},
@@ -117,9 +116,10 @@
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_YQK_QJ","name":"雷蒙影视 | 📺一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-aws.ctdy.cc"},
-{"key":"csp_Appto_追忆影视_QJ","name":"雷蒙影视 | 🍊追忆影视(SP)","type":3,"api":"csp_Appto","playerType":2,"ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
-{"key":"csp_Appto_喵喵影视_QJ","name":"雷蒙影视 | 🍊喵喵影视(SP)","type":3,"api":"csp_Appto","ext":"u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="},
-{"key":"csp_Appto_布蕾影视_QJ","name":"雷蒙影视 | 🍊布蕾影视(SP)","type":3,"api":"csp_Appto","playerType":2,"ext":"VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6MTU2OC9hcHB0by92MQ"},
+{"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(备用)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz"},
+{"key":"csp_Appto2_追忆影视_QJ","name":"雷蒙影视 | 🍊追忆影视(SP)","type":3,"api":"csp_Appto2","playerType":2,"ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
+{"key":"csp_Appto2_喵喵影视_QJ","name":"雷蒙影视 | 🍊喵喵影视(SP)","type":3,"api":"csp_Appto2","ext":"u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="},
+{"key":"csp_Appto2_布蕾影视_QJ","name":"雷蒙影视 | 🍊布蕾影视(SP)","type":3,"api":"csp_Appto2","playerType":2,"ext":"VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6MTU2OC9hcHB0by92MQ"},
 {"key":"csp_YingKa_QJ","name":"雷蒙影视 | ☕影咖视频(SP)","type":3,"api":"csp_YingKa","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_DDMJ_QJ","name":"雷蒙影视 | 🍚米酷视频(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.129.116:6688"},
 {"key":"csp_Bdys01_QJ","name":"雷蒙影视 | 📯哔嘀影视(备用)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
