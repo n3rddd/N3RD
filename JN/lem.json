@@ -131,7 +131,6 @@
 {"key":"csp_NanGua_QJ","name":"雷蒙影视 | 🎃南瓜影视(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_SC1080_QJ","name":"雷蒙影视 | 🕐时常影视(SP)","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_HDMOLI_QJ","name":"雷蒙影视 | 🌼HDMOLI(SP)","api":"csp_HDMOLI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"csp_Dygang_QJ","name":"雷蒙影视 | 🍟电影港(SP)","type":3,"api":"csp_Dygang"},
 {"key":"csp_Music_QJ","name":"雷蒙影视 | 🎵音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1},
 
 // ⇩⇩ CM SPIDER ⇩⇩ 
