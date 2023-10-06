@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0925.jar;md5;5C19C0FC4006D824177FCCB1D9007038",
+"spider":"./N3RD/J/lem1006.jar;md5;787F1E06ACFE866AEB795AA0DD40DE2F",
 
+//"spider":"./N3RD/J/lem0925.jar;md5;5C19C0FC4006D824177FCCB1D9007038",
 //"spider":"./N3RD/J/lem0920.jar;md5;133986118F97313C2860024E081AB70A",
 //"spider":"./N3RD/J/lem0917.jar;md5;C46073BEF3B84AABB9EC1A0583D03FC3",
 //"spider":"./N3RD/J/lem0907.jar;md5;171A6779EDB193DF7FB528487CCA39A6",
@@ -72,8 +73,8 @@
 {"key":"csp_Kunyu77","name":"雷蒙影视 | 🎬酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"雷蒙影视 | 👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wogg","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"./N3RD/T/t.txt","filter":"./N3RD/T/wogg.json"}},
-{"key":"csp_Czsapp","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_Czsapp2_ZAL","name":"雷蒙影视 | 👴厂长资源(备用)","type":3,"api":"csp_Czsapp2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz01.me"},
+{"key":"csp_Czsapp","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz01.pro/"},
+{"key":"csp_Czsapp2_ZAL","name":"雷蒙影视 | 👴厂长资源(备用)","type":3,"api":"csp_Czsapp2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz01.pro/"},
 {"key":"csp_MYYS","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz"},
 {"key":"csp_Maolv","name":"雷蒙影视 | 🐴毛驴(SP)","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,,"filterable":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"csp_Appto_Mino","name":"雷蒙影视 | 🍊Mino(SP)","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
