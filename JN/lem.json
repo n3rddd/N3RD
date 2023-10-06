@@ -148,7 +148,7 @@
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
 {"key":"csp_YQKan_MULTIJAR","name":"雷蒙影视 | 📺一起看(MULTI)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
-{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766922","recommend":"http://vipcms.lyyytv.cn/api.php/app/","port":"","ip":""},"jar":"./N3RD/J/hfq.jar"},
+{"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766922","recommend":"http://vipcms.lyyytv.cn/api.php/app/","port":"","ip":"123.139.52.36"},"jar":"./N3RD/J/hfq.jar"},
 
 // ⇩⇩ 搜索 ⇩⇩ 
 {"key":"csp_Hdhive_ZAL","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
