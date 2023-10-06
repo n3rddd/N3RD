@@ -302,6 +302,7 @@
 {"key":"drjs_B站影视","name":"雷蒙影视 | 👺B站影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/B站影视.js"},
 {"key":"drjs_JustLive","name":"雷蒙影视 | 👺JustLive(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/JustLive.js"},
 {"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/腾云驾雾.js"},
+{"key":"drjs_moflix","name":"雷蒙影视 | 👺moflix(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/moflix.js"},
 {"key":"drjs_酷奇MV","name":"雷蒙影视 | 👺酷奇MV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷奇MV.js"},
 {"key":"drjs_蘑菇","name":"雷蒙影视 | 👺蘑菇(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/蘑菇.js"},
 {"key":"drjs_91free","name":"雷蒙影视 | 👺91free(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/91free.js"},
