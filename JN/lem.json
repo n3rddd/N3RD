@@ -239,21 +239,24 @@
 {"key":"drjs_dygang_PG","name":"雷蒙影视 | 🧲电影港(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dygang.js"},
 {"key":"drjs_4khdr_PG","name":"雷蒙影视 | 🧲4KHDR(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/4khdr.js"},
 {"key":"drjs_mp4us_PG","name":"雷蒙影视 | 🧲MP4US(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/mp4us.js"},
-{"key":"drjs_kkpans_PG","name":"雷蒙影视 | 🧲KK网盘(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kkpans.js"},
 {"key":"drjs_kuba_PG","name":"雷蒙影视 | 🧲酷吧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kuba.js"},
-{"key":"drjs_meijumi_PG","name":"雷蒙影视 | 🧲美剧迷(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/meijumi.js"},
-{"key":"drjs_aipanso_PG","name":"雷蒙影视 | 🧲爱盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/aipanso.js"},
-{"key":"drjs_funletu_PG","name":"雷蒙影视 | 🧲趣盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/funletu.js"},
-{"key":"drjs_xzys_PG","name":"雷蒙影视 | 🧲校长影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/xzys.js"},
-{"key":"drjs_dydhhy_PG","name":"雷蒙影视 | 🧲DYD(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dydhhy.js"},
-{"key":"drjs_yyets_PG","name":"雷蒙影视 | 🧲人人影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/yyets.js"},
-{"key":"drjs_libvio_PG","name":"雷蒙影视 | 🧲Libvio(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/libvio.js"},
-{"key":"drjs_ddyspg_PG","name":"雷蒙影视 | 🧲低端(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/ddyspg.js"},
-{"key":"drjs_tzfile_PG","name":"雷蒙影视 | 🧲团长资源(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/tzfile.js"},
-{"key":"drjs_97tvs_PG","name":"雷蒙影视 | 🧲高清MP4吧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/97tvs.js"},
-{"key":"drjs_meow_PG","name":"雷蒙影视 | 🧲Meow搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/meow.js"},
-{"key":"drjs_qimiao_PG","name":"雷蒙影视 | 🧲奇妙搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/qimiao.js"},
-{"key":"drjs_rrdyw_PG","name":"雷蒙影视 | 🧲RRDY网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/rrdyw.js"},
+
+
+// ⇩⇩ 阿里夸克网盘 ⇩⇩ 
+{"key":"drjs_meijumi_PG","name":"雷蒙影视 | 📀美剧迷(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/meijumi.js"},
+{"key":"drjs_aipanso_PG","name":"雷蒙影视 | 📀爱盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/aipanso.js"},
+{"key":"drjs_funletu_PG","name":"雷蒙影视 | 📀趣盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/funletu.js"},
+{"key":"drjs_xzys_PG","name":"雷蒙影视 | 📀校长影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/xzys.js"},
+{"key":"drjs_dydhhy_PG","name":"雷蒙影视 | 📀DYD(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dydhhy.js"},
+{"key":"drjs_yyets_PG","name":"雷蒙影视 | 📀人人影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/yyets.js"},
+{"key":"drjs_libvio_PG","name":"雷蒙影视 | 📀Libvio(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/libvio.js"},
+{"key":"drjs_ddyspg_PG","name":"雷蒙影视 | 📀低端(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/ddyspg.js"},
+{"key":"drjs_tzfile_PG","name":"雷蒙影视 | 📀团长资源(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/tzfile.js"},
+{"key":"drjs_97tvs_PG","name":"雷蒙影视 | 📀高清MP4吧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/97tvs.js"},
+{"key":"drjs_meow_PG","name":"雷蒙影视 | 📀Meow搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/meow.js"},
+{"key":"drjs_qimiao_PG","name":"雷蒙影视 | 📀奇妙搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/qimiao.js"},
+{"key":"drjs_rrdyw_PG","name":"雷蒙影视 | 📀RRDY网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/rrdyw.js"},
+{"key":"drjs_kkpans_PG","name":"雷蒙影视 | 📀KK网盘(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kkpans.js"},
  
 //{"key":"csp_Mdygang_ZAL","name":"雷蒙影视 | 🧲电影港(SP)","type":3,"api":"csp_Mdygang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Bt0_ZAL","name":"雷蒙影视 | 🧲不太灵(SP)","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/MAG/bt0.json"},
@@ -264,7 +267,6 @@
   
   
 // ⇩⇩ CatVodOpen规则 ⇩⇩ 
-
 {"key":"open_一起看","name":"雷蒙影视 | 🍭一起看(OPENJS)","type":3,"api":"./EXT/OPENJS/open/yqktv_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_布蕾","name":"雷蒙影视 | 🍭布蕾(OPENJS)","type":3,"api":"./EXT/OPENJS/open/bulei_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_伊人追剧","name":"雷蒙影视 | 🍭伊人追剧(OPENJS)","type":3,"api":"./EXT/OPENJS/open/yrzj_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
