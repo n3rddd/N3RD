@@ -184,11 +184,13 @@
 {"key":"xml_索尼","name":"雷蒙影视 | ️🚀索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","伦理片"]},
 {"key":"xml_快帆","name":"雷蒙影视 | ️🚀快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","恐怖片","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
 {"key":"xml_海外看","name":"雷蒙影视 | ️🚀海外看","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_夸克","name":"雷蒙影视 | ️🚀夸克","type":1,"api":"http://kuakezy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","纪录片","悬疑片","动画片","犯罪片","奇幻片","国产剧","香港剧","台湾剧","韩国剧","美国剧","日本剧","海外剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","热门短剧"]},
  
 // ⇩⇩ APP ⇩⇩ 
 {"key":"csp_AppYsV2_酷影_ZAL","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
+{"key":"csp_AppYsV2_热剧猫","name":"雷蒙影视 | 🖤热剧猫(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://v.aaaa0.top:2525/api.php/app/","playUrl":"http://jx.daenys.vip:2587/tnmb.php?url="},
 {"key":"csp_AppYsV2_爱迪","name":"雷蒙影视 | 🖤爱迪(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"csp_AppYsV2_爱迪2","name":"雷蒙影视 | 🖤爱迪2(APP)","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_AppYsV2_迷你库","name":"雷蒙影视 | 🖤迷你库(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
@@ -316,6 +318,7 @@
 {"key":"drjs_B站影视","name":"雷蒙影视 | 👺B站影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/B站影视.js"},
 {"key":"drjs_JustLive","name":"雷蒙影视 | 👺JustLive(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/JustLive.js"},
 {"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/腾云驾雾.js"},
+{"key":"drjs_aoao","name":"雷蒙影视 | 👺aoao(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/aoao.js"},
 {"key":"drjs_热剧猫[V2]","name":"雷蒙影视 | 👺热剧猫[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/热剧猫[V2].js"},
 {"key":"drjs_cokemv[V2]","name":"雷蒙影视 | 👺cokemv[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/cokemv[V2].js"},
 {"key":"drjs_EMO蓝光[V2]","name":"雷蒙影视 | 👺EMO蓝光[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/EMO蓝光[V2].js"},
@@ -1450,6 +1453,7 @@
 
 
 "rules": [
+{"name":"索尼","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"磁力廣告","hosts":["magnet"],"regex":["更多","更 多","社區","社 區","x u u","xuu","最新","最 新","直播","直 播","更新","更 新","社区","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
 {"name":"极速","hosts":["jszy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"海外看","hosts":["haiwaikan"],"regex":["#EXTINF:(0|1|2|7\\.90).*?\\s+.*?921c07e8bfad6789.*?\\.ts\\s+"]},
