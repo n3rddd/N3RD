@@ -21,6 +21,7 @@
 
 {"key":"csp_Kuaikan","name":"雷蒙影视 | 👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wogg","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt$$$http://tvfan.xxooo.cf/"},
+{"key":"csp_Wobg","name":"雷蒙影视 | 👽玩偶表哥(SP)","type":3,"api":"csp_Wobg","ext":"./N3RD/T/t.txt$$$"},
 {"key":"csp_Czsapp","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":""},  
 {"key":"csp_Ddys","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mayiys","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc"},
@@ -70,7 +71,7 @@
 {"key":"drjs_rrdyw_PG","name":"雷蒙影视 | 🧲RRDY网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/rrdyw.js"},
 
 
-{"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/pg.txt"}
+{"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/pg.txt"}
 ],
   
 "doh":[
