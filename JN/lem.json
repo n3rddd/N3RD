@@ -197,9 +197,6 @@
 
 
 // ⇩⇩ APP ⇩⇩ 
-{"key":"csp_AppYsV2_酷影_ZAL","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
-{"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
-
 {"key":"csp_AppYsV2_爱迪","name":"雷蒙影视 | 🖤爱迪(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"csp_AppYsV2_爱迪2","name":"雷蒙影视 | 🖤爱迪2(APP)","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_AppYsV2_迷你库","name":"雷蒙影视 | 🖤迷你库(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
@@ -329,6 +326,7 @@
 {"key":"drjs_B站影视","name":"雷蒙影视 | 👺B站影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/B站影视.js"},
 {"key":"drjs_JustLive","name":"雷蒙影视 | 👺JustLive(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/JustLive.js"},
 {"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/腾云驾雾.js"},
+{"key":"drjs_玉米","name":"雷蒙影视 | 👺玉米(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/玉米.js"},
 {"key":"drjs_aoao","name":"雷蒙影视 | 👺aoao(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/aoao.js"},
 {"key":"drjs_热剧猫[V2]","name":"雷蒙影视 | 👺热剧猫[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/热剧猫[V2].js"},
 {"key":"drjs_cokemv[V2]","name":"雷蒙影视 | 👺cokemv[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/cokemv[V2].js"},
