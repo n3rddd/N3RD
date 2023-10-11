@@ -159,7 +159,7 @@
 {"key":"csp_Jojo幕版_MULTIJAR","name":"雷蒙影视 | #️⃣JoJo弹幕版(MULTI)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
 {"key":"csp_Sp360_MULTIJAR","name":"雷蒙影视 | #️⃣360弹幕版(MULTI)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
 {"key":"csp_Jianpian_MULTIJAR","name":"雷蒙影视 | #️⃣荐片弹幕版(MULTI)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
-{"key":"csp_Wogg_MULTIJAR","name":"雷蒙影视 | #️⃣玩偶哥哥弹幕版(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"./N3RD/T/t.txt","filter":"./N3RD/T/wogg.json","danmu":true,"site":""},"jar":"./N3RD/J/ok.jar"},
+{"key":"csp_Wogg_MULTIJAR","name":"雷蒙影视 | #️⃣玩偶哥哥弹幕版(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"./N3RD/T/t.txt","filter":"./N3RD/T/wogg.json","danmu":true},"jar":"./N3RD/J/ok.jar"},
 
 
 // ⇩⇩ 搜索 ⇩⇩ 
