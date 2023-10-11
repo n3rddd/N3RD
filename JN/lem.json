@@ -150,9 +150,17 @@
 {"key":"csp_CandyMuj_nkvod","name":"雷蒙影视 | 🔱耐看点播(SP)","type":3,"api":"csp_CandyMuj_nkvod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_yzzy","name":"雷蒙影视 | 💯优质资源(SP)","type":3,"api":"csp_CandyMuj_yzzy","searchable":1,"quickSearch":1,"filterable":1},
 
+
 // ⇩⇩ MULTIJAR ⇩⇩ 
 {"key":"csp_YQKan_MULTIJAR","name":"雷蒙影视 | 📺一起看(MULTI)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
 {"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766922","recommend":"http://vipcms.lyyytv.cn/api.php/app/","port":"","ip":"123.139.52.36"},"jar":"./N3RD/J/hfq.jar"},
+
+{"key":"csp_Jojo_MULTIJAR","name":"雷蒙影视 | ⚾JoJo(MULTI)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},"jar":"./N3RD/J/ok.jar"},
+{"key":"csp_Jojo_MULTIJAR","name":"雷蒙影视 | #️⃣JoJo弹幕版(MULTI)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
+{"key":"csp_Sp360_MULTIJAR","name":"雷蒙影视 | #️⃣360弹幕版(MULTI)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
+{"key":"csp_Jianpian_MULTIJAR","name":"雷蒙影视 | #️⃣荐片弹幕版(MULTI)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
+{"key":"csp_Wogg_MULTIJAR","name":"雷蒙影视 | #️⃣玩偶哥哥弹幕版(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"./N3RD/T/t.txt","filter":"./N3RD/T/wogg.json","danmu":true,"site":""},"jar":"./N3RD/J/ok.jar"},
+
 
 // ⇩⇩ 搜索 ⇩⇩ 
 {"key":"csp_Hdhive_ZAL","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
@@ -168,6 +176,7 @@
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./N3RD/T/a.json"},
 {"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt","jar":"./N3RD/J/pg.jar"},
 //{"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/t.txt"},
+
 
 // ⇩⇩ XML ⇩⇩ 
 {"key":"xml_夜兔","name":"雷蒙影视 | ️🚀夜兔","type":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
@@ -185,7 +194,8 @@
 {"key":"xml_快帆","name":"雷蒙影视 | ️🚀快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","恐怖片","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
 {"key":"xml_海外看","name":"雷蒙影视 | ️🚀海外看","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_夸克","name":"雷蒙影视 | ️🚀夸克","type":1,"api":"http://kuakezy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","纪录片","悬疑片","动画片","犯罪片","奇幻片","国产剧","香港剧","台湾剧","韩国剧","美国剧","日本剧","海外剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","热门短剧"]},
- 
+
+
 // ⇩⇩ APP ⇩⇩ 
 {"key":"csp_AppYsV2_酷影_ZAL","name":"雷蒙影视 | 🖤酷影(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key":"csp_AppYsV2_如意_ZAL","name":"雷蒙影视 | 🖤如意(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
