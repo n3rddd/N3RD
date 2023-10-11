@@ -156,7 +156,7 @@
 {"key":"csp_YT_MULTIJAR","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://yflf6367liling.lyyytv.cn","maccode":"221928f23b766922","recommend":"http://vipcms.lyyytv.cn/api.php/app/","port":"","ip":"123.139.52.36"},"jar":"./N3RD/J/hfq.jar"},
 
 {"key":"csp_Jojo_MULTIJAR","name":"雷蒙影视 | ⚾JoJo(MULTI)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},"jar":"./N3RD/J/ok.jar"},
-{"key":"csp_Jojo幕版_MULTIJAR","name":"雷蒙影视 | #️⃣JoJo弹幕版(MULTI)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
+{"key":"csp_Jojo弹幕版_MULTIJAR","name":"雷蒙影视 | #️⃣JoJo弹幕版(MULTI)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
 {"key":"csp_Sp360_MULTIJAR","name":"雷蒙影视 | #️⃣360弹幕版(MULTI)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
 {"key":"csp_Jianpian_MULTIJAR","name":"雷蒙影视 | #️⃣荐片弹幕版(MULTI)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
 {"key":"csp_Wogg_MULTIJAR","name":"雷蒙影视 | #️⃣玩偶哥哥弹幕版(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"./N3RD/T/t.txt","filter":"./N3RD/T/wogg.json","danmu":true},"jar":"./N3RD/J/ok.jar"},
