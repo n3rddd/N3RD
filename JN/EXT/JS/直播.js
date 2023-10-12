@@ -4,7 +4,7 @@
 {"name":"全网聚合","url": "https://ghproxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/tive.txt"},
 {"name":"全球","url": "https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
 {"name":"4K8K","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"},
-{"name":"百事通","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u"},
+{"name":"百事通","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u"},
 {"name":"重庆有线","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u"},
 {"name":"港台节目","url": "http://www.stream-link.org/stream-link.m3u"},
 {"name":"爱尚","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u"},
