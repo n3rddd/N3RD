@@ -207,7 +207,8 @@
 {"key":"csp_AppYsV2_酷喵","name":"雷蒙影视 | 🖤酷喵(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"http://wkking.top/ikumiao_api.php/v1.vod"},
 {"key":"csp_AppYsV2_咕噜","name":"雷蒙影视 | 🖤咕噜(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
 {"key":"csp_AppYsV2_速看100","name":"雷蒙影视 | 🖤速看100(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/"},
-
+{"key":"csp_AppYsV2_4K视界","name":"雷蒙影视 | 🖤4K视界(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yycms.77ev.cn/api.php/app/"},
+{"key":"csp_AppYsV2_影探","name":"雷蒙影视 | 🖤影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 
 // ⇩⇩ T4 ⇩⇩ 
 {"key":"T4_Bili","name":"雷蒙影视 | 4️⃣哔哩哔哩(T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=dash,mp4","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"viewType":1,"ext":{"type":"雷蒙Lem作品#Allblanc#帕梅拉#游戏#电影#音乐#白噪音#演唱会"}},
@@ -1518,6 +1519,7 @@
 //HFQ
 {"name":"💧WEB","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"💧77","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["iqiyi","youku","qq","xigua","sohu"]}},
+{"name":"💧77SJ","type":1,"url":"http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=","ext":{"flag":["FEI","iqiyi","youku","qq","xigua","sohu","bilibili"]}},
 {"name":"💧IKu","type":1,"url":"https://api.json.icu/api/?key=49ef7b80dedc4388295d6dcd20042172&url=","ext":{"flag":["iqiyi","youku","mgtv","qq"]}},
 {"name":"💧CS","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url=","ext":{"flag":["iqiyi","youku","mgtv","qq"]}},
 {"name":"💧BuLei","type":1,"url":"http://111.180.197.95:1688/api/json.php/?key=INM7QPEAKaT6KZXLBS&url=","ext":{"flag":["iqiyi","youku","mgtv","qq","YuMi-vip","xigua","sohu"]}},
