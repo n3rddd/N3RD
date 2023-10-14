@@ -1,6 +1,6 @@
 var rule = {
     title:'荐片',
-    host:'http://yjpapipxblwdohpakljwg.hxhzs.com',
+    host:'http://api2.rinhome.com',
     //homeUrl:'https://yjpapipxblwdohpakljwg.hxhzs.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
  homeUrl:'https://api2.rinhome.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',
 	url:'/api/crumb/list?area=0&category_id=fyclass&page=fypage&type=0&limit=24&fyfilter',
