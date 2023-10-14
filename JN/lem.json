@@ -280,7 +280,6 @@
 {"key":"open_JoJo","name":"雷蒙影视 | 🍭JoJo(OPENJS)","type":3,"api":"./EXT/OPENJS/open/jojo_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_厂长资源","name":"雷蒙影视 | 🍭厂长资源(OPENJS)","type":3,"api":"./EXT/OPENJS/open/czzy_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_快看影视","name":"雷蒙影视 | 🍭快看影视(OPENJS)","type":3,"api":"./EXT/OPENJS/open/kkys_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"open_伊人追剧","name":"雷蒙影视 | 🍭伊人追剧(OPENJS)","type":3,"api":"./EXT/OPENJS/open/yrzj_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_555电影","name":"雷蒙影视 | 🍭555电影(OPENJS)","type":3,"api":"./EXT/OPENJS/open/555dy_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_哔哩猫","name":"雷蒙影视 | 🍭哔哩猫(OPENJS)","type":3,"api":"./EXT/OPENJS/open/bili_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"categories":"Allblanc#游戏#音乐#白噪音","cookie":""}},
 {"key":"open_速搜","name":"雷蒙影视 | 🍭速搜(OPENJS)","type":3,"api":"./EXT/OPENJS/open/sssp_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -302,6 +301,7 @@
 {"key":"open_童趣","name":"雷蒙影视 | 🍭童趣(OPENJS)","type":3,"api":"./EXT/OPENJS/open/boosj_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_爱看机器人","name":"雷蒙影视 | 🍭爱看机器人(OPENJS)","type":3,"api":"./EXT/OPENJS/open/ikanbot_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_图图","name":"雷蒙影视 | 🍭图图(OPENJS)","type":3,"api":"./EXT/OPENJS/open/tutu_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_伊人追剧","name":"雷蒙影视 | 🍭伊人追剧(OPENJS)","type":3,"api":"./EXT/OPENJS/open/yrzj_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 
 // ⇩⇩ 路飞影视JS ⇩⇩ 
