@@ -58,7 +58,7 @@
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 //{"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search2_min.js"},
 {"key":"csp_YGP","name":"雷蒙影视 | 🎞预告片(SP)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js","playerType":1},
+{"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_JianPian_XYQ","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 {"key":"csp_RinHome_ZAL","name":"雷蒙影视 | 🏆荐片(备用)","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱看机器人.js"},
