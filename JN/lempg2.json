@@ -13,10 +13,13 @@
 // ⇩⇩ 豆瓣片单 ⇩⇩ 
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search3_min.js"},
+{"key":"csp_Jianpian","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./N3RD/T/jianpian.json"},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js"},
 
   
 // ⇩⇩ 阿里夸克网盘 ⇩⇩ 
+{"key":"csp_FourKHDR","name":"雷蒙影视 | 📀4KHDR(SP)","type":3,"api":"csp_FourKHDR","ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/4k.json","quickSearch":1,"changeable":1,"timeout":60},
+{"key":"csp_XiaoZhang","name":"雷蒙影视 | 📀校长影视(SP)","type":3,"api":"csp_XiaoZhang","ext":"http://127.0.0.1:9978/file/ctv/pg.txt","quickSearch":1,"changeable":1,"timeout":30},
 {"key":"drjs_aipanso_PG","name":"雷蒙影视 | 📀爱盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/aipanso.js"},
 {"key":"drjs_funletu_PG","name":"雷蒙影视 | 📀趣盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/funletu.js"},
 {"key":"drjs_xzys_PG","name":"雷蒙影视 | 📀校长影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/xzys.js"},
