@@ -154,20 +154,6 @@
 {"key":"csp_CandyMuj_nkvod","name":"雷蒙影视 | 🔱耐看点播(SP)","type":3,"api":"csp_CandyMuj_nkvod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_yzzy","name":"雷蒙影视 | 💯优质资源(SP)","type":3,"api":"csp_CandyMuj_yzzy","searchable":1,"quickSearch":1,"filterable":1},
 
-
-// ⇩⇩ MULTIJAR ⇩⇩ 
-{"key":"csp_YQKan_MULTIJAR","name":"雷蒙影视 | 📺一起看(MULTI)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
-
-{"key":"csp_Jiohub_MULTIJAR","name":"雷蒙影视 | #️⃣JoJo弹幕版(MULTI)","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
-{"key":"csp_Sp360_MULTIJAR","name":"雷蒙影视 | #️⃣360弹幕版(MULTI)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
-{"key":"csp_Jianpian_MULTIJAR","name":"雷蒙影视 | #️⃣荐片弹幕版(MULTI)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
-{"key":"csp_Wogg_MULTIJAR","name":"雷蒙影视 | #️⃣玩偶哥哥弹幕版(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"./N3RD/T/t.txt","filter":"./N3RD/T/wogg.json","danmu":true},"jar":"./N3RD/J/ok.jar"},
-
-{"key":"csp_FourKHDR_MULTIJAR","name":"雷蒙影视 | 📀4KHDR(MULTI)","type":3,"api":"csp_FourKHDR","ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/4k.json","quickSearch":1,"changeable":1,"timeout":60,"jar":"./N3RD/J/pg.jar"},
-{"key":"csp_XiaoZhang_MULTIJAR","name":"雷蒙影视 | 📀校长影视(MULTI)","type":3,"api":"csp_XiaoZhang","ext":"http://127.0.0.1:9978/file/ctv/pg.txt","quickSearch":1,"changeable":1,"timeout":30,"jar":"./N3RD/J/pg.jar"},
-{"key":"csp_Wobg_MULTIJAR","name":"雷蒙影视 | 😺玩偶表哥(MULTI)","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$","jar":"./N3RD/J/pg.jar"},
-
-
 // ⇩⇩ 搜索 ⇩⇩ 
 {"key":"csp_Hdhive_ZAL","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_Paper_ZAL","name":"雷蒙影视 | 😺小纸条(阿里APP扫码)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
@@ -182,6 +168,25 @@
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./N3RD/T/a.json"},
 {"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt","jar":"./N3RD/J/pg.jar"},
 //{"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/t.txt"},
+
+
+// ⇩⇩ MULTIJAR ⇩⇩ 
+{"key":"csp_YQKan_MULTIJAR","name":"雷蒙影视 | 📺一起看(MULTI)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./N3RD/J/zal.jar"},
+
+{"key":"csp_Jojo_MULTIJAR","name":"雷蒙影视 | #️⃣JOJO弹幕版(MULTI)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
+{"key":"csp_Sp360_MULTIJAR","name":"雷蒙影视 | #️⃣360弹幕版(MULTI)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
+{"key":"csp_Jianpian_MULTIJAR","name":"雷蒙影视 | #️⃣荐片弹幕版(MULTI)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./N3RD/J/ok.jar"},
+{"key":"csp_Wogg_MULTIJAR","name":"雷蒙影视 | #️⃣玩偶哥哥弹幕版(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"./N3RD/T/t.txt","filter":"./N3RD/T/wogg.json","danmu":true},"jar":"./N3RD/J/ok.jar"},
+{"key":"csp_XiaoZhiTiao_MULTIJAR","name":"雷蒙影视 | #️⃣小纸条弹幕版(MULTI)","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"阿里token", "danmu": true}},
+{"key":"csp_PanSearch_MULTIJAR","name":"雷蒙影视 | #️⃣PanSearch弹幕版(MULTI)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"阿里token", "danmu": true}},
+{"key":"csp_Zhaozy_MULTIJAR","name":"雷蒙影视 | #️⃣找资源弹幕版(MULTI)","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"阿里token", "username": "zhaoziyuannb", "password": "zhaoziyuannb", "danmu": true}},
+{"key":"csp_Dovx_MULTIJAR","name":"雷蒙影视 | #️⃣七夜弹幕版(MULTI)","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"阿里token", "danmu": true}},
+{"key":"csp_PanSou_MULTIJAR","name":"雷蒙影视 | #️⃣盘搜弹幕版(MULTI)","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"阿里token", "danmu": true}},
+{"key":"csp_YiSo_MULTIJAR","name":"雷蒙影视 | #️⃣易搜弹幕版(MULTI)","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"阿里token", "danmu": true}},
+ 
+{"key":"csp_FourKHDR_MULTIJAR","name":"雷蒙影视 | 📀4KHDR(MULTI)","type":3,"api":"csp_FourKHDR","ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/4k.json","quickSearch":1,"changeable":1,"timeout":60,"jar":"./N3RD/J/pg.jar"},
+{"key":"csp_XiaoZhang_MULTIJAR","name":"雷蒙影视 | 📀校长影视(MULTI)","type":3,"api":"csp_XiaoZhang","ext":"http://127.0.0.1:9978/file/ctv/pg.txt","quickSearch":1,"changeable":1,"timeout":30,"jar":"./N3RD/J/pg.jar"},
+{"key":"csp_Wobg_MULTIJAR","name":"雷蒙影视 | 😺玩偶表哥(MULTI)","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$","jar":"./N3RD/J/pg.jar"}, 
 
 
 // ⇩⇩ XML ⇩⇩ 
