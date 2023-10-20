@@ -1,133 +1,53 @@
 [
-  {
-    "name": "推荐",
-    "list": [
-      {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg",
-        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg"
-      }
-    ]
-  },
-  {
-    "name": "雷蒙影视 正式版",
-    "list": [
-      {
-        "name": "雷蒙影视",
-        "url": "https://gh-proxy.com/https://github.com/n3rddd/N3RD/raw/master/JN/APP/CRIMETV%205.5.0.apk",
-        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg",
-        "version": "5.5.0"
-      }
-    ]
-  },
-  {
-    "name": "雷蒙影视 专业版",
-    "list": [
-      {
-        "name": "雷蒙影视PRO",
-        "url": "",
-        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg",
-        "version": "3.0.0"
-      }
-    ]
-  },
-  {
-    "name": "本地包",
-    "list": [
-      {
-        "name": "watson",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1019.zip",
-        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg"
-      },
-      {
-        "name": "香雅情",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip",
-        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg"
-      }
-    ]
-  },
-  {
-    "name": "v7a",
-    "list": [
-      {
-        "name": "荐片",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libjpa_armeabi_v7a.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "磁力-1",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_stat_armeabi_v7a.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "磁力-2",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_thunder_sdk_armeabi_v7a.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "晴天",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libmitv.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "P2P",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp2p.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "P3P",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp3p.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "P4P",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp4p.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "P5P",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp5p.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "P6P",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp6p.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "P7P",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp7p.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "P8P",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp8p.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "P9P",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp9p.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      }
-    ]
-  },
-  {
-    "name": "v8a",
-    "list": [
-      {
-        "name": "荐片",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libjpa_arm64_v8a.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "磁力-1",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_stat_arm64_v8a.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      },
-      {
-        "name": "磁力-2",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_thunder_sdk_arm64_v8a.so",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-      }
-    ]
-  }
+
+{"name":"推荐",
+"list":[
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg"}
+]
+},
+
+{"name":"雷蒙影视 正式版",
+"list":[
+{"name":"雷蒙影视","url":"https://gh-proxy.com/https://github.com/n3rddd/N3RD/raw/master/JN/APP/CRIMETV%205.5.0.apk","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"5.5.0"}
+]
+},
+
+{"name":"雷蒙影视 专业版",
+"list":[
+{"name":"雷蒙影视PRO","url":"","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"3.0.0"}
+]
+},
+
+{"name":"本地包",
+"list":[
+{"name":"watson","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1019.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg"},
+{"name":"香雅情","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg"}
+]
+},
+
+{"name":"v7a",
+"list":[
+{"name":"荐片","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libjpa_armeabi_v7a.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"磁力-1","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_stat_armeabi_v7a.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"磁力-2","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_thunder_sdk_armeabi_v7a.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"晴天","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libmitv.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"P2P","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp2p.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"P3P","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp3p.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"P4P","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp4p.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"P5P","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp5p.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"P6P","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp6p.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"P7P","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp7p.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"P8P","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp8p.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"P9P","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp9p.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"}
+]
+},
+
+{"name":"v8a",
+"list":[
+{"name":"荐片","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libjpa_arm64_v8a.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"磁力-1","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_stat_arm64_v8a.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"},
+{"name":"磁力-2","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_thunder_sdk_arm64_v8a.so","icon":"https://i.imgs.ovh/2023/10/17/r8nk2.png"}
+]
+}
+
 ]
