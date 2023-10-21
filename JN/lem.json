@@ -63,9 +63,9 @@
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_JianPian_XYQ","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 {"key":"csp_RinHome_ZAL","name":"雷蒙影视 | 🏆荐片(备用)","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱看机器人.js"},
-{"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👹爱看机器人2(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot2.js"},
-{"key":"drjs_爱看机器人3","name":"雷蒙影视 | 👹爱看机器人3(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot3.js"},
+//{"key":"drjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱看机器人.js"},
+//{"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👹爱看机器人2(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot2.js"},
+//{"key":"drjs_爱看机器人3","name":"雷蒙影视 | 👹爱看机器人3(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot3.js"},
 {"key":"csp_Ikanbot_XYQ","name":"雷蒙影视 | 👹爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_暴风资源","name":"雷蒙影视 | 🚀暴风资源","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","playUrl":"","categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
 {"key":"xml_量子资源","name":"雷蒙影视 | 🚀量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","searchable":1,"quickSearch":1,"m3u8ads":"hd.youyhn.com||vip.lz"},
@@ -173,8 +173,6 @@
 
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
-{"key":"csp_YQKan_MULTIJAR","jar":"./N3RD/J/zal.jar","name":"雷蒙影视 | 📺一起看(MULTI)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_AppTo_热剧猫_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️热剧猫(MULTI)","type":3,"api":"csp_AppTo","ext":"eyJ1cmwiOiJodHRwczovL2FwcC0xMjUzMTk2NzAxLmNvcy5hcC1zaGFuZ2hhaS5teXFjbG91ZC5jb20vYXBwLnR4dCIsImtleSI6IjJIeGlzYjJ5OGJhaFdLTW5SakRkUDRHZDhHSjNqczRDIiwiaXYiOiIxMjM4Mzg5NDgzNzYyODM3IiwiY29uZmlnIjoidjEiLCJ1c2VybmFtZSI6InR2MTIzNDU2IiwicGFzc3dvcmQiOiJ0djEyMzQ1NiIsImljIjoiZndFVVd5dGt3SnFISUN0dS9rTnJYR3ZnNUZZbHNtWVcrOEhXcFRhYmhGSkVnQkd0WGJ3V1plYlFpckFKS29iek9KSUdBeU1HeXh4d2hQY3drZXJxTHFkWUxwWkNlbWJYUmMwRDRKbExnNmFiZnJRdFJWNVpBTXhzR0psY09OcGE3Rk5qU2ZaTkJpWDVjNk1pNVB6aTBBPT0ifQ=="},
 {"key":"csp_AppTo_一念_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️一念(MULTI)","type":3,"api":"csp_AppTo","ext":"eyJ1cmwiOiJodHRwczovL2FwcHRvLXYzLTEyNTE5NzA4NDQuY29zLmFwLWNob25ncWluZy5teXFjbG91ZC5jb20vYWNjcmVkaXRzLzk1Lmpzb24iLCJrZXkiOiJaeENyNVdObkIzTjhTclhtYmhHZEJhRWE0UmRQTXh3eiIsIml2IjoiMTIzODM4OTQ4Mzc2MjgzNyIsImNvbmZpZyI6InYxIiwidXNlcm5hbWUiOiJ0djEyMzQ1NiIsInBhc3N3b3JkIjoidHYxMjM0NTYiLCJpYyI6Ikp6Z3Z1Y040TzVvRC8xZUN4VkZJNWRIa09VaWRUdzVaZTNCNTVPQ01RTUVSTExsS2VNVTdnV1EyRk93VVpDd1o1UVA1U2V6ZkRkZU5tWEoxL1ZRRTRqV212aTRLaVh3dEhILzJHK2tnYmNFa1EzdXZnSjR4WU5FOWdNUDd0WXhLbjZzWDd4TzBwVFA4QThCa0RaeXdnUT09In0="},
 {"key":"csp_AppTo_布蕾_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️布蕾(MULTI)","type":3,"api":"csp_AppTo","ext":"eyJ1cmwiOiJodHRwczovL2FwcHRvLXYzLTEyNTE5NzA4NDQuY29zLmFwLWNob25ncWluZy5teXFjbG91ZC5jb20vYWNjcmVkaXRzLzY4Lmpzb24iLCJrZXkiOiIyNFFFMnJjQkpqV3dFYUU4UHdGeUFlTVBSbUNpVEJydCIsIml2IjoiMTIzODM4OTQ4Mzc2MjgzNyIsImNvbmZpZyI6InYxIiwidXNlcm5hbWUiOiJ0djEyMzQ1NiIsInBhc3N3b3JkIjoidHYxMjM0NTYiLCJpYyI6IlZtRklaK0tDU1cvZnVkdGhVUUFoRlRoVUJJanJqek05RmhROWx0YjVPa09ad1M1dDVhcEkvbDVhRDFqZnBURk1hcG1DZUNWVDFLYk8yREIyNVRFUXNOcjdteHROaElaSEtpamppMTBscWV0eUFLLzRVYTVwTzF6cEFJTFkzVmhNUk5XMGFINU9kV1QyNHVmUERUUjBmZz09In0="},
@@ -196,7 +194,7 @@
  
 {"key":"csp_FourKHDR_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 📀4KHDR(MULTI)","type":3,"api":"csp_FourKHDR","ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/4k.json","quickSearch":1,"changeable":1,"timeout":60},
 {"key":"csp_XiaoZhang_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 📀校长影视(MULTI)","type":3,"api":"csp_XiaoZhang","ext":"http://127.0.0.1:9978/file/ctv/pg.txt","quickSearch":1,"changeable":1,"timeout":30},
-{"key":"csp_Wobg_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 😺玩偶表哥(MULTI)","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$"}, 
+{"key":"csp_Wobg_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 📀玩偶表哥(MULTI)","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$"}, 
 
 
 // ⇩⇩ XML ⇩⇩ 
