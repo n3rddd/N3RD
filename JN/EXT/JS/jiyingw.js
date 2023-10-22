@@ -16,7 +16,7 @@ var rule = {
 	filterable:1,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/jiyingw.txt',
+         	'Cookie':'https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/jiyingw.txt',
 		'Accept':'*/*',
 		'Referer': 'https://www.jiyingw.net/'
 	},
