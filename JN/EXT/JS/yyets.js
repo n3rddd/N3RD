@@ -14,7 +14,7 @@ var rule = {
 		'User-Agent': PC_UA,
 		'Accept': '*/*',
 		'Referer': 'https://yyets.click/',
-         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/yyets.txt',
+         	'Cookie':'https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/yyets.txt',
 	},
 	timeout:5000,
 	class_name:'',
