@@ -18,8 +18,10 @@
 
   
 // ⇩⇩ 阿里夸克网盘 ⇩⇩ 
-{"key":"csp_FourKHDR","name":"雷蒙影视 | 📀4KHDR(SP)","type":3,"api":"csp_FourKHDR","ext":"./N3RD/T/t.txt$$$./N3RD/T/4k.json","quickSearch":1,"changeable":1,"timeout":60},
-{"key":"csp_XiaoZhang","name":"雷蒙影视 | 📀校长影视(SP)","type":3,"api":"csp_XiaoZhang","ext":"./N3RD/T/t.txt","quickSearch":1,"changeable":1,"timeout":30},
+{"key":"csp_FourKHDR","name":"雷蒙影视 | 💿4KHDR弹幕版(SP)","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/4k.json$$$1"},
+{"key":"csp_XiaoZhang","name":"雷蒙影视 | 💿校长影视弹幕版(SP)","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
+{"key":"csp_TZFile","name":"雷蒙影视 | 💿团长资源弹幕版(SP)","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
+  
 {"key":"drjs_aipanso_PG","name":"雷蒙影视 | 📀爱盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/aipanso.js"},
 {"key":"drjs_funletu_PG","name":"雷蒙影视 | 📀趣盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/funletu.js"},
 {"key":"drjs_xzys_PG","name":"雷蒙影视 | 📀校长影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/xzys.js"},
@@ -72,6 +74,9 @@
 
 
 // ⇩⇩ 爬虫SPIDER ⇩⇩ 
+{"key":"csp_Jiohub","name":"雷蒙影视 | 🥎JOJO影视弹幕版(SP)","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"timeout":30},
+{"key":"csp_Jojo","name":"雷蒙影视 | ⚾JOJO弹幕版(SP)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"timeout":30},
+{"key":"csp_YQKan ","name":"雷蒙影视 | 📺一起看(SP)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_YQKan ","name":"雷蒙影视 | 📺一起看(SP)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Kuaikan","name":"雷蒙影视 | 👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz01.pro/"},
