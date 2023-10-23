@@ -188,7 +188,6 @@
 {"key":"csp_AppTo_追忆_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️追忆(MULTI)","type":3,"api":"csp_AppTo","ext":"eyJob3N0IjoiaHR0cDovLzIyMi4yMTEuNzMuMTU3OjIyMzMiLCJrZXkiOiJlY3A3RldkTTZZNGt4eldjZmY2MnBjRGNYaVk3ZmZBYSIsIml2IjoiMTIzODM4OTQ4Mzc2MjgzNyIsImNvbmZpZyI6InYxIiwidG9rZW4iOiJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcGMzTWlPaUpCY0hCVWJ5SXNJbWxoZENJNk1UWTVOekl4TURNME9Td2laWGh3SWpveE56STROelEyTXpRNUxDSnVZbVlpT2pFMk9UY3lNVEF6TkRrc0luTjFZaUk2SWtGd2NGUnZJaXdpYW5ScElqb2laVEE1TVRZeFlqUTRaR1ZsWldNM1lqY3lZVEptWVRZeU1EUTNaR0ZtT0RVaUxDSmtZWFJoSWpwN0luVnpaWEpmYVdRaU9qVXpPRFVzSW5WelpYSmZZMmhsWTJzaU9pSTFOVE16WlRFMFpXWXlaV0ZtTTJJM1pEaGpZemszWkRkbU1qRTJPRFppWVNJc0luVnpaWEpmYm1GdFpTSTZJbnBvZFdsNWFUSWlmWDAuSmd0S25aRnpHZTE3NDVLRFEtaTZnQ0lyd2JyODZzTVNWNWJfM2NhUU51TSIsImljIjoieWY5R3UyZFhXRmJtV2l3NW4zMEsweU8ydmh2Y2d0OEVpTUwwempqbE42SDBQajR2SWF4ZHlPdThJbkUrVkV0MWJKQkJpcWFQMGJhcVpIeUV3cjByY0JtQVp6QTVaWXJiTmlMZEIrcFpPaWZtbGRMWEt4Q0NXTG9XbkE4cWtVQVFmbFZuUU9YWVI0K1RmcEVBRnI3cnBBPT0ifQ=="},
 {"key":"csp_AppTo_橘子_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️橘子(MULTI)","type":3,"api":"csp_AppTo","ext":"eyJ1cmwiOiJodHRwczovL2NhaWhvbmctMTMwOTI4OTkzOS5jb3MuYXAtc2hhbmdoYWkubXlxY2xvdWQuY29tL2FwaS5qc29uIiwia2V5IjoiTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZclkiLCJpdiI6IjEyMzgzODk0ODM3NjI4MzciLCJjb25maWciOiJ2MiIsInVzZXJuYW1lIjoieWluZ3NoaWNoZSIsInBhc3N3b3JkIjoieWluZ3NoaWNoZSIsImljIjoicEI4ZlYxbzVmT0R5bE81QXRPOHR2ZjBGMWxSQnpaaEliMHlkeU9Zb1VaNjlEcGZkZUcwb0RkUnRGTGtXeHBIVTlrV0I2N3lwOThOL1FSTXFtQkZmREF5b3gyQlVINStleGpnRU5TZDRlMjhQeGkrNXQwMWd1cTlGZGpNWE9EZjhJaVVZMXRKY05sRVdlVEFkR2hvK2pBPT0ifQo="}, 
 
-{"key":"csp_KsLive_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣KsLive(MULTI)","type":3,"api":"csp_KsLive","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"csp_Jojo_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣JOJO弹幕版(MULTI)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"csp_Jiohub_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣JOJO弹幕版2(MULTI)","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"csp_Sp360_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣360弹幕版(MULTI)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
@@ -1505,6 +1504,7 @@
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+{"name":"蚂蚁","hosts":["v.cdnlz1.com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["iesdouyin.com/aweme", "video_id="]},
