@@ -1,7 +1,7 @@
 import { Crypto, load, _ } from './lib/cat.js';
 
 let key = 'ikanbot';
-let url = 'https://www.aikanbot.com';
+let url = 'https://www.ikanbot.com';
 let siteKey = '';
 let siteType = 0;
 
@@ -116,7 +116,8 @@ async function detail(id) {
 		vod_area: $(detail).find('h3:nth-child(4)').text(),
 		vod_actor: $(detail).find('h3:nth-child(5)').text(),
 	};
-	const res = await req(url + '/api/getResN?videoId=' + id.substring(id.lastIndexOf('/') + 1) + '&mtype=2&token=9109590b194731fde643ce27924fcf6f', {
+    const token = getToken($);
+	const res = await req(url + '/api/getResN?videoId=' + id.substring(id.lastIndexOf('/') + 1) + '&mtype=2&token=' + token, {
 		headers: {
 			Referer: 'play',
 			'User-Agent': UA,
@@ -140,25 +141,25 @@ async function detail(id) {
 			arr.push({
 				flag: '快看',
 				url: playlist[key],
-				sort: 4
+				sort: 1
 			})
 		} else if ('bfzym3u8' == key) {
 			arr.push({
 				flag: '暴风',
 				url: playlist[key],
-				sort: 1
+				sort: 2
 			})
 		} else if ('ffm3u8' == key) {
 			arr.push({
 				flag: '非凡',
 				url: playlist[key],
-				sort: 2
+				sort: 3
 			})
 		} else if ('lzm3u8' == key) {
 			arr.push({
 				flag: '量子',
 				url: playlist[key],
-				sort: 3
+				sort: 4
 			})
 		} else {
 			arr.push({
@@ -180,6 +181,22 @@ async function detail(id) {
 	return JSON.stringify({
 		list: [vod],
 	});
+}
+
+function getToken($) {
+    const currentId = $('#current_id').val();
+    let eToken = $('#e_token').val();
+    if (!currentId || !eToken) return '';
+    const idLength = currentId.length;
+    const subId = currentId.substring(idLength - 4, idLength);
+    let keys = [];
+    for (let i = 0; i < subId.length; i++) {
+        const curInt = parseInt(subId[i]);
+        const splitPos = curInt % 3 + 1;
+        keys[i] = eToken.substring(splitPos, splitPos + 8);
+        eToken = eToken.substring(splitPos + 8, eToken.length);
+    }
+    return keys.join('');
 }
 
 function base64Encode(text) {
