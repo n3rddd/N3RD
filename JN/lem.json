@@ -198,6 +198,7 @@
 {"key":"csp_PanSou_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣盘搜弹幕版(MULTI)","type":3,"api":"csp_PanSou","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"./N3RD/T/t.txt","danmu":true}},
 {"key":"csp_YiSo_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣易搜弹幕版(MULTI)","type":3,"api":"csp_YiSo","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"./N3RD/T/t.txt","danmu":true}},
 
+{"key":"csp_Ppxzy_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 💿皮皮虾弹幕版(MULTI)","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://ppxzy.net/$$$null$$$1"}, 
 {"key":"csp_TZFile_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 💿团长资源弹幕版(MULTI)","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
 {"key":"csp_FourKHDR_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 💿4KHDR弹幕版(MULTI)","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/4k.json$$$1"},
 {"key":"csp_XiaoZhang_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 💿校长影视弹幕版(MULTI)","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
