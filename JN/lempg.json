@@ -75,6 +75,7 @@
 
 
 // ⇩⇩ 爬虫SPIDER ⇩⇩ 
+{"key":"csp_Bili","name":"雷蒙影视 | 🅱哔哩哔哩(SP)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"type":"雷蒙Lem作品#Allblanc#帕梅拉#游戏#电影#音乐#白噪音#演唱会","cookie":"SESSDATA=13efc517%2C1700577613%2Cfcea6%2A52;bili_jct=272ef2be34e676f7cf6339c17dcb7bb5;DedeUserID=284097455;DedeUserID__ckMd5=e652501280a8dfd1;"}},
 {"key":"csp_Jiohub","name":"雷蒙影视 | 🥎JOJO影视弹幕版(SP)","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"timeout":30},
 {"key":"csp_Jojo","name":"雷蒙影视 | ⚾JOJO弹幕版(SP)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"timeout":30},
 {"key":"csp_YQKan ","name":"雷蒙影视 | 📺一起看(SP)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
@@ -110,7 +111,8 @@
 {"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}
+{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+{"name":"廣告","hosts":["."],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+"]}
 ],
 
 "ads": [
