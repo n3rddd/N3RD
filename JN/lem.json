@@ -1540,6 +1540,9 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Web解析聚合","type":3,"url":"Web"},
+
+//CM
+{"name":"playerjy","type":0,"url":"https://jx.playerjy.com/?url="},
   
 //HFQ
 {"name":"💧WEB","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
