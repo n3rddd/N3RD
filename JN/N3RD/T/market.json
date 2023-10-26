@@ -26,8 +26,8 @@
   
 {"name":"本地包",
 "list":[
-{"name":"watson","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1019.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg"},
-{"name":"香雅情","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg"}
+{"name":"watson","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1019.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","copy":"file://Download/JS/js.json"},
+{"name":"香雅情","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","copy":"file://Download/XYQTVBox/XYQTVBox.json"}
 ]
 },
 
