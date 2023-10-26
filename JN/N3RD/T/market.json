@@ -26,8 +26,8 @@
   
 {"name":"本地包",
 "list":[
-{"name":"香雅情","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","copy":"clan://localhost/Download/XYQTVBox/XYQTVBox.json"},
-{"name":"watson","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1019.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","copy":"clan://localhost/Download/JS/js.json"}
+{"name":"香雅情","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"将复制的链接粘贴到配置地址","copy":"clan://localhost/Download/XYQTVBox/XYQTVBox.json"},
+{"name":"watson","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/js-1019.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"将复制的链接粘贴到配置地址","copy":"clan://localhost/Download/JS/js.json"}
 ]
 },
 
