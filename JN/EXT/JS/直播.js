@@ -1,7 +1,7 @@
 [
 {"name":"雷蒙影视概念宣传片","url": "https://lem.clem7.repl.co/N3RD/JN/CRIMETVPV.txt"},
 {"name":"雷蒙","url": "https://lem.clem7.repl.co/N3RD/JN/tv.txt"},
-{"name":"全网聚合","url": "https://ghproxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/tive.txt"},
+{"name":"全网聚合","url": "https://ghproxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt"},
 {"name":"全球","url": "https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
 {"name":"4K8K","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"},
 {"name":"百事通","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u"},
