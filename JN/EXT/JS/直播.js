@@ -8,7 +8,7 @@
 {"name":"歌华有线","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u"},
 {"name":"YSLive","url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
 {"name":"FMLive","url": "https://xhdwc.tk/tvlive.txt"},
-{"name":"FTYLive","url": "http://hz752.love:63/txt/ysbox.txt"}
+{"name":"FTYLive","url": "http://hz752.love:63/txt/ysbox.txt"},
 {"name":"LSLive","url": "https://ghproxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt"},
 {"name":"APTV","url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u"},
 {"name":"ChinaTV","url": "https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"},
@@ -22,5 +22,5 @@
 {"name":"虎牙直播","url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"},
 {"name":"ZHGIPTV","url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/myiptv.m3u"},
 {"name":"ZHGPlaylist","url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/playlist.m3u"},
-{"name":"电台","url": "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio"},
+{"name":"电台","url": "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio"}
 ]
