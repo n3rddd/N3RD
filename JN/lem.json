@@ -1557,11 +1557,13 @@
 {"name":"playerjy","type":0,"url":"https://jx.playerjy.com/?url="},
   
 //HFQ
-{"name":"💧WEB","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"💧77","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["iqiyi","youku","qq","xigua","sohu"]}},
-{"name":"💧南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["iqiyi","youku","mgtv","qq"]}},
-{"name":"💧K影院","type":1,"url":"http://pandown.pro/app/lvdou.php?url=","ext":{"flag":["qq","qiyi","youku","sohu","letv","mgtv","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS"]}},
-{"name":"💧YuMi","type":1,"url":"http://61.147.93.21:8090/index.php?url=","ext":{"flag":["mgtv","YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"💧嗅探","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"💧巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
+{"name":"💧西瓜","type":1,"url":"https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=","ext":{"flag":["qq","iqiyi","youku","xigua","sohu"]}},
+{"name":"💧南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qq","iqiyi","youku","mgtv"]}},
+{"name":"💧绿豆","type":1,"url":"http://pandown.pro/app/lvdou.php?url=","ext":{"flag":["qq","qiyi","youku","sohu","letv","mgtv","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS"]}},
+{"name":"💧玉米","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url=","ext":{"flag":["YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"🧣FY","type":1,"url":"https://daina.hk/api/?key=e8c43a44365a8da7d9e167106befd2b7&url=","ext":{"flag":["FY","飞云","FYNB"],"header":{"User-Agent":"Mozilla/5.0"}}},
 
 //XIAOMI
 {"name":"稻香🌾","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
