@@ -94,7 +94,7 @@
 {"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/"},
 {"key":"csp_Cokemv","name":"雷蒙影视 | 🥤Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"csp_Ddys_XYQ","name":"雷蒙影视 | 🤿低端影视(备用)","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"csp_Ddys_XYQ","name":"雷蒙影视 | 🤿低端影视(备用)","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"雷蒙影视 | 📹在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_NongMing","name":"雷蒙影视 | 👨‍🌾农民影视(SP)","type":3,"api":"csp_NongMing","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"雷蒙影视 | 👨‍🌾农民影视(XPSP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/XB/Nmys.json"},
