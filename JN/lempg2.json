@@ -11,8 +11,9 @@
 "sites":[
 
 // ⇩⇩ 豆瓣片单 ⇩⇩ 
-{"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
+{"key":"csp_Douban","name":"雷蒙影视 | 📡我的豆瓣(SP)","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search3_min.js"},
+{"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 {"key":"csp_Jianpian","name":"雷蒙影视 | 🏆荐片弹幕版(SP)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./N3RD/T/jianpian.json$$$1"},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js"},
 
@@ -21,7 +22,8 @@
 {"key":"csp_FourKHDR","name":"雷蒙影视 | 💿4KHDR弹幕版(SP)","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/4k.json$$$1"},
 {"key":"csp_XiaoZhang","name":"雷蒙影视 | 💿校长影视弹幕版(SP)","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
 {"key":"csp_TZFile","name":"雷蒙影视 | 💿团长资源弹幕版(SP)","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
-{"key":"csp_PpxzyPpxzy","name":"雷蒙影视 | 💿皮皮虾弹幕版(SP)","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://ppxzy.net/$$$null$$$1"}, 
+{"key":"csp_PpxzyPpxzy","name":"雷蒙影视 | 💿皮皮虾弹幕版(SP)","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"changeable":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://ppxzy.net/$$$null$$$1"}, 
+{"key":"csp_Xb6v","name":"雷蒙影视 | 💿新6V弹幕版(SP)","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$http://www.xb6v.com$$$null$$$1"},
   
 {"key":"drjs_aipanso_PG","name":"雷蒙影视 | 📀爱盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/aipanso.js"},
 {"key":"drjs_funletu_PG","name":"雷蒙影视 | 📀趣盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/funletu.js"},
