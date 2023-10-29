@@ -26,9 +26,10 @@
   
 {"name":"本地包【将复制的链接粘贴到配置地址】",
 "list":[
-{"name":"雷蒙影视","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PAK/LEM1026.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"20231026","copy":"clan://localhost/Download/lem/lem.json"},
-{"name":"香雅情","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PAK/XYQ1022.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"20231022","copy":"clan://localhost/Download/XYQTVBox/XYQTVBox.json"},
-{"name":"WATSON","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PAK/WATSON1027.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"20231027","copy":"clan://localhost/Download/JS/js.json"}
+{"name":"雷蒙影视1029","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PAK/LEM1029.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"20231029","copy":"clan://localhost/Download/lem/lem.json"},
+{"name":"雷蒙影视1026","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PAK/LEM1026.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"20231026","copy":"clan://localhost/Download/lem/lem.json"},
+{"name":"香雅情1022","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PAK/XYQ1022.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"20231022","copy":"clan://localhost/Download/XYQTVBox/XYQTVBox.json"},
+{"name":"WATSON1027","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PAK/WATSON1027.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/IMG.jpg","version":"20231027","copy":"clan://localhost/Download/JS/js.json"}
 ]
 },
 
