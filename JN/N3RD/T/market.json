@@ -2,7 +2,7 @@
 
 {"name":"推荐",
 "list":[
-{"name":"雷蒙影视应用商店","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png","style":{"type":"rect"}}
+{"name":"雷蒙影视应用商店","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png"}
 ]
 },
 
@@ -27,13 +27,13 @@
   
 {"name":"本地包【将复制的链接粘贴到配置地址】",
 "list":[
-{"name":"雷蒙影视1102","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/LEM1102.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png","style":{"type":"rect"},"version":"20231102","copy":"clan://localhost/Download/lem/lem.json"},
-{"name":"雷蒙影视1101","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/LEM1101.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png","style":{"type":"rect"},"version":"20231101","copy":"clan://localhost/Download/lem/lem.json"},
-{"name":"雷蒙影视1029","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/LEM1029.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png","style":{"type":"rect"},"version":"20231029","copy":"clan://localhost/Download/lem/lem.json"},
-{"name":"雷蒙影视1026","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/LEM1026.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png","style":{"type":"rect"},"version":"20231026","copy":"clan://localhost/Download/lem/lem.json"},
-{"name":"香雅情1030","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/XYQ1030.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png","style":{"type":"rect"},"version":"20231030","copy":"clan://localhost/Download/XYQTVBox/XYQTVBox.json"},
-{"name":"香雅情1022","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/XYQ1022.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png","style":{"type":"rect"},"version":"20231022","copy":"clan://localhost/Download/XYQTVBox/XYQTVBox.json"},
-{"name":"WATSON1027","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/WATSON1027.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png","style":{"type":"rect"},"version":"20231027","copy":"clan://localhost/Download/JS/js.json"}
+{"name":"雷蒙影视1102","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/LEM1102.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png","version":"20231102","copy":"clan://localhost/Download/lem/lem.json"},
+{"name":"雷蒙影视1101","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/LEM1101.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png","version":"20231101","copy":"clan://localhost/Download/lem/lem.json"},
+{"name":"雷蒙影视1029","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/LEM1029.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png","version":"20231029","copy":"clan://localhost/Download/lem/lem.json"},
+{"name":"雷蒙影视1026","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/LEM1026.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png","version":"20231026","copy":"clan://localhost/Download/lem/lem.json"},
+{"name":"香雅情1030","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/XYQ1030.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png","version":"20231030","copy":"clan://localhost/Download/XYQTVBox/XYQTVBox.json"},
+{"name":"香雅情1022","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/XYQ1022.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png","version":"20231022","copy":"clan://localhost/Download/XYQTVBox/XYQTVBox.json"},
+{"name":"WATSON1027","url":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/MARKET/main/PAK/WATSON1027.zip","icon":"https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png","version":"20231027","copy":"clan://localhost/Download/JS/js.json"}
 ]
 },
 
