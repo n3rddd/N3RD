@@ -28,7 +28,7 @@
 {"name":"FMLive","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YSLive","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FTYLive","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"HFQLive","type":0,"url":"https://tim-ss.tk/https://raw.githubusercontent.com/HongFeiQ/live/main/0.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"HFQLive","type":0,"url":"https://tim-ss.tk/https://raw.githubusercontent.com/HongFeiQ/live/master/0.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"CMLive","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"LSLive","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"港台节目","type":0,"url":"http://www.stream-link.org/stream-link.m3u","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
