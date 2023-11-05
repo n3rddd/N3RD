@@ -9,7 +9,7 @@
 {"name":"YSLive","url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
 {"name":"FMLive","url": "https://xhdwc.tk/tvlive.txt"},
 {"name":"FTYLive","url": "https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt"},
-{"name":"HFQLive","url": "https://tim-ss.tk/https://raw.githubusercontent.com/HongFeiQ/live/main/0.txt"},
+{"name":"HFQLive","url": "https://tim-ss.tk/https://raw.githubusercontent.com/HongFeiQ/live/master/0.txt"},
 {"name":"CMLive","url": "https://gh-proxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/live.txt"},
 {"name":"LSLive","url": "https://gh-proxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt"},
 {"name":"APTV","url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u"},
