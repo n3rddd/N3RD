@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem1102.jar;md5;BFA0402F076B9322D0EA52AF052CF0D4",
+"spider":"./N3RD/J/lem1105.jar;md5;C450CD4C638D859F8F01DEE0E16899BB",
 
+//"spider":"./N3RD/J/lem1102.jar;md5;BFA0402F076B9322D0EA52AF052CF0D4",
 //"spider":"./N3RD/J/lem1101.jar;md5;39E9AA3A294E1D0F0B6F3886C5E0037B",
 //"spider":"./N3RD/J/lem1029.jar;md5;801D65585F024263030763A8187B1E67", 
 //"spider":"./N3RD/J/lem10262.jar;md5;AA41E8C46FB11A2990BD301955C5047D",
@@ -132,6 +133,8 @@
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_Bdys01_QJ","name":"雷蒙影视 | 📯哔嘀影视(备用)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(备用)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz"},
+{"key":"csp_NanGuaQJ","name":"雷蒙影视 | 🎃南瓜影视(备用)","type":3,"api":"csp_NanGuaQJ","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Lib_QJ","name":"雷蒙影视 | 🎉Libvio(备用)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/static/js/playerconfig.js"},
 {"key":"csp_Hudie_QJ","name":"雷蒙影视 | 🦋蝴蝶(SP)","type":3,"api":"csp_Hudie","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn"},
 {"key":"csp_Appto_Mino_QJ","name":"雷蒙影视 | 🍏Mino(SP)","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"filterable":1,"ext":"gp154Y4c5/+AWrbDCpKosu8KcJnpV1OWs2/AQOulsT6Zvh/hJWriELmlIl/4Kj4E/cKagz+HTmCPEw8giV4cM5CupQy1nQcDBw0thnFu1VuFmvuykwZQGg2zM+35JUluN7zJ3E0yCF2WZJzLqPutwvkLxvEyhPME6x8cfY/mkIhkPJET/DzKF+NVk85/MlTgD3anFURB9q4TMuCTWwMmkW1c2R8FmnWk3HVwVW8Gug2pXjOusrQtGvOcJ1BRe10IyUeERxvw3pz8RjcAC8qgNkDIq4LRf95zXmn6iP9hkAzCriVG4JA8gdPbi21pZARUCBBnIYhSjHbGxAJdmbXmL5a59f28GLxX3xFiCI7B2XLlz2DzMBnPhHW+Tv4dTDSLhUzX1SUqJ3vKw6ioahLCXsqTGBdPRVTmNuDRIguHmK4S9d38X67b4hnbbQP4ptkwXs6AVpuDXV/p5UCICqAenXp7kFxqx/J+AKIqoAoqNXZWC7Gse4Mq2+zHWD6JTSX/Gi8Cx/kcky6ODl8vcJfzHp+csjGTePvl0efuspHGk/ySU9Qhlwy+mkQexAg6+tkR2g2Gd1i8jL8VCA/ImAbellDTsMvivAaiWeGdxqqLUpTJ4k2jtsqDpU0dRDqtzKdD+TovO5U1KZnUPhJmLJSEGZjSI/1S3J1/+qKAwdwtxsYGlDJ7xb+7CKGisvKEswq7QazWY7hZHDWgRJQLDsru0zv0GIVrqoRpErXx3MCX+8UDS6mkANWc0p0xDtGojmpV9U/570Cyuuw+6uQpr2MwMXNPWfuawTwjT77yOpM1xpH+ictVc8ecfU89jAj1y3so3KS2sPiYkMKXF3XwG+PIinlw/LUGOcjMx8Gajpwu3kL86LbAY+75raVCFowM50v8rX6YhpEck12ifLtYPpJN51roGkAYZQKxiqKkVrtxC6HRkgLC/jl+WAA8Q15wvuLDd95WgtkmEe2bCzcIO1Q4lJMYpXV511psqHxY1RH6aSQjjjZybS8pNZDWA8a656n3n"},
 {"key":"csp_Appto_橘子_QJ","name":"雷蒙影视 | 🍏橘子(SP)","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"filterable":1,"ext":"GEH/Cad4IraPQQjFebUq2YWessX9VyNjJiCXtizjYmrDFE33XMmmInFZ4UC23dWT79iS1TJCCxAsEB5MTjvjUU7qxhd2cevnSQkQu/CkTlcDbiXfYi8QdSMQ+QWIottOkRDcGwo9+gvMBLMbz+ozbEXiWDrA60gGXFzhBjIFE94oaYeIM7A09EBKRxGtGrnQ9xNLcxiXP3fnZl11LvVGqHNl8/STWJgzvJNJ8awI7limb//+MQUk8xdfGcP0lVmpT3dU2xp0LVOpVabXSJeauubbi1/EOYSquLyIE8HgDCdZlybmeQnZ3JQ+zOvGPy9K+7lYSnFD5jiNwgNBDdFJqamXuDLY5eWRs/8dBegourPzn0DjUhZTNNsZr4fMLx6OvsSCYMeepMtslFH0s83JkhuoxUhXyAEIWk8cahMzSfOe9V+I9p9Rryre6+vQhhulITL4Mj18zq1tTuD0OQiAiPUjwPgRI3Oa4sa2qzCxP4AFpu9N3bdkeVThLHqQt5mMTAOoNmP59+5XueN5K6I9BKXUqk+lvrTArNo/VnQ0UHn9flmJhePCyoWBt2OiJSjSiOSOTqzs00oMC6B3HgcsRp3AnI2XYf97oMZ2o7xRug6NFtlVlII8XtGAUEqmrQSXmItUi+Lb7c1qU7TQsyD1oLFoyQq8Nqrc+MSkOo0Obdmw="},
