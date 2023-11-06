@@ -363,6 +363,7 @@
 {"key":"drjs_B站影视","name":"雷蒙影视 | 👺B站影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/B站影视.js"},
 {"key":"drjs_JustLive","name":"雷蒙影视 | 👺JustLive(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/JustLive.js"},
 {"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/腾云驾雾.js"},
+{"key":"drjs_刺桐[V2]","name":"雷蒙影视 | 👺刺桐[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/刺桐[V2].js"},
 {"key":"drjs_野格","name":"雷蒙影视 | 👺野格(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/野格.js"},
 {"key":"drjs_独播库[飞]","name":"雷蒙影视 | 👺独播库[飞](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/独播库[飞].js"},
 {"key":"drjs_Auete","name":"雷蒙影视 | 👺Auete(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/Auete.js"},
