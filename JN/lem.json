@@ -1538,6 +1538,7 @@
 {"name":"极速","hosts":["jszy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"蚂蚁","hosts":["v.cdnlz1.com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"巧记","host":["qiaoji"],"filter":["qiaoji"]},
+{"name":"一起看","hosts":["yqk88"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]},
 
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["iesdouyin.com/aweme", "video_id="]},
