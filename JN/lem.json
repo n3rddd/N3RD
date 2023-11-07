@@ -185,6 +185,7 @@
 
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
+{"key":"csp_YT_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | 🏵影探(MULTI)","type":3,"api":"csp_YT","ext":{"server":"http://ytvip.lyyytv.cn"}},
 {"key":"csp_AppTo_橘子_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️橘子(MULTI)","type":3,"api":"csp_AppTo","ext":"eyJ1cmwiOiJodHRwczovL2p1eml2aXAtMTMxMTc5OTQ2Ni5jb3MuYXAtc2hhbmdoYWkubXlxY2xvdWQuY29tL2FwaS5qc29uIiwia2V5IjoiQ3k1a1M1dFNNYmlzQnpFVEJLaWZBY25tWTZSRVI0WksiLCJpdiI6IjEyMzgzODk0ODM3NjI4MzciLCJjb25maWciOiJ2MiIsInVzZXJuYW1lIjoiIiwicGFzc3dvcmQiOiIiLCJpYyI6InBCOGZWMW81Zk9EeWxPNUF0Tzh0dlhnb1Bsam5MZE5BT0xnS0pkS0kzYUVHWlhLOTFKYTB3c3lnNCtsYUtXeTNTaHFOaWVxQWxZeDRaV0Ztc1pRSjRienEvNHZ6K3IxdEp5K1JtZVpwaHVRRzQ1TDBKZmlTNC9PQ0JQN3pXUWVsT0g0OFBZRW0rZHVOMFdiWWZWN1VXUT09In0="},
 {"key":"csp_AppTo_MINO_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️MINO(MULTI)","type":3,"api":"csp_AppTo","ext":"eyJob3N0IjoiaHR0cDovLzExOC4xMjMuMjM3LjE3NDo0NjIxIiwia2V5IjoicjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDciLCJpdiI6IjEyMzgzODk0ODM3NjI4MzciLCJjb25maWciOiJ2MiIsInRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjM01pT2lKQmNIQlVieUlzSW1saGRDSTZNVFk1TnpJNU5qWXdNeXdpWlhod0lqb3hOekk0T0RNeU5qQXpMQ0p1WW1ZaU9qRTJPVGN5T1RZMk1ETXNJbk4xWWlJNklrRndjRlJ2SWl3aWFuUnBJam9pTVRkbE9XRTFPR0V5WlRNNE1tRTVaR1ExTTJOaFlqazFZell4TVdObE9USWlMQ0prWVhSaElqcDdJblZ6WlhKZmFXUWlPakUyTVRRMExDSjFjMlZ5WDJOb1pXTnJJam9pT0RjelpERTVNekZoWWpZd01Ua3dZbVU1WlRabE1qY3pNMlV6WVdZek5qRWlMQ0oxYzJWeVgyNWhiV1VpT2lKdGFXNXZOR3R2SW4xOS4wQ3FVV2k2VHQ2SGRLVmFMc29DNDVYUW5hT2ZiMXEzdElfb2hwbUdwR1BBIn0="},
 
@@ -244,10 +245,15 @@
 // ⇩⇩ T4 ⇩⇩ 
 {"key":"T4_哔哩哔哩","name":"雷蒙影视 | 4️⃣哔哩哔哩(T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=dash,mp4","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"viewType":1,"ext":{"type":"雷蒙Lem作品#Allblanc#帕梅拉#游戏#电影#音乐#白噪音#演唱会"}},
 {"key":"T4_荐片","name":"雷蒙影视 | 4️⃣荐片(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"T4_月月","name":"雷蒙影视 | 4️⃣阿里采集聚合(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/ali","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"d3dd517c45af4dd2ae6c371574731bc6","apiList":[{"name":"非凡","api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"},{"name":"索尼","api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8"},{"name":"量子","api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"}]},"changeable":1},
 {"key":"T4_玩偶哥哥","name":"雷蒙影视 | 4️⃣玩偶哥哥(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=7984abb3f03c447196459eebd03eda63","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_小纸条","name":"雷蒙影视 | 4️⃣小纸条(T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"d3dd517c45af4dd2ae6c371574731bc6"},
+
+{"key":"T4_阿里采集聚搜","name":"雷蒙影视 | 4️⃣阿里采集聚搜(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/ali","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"d3dd517c45af4dd2ae6c371574731bc6","apiList":[{"name":"非凡","api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"},{"name":"索尼","api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8"},{"name":"量子","api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"}]},"changeable":1},
 {"key":"T4_有声小说","name":"雷蒙影视 | 4️⃣有声小说(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
+{"key":"T4_央视","name":"雷蒙影视 | 4️⃣央视(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/cntv","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
+{"key":"T4_体育","name":"雷蒙影视 | 4️⃣体育(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/sport","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
+{"key":"T4_直播","name":"雷蒙影视 | 4️⃣直播(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/live","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":{"url":"./N3RD/T/t4live.json"}},
+
 //{"key":"T4_Ali","name":"雷蒙影视 | 4️⃣阿里聚合搜(T4)","type":4,"api":"http://home.jundie.top:9520/ali/cli_Alii?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482","searchable":1,"quickSearch":1,"filterable":1},
  
   
