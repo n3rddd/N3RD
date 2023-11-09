@@ -311,6 +311,10 @@
   
   
 // ⇩⇩ CatVodOpen规则 ⇩⇩ 
+{"key":"open_伊人追剧","name":"雷蒙影视 | 🍭伊人追剧(OPENJS)","type":3,"api":"./EXT/OPENJS/open/yrzj_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_布蕾","name":"雷蒙影视 | 🍭布蕾(OPENJS)","type":3,"api":"./EXT/OPENJS/open/bulei_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_滴滴MV","name":"雷蒙影视 | 🍭滴滴MV(OPENJS)","type":3,"api":"./EXT/OPENJS/open/ddmv_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"open_MINO","name":"雷蒙影视 | 🍭MINO(OPENJS)","type":3,"api":"./EXT/OPENJS/open/mino_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_大师兄","name":"雷蒙影视 | 🍭大师兄(OPENJS)","type":3,"api":"./EXT/OPENJS/open/dsxys_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_一起看","name":"雷蒙影视 | 🍭一起看(OPENJS)","type":3,"api":"./EXT/OPENJS/open/yqktv_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_JoJo","name":"雷蒙影视 | 🍭JoJo(OPENJS)","type":3,"api":"./EXT/OPENJS/open/jojo_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -337,7 +341,6 @@
 {"key":"open_童趣","name":"雷蒙影视 | 🍭童趣(OPENJS)","type":3,"api":"./EXT/OPENJS/open/boosj_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_爱看机器人","name":"雷蒙影视 | 🍭爱看机器人(OPENJS)","type":3,"api":"./EXT/OPENJS/open/ikanbot_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"open_图图","name":"雷蒙影视 | 🍭图图(OPENJS)","type":3,"api":"./EXT/OPENJS/open/tutu_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"open_伊人追剧","name":"雷蒙影视 | 🍭伊人追剧(OPENJS)","type":3,"api":"./EXT/OPENJS/open/yrzj_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 
 // ⇩⇩ 路飞影视JS ⇩⇩ 
