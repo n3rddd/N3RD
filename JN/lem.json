@@ -190,7 +190,8 @@
 // ⇩⇩ MULTIJAR ⇩⇩ 
 {"key":"csp_AppTo_MINO_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️MINO(MULTI)","type":3,"api":"csp_AppTo","ext":{"from":"mine","cfg":"eyJ1cmwiOiJodHRwOi8vMTE4LjEyMy4yMzcuMTc0OjQ2MjEiLCJrZXkiOiJyMmVyZXpVcXhranAxQzNsbUlxQnRMemxxb1hoTkxoNyIsIml2IjoiMTIzODM4OTQ4Mzc2MjgzNyIsImFwaSI6InYyIiwiY29uZmlndXJsIjoiL2FwcHRvL3YyL2NvbmZpZy9nZXQ/cD1hbmRyb2lkIiwidG9rZW4iOiJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcGMzTWlPaUpCY0hCVWJ5SXNJbWxoZENJNk1UWTVOekk1TmpZd015d2laWGh3SWpveE56STRPRE15TmpBekxDSnVZbVlpT2pFMk9UY3lPVFkyTURNc0luTjFZaUk2SWtGd2NGUnZJaXdpYW5ScElqb2lNVGRsT1dFMU9HRXlaVE00TW1FNVpHUTFNMk5oWWprMVl6WXhNV05sT1RJaUxDSmtZWFJoSWpwN0luVnpaWEpmYVdRaU9qRTJNVFEwTENKMWMyVnlYMk5vWldOcklqb2lPRGN6WkRFNU16RmhZall3TVRrd1ltVTVaVFpsTWpjek0yVXpZV1l6TmpFaUxDSjFjMlZ5WDI1aGJXVWlPaUp0YVc1dk5HdHZJbjE5LjBDcVVXaTZUdDZIZEtWYUxzb0M0NVhRbmFPZmIxcTN0SV9vaHBtR3BHUEEifQ=="}},
 {"key":"csp_YT_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️影探(MULTI)","type":3,"api":"csp_YT","ext":{"server":"http://ytvip.lyyytv.cn"}},
-
+{"key":"csp_YingSC_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️玩偶表哥(MULTI)","type":3,"api":"csp_YingSC","changeable":0,"ext":{"site":"http://cms.weixine.net:88/api.php/app/","token":"./N3RD/T/t.txt"}},
+ 
 {"key":"csp_JoJo_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕JOJO(MULTI)","type":3,"api":"csp_JoJo","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
 {"key":"csp_Xifan_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕稀饭动漫(MULTI)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
 {"key":"csp_WebPuTao_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕葡萄短剧(MULTI)","type":3,"api":"csp_WebPuTao","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
