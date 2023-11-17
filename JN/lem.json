@@ -91,6 +91,8 @@
 {"key":"csp_AppMao_嘿嘿","name":"雷蒙影视 | 🍎嘿嘿(APPTO)","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="},
 {"key":"csp_AppMao_繁星","name":"雷蒙影视 | 🍎繁星(APPTO)","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
 {"key":"csp_AppSK_觅视频","name":"雷蒙影视 | 🧊觅视频(APPSK)","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"},
+{"key":"csp_AppSK_小小","name":"雷蒙影视 | 🧊小小(APPSK)","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjLNgNFopFSHVY6K2ulREXB8Df/naRzE3Wr//0Eii7c3+Gy303m2c6QTo5XtUnKAsMSNaL2xXeIzJO1iEbmKYzDfKoZ3h8"},
+{"key":"csp_AppSK_极光","name":"雷蒙影视 | 🧊极光(APPSK)","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFrp15cspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="},
 {"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/"},
 {"key":"csp_Cokemv","name":"雷蒙影视 | 🥤Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
@@ -185,8 +187,8 @@
 
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
-{"key":"csp_AppTo_MINO_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️MINO(MULTI)","type":3,"api":"csp_AppTo","ext":{"from":"mine","cfg":"eyJ1cmwiOiJodHRwOi8vMTE4LjEyMy4yMzcuMTc0OjQ2MjEiLCJrZXkiOiJyMmVyZXpVcXhranAxQzNsbUlxQnRMemxxb1hoTkxoNyIsIml2IjoiMTIzODM4OTQ4Mzc2MjgzNyIsImFwaSI6InYyIiwiY29uZmlndXJsIjoiL2FwcHRvL3YyL2NvbmZpZy9nZXQ/cD1hbmRyb2lkIiwidG9rZW4iOiJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcGMzTWlPaUpCY0hCVWJ5SXNJbWxoZENJNk1UWTVOekk1TmpZd015d2laWGh3SWpveE56STRPRE15TmpBekxDSnVZbVlpT2pFMk9UY3lPVFkyTURNc0luTjFZaUk2SWtGd2NGUnZJaXdpYW5ScElqb2lNVGRsT1dFMU9HRXlaVE00TW1FNVpHUTFNMk5oWWprMVl6WXhNV05sT1RJaUxDSmtZWFJoSWpwN0luVnpaWEpmYVdRaU9qRTJNVFEwTENKMWMyVnlYMk5vWldOcklqb2lPRGN6WkRFNU16RmhZall3TVRrd1ltVTVaVFpsTWpjek0yVXpZV1l6TmpFaUxDSjFjMlZ5WDI1aGJXVWlPaUp0YVc1dk5HdHZJbjE5LjBDcVVXaTZUdDZIZEtWYUxzb0M0NVhRbmFPZmIxcTN0SV9vaHBtR3BHUEEifQ=="}},
-{"key":"csp_YT_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️影探(MULTI)","type":3,"api":"csp_YT","ext":{"server":"http://ytvip.lyyytv.cn"}},
+{"key":"csp_LvDou_影探_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️影探(MULTI)","type":3,"api":"csp_LvDou","ext":{"server":"http://ytvip.lyyytv.cn"}},
+{"key":"csp_LvDou_追忆_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️追忆(MULTI)","type":3,"api":"csp_LvDou","ext":{"server":"http://tvbox.aleoe.cc"}},
 {"key":"csp_YingSC_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️玩偶表哥(MULTI)","type":3,"api":"csp_YingSC","changeable":0,"ext":{"site":"http://cms.weixine.net:88/api.php/app/","token":"./N3RD/T/t.txt"}},
  
 {"key":"csp_JoJo_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕JOJO(MULTI)","type":3,"api":"csp_JoJo","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
@@ -1585,12 +1587,12 @@
 {"name":"Web解析聚合","type":3,"url":"Web"},
   
 //HFQ
-{"name":"💧嗅探","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"💧嗅探","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"💧追忆","type":1,"url":"http://115.231.220.36:8801/jx/tvbox/zyys.php?url=","ext":{"flag":["qq","iqiyi","youku","mgtv"]}},
 {"name":"💧巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url=","ext":{"flag":["qq","qiyi","youku","tucheng","sohu","letv","mgtv","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip","FY","FYNB"],"ads":["qiaoji"]}},
 {"name":"💧西瓜","type":1,"url":"https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=","ext":{"flag":["qq","iqiyi","youku","xigua","sohu"]}},
 {"name":"💧南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qq","iqiyi","youku","mgtv"]}},
 {"name":"🧣玉米","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url=","ext":{"flag":["YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"🧣FY","type":1,"url":"https://huancun.xn--654a.cc/m334.php?url=","ext":{"flag":["FY","FYNB"],"header":{"User-Agent":"Mozilla/5.0"}}},
 
 //XIAOMI
 {"name":"稻香🌾","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
