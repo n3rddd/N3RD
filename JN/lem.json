@@ -1587,11 +1587,11 @@
 {"name":"Web解析聚合","type":3,"url":"Web"},
   
 //HFQ
-{"name":"💧嗅探","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","ixigua","sohu","le","douyin","bilibili"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"💧追忆","type":1,"url":"http://115.231.220.36:8801/jx/tvbox/zyys.php?url=","ext":{"flag":["qq","iqiyi","youku","mgtv"]}},
-{"name":"💧巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url=","ext":{"flag":["qq","qiyi","youku","tucheng","sohu","letv","mgtv","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip","FY","FYNB"],"ads":["qiaoji"]}},
-{"name":"💧西瓜","type":1,"url":"https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=","ext":{"flag":["qq","iqiyi","youku","xigua","sohu"]}},
-{"name":"💧南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qq","iqiyi","youku","mgtv"]}},
+{"name":"💧嗅探","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"💧巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url=","ext":{"ads":["qiaoji"]}},
+{"name":"💧西瓜","type":1,"url":"https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url="},
+{"name":"💧南瓜","type":1,"url":"http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
+{"name":"💧黄瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
 {"name":"🧣玉米","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url=","ext":{"flag":["YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 //XIAOMI
