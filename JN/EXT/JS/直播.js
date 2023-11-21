@@ -5,6 +5,8 @@
 {"name":"4K8K","url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"},
 {"name":"重庆有线","url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u"},
 {"name":"阳泉广电","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u"},
+{"name":"河北广电","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u"},
+{"name":"猫视频","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u"},
 {"name":"FTYLive","url":"https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt"},
 {"name":"FMLive","url":"http://我不是.肥猫.love:63/TV/tvzb.txt"},
 {"name":"CMLive","url":"https://gh-proxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/live.txt"},
