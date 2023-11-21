@@ -25,7 +25,7 @@
 {"name":"猫视频","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"4K8K","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FTYLive","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"FMLive","type":0,"url":"http://我不是.肥猫.love:63/TV/tvzb.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"TWKJLive","type":0,"url":"http://tvkj.top/tvlive.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"CMLive","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YSCLive","type":0,"url":"https://weixine.net/tv/ysclive.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"HCCXLive","type":0,"url":"http://rihou.vip:88/直播","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
