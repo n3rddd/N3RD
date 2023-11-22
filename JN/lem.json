@@ -227,11 +227,11 @@
 {"key":"csp_Hdhive_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 💿影巢弹幕版(MULTI)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
 
 
-// ⇩⇩ XML ⇩⇩ 
+// ⇩⇩ 采集 ⇩⇩ 
 {"key":"xml_快车","name":"雷蒙影视 | ️🚀快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","动画片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
 {"key":"xml_火狐","name":"雷蒙影视 | ️🚀火狐","type":1,"style":{"type":"rect","ratio":0.8},"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
 {"key":"xml_快看","name":"雷蒙影视 | ️🚀快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod","categories":["网络电影","动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","国产动漫","日本动漫","国产剧","韩国剧","港台剧","欧美剧","国产综艺","港台综艺"]},
-{"key":"xml_1080资源库","name":"雷蒙影视 | 🚀1080资源库","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
+{"key":"xml_优质","name":"雷蒙影视 | 🚀优质","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
 {"key":"xml_爱酷","name":"雷蒙影视 | 🚀爱酷","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影","连续剧","综艺","动漫"]},
 {"key":"xml_享看","name":"雷蒙影视 | 🚀享看","type":1,"api":"https://xkanzy10.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_魔都","name":"雷蒙影视 | ️🚀魔都","type":1,"api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影"]},
@@ -242,9 +242,19 @@
 {"key":"xml_夸克","name":"雷蒙影视 | ️🚀夸克","type":1,"api":"http://kuakezy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","纪录片","悬疑片","动画片","犯罪片","奇幻片","国产剧","香港剧","台湾剧","韩国剧","美国剧","日本剧","海外剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","热门短剧"]},
 {"key":"xml_小胡","name":"雷蒙影视 | ️🚀小胡","type":1,"api":"http://d.xzam.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_海外看","name":"雷蒙影视 | ️🚀海外看","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片"]},
+{"key":"xml_哔饭","name":"雷蒙影视 | ️🚀哔饭","type":1,"api":"https://cdk.centos.chat/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_虎牙","name":"雷蒙影视 | ️🚀虎牙","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_大漠","name":"雷蒙影视 | ️🚀大漠","type":1,"api":"https://damozy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_猫放","name":"雷蒙影视 | ️🚀猫放","type":1,"api":"https://www.mervod.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_U酷","name":"雷蒙影视 | ️🚀U酷","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_最大","name":"雷蒙影视 | ️🚀最大","type":1,"api":"http://zuidazy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_速播","name":"雷蒙影视 | ️🚀速播","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_奇虎","name":"雷蒙影视 | ️🚀奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_淘片","name":"雷蒙影视 | ️🚀淘片","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_爱坤","name":"雷蒙影视 | ️🚀爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_影视车","name":"雷蒙影视 | ️🚀影视车","type":0,"api":"http://cms.weixine.net:88/api.php/provide/vod/at/xml"},
 
- 
+
 // ⇩⇩ APP ⇩⇩ 
 {"key":"csp_AppYsV2_爱迪","name":"雷蒙影视 | 🖤爱迪(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"csp_AppYsV2_爱迪2","name":"雷蒙影视 | 🖤爱迪2(APP)","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
@@ -1364,7 +1374,6 @@
 {"key":"appys_玖卿乐播","name":"雷蒙影视 | 💪玖卿乐播","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
 {"key":"xml_小草采集","name":"雷蒙影视 | ️🚀小草采集","type":1,"api":"https://www.xsgj.net/api.php/provide/vod/","playUrl":"https://lziplayer.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","直播","短片","国产剧","综艺","影片库","动漫"]},
 {"key":"csp_龙门影视","name":"雷蒙影视 | 龙门影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"},
-{"key":"iKun资源","name":"雷蒙影视 | iKun资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
 
 
 // ⇩⇩ APPYSV2 ⇩⇩
