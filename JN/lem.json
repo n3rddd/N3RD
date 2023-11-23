@@ -33,6 +33,7 @@
 {"name":"HFQLive","type":0,"url":"https://tim-ss.tk/https://raw.githubusercontent.com/HongFeiQ/live/master/0.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YSLive","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YYDDLive","type":0,"url":"https://agit.ai/leevi/duo/raw/branch/master/v.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"DRPYLive","type":0,"url":"https://999740.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/base/直播.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"CNSLive","type":0,"url":"https://tvbox.cainisi.cf/TV","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"LSLive","type":0,"url":"https://999740.xyz/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"港台节目","type":0,"url":"http://www.stream-link.org/stream-link.m3u","ua":"okhttp/3.15","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
