@@ -1,7 +1,7 @@
 [
 {"name":"雷蒙影视概念宣传片","url":"https://lem.clem7.repl.co/N3RD/JN/CRIMETVPV.txt"},
 {"name":"雷蒙","url":"https://lem.clem7.repl.co/N3RD/JN/tv.txt"},
-{"name":"全球","url":"https://999740.xyz/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
+{"name":"全球","url":"https://live.fanmingming.com/tv/m3u/global.m3u"},
 {"name":"4K8K","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"},
 {"name":"重庆有线","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u"},
 {"name":"阳泉广电","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u"},
