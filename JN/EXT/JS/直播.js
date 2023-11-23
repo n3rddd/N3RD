@@ -16,6 +16,7 @@
 {"name":"HFQLive","url":"https://tim-ss.tk/https://raw.githubusercontent.com/HongFeiQ/live/master/0.txt"},
 {"name":"YSLive","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
 {"name":"YYDDLive","url":"https://agit.ai/leevi/duo/raw/branch/master/v.txt"},
+{"name":"DRPYLive","url":"https://999740.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/base/直播.txt"},
 {"name":"CNSLive","url":"https://tvbox.cainisi.cf/TV"},
 {"name":"LSLive","url":"https://999740.xyz/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt"},
 {"name":"APTV","url":"https://999740.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u"},
