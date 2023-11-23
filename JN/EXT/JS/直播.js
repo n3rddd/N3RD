@@ -7,7 +7,7 @@
 {"name":"阳泉广电","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u"},
 {"name":"河北广电","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u"},
 {"name":"猫视频","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u"},
-{"name":"FTYLive","url":"https://999740.xyz/raw.githubusercontent.com/dxawi/0/main/tvlive.txt"},
+{"name":"FTYLive","url":"https://xhdwc.tk/tvlive.txt"},
 {"name":"TWKJLive","url":"http://tvkj.top/tvlive.txt"},
 {"name":"DWCLive","url":"https://999740.xyz/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt"},
 {"name":"CMLive","url":"https://999740.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/live.txt"},
