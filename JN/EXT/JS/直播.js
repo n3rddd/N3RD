@@ -9,6 +9,7 @@
 {"name":"猫视频","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u"},
 {"name":"FTYLive","url":"https://999740.xyz/raw.githubusercontent.com/dxawi/0/main/tvlive.txt"},
 {"name":"TWKJLive","url":"http://tvkj.top/tvlive.txt"},
+{"name":"DWCLive","url":"https://999740.xyz/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt"},
 {"name":"CMLive","url":"https://999740.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/live.txt"},
 {"name":"YSCLive","url":"https://weixine.net/tv/ysclive.txt"},
 {"name":"HCCXLive","url":"http://rihou.vip:88/直播"},
