@@ -4,8 +4,7 @@
 "wallpaper":"https://PIC.clem7.repl.co",
 
 "lives":[
-{"name":"太阳","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/tv/太阳.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"肥猫","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/tv/肥猫.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"太阳","type":0,"url":"https://999740.xyz/https://raw.githubusercontent.com/13998394872/TVBox/main/tv/太阳.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 
 "sites":[
