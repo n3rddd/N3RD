@@ -19,7 +19,7 @@
 {"name":"DRPYLive","url":"https://999740.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/base/直播.txt"},
 {"name":"CNSLive","url":"https://tvbox.cainisi.cf/TV"},
 {"name":"LSLive","url":"https://999740.xyz/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt"},
-{"name":"APTV","url":"https://999740.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u"},
+{"name":"APTV","url":"https://999740.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"},
 {"name":"ChinaTV","url":"https://999740.xyz/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"},
 {"name":"搜集","url":"https://999740.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
 {"name":"港台节目","url":"http://www.stream-link.org/stream-link.m3u"},
