@@ -255,7 +255,6 @@
 {"key":"xml_奇虎","name":"雷蒙影视 | ️🚀奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_淘片","name":"雷蒙影视 | ️🚀淘片","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_爱坤","name":"雷蒙影视 | ️🚀爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"xml_影视车","name":"雷蒙影视 | ️🚀影视车","type":0,"api":"http://cms.weixine.net:88/api.php/provide/vod/at/xml"},
 
 
 // ⇩⇩ APP ⇩⇩ 
