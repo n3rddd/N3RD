@@ -1,8 +1,7 @@
 { "urls": 
 [
-{"url":"https://acg.kr/lemtv","name":"👦雷蒙影视独家线路"},
-{"url":"https://acg.kr/lemtvj","name":"👦雷蒙影视JS专线"},
-{"url":"https://acg.kr/lemtva","name":"👦雷蒙影视阿里专线"},
-{"url":"https://acg.kr/lemtvx","name":"👦雷蒙影视XYQ专线"}
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp","name":"👦雷蒙影视独家线路"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视JS.bmp","name":"👦雷蒙影视JS专线"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视ALI.bmp","name":"👦雷蒙影视阿里专线"}
 ]
 }
