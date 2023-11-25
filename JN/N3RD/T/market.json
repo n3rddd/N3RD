@@ -59,13 +59,15 @@
 {"name":"P6P","url":"https://my.t4tv.hz.cz/so/armeabi-v7a/libp6p.so","icon":"https://999740.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png"},
 {"name":"P7P","url":"https://my.t4tv.hz.cz/so/armeabi-v7a/libp7p.so","icon":"https://999740.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png"},
 {"name":"P8P","url":"https://my.t4tv.hz.cz/so/armeabi-v7a/libp8p.so","icon":"https://999740.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png"},
-{"name":"P9P","url":"https://my.t4tv.hz.cz/so/armeabi-v7a/libp9p.so","icon":"https://999740.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png"}]},
+{"name":"P9P","url":"https://my.t4tv.hz.cz/so/armeabi-v7a/libp9p.so","icon":"https://999740.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png"}
+]
+},
 
 {"name":"v8a","list":[
 {"name":"av1","url":"https://my.t4tv.hz.cz/so/arm64-v8a/libgav1JNI.so","icon":"https://999740.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png","version":"EXO"},
 {"name":"荐片","url":"https://my.t4tv.hz.cz/so/arm64-v8a/libjpa.so","icon":"https://999740.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png"},
 {"name":"磁力-1","url":"https://my.t4tv.hz.cz/so/arm64-v8a/libxl_stat.so","icon":"https://999740.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png"},
-{"name":"磁力-2","url":"https://my.t4tv.hz.cz/so/arm64-v8a/libxl_thunder_sdk.so","icon":"https://999740.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png"}]}
+{"name":"磁力-2","url":"https://my.t4tv.hz.cz/so/arm64-v8a/libxl_thunder_sdk.so","icon":"https://999740.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER2.png"}
 ]
 }
 
