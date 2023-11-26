@@ -199,7 +199,9 @@
 {"key":"csp_LvDou_影探_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️影探(MULTI)","type":3,"api":"csp_LvDou","ext":{"server":"http://ytvip.lyyytv.cn","version":"2.2.231017"}},
 {"key":"csp_LvDou_追忆_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️追忆(MULTI)","type":3,"api":"csp_LvDou","ext":{"server":"http://tvbox.aleoe.cc","version":"3.4.231117"}},
 {"key":"csp_YingSC_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️玩偶表哥(MULTI)","type":3,"api":"csp_YingSC","changeable":0,"ext":{"site":"http://cms.weixine.net:88/api.php/app/","token":"./N3RD/T/t.txt"}},
- 
+{"key":"csp_PanSearchQuark_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️夸克盘搜(MULTI)","type":3,"api":"csp_PanSearchQuark","changeable":0,"hide":1},
+{"key":"csp_PanSouQuark_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️夸克猫狸搜(MULTI)","type":3,"api":"csp_PanSouQuark","changeable":0,"hide":1},
+
 {"key":"csp_JoJo_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕JOJO(MULTI)","type":3,"api":"csp_JoJo","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
 {"key":"csp_Xifan_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕稀饭动漫(MULTI)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
 {"key":"csp_WebPuTao_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕葡萄短剧(MULTI)","type":3,"api":"csp_WebPuTao","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
@@ -256,6 +258,7 @@
 {"key":"xml_奇虎","name":"雷蒙影视 | ️🚀奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_淘片","name":"雷蒙影视 | ️🚀淘片","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_爱坤","name":"雷蒙影视 | ️🚀爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_玉米","name":"雷蒙影视 | ️🚀玉米","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml","playUrl":"json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url="},
 
 
 // ⇩⇩ APP ⇩⇩ 
