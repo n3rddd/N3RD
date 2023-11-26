@@ -8,6 +8,7 @@
 {"name":"YSCLive","url":"https://weixine.net/tv/ysclive.txt"},
 {"name":"HCCXLive","url":"http://rihou.vip:88/直播"},
 {"name":"HFQLive","url":"https://tim-ss.tk/https://raw.githubusercontent.com/HongFeiQ/live/master/0.txt"},
+{"name":"BBGLive","url":"https://999740.xyz/https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u"},
 {"name":"YSLive","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
 {"name":"YYDDLive","url":"https://agit.ai/leevi/duo/raw/branch/master/v.txt"},
 {"name":"DRPYLive","url":"https://999740.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/base/直播.txt"},
