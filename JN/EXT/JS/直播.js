@@ -18,7 +18,7 @@
 {"name":"4K8K","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"},
 {"name":"重庆有线","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u"},
 {"name":"阳泉广电","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u"},
-{"name":"河北广电","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u"},
+{"name":"湖北广电","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u"},
 {"name":"猫视频","url":"https://999740.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u"},
 {"name":"APTV","url":"https://999740.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"},
 {"name":"ChinaTV","url":"https://999740.xyz/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"},
