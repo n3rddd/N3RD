@@ -1,6 +1,6 @@
 [
 {"name":"雷蒙影视概念宣传片","url":"https://lem.clem7.repl.co/N3RD/JN/CRIMETVPV.txt"},
-{"name":"雷蒙","url":"https://lem.clem7.repl.co/N3RD/JN/tv.txt"},
+{"name":"雷蒙Live","url":"https://lem.clem7.repl.co/N3RD/JN/tv.txt"},
 {"name":"FTYLive","url":"https://xhdwc.tk/tvlive.txt"},
 {"name":"TWKJLive","url":"http://tvkj.top/tvlive.txt"},
 {"name":"OVLive","url":"https://999740.xyz/https://raw.githubusercontent.com/outcastveron/tv/master/iptv.m3u"},
