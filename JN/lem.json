@@ -1,18 +1,13 @@
 {
 
-"spider":"./N3RD/J/lem1120.jar;md5;5CE4AF6003C6F635DE5EA11AA490FA8B",
+"spider":"./N3RD/J/lem1127.jar;md5;A0F7F91C9EAF3EC69A107B5F7C54A430",
 
+//"spider":"./N3RD/J/lem1120.jar;md5;5CE4AF6003C6F635DE5EA11AA490FA8B",
 //"spider":"./N3RD/J/lem1110.jar;md5;2D3138DD879C12E9751D92AA46F61E66",
 //"spider":"./N3RD/J/lem1107.jar;md5;A136C2B8A5ABBBF320BA00B92DCC738B",
 //"spider":"./N3RD/J/lem1105.jar;md5;C450CD4C638D859F8F01DEE0E16899BB",
 //"spider":"./N3RD/J/lem1102.jar;md5;BFA0402F076B9322D0EA52AF052CF0D4",
 //"spider":"./N3RD/J/lem1101.jar;md5;39E9AA3A294E1D0F0B6F3886C5E0037B",
-//"spider":"./N3RD/J/lem1029.jar;md5;801D65585F024263030763A8187B1E67", 
-//"spider":"./N3RD/J/lem10262.jar;md5;AA41E8C46FB11A2990BD301955C5047D",
-//"spider":"./N3RD/J/lem1025.jar;md5;D3C3FABABDF532D311441038420AD759",
-//"spider":"./N3RD/J/lem1023.jar;md5;FD7FDEE73D82403E9C5D9097CDF4E4C4",
-//"spider":"./N3RD/J/lem1022.jar;md5;97B7CD3BB0EBB44697DEAD2E13687AE3",
-//"spider":"./N3RD/J/lem1021.jar;md5;84E60E53CD49B56CA014372B411573BB",
 
 "wallpaper":"https://PIC.clem7.repl.co",
 
@@ -56,6 +51,7 @@
 {"key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"雷蒙影视独家资源，私享即可，请勿传播！"},
 {"key":"公告1","name":"📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./EXT/XB/ANNOUNCEMENT.json"},
 {"key":"Live","name":"雷蒙影视PRO版独享 | 电视直播(开启APP自动进入)","type":3,"api":"csp_Live","searchable":0,"filterable":0,"changeable":0,"ext":"2000"},
+{"key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 //{"key":"csp_Live2Vod","name":"雷蒙影视 | 🖥电视直播(SP)","type":3,"api":"csp_Live2Vod","changeable":0,"ext":"雷蒙$./N3RD/JN/tv.txt#百事通$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u#重庆有线$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u#4K8K$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u#爱尚$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u#YSLive$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#FMLive$http://home.jundie.top:81/Cat/tv/live.txt#歌华有线$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u#iTouch$https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u"},
 {"key":"csp_Live2Vod","name":"雷蒙影视 | 🖥电视直播(SP)","type":3,"api":"csp_Live2Vod","changeable":0,"ext":"./EXT/JS/直播.js"},
 {"key":"drjs_直播","name":"雷蒙影视 | 🖥电视直播(DRJS)","type":3,"api":"./EXT/JS/直播转点播.js","changeable":0,"ext":"./EXT/JS/直播.js&&&./N3RD/W/POSTER1.png"},
@@ -64,7 +60,6 @@
 {"key":"YOUTUBE直播","name":"雷蒙影视 | ▶YOUTUBE直播【翻墙观看】▶","type":3,"playerType":2,"api":"./EXT/JS/lf_live8_min.js","ext":"./EXT/JS/YT.txt"},
 {"key":"雷蒙影视K歌库","name":"雷蒙影视 | 🎤雷蒙影视K歌库【选[音轨]切换原音/伴奏】🎤","type":1,"api":"https://mv.clem7.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Kugou","name":"雷蒙影视 | 🎵酷狗音乐","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
-{"key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 {"key":"csp_Douban","name":"雷蒙影视 | 📡我的豆瓣(SP)","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
 {"key":"csp_DouDou","name":"雷蒙影视 | 📡豆瓣片单(SP)","type":3,"api":"csp_DouDou","searchable":0},
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
