@@ -3,6 +3,7 @@
 {"name":"雷蒙Live","url":"https://lem.clem7.repl.co/N3RD/JN/tv.txt"},
 {"name":"FTYLive","url":"https://xhdwc.tk/tvlive.txt"},
 {"name":"TWKJLive","url":"http://tvkj.top/tvlive.txt"},
+{"name":"JVSSLive","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8"},
 {"name":"OVLive","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/outcastveron/tv/master/iptv.m3u"},
 {"name":"BBGGLive","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u"},
 {"name":"DWCLive","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt"},
