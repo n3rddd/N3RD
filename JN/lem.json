@@ -1606,11 +1606,9 @@
   
 //HFQ
 {"name":"💧嗅探","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"💧巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url=","ext":{"ads":["qiaoji","cibntv.net"]}},
+{"name":"💧巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/wudi.php?url=","ext":{"ads":["qiaoji","cibntv.net"]}},
 {"name":"💧西瓜","type":1,"url":"https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url="},
 {"name":"💧南瓜","type":1,"url":"http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
-{"name":"💧黄瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
-{"name":"🧣玉米","type":1,"url":"http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url=","ext":{"flag":["YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 //XIAOMI
 {"name":"稻香🌾","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
