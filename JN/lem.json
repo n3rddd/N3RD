@@ -1611,8 +1611,10 @@
 //HFQ
 {"name":"💧嗅探","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"💧巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/wudi.php?url=","ext":{"ads":["qiaoji","cibntv.net"]}},
+{"name":"💧途程","type":1,"url":"http://110.42.2.98:2222//api//?key=dXVSZKYgTl96F51xWi&url="},
+{"name":"💧爱酷","type":1,"url":"https://api.json.icu//api//?key=c2ca5bcd969b7de3823eba1518fb712d&url="},
 {"name":"💧西瓜","type":1,"url":"https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url="},
-{"name":"💧南瓜","type":1,"url":"http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
+{"name":"💧seven","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2500&my=dmnoxzADHKMOQSXZ01&url=","ext":{"flag":["seven"]}},
 
 //XIAOMI
 {"name":"稻香🌾","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
