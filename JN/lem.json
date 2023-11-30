@@ -200,6 +200,7 @@
 {"key":"csp_WebPuTao_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕葡萄短剧(MULTI)","type":3,"api":"csp_WebPuTao","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
 {"key":"csp_Music_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕酷狗音乐(MULTI)","type":3,"api":"csp_Music","searchable":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/music.json"},
 
+{"key":"csp_Config_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1}},
 {"key":"csp_Jojo_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣JOJO弹幕版(MULTI)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"csp_Jiohub_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣JOJO弹幕版2(MULTI)","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"csp_Sp360_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣360弹幕版(MULTI)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
