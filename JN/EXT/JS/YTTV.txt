@@ -1,13 +1,8 @@
-雷蒙影視概念宣傳片,#genre#
-雷蒙影視 PV1,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETV PV1.mkv
-雷蒙影視 PV2,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETV PV2.mkv
-雷蒙影視 PV3,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETV PV3.mkv
-
-新聞,#genre#
+🇹🇼台灣新聞,#genre#
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
 中天新聞2,https://www.youtube.com/watch?v=WPfPjbOLNfE&ab_channel=%E4%B8%AD%E5%A4%A9%E6%B7%B1%E5%96%89%E5%9A%A8
 中天亞洲台,https://www.youtube.com/watch?v=PYtGQvNmadg&ab_channel=CTIASIA%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0
-鳳凰資訊,https://www.youtube.com/watch?v=sUISafvOieY&ab_channel=%E9%B3%B3%E5%87%B0%E8%B3%87%E8%A8%8APhoenixTVNews
+鳳凰資訊,https://www.youtube.com/watch?v=Zm4i_rvAcxc
 CCTV-4,https://www.youtube.com/watch?v=9sE12tg3CmA&ab_channel=LIVENOW
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc&ab_channel=TVBSNEWS
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE&ab_channel=%E4%B8%89%E7%AB%8BiNEWS
@@ -24,3 +19,55 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc&ab_channel=TVBSNEWS
 寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw&ab_channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93
 寰宇新聞,https://www.youtube.com/watch?v=UcTIv4ZaE5Y&ab_channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o&ab_channel=%E9%8F%A1%E6%96%B0%E8%81%9E
+
+
+🇺🇳国际新闻,#genre#
+Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
+abc News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
+NBC News NOW,https://www.youtube.com/watch?v=PoX4NUhhIJc
+NBC NEWS,https://www.youtube.com/watch?v=o1ZydFM-upg
+NBC2 News,https://www.youtube.com/watch?v=MJB6CUxvZcU
+NEWSMAX,https://www.youtube.com/watch?v=QldgdsYPZDc
+News12 NewYork,https://www.youtube.com/watch?v=q8KjGbX0-6U
+GB News,https://www.youtube.com/watch?v=8WX6YL9JnLw
+ABCNews,https://www.youtube.com/watch?v=vOTiJkg1voo
+Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
+Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
+TRT World,https://www.youtube.com/watch?v=5VF4aor94gw
+DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
+彭博财经台,https://www.youtube.com/watch?v=dp8PhLsUcFE
+France24,https://www.youtube.com/watch?v=h3MuIUNCCzI
+CNALives,https://www.youtube.com/watch?v=XWq5kBlakcQ
+TD Ameritrade,https://www.youtube.com/watch?v=SG1Lc0QCD_Y
+CBN News,https://www.youtube.com/watch?v=CG2XDTgvZPo
+tvOne 24Jam,https://www.youtube.com/watch?v=yNKvkPJl-tg
+ANNnewsCH,https://www.youtube.com/watch?v=JAFHJmIj6bY
+DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
+ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
+NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
+KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
+
+
+🇯🇵🇰🇷日韩新聞,#genre#
+Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
+MBC NEWS,https://www.youtube.com/watch?v=q-Wv4Pvt-5A
+KBS NEWS,https://www.youtube.com/watch?v=D2R15WicmAs
+KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
+NHK WORLD-JAPAN,https://www.youtube.com/watch?v=f0lYkdA-Gtw
+JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+ANNnewsCH,https://www.youtube.com/watch?v=mB-prl5HTV8
+TBS NEWS DIG,https://www.youtube.com/watch?v=nwVfs8pDPI4
+名古屋电视台,https://www.youtube.com/watch?v=-C6FE2m7kX8
+広島新闻,https://www.youtube.com/watch?v=e2pgLUmaxGs
+北海道新闻,https://www.youtube.com/watch?v=xWPD8KDHUH8
+北海道weekend,https://www.youtube.com/watch?v=L0_P_KJVpKc
+KansaiNews24,https://www.youtube.com/watch?v=EqdxY34Y6LA
+매일경제TV,https://www.youtube.com/watch?v=s9xL1DpBsfQ
+YonhapnewsTV,https://www.youtube.com/watch?v=6QZ_qc75ihU
+YTN,https://www.youtube.com/watch?v=vEO6wO0QsX8
+
+
+🇰🇷K-POP,#genre#
+THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
+K-POP Girl Group,https://www.youtube.com/watch?v=k2F1XZxPLOA
+KBS WORLD TV,https://www.youtube.com/watch?v=yC0OLhiEMLg
