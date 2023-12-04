@@ -260,7 +260,7 @@
 {"key":"xml_奇虎","name":"雷蒙影视 | ️🚀奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_淘片","name":"雷蒙影视 | ️🚀淘片","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_爱坤","name":"雷蒙影视 | ️🚀爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"xml_玉米","name":"雷蒙影视 | ️🚀玉米","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml","playUrl":"json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url="},
+{"key":"xml_万达","name":"雷蒙影视 | ️🚀万达","type":1,"api":"http://www.duse.pro//api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影直播-放映厅","电视直播-放映厅","体育直播-放映厅"]},
 
 
 // ⇩⇩ APP ⇩⇩ 
