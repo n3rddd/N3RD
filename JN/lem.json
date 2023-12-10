@@ -200,10 +200,13 @@
 {"key":"csp_PanSearchQuark_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️夸克盘搜(MULTI)","type":3,"api":"csp_PanSearchQuark","changeable":0,"hide":1},
 {"key":"csp_PanSouQuark_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️夸克猫狸搜(MULTI)","type":3,"api":"csp_PanSouQuark","changeable":0,"hide":1},
 
-{"key":"csp_JoJo_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕JOJO(MULTI)","type":3,"api":"csp_JoJo","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
+{"key":"csp_Web996_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕J996影视(MULTI)","type":3,"api":"csp_Web996","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cs1369.com#公众号:影视资源站"},
+{"key":"csp_AListBox_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕小雅AList(MULTI)","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"https://api.zalman2022.repl.co/xiaoya.json#公众号:影视资源站","style":{"type":"list"}},
 {"key":"csp_Xifan_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕稀饭动漫(MULTI)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
-{"key":"csp_WebPuTao_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕葡萄短剧(MULTI)","type":3,"api":"csp_WebPuTao","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
 {"key":"csp_Music_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕酷狗音乐(MULTI)","type":3,"api":"csp_Music","searchable":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/music.json"},
+{"key":"csp_WebDJu_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕短剧(MULTI)","type":3,"api":"csp_WebDJu","searchable":0,"quickSearch":0,"filterable":0,"ext":"公众号:影视资源站"},
+{"key":"csp_BookTing_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕听书(MULTI)","type":3,"api":"csp_BookTing","searchable":0,"changeable":0,"ext":"https://m.ting275.com#公众号#影视资源站"},
+{"key":"csp_JoJo_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕JOJO(MULTI)","type":3,"api":"csp_JoJo","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
 
 {"key":"csp_Config_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1}},
 {"key":"csp_Jojo_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣JOJO弹幕版(MULTI)","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
