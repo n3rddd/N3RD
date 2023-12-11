@@ -55,6 +55,7 @@
 
   
 // ⇩⇩ 阿里夸克网盘 ⇩⇩ 
+{"key":"csp_Config","name":"雷蒙影视 | 💿阿里夸克及弹幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_FourKHDR","name":"雷蒙影视 | 💿4KHDR弹幕版(SP)","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/4k.json$$$1"},
 {"key":"csp_XiaoZhang","name":"雷蒙影视 | 💿校长影视弹幕版(SP)","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
 {"key":"csp_TZFile","name":"雷蒙影视 | 💿团长资源弹幕版(SP)","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
