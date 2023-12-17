@@ -54,14 +54,16 @@
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js"},
 
   
-// ⇩⇩ 阿里夸克网盘 ⇩⇩ 
-{"key":"csp_Config","name":"雷蒙影视 | 💿阿里夸克及弹幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
+// ⇩⇩ 阿里夸克迅雷UC网盘 ⇩⇩ 
+{"key":"csp_Config","name":"雷蒙影视 | 💿网盘及弹幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_FourKHDR","name":"雷蒙影视 | 💿4KHDR弹幕版(SP)","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/4k.json$$$1"},
 {"key":"csp_XiaoZhang","name":"雷蒙影视 | 💿校长影视弹幕版(SP)","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
 {"key":"csp_TZFile","name":"雷蒙影视 | 💿团长资源弹幕版(SP)","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
 {"key":"csp_PpxzyPpxzy","name":"雷蒙影视 | 💿皮皮虾弹幕版(SP)","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"changeable":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://ppxzy.net/$$$null$$$1"}, 
 {"key":"csp_Funletu","name":"雷蒙影视 | 💿趣盘搜弹幕版(SP)","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_QuarkPanso","name":"雷蒙影视 | 💿夸克盘搜弹幕版(SP)","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
+{"key":"csp_YunPanOne","name":"雷蒙影视 | 💿云盘资源弹幕版(MULTI)","type":3,"api":"csp_YunPanOne","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
+{"key":"csp_YunSo","name":"雷蒙影视 | 💿小云搜索弹幕版(MULTI)","type":3,"api":"csp_YunSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_Xb6v","name":"雷蒙影视 | 💿新6V弹幕版(SP)","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$http://www.xb6v.com$$$null$$$1"},
   
 {"key":"drjs_aipanso_PG","name":"雷蒙影视 | 📀爱盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/aipanso.js"},
@@ -141,6 +143,7 @@
 {"key":"csp_Kugou","name":"雷蒙影视 | 🎵酷狗音乐(SP)","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Bili","name":"雷蒙影视 | 🅱哔哩哔哩弹幕版(SP)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"type":"雷蒙Lem作品#Allblanc#帕梅拉#游戏#电影#音乐#白噪音#演唱会","cookie":"SESSDATA=13efc517%2C1700577613%2Cfcea6%2A52;bili_jct=272ef2be34e676f7cf6339c17dcb7bb5;DedeUserID=284097455;DedeUserID__ckMd5=e652501280a8dfd1;"}},
 {"key":"csp_Bdys01","name":"雷蒙影视 | 📯哔嘀影视弹幕版(SP)","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.bdys03.com/$$$null$$$1"},
+{"key":"csp_Cs1369","name":"雷蒙影视 | 9️⃣996影视(SP)","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Hmys","name":"雷蒙影视 | 🐎河马(SP)","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn"},
 {"key":"csp_TTian","name":"雷蒙影视 | ✈天天(SP)","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
 {"key":"csp_Hudie","name":"雷蒙影视 | 🦋蝴蝶(SP)","type":3,"api":"csp_Hudie","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
