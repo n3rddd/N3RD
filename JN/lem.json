@@ -1640,7 +1640,6 @@
 {"name":"💧虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","le","bilibili","sohu","cntv"],"header":{"User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"}}},
 {"name":"💧精选1","type":1,"url":"http://api.888484.xyz/神秘哥哥/super.php?v="},
 {"name":"💧精选2","type":1,"url":"https://b.zzxjx.xyz/index/info?secretkey=11ab3f57954594d249289e0898fe6a98&file_id="},
-{"name":"💧精选3","type":1,"url":"http://110.42.2.247:880//analysis//json//?uid=2496&my=abefhjpvBCGJLOUWX3&format=json&url="},
 
 //XIAOMI
 {"name":"稻香🌾","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
