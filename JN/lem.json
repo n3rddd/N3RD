@@ -60,7 +60,7 @@
 {"key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"雷蒙影视独家资源，私享即可，请勿传播！"},
 {"key":"公告1","name":"📢【Lem声明】勿传播本线路","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./EXT/XB/ANNOUNCEMENT.json"},
 {"key":"Live","name":"雷蒙影视PRO版独享 | 电视直播(开启APP自动进入)","type":3,"api":"csp_Live","searchable":0,"filterable":0,"changeable":0,"ext":"2000"},
-{"key":"csp_Market","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
+{"key":"csp_Market","jar":"./N3RD/J/market.jar","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 {"key":"drjs_直播","name":"雷蒙影视 | 🖥电视直播(DRJS)","type":3,"api":"./EXT/JS/直播转点播.js","changeable":0,"ext":"./EXT/JS/直播.js&&&./N3RD/W/POSTER1.png"},
 {"key":"csp_Live2Vod","name":"雷蒙影视 | 🖥电视直播(SP)","type":3,"api":"csp_Live2Vod","changeable":0,"ext":"./EXT/JS/直播.js"},
 //{"key":"csp_Live2Vod","name":"雷蒙影视 | 🖥电视直播(SP)","type":3,"api":"csp_Live2Vod","changeable":0,"ext":"LIVE$https://fanmingming.com/txt?url=https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8#雷蒙$https://lem.clem7.repl.co/N3RD/JN/tv.txt"},
