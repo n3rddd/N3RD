@@ -5,6 +5,7 @@
 {"name":"TWKJLive","url":"http://tvkj.top/tvlive.txt"},
 {"name":"JVSSLive","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8","group":1},
 {"name":"JVSSLive2","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8","group":1},
+{"name":"ATLive","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/LIVE/l.txt","group":1},
 {"name":"OVLive","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/outcastveron/tv/master/iptv.m3u","group":1},
 {"name":"BBGGLive","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u","group":1},
 {"name":"DWCLive","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt","circuit":1},
