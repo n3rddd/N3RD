@@ -210,12 +210,11 @@
 {"key":"csp_XiaoZhiTiao_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️小纸条(MULTI)","type":3,"api":"csp_XiaoZhiTiao","changeable":0,"ext":"./N3RD/T/t.txt","hide":1},
  
 {"key":"csp_Web996_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕996影视(MULTI)","type":3,"api":"csp_Web996","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cs1369.com#公众号:影视资源站"},
-{"key":"csp_AListBox_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕小雅AList(MULTI)","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"https://api.zalman2022.repl.co/xiaoya.json#公众号:影视资源站","style":{"type":"list"}},
+{"key":"csp_AListBox_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕小雅AList(MULTI)","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"https://d.kstore.space/download/6474/tvbox/xiaoya.json#公众号:影视资源站","style":{"type":"list"}},
 {"key":"csp_Xifan_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕稀饭动漫(MULTI)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
 {"key":"csp_Music_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕酷狗音乐(MULTI)","type":3,"api":"csp_Music","searchable":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/music.json"},
 {"key":"csp_WebDJu_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕短剧(MULTI)","type":3,"api":"csp_WebDJu","searchable":0,"quickSearch":0,"filterable":0,"ext":"公众号:影视资源站"},
 {"key":"csp_BookTing_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕听书(MULTI)","type":3,"api":"csp_BookTing","searchable":0,"changeable":0,"ext":"https://m.ting275.com#公众号#影视资源站"},
-{"key":"csp_JoJo_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕JOJO(MULTI)","type":3,"api":"csp_JoJo","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
 
 {"key":"csp_Config_PG_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 💿网盘及弹幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_Ppxzy_PG_MULTIJAR","jar":"./N3RD/J/pg.jar","name":"雷蒙影视 | 💿皮皮虾弹幕版(MULTI)","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://ppxzy.net/$$$null$$$1"}, 
