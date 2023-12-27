@@ -503,7 +503,10 @@ CCTV4k,video://https://yangshipin.cn/#/tv/home?pid=600002264
 
 
 🥭芒果直播,#genre#
+cookies=__STKUUID=ac2036e8-1fc7-4b93-8dd1-4816fc804079; mba_deviceid=5548c286-5724-2d43-0f5e-4b6ff1fd8bef; MQGUID=1734834816119197696; __MQGUID=1734834816119197696; muteplaycount=3; mba_cxid_expiration=1703520000000; mba_cxid=8kpqp21m4cm; sessionid=1703490058668_8kpqp21m4cm; iwt_uuid=a9dc4cda-e692-486f-8b20-d72f2fabf2a0; mba_sessionid=12c92f61-205d-1a04-c5a3-d2f66d12dc4a; mba_last_action_time=1703490968755; lastActionTime=1703490969822; beta_timer=1703490969925; onLoad=1; residence_time=18834
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+host=live.mgtv.com
+referer=live.mgtv.com
 湖南电影,video://https://live.mgtv.com/?channelId=221
 快乐购,video://https://live.mgtv.com/?channelId=267
 湖南经视,video://https://live.mgtv.com/?channelId=280
