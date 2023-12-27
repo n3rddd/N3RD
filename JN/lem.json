@@ -17,10 +17,10 @@
 "wallpaper":"https://PIC.clem7.repl.co",
 
 "lives":[
-{"name":"*LIVE*","type":0,"url":"https://fanmingming.com/txt?url=https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YOUTUBE直播","type":0,"url":"https://lem.clem7.repl.co/EXT/JS/YTTV.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"*LIVE*","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"雷蒙Live","type":0,"url":"https://lem.clem7.repl.co/N3RD/JN/tv.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"FTYLive","type":0,"url":"https://xhdwc.tk/tvlive.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YOUTUBE直播","type":0,"url":"https://lem.clem7.repl.co/EXT/JS/YTTV.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"FTYLive","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"TWKJLive","type":0,"url":"http://tvkj.top/tvlive.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"JVSSLive","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"JVSSLive2","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -31,7 +31,7 @@
 {"name":"CMLive","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YSCLive","type":0,"url":"https://weixine.net/tv/ysclive.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"HCCXLive","type":0,"url":"http://rihou.vip:88/直播","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"HFQLive","type":0,"url":"https://tim-ss.tk/https://raw.githubusercontent.com/HongFeiQ/live/master/0.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"MHBLive","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/myhomebox/tv/main/live.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YSLive","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YYDDLive","type":0,"url":"https://agit.ai/leevi/duo/raw/branch/master/v.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"DRPYLive","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/base/直播.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
