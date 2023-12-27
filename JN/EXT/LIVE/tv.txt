@@ -530,7 +530,8 @@ referer=live.mgtv.com
 长沙女性,https://live.mgtv.com/?channelId=230
 
 
-🌞油管直播【1】,#genre#
+▶YOUTUBE直播【1】,#genre#
+雷蒙影视,https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
 中天新聞2,https://www.youtube.com/watch?v=WPfPjbOLNfE&ab_channel=%E4%B8%AD%E5%A4%A9%E6%B7%B1%E5%96%89%E5%9A%A8
 中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
@@ -599,7 +600,7 @@ K-POP Girl Group,https://www.youtube.com/watch?v=k2F1XZxPLOA
 KBS WORLD TV,https://www.youtube.com/watch?v=yC0OLhiEMLg
 
 
-🌞油管直播【2】,#genre#
+▶YOUTUBE直播【2】,#genre#
 雷蒙影视,https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
 中天新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻.m3u8
 中天新闻2,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻2.m3u8
