@@ -457,16 +457,17 @@ TRACE Sport Stars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
 
 
 🇨🇳央視頻,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 CCTV1综合,video://https://yangshipin.cn/#/tv/home?pid=600001859
 CCTV2财经,video://https://yangshipin.cn/#/tv/home?pid=600001800
-CCTV3综艺,video://http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV3综艺,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV3综艺,video://https://yangshipin.cn/#/tv/home?pid=600001801
 CCTV4中文国际,video://https://yangshipin.cn/#/tv/home?pid=600001814
 CCTV5体育,video://https://yangshipin.cn/#/tv/home?pid=600001818
-CCTV6电影,video://http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV6电影,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV6电影,video://https://yangshipin.cn/#/tv/home?pid=600001802
 CCTV7国防军事,video://https://yangshipin.cn/#/tv/home?pid=600004092
-CCTV8电视剧,video://http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV8电视剧,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
 CCTV8电视剧,video://https://yangshipin.cn/#/tv/home?pid=600001803
 CCTV9纪录,video://https://yangshipin.cn/#/tv/home?pid=600004078
 CCTV10科教,video://video://https://yangshipin.cn/#/tv/home?pid=600001805
@@ -502,6 +503,7 @@ CCTV4k,video://https://yangshipin.cn/#/tv/home?pid=600002264
 
 
 🥭芒果直播,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 湖南电影,video://https://live.mgtv.com/?channelId=221
 快乐购,video://https://live.mgtv.com/?channelId=267
 湖南经视,video://https://live.mgtv.com/?channelId=280
