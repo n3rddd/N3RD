@@ -11,436 +11,432 @@ https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV1.mkv
 https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV2.mkv
 #EXTINF:-1 tvg-name="雷蒙影视概念宣传片 PV3" tvg-logo="https://live.fanmingming.com/tv/雷蒙影视概念宣传片 PV3.png" group-title="🌞雷蒙影视直播",雷蒙影视概念宣传片 PV3
 https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV3.mkv
-#EXTINF:-1 tvg-name="parse=1" tvg-logo="https://live.fanmingming.com/tv/parse=1.png" group-title="🇹🇼台灣【1】",parse=1
-undefined
-#EXTINF:-1 tvg-name="player=2" tvg-logo="https://live.fanmingming.com/tv/player=2.png" group-title="🇹🇼台灣【1】",player=2
-undefined
 #EXTINF:-1 tvg-name="台視" tvg-logo="https://live.fanmingming.com/tv/台視.png" group-title="🇹🇼台灣【1】",台視
-https://www.ofiii.com/channel/watch/4gtv-4gtv066
+video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.com/tv/中視.png" group-title="🇹🇼台灣【1】",中視
-https://www.ofiii.com/channel/watch/4gtv-4gtv040
+video://https://www.ofiii.com/channel/watch/4gtv-4gtv040
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.com/tv/華視.png" group-title="🇹🇼台灣【1】",華視
-https://www.ofiii.com/channel/watch/4gtv-4gtv041
+video://https://www.ofiii.com/channel/watch/4gtv-4gtv041
 #EXTINF:-1 tvg-name="公視金獎" tvg-logo="https://live.fanmingming.com/tv/公視金獎.png" group-title="🇹🇼台灣【1】",公視金獎
-https://www.ofiii.com/channel/watch/ofiii13
+video://https://www.ofiii.com/channel/watch/ofiii13
 #EXTINF:-1 tvg-name="ELTV生活英語" tvg-logo="https://live.fanmingming.com/tv/ELTV生活英語.png" group-title="🇹🇼台灣【1】",ELTV生活英語
-https://www.ofiii.com/channel/watch/litv-longturn20
+video://https://www.ofiii.com/channel/watch/litv-longturn20
 #EXTINF:-1 tvg-name="龍華卡通" tvg-logo="https://live.fanmingming.com/tv/龍華卡通.png" group-title="🇹🇼台灣【1】",龍華卡通
-https://www.ofiii.com/channel/watch/litv-longturn01
+video://https://www.ofiii.com/channel/watch/litv-longturn01
 #EXTINF:-1 tvg-name="龍華經典" tvg-logo="https://live.fanmingming.com/tv/龍華經典.png" group-title="🇹🇼台灣【1】",龍華經典
-https://www.ofiii.com/channel/watch/litv-longturn21
+video://https://www.ofiii.com/channel/watch/litv-longturn21
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://live.fanmingming.com/tv/龍華電影.png" group-title="🇹🇼台灣【1】",龍華電影
-https://www.ofiii.com/channel/watch/litv-longturn03
+video://https://www.ofiii.com/channel/watch/litv-longturn03
 #EXTINF:-1 tvg-name="龍華日韓" tvg-logo="https://live.fanmingming.com/tv/龍華日韓.png" group-title="🇹🇼台灣【1】",龍華日韓
-https://www.ofiii.com/channel/watch/litv-longturn11
+video://https://www.ofiii.com/channel/watch/litv-longturn11
 #EXTINF:-1 tvg-name="龍華偶像" tvg-logo="https://live.fanmingming.com/tv/龍華偶像.png" group-title="🇹🇼台灣【1】",龍華偶像
-https://www.ofiii.com/channel/watch/litv-longturn12
+video://https://www.ofiii.com/channel/watch/litv-longturn12
 #EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://live.fanmingming.com/tv/龍華戲劇.png" group-title="🇹🇼台灣【1】",龍華戲劇
-https://www.ofiii.com/channel/watch/litv-longturn18
+video://https://www.ofiii.com/channel/watch/litv-longturn18
 #EXTINF:-1 tvg-name="SMART知識" tvg-logo="https://live.fanmingming.com/tv/SMART知識.png" group-title="🇹🇼台灣【1】",SMART知識
-https://www.ofiii.com/channel/watch/litv-longturn19
+video://https://www.ofiii.com/channel/watch/litv-longturn19
 #EXTINF:-1 tvg-name="亞洲旅遊" tvg-logo="https://live.fanmingming.com/tv/亞洲旅遊.png" group-title="🇹🇼台灣【1】",亞洲旅遊
-https://www.ofiii.com/channel/watch/litv-longturn17
+video://https://www.ofiii.com/channel/watch/litv-longturn17
 #EXTINF:-1 tvg-name="東森娛樂" tvg-logo="https://live.fanmingming.com/tv/東森娛樂.png" group-title="🇹🇼台灣【1】",東森娛樂
-https://www.ofiii.com/channel/watch/ofiii32
+video://https://www.ofiii.com/channel/watch/ofiii32
 #EXTINF:-1 tvg-name="TVBS綜藝" tvg-logo="https://live.fanmingming.com/tv/TVBS綜藝.png" group-title="🇹🇼台灣【1】",TVBS綜藝
-https://www.ofiii.com/channel/watch/ofiii42
+video://https://www.ofiii.com/channel/watch/ofiii42
 #EXTINF:-1 tvg-name="TVBS政論" tvg-logo="https://live.fanmingming.com/tv/TVBS政論.png" group-title="🇹🇼台灣【1】",TVBS政論
-https://www.ofiii.com/channel/watch/ofiii56
+video://https://www.ofiii.com/channel/watch/ofiii56
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png" group-title="🇹🇼台灣【1】",寰宇新聞
-https://www.ofiii.com/channel/watch/litv-longturn14
+video://https://www.ofiii.com/channel/watch/litv-longturn14
 #EXTINF:-1 tvg-name="寰宇新聞台灣" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞台灣.png" group-title="🇹🇼台灣【1】",寰宇新聞台灣
-https://www.ofiii.com/channel/watch/litv-longturn15
+video://https://www.ofiii.com/channel/watch/litv-longturn15
 #EXTINF:-1 tvg-name="寰宇財經" tvg-logo="https://live.fanmingming.com/tv/寰宇財經.png" group-title="🇹🇼台灣【1】",寰宇財經
-https://www.ofiii.com/channel/watch/litv-longturn23
+video://https://www.ofiii.com/channel/watch/litv-longturn23
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="🇹🇼台灣【1】",中天新聞
-https://www.ofiii.com/channel/watch/4gtv-4gtv009
+video://https://www.ofiii.com/channel/watch/4gtv-4gtv009
 #EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中視新聞.png" group-title="🇹🇼台灣【1】",中視新聞
-https://www.ofiii.com/channel/watch/4gtv-4gtv074
+video://https://www.ofiii.com/channel/watch/4gtv-4gtv074
 #EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.com/tv/台視新聞.png" group-title="🇹🇼台灣【1】",台視新聞
-https://www.ofiii.com/channel/watch/4gtv-4gtv052
+video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 #EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/華視新聞.png" group-title="🇹🇼台灣【1】",華視新聞
-https://www.ofiii.com/channel/watch/4gtv-4gtv052
+video://https://www.ofiii.com/channel/watch/4gtv-4gtv052
 #EXTINF:-1 tvg-name="台灣戲劇" tvg-logo="https://live.fanmingming.com/tv/台灣戲劇.png" group-title="🇹🇼台灣【1】",台灣戲劇
-https://www.ofiii.com/channel/watch/litv-longturn22
+video://https://www.ofiii.com/channel/watch/litv-longturn22
 #EXTINF:-1 tvg-name="中天亞洲精采" tvg-logo="https://live.fanmingming.com/tv/中天亞洲精采.png" group-title="🇹🇼台灣【1】",中天亞洲精采
-https://www.ofiii.com/channel/watch/ofiii36
+video://https://www.ofiii.com/channel/watch/ofiii36
 #EXTINF:-1 tvg-name="第1商業" tvg-logo="https://live.fanmingming.com/tv/第1商業.png" group-title="🇹🇼台灣【1】",第1商業
-https://www.ofiii.com/channel/watch/4gtv-4gtv104
+video://https://www.ofiii.com/channel/watch/4gtv-4gtv104
 #EXTINF:-1 tvg-name="第1財經" tvg-logo="https://live.fanmingming.com/tv/第1財經.png" group-title="🇹🇼台灣【1】",第1財經
-https://www.ofiii.com/channel/watch/ofiii64
+video://https://www.ofiii.com/channel/watch/ofiii64
 #EXTINF:-1 tvg-name="Focus探索新知" tvg-logo="https://live.fanmingming.com/tv/Focus探索新知.png" group-title="🇹🇼台灣【1】",Focus探索新知
-https://www.ofiii.com/channel/watch/ofiii82
+video://https://www.ofiii.com/channel/watch/ofiii82
 #EXTINF:-1 tvg-name="Focus風采戲劇" tvg-logo="https://live.fanmingming.com/tv/Focus風采戲劇.png" group-title="🇹🇼台灣【1】",Focus風采戲劇
-https://www.ofiii.com/channel/watch/ofiii1048
+video://https://www.ofiii.com/channel/watch/ofiii1048
 #EXTINF:-1 tvg-name="哆啦A夢" tvg-logo="https://live.fanmingming.com/tv/哆啦A夢.png" group-title="🇹🇼台灣【1】",哆啦A夢
-https://www.ofiii.com/channel/watch/ofiii22
+video://https://www.ofiii.com/channel/watch/ofiii22
 #EXTINF:-1 tvg-name="蠟筆小新" tvg-logo="https://live.fanmingming.com/tv/蠟筆小新.png" group-title="🇹🇼台灣【1】",蠟筆小新
-https://www.ofiii.com/channel/watch/ofiii165
+video://https://www.ofiii.com/channel/watch/ofiii165
 #EXTINF:-1 tvg-name="我們這一家" tvg-logo="https://live.fanmingming.com/tv/我們這一家.png" group-title="🇹🇼台灣【1】",我們這一家
-https://www.ofiii.com/channel/watch/ofiii166
+video://https://www.ofiii.com/channel/watch/ofiii166
 #EXTINF:-1 tvg-name="間諜家家酒" tvg-logo="https://live.fanmingming.com/tv/間諜家家酒.png" group-title="🇹🇼台灣【1】",間諜家家酒
-https://www.ofiii.com/channel/watch/ofiii171
+video://https://www.ofiii.com/channel/watch/ofiii171
 #EXTINF:-1 tvg-name="鬼滅之刃" tvg-logo="https://live.fanmingming.com/tv/鬼滅之刃.png" group-title="🇹🇼台灣【1】",鬼滅之刃
-https://www.ofiii.com/channel/watch/ofiii170
+video://https://www.ofiii.com/channel/watch/ofiii170
 #EXTINF:-1 tvg-name="獵人" tvg-logo="https://live.fanmingming.com/tv/獵人.png" group-title="🇹🇼台灣【1】",獵人
-https://www.ofiii.com/channel/watch/ofiii167
+video://https://www.ofiii.com/channel/watch/ofiii167
 #EXTINF:-1 tvg-name="隊長小翼" tvg-logo="https://live.fanmingming.com/tv/隊長小翼.png" group-title="🇹🇼台灣【1】",隊長小翼
-https://www.ofiii.com/channel/watch/ofiii169
+video://https://www.ofiii.com/channel/watch/ofiii169
 #EXTINF:-1 tvg-name="中華一番" tvg-logo="https://live.fanmingming.com/tv/中華一番.png" group-title="🇹🇼台灣【1】",中華一番
-https://www.ofiii.com/channel/watch/ofiii168
+video://https://www.ofiii.com/channel/watch/ofiii168
 #EXTINF:-1 tvg-name="關於我轉生變成史萊姆這檔事" tvg-logo="https://live.fanmingming.com/tv/關於我轉生變成史萊姆這檔事.png" group-title="🇹🇼台灣【1】",關於我轉生變成史萊姆這檔事
-https://www.ofiii.com/channel/watch/ofiii173
+video://https://www.ofiii.com/channel/watch/ofiii173
 #EXTINF:-1 tvg-name="我的婆婆怎麼那麼可愛" tvg-logo="https://live.fanmingming.com/tv/我的婆婆怎麼那麼可愛.png" group-title="🇹🇼台灣【1】",我的婆婆怎麼那麼可愛
-https://www.ofiii.com/channel/watch/ofiii152
+video://https://www.ofiii.com/channel/watch/ofiii152
 #EXTINF:-1 tvg-name="村裡來了個暴走女外科" tvg-logo="https://live.fanmingming.com/tv/村裡來了個暴走女外科.png" group-title="🇹🇼台灣【1】",村裡來了個暴走女外科
-https://www.ofiii.com/channel/watch/ofiii153
+video://https://www.ofiii.com/channel/watch/ofiii153
 #EXTINF:-1 tvg-name="一把青" tvg-logo="https://live.fanmingming.com/tv/一把青.png" group-title="🇹🇼台灣【1】",一把青
-https://www.ofiii.com/channel/watch/ofiii154
+video://https://www.ofiii.com/channel/watch/ofiii154
 #EXTINF:-1 tvg-name="茶金" tvg-logo="https://live.fanmingming.com/tv/茶金.png" group-title="🇹🇼台灣【1】",茶金
-https://www.ofiii.com/channel/watch/ofiii155
+video://https://www.ofiii.com/channel/watch/ofiii155
 #EXTINF:-1 tvg-name="四樓的天堂" tvg-logo="https://live.fanmingming.com/tv/四樓的天堂.png" group-title="🇹🇼台灣【1】",四樓的天堂
-https://www.ofiii.com/channel/watch/ofiii156
+video://https://www.ofiii.com/channel/watch/ofiii156
 #EXTINF:-1 tvg-name="afn" tvg-logo="https://live.fanmingming.com/tv/afn.png" group-title="🇹🇼台灣【1】",afn
-http://everydaytv.top/play-3-1-0.html
+video://http://everydaytv.top/play-3-1-0.html
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.com/tv/Animax.png" group-title="🇹🇼台灣【1】",Animax
-http://everydaytv.top/play-3-2-0.html
+video://http://everydaytv.top/play-3-2-0.html
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.com/tv/Animax.png" group-title="🇹🇼台灣【1】",Animax
-https://www.histar.tv/live/animax-cartoon
+video://https://www.histar.tv/live/animax-cartoon
 #EXTINF:-1 tvg-name="Ariang" tvg-logo="https://live.fanmingming.com/tv/Ariang.png" group-title="🇹🇼台灣【1】",Ariang
-http://everydaytv.top/play-3-3-0.html
+video://http://everydaytv.top/play-3-3-0.html
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="🇹🇼台灣【1】",AXN
-http://everydaytv.top/play-3-4-0.html
+video://http://everydaytv.top/play-3-4-0.html
 #EXTINF:-1 tvg-name="Babytv" tvg-logo="https://live.fanmingming.com/tv/Babytv.png" group-title="🇹🇼台灣【1】",Babytv
-http://everydaytv.top/play-3-6-0.html
+video://http://everydaytv.top/play-3-6-0.html
 #EXTINF:-1 tvg-name="BBC earth" tvg-logo="https://live.fanmingming.com/tv/BBC earth.png" group-title="🇹🇼台灣【1】",BBC earth
-http://everydaytv.top/play-3-7-0.html
+video://http://everydaytv.top/play-3-7-0.html
 #EXTINF:-1 tvg-name="BBC lifestyle" tvg-logo="https://live.fanmingming.com/tv/BBC lifestyle.png" group-title="🇹🇼台灣【1】",BBC lifestyle
-http://everydaytv.top/play-3-8-0.html
+video://http://everydaytv.top/play-3-8-0.html
 #EXTINF:-1 tvg-name="boomerang" tvg-logo="https://live.fanmingming.com/tv/boomerang.png" group-title="🇹🇼台灣【1】",boomerang
-https://www.histar.tv/live/boomerang-hd
+video://https://www.histar.tv/live/boomerang-hd
 #EXTINF:-1 tvg-name="CATCHPLAY" tvg-logo="https://live.fanmingming.com/tv/CATCHPLAY.png" group-title="🇹🇼台灣【1】",CATCHPLAY
-https://yeslivetv.com/channels/catchplay/
+video://https://yeslivetv.com/channels/catchplay/
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://live.fanmingming.com/tv/CINEMAX.png" group-title="🇹🇼台灣【1】",CINEMAX
-http://everydaytv.top/play-3-27-0.html
+video://http://everydaytv.top/play-3-27-0.html
 #EXTINF:-1 tvg-name="CI罪犯偵緝" tvg-logo="https://live.fanmingming.com/tv/CI罪犯偵緝.png" group-title="🇹🇼台灣【1】",CI罪犯偵緝
-https://www.histar.tv/live/ci
+video://https://www.histar.tv/live/ci
 #EXTINF:-1 tvg-name="ELEVEN體育1" tvg-logo="https://live.fanmingming.com/tv/ELEVEN體育1.png" group-title="🇹🇼台灣【1】",ELEVEN體育1
-https://www.histar.tv/live/eleven-sport1
+video://https://www.histar.tv/live/eleven-sport1
 #EXTINF:-1 tvg-name="ELEVEN體育2" tvg-logo="https://live.fanmingming.com/tv/ELEVEN體育2.png" group-title="🇹🇼台灣【1】",ELEVEN體育2
-https://www.histar.tv/live/eleven-sport2
+video://https://www.histar.tv/live/eleven-sport2
 #EXTINF:-1 tvg-name="ELTA綜合" tvg-logo="https://live.fanmingming.com/tv/ELTA綜合.png" group-title="🇹🇼台灣【1】",ELTA綜合
-http://everydaytv.top/play-3-56-0.html
+video://http://everydaytv.top/play-3-56-0.html
 #EXTINF:-1 tvg-name="ELTA影劇" tvg-logo="https://live.fanmingming.com/tv/ELTA影劇.png" group-title="🇹🇼台灣【1】",ELTA影劇
-http://everydaytv.top/play-3-55-0.html
+video://http://everydaytv.top/play-3-55-0.html
 #EXTINF:-1 tvg-name="ELTA體育1" tvg-logo="https://live.fanmingming.com/tv/ELTA體育1.png" group-title="🇹🇼台灣【1】",ELTA體育1
-https://www.histar.tv/live/elta-sport1
+video://https://www.histar.tv/live/elta-sport1
 #EXTINF:-1 tvg-name="ELTA體育2" tvg-logo="https://live.fanmingming.com/tv/ELTA體育2.png" group-title="🇹🇼台灣【1】",ELTA體育2
-https://www.histar.tv/live/elta-sport2
+video://https://www.histar.tv/live/elta-sport2
 #EXTINF:-1 tvg-name="ELTA體育3" tvg-logo="https://live.fanmingming.com/tv/ELTA體育3.png" group-title="🇹🇼台灣【1】",ELTA體育3
-https://www.histar.tv/live/elta-sport3
+video://https://www.histar.tv/live/elta-sport3
 #EXTINF:-1 tvg-name="EYE TV旅遊" tvg-logo="https://live.fanmingming.com/tv/EYE TV旅遊.png" group-title="🇹🇼台灣【1】",EYE TV旅遊
-http://everydaytv.top/play-3-59-0.html
+video://http://everydaytv.top/play-3-59-0.html
 #EXTINF:-1 tvg-name="EYE TV戲劇" tvg-logo="https://live.fanmingming.com/tv/EYE TV戲劇.png" group-title="🇹🇼台灣【1】",EYE TV戲劇
-http://everydaytv.top/play-3-60-0.html
+video://http://everydaytv.top/play-3-60-0.html
 #EXTINF:-1 tvg-name="H2" tvg-logo="https://live.fanmingming.com/tv/H2.png" group-title="🇹🇼台灣【1】",H2
-https://www.histar.tv/live/history-2
+video://https://www.histar.tv/live/history-2
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="🇹🇼台灣【1】",HBO
-http://everydaytv.top/play-3-78-0.html
+video://http://everydaytv.top/play-3-78-0.html
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="🇹🇼台灣【1】",HBO
-https://www.histar.tv/live/hbo-hd
+video://https://www.histar.tv/live/hbo-hd
 #EXTINF:-1 tvg-name="HBO原創鉅獻" tvg-logo="https://live.fanmingming.com/tv/HBO原創鉅獻.png" group-title="🇹🇼台灣【1】",HBO原創鉅獻
-http://everydaytv.top/play-3-81-0.html
+video://http://everydaytv.top/play-3-81-0.html
 #EXTINF:-1 tvg-name="HBO強檔鉅獻" tvg-logo="https://live.fanmingming.com/tv/HBO強檔鉅獻.png" group-title="🇹🇼台灣【1】",HBO強檔鉅獻
-http://everydaytv.top/play-3-80-0.html
+video://http://everydaytv.top/play-3-80-0.html
 #EXTINF:-1 tvg-name="HBO溫馨家庭" tvg-logo="https://live.fanmingming.com/tv/HBO溫馨家庭.png" group-title="🇹🇼台灣【1】",HBO溫馨家庭
-http://everydaytv.top/play-3-79-0.html
+video://http://everydaytv.top/play-3-79-0.html
 #EXTINF:-1 tvg-name="i-FUN動漫" tvg-logo="https://live.fanmingming.com/tv/i-FUN動漫.png" group-title="🇹🇼台灣【1】",i-FUN動漫
-https://yeslivetv.com/channels/i-fun/
+video://https://yeslivetv.com/channels/i-fun/
 #EXTINF:-1 tvg-name="MOMO親子" tvg-logo="https://live.fanmingming.com/tv/MOMO親子.png" group-title="🇹🇼台灣【1】",MOMO親子
-https://www.histar.tv/live/momo-kids
+video://https://www.histar.tv/live/momo-kids
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://live.fanmingming.com/tv/MTV Live.png" group-title="🇹🇼台灣【1】",MTV Live
-https://www.histar.tv/live/mtv
+video://https://www.histar.tv/live/mtv
 #EXTINF:-1 tvg-name="NBA" tvg-logo="https://live.fanmingming.com/tv/NBA.png" group-title="🇹🇼台灣【1】",NBA
-https://www.histar.tv/live/nba
+video://https://www.histar.tv/live/nba
 #EXTINF:-1 tvg-name="nick.jr" tvg-logo="https://live.fanmingming.com/tv/nick.jr.png" group-title="🇹🇼台灣【1】",nick.jr
-https://www.histar.tv/live/nick-jr
+video://https://www.histar.tv/live/nick-jr
 #EXTINF:-1 tvg-name="nickelodeon" tvg-logo="https://live.fanmingming.com/tv/nickelodeon.png" group-title="🇹🇼台灣【1】",nickelodeon
-https://www.histar.tv/live/nickelodeon
+video://https://www.histar.tv/live/nickelodeon
 #EXTINF:-1 tvg-name="SBN全球財經" tvg-logo="https://live.fanmingming.com/tv/SBN全球財經.png" group-title="🇹🇼台灣【1】",SBN全球財經
-https://yeslivetv.com/channels/sbn/
+video://https://yeslivetv.com/channels/sbn/
 #EXTINF:-1 tvg-name="TLC旅遊生活" tvg-logo="https://live.fanmingming.com/tv/TLC旅遊生活.png" group-title="🇹🇼台灣【1】",TLC旅遊生活
-http://everydaytv.top/play-3-154-0.html
+video://http://everydaytv.top/play-3-154-0.html
 #EXTINF:-1 tvg-name="TLC旅遊生活" tvg-logo="https://live.fanmingming.com/tv/TLC旅遊生活.png" group-title="🇹🇼台灣【1】",TLC旅遊生活
-https://www.histar.tv/live/tlc
+video://https://www.histar.tv/live/tlc
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="🇹🇼台灣【1】",TVBS
-http://everydaytv.top/play-3-162-0.html
+video://http://everydaytv.top/play-3-162-0.html
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="🇹🇼台灣【1】",TVBS
-https://yeslivetv.com/channels/tvbs56/
+video://https://yeslivetv.com/channels/tvbs56/
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.com/tv/TVBS新聞.png" group-title="🇹🇼台灣【1】",TVBS新聞
-http://everydaytv.top/play-3-167-0.html
+video://http://everydaytv.top/play-3-167-0.html
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.com/tv/TVBS新聞.png" group-title="🇹🇼台灣【1】",TVBS新聞
-https://today.line.me/tw/v2/article/jggMBa
+video://https://today.line.me/tw/v2/article/jggMBa
 #EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://live.fanmingming.com/tv/TVBS精采.png" group-title="🇹🇼台灣【1】",TVBS精采
-https://yeslivetv.com/channels/tvbs-e/
+video://https://yeslivetv.com/channels/tvbs-e/
 #EXTINF:-1 tvg-name="TVBS歡樂" tvg-logo="https://live.fanmingming.com/tv/TVBS歡樂.png" group-title="🇹🇼台灣【1】",TVBS歡樂
-http://everydaytv.top/play-3-164-0.html
+video://http://everydaytv.top/play-3-164-0.html
 #EXTINF:-1 tvg-name="TVBS歡樂" tvg-logo="https://live.fanmingming.com/tv/TVBS歡樂.png" group-title="🇹🇼台灣【1】",TVBS歡樂
-https://www.histar.tv/live/tvbs-huanle
+video://https://www.histar.tv/live/tvbs-huanle
 #EXTINF:-1 tvg-name="TVBS歡樂" tvg-logo="https://live.fanmingming.com/tv/TVBS歡樂.png" group-title="🇹🇼台灣【1】",TVBS歡樂
-https://yeslivetv.com/channels/tvbs42/
+video://https://yeslivetv.com/channels/tvbs42/
 #EXTINF:-1 tvg-name="UBA直播" tvg-logo="https://live.fanmingming.com/tv/UBA直播.png" group-title="🇹🇼台灣【1】",UBA直播
-https://today.line.me/tw/v2/article/j7J22GY
+video://https://today.line.me/tw/v2/article/j7J22GY
 #EXTINF:-1 tvg-name="八大第1" tvg-logo="https://live.fanmingming.com/tv/八大第1.png" group-title="🇹🇼台灣【1】",八大第1
-http://everydaytv.top/play-3-9-0.html
+video://http://everydaytv.top/play-3-9-0.html
 #EXTINF:-1 tvg-name="八大精采" tvg-logo="https://live.fanmingming.com/tv/八大精采.png" group-title="🇹🇼台灣【1】",八大精采
-http://everydaytv.top/play-3-10-0.html
+video://http://everydaytv.top/play-3-10-0.html
 #EXTINF:-1 tvg-name="八大綜合" tvg-logo="https://live.fanmingming.com/tv/八大綜合.png" group-title="🇹🇼台灣【1】",八大綜合
-http://everydaytv.top/play-3-13-0.html
+video://http://everydaytv.top/play-3-13-0.html
 #EXTINF:-1 tvg-name="八大綜合" tvg-logo="https://live.fanmingming.com/tv/八大綜合.png" group-title="🇹🇼台灣【1】",八大綜合
-https://yeslivetv.com/channels/gtv-ch28/
+video://https://yeslivetv.com/channels/gtv-ch28/
 #EXTINF:-1 tvg-name="八大戲劇" tvg-logo="https://live.fanmingming.com/tv/八大戲劇.png" group-title="🇹🇼台灣【1】",八大戲劇
-http://everydaytv.top/play-3-11-0.html
+video://http://everydaytv.top/play-3-11-0.html
 #EXTINF:-1 tvg-name="三立台灣" tvg-logo="https://live.fanmingming.com/tv/三立台灣.png" group-title="🇹🇼台灣【1】",三立台灣
-http://everydaytv.top/play-3-146-0.html
+video://http://everydaytv.top/play-3-146-0.html
 #EXTINF:-1 tvg-name="三立都會" tvg-logo="https://live.fanmingming.com/tv/三立都會.png" group-title="🇹🇼台灣【1】",三立都會
-http://everydaytv.top/play-3-142-0.html
+video://http://everydaytv.top/play-3-142-0.html
 #EXTINF:-1 tvg-name="三立綜合" tvg-logo="https://live.fanmingming.com/tv/三立綜合.png" group-title="🇹🇼台灣【1】",三立綜合
-http://everydaytv.top/play-3-149-0.html
+video://http://everydaytv.top/play-3-149-0.html
 #EXTINF:-1 tvg-name="三立戲劇" tvg-logo="https://live.fanmingming.com/tv/三立戲劇.png" group-title="🇹🇼台灣【1】",三立戲劇
-http://everydaytv.top/play-3-147-0.html
+video://http://everydaytv.top/play-3-147-0.html
 #EXTINF:-1 tvg-name="大愛" tvg-logo="https://live.fanmingming.com/tv/大愛.png" group-title="🇹🇼台灣【1】",大愛
-https://www.histar.tv/live/daai1
+video://https://www.histar.tv/live/daai1
 #EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://live.fanmingming.com/tv/大愛二台.png" group-title="🇹🇼台灣【1】",大愛二台
-https://www.histar.tv/live/daai2
+video://https://www.histar.tv/live/daai2
 #EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://live.fanmingming.com/tv/中天亞洲.png" group-title="🇹🇼台灣【1】",中天亞洲
-http://everydaytv.top/play-3-197-0.html
+video://http://everydaytv.top/play-3-197-0.html
 #EXTINF:-1 tvg-name="中天娛樂" tvg-logo="https://live.fanmingming.com/tv/中天娛樂.png" group-title="🇹🇼台灣【1】",中天娛樂
-http://everydaytv.top/play-3-198-0.html
+video://http://everydaytv.top/play-3-198-0.html
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="🇹🇼台灣【1】",中天新聞
-http://everydaytv.top/play-3-194-0.html
+video://http://everydaytv.top/play-3-194-0.html
 #EXTINF:-1 tvg-name="中天綜合" tvg-logo="https://live.fanmingming.com/tv/中天綜合.png" group-title="🇹🇼台灣【1】",中天綜合
-http://everydaytv.top/play-3-198-0.html
+video://http://everydaytv.top/play-3-198-0.html
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.com/tv/中視.png" group-title="🇹🇼台灣【1】",中視
-http://everydaytv.top/play-3-190-0.html
+video://http://everydaytv.top/play-3-190-0.html
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.com/tv/中視.png" group-title="🇹🇼台灣【1】",中視
-https://www.histar.tv/live/ctv
+video://https://www.histar.tv/live/ctv
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.com/tv/中視.png" group-title="🇹🇼台灣【1】",中視
-https://yeslivetv.com/channels/ctv-hd/
+video://https://yeslivetv.com/channels/ctv-hd/
 #EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中視新聞.png" group-title="🇹🇼台灣【1】",中視新聞
-http://everydaytv.top/play-3-193-0.html
+video://http://everydaytv.top/play-3-193-0.html
 #EXTINF:-1 tvg-name="中視經典" tvg-logo="https://live.fanmingming.com/tv/中視經典.png" group-title="🇹🇼台灣【1】",中視經典
-http://everydaytv.top/play-3-192-0.html
+video://http://everydaytv.top/play-3-192-0.html
 #EXTINF:-1 tvg-name="中視經典" tvg-logo="https://live.fanmingming.com/tv/中視經典.png" group-title="🇹🇼台灣【1】",中視經典
-https://yeslivetv.com/channels/ctv-classic/
+video://https://yeslivetv.com/channels/ctv-classic/
 #EXTINF:-1 tvg-name="公視" tvg-logo="https://live.fanmingming.com/tv/公視.png" group-title="🇹🇼台灣【1】",公視
-http://everydaytv.top/play-3-70-0.html
+video://http://everydaytv.top/play-3-70-0.html
 #EXTINF:-1 tvg-name="公視戲劇" tvg-logo="https://live.fanmingming.com/tv/公視戲劇.png" group-title="🇹🇼台灣【1】",公視戲劇
-https://yeslivetv.com/channels/pts-drama/
+video://https://yeslivetv.com/channels/pts-drama/
 #EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://live.fanmingming.com/tv/天映頻道.png" group-title="🇹🇼台灣【1】",天映頻道
-http://everydaytv.top/play-3-169-0.html
+video://http://everydaytv.top/play-3-169-0.html
 #EXTINF:-1 tvg-name="台視" tvg-logo="https://live.fanmingming.com/tv/台視.png" group-title="🇹🇼台灣【1】",台視
-http://everydaytv.top/play-3-158-0.html
+video://http://everydaytv.top/play-3-158-0.html
 #EXTINF:-1 tvg-name="台視" tvg-logo="https://live.fanmingming.com/tv/台視.png" group-title="🇹🇼台灣【1】",台視
-https://www.histar.tv/live/ttv
+video://https://www.histar.tv/live/ttv
 #EXTINF:-1 tvg-name="台視財經" tvg-logo="https://live.fanmingming.com/tv/台視財經.png" group-title="🇹🇼台灣【1】",台視財經
-https://yeslivetv.com/channels/ttv-finance/
+video://https://yeslivetv.com/channels/ttv-finance/
 #EXTINF:-1 tvg-name="台灣生活新聞" tvg-logo="https://live.fanmingming.com/tv/台灣生活新聞.png" group-title="🇹🇼台灣【1】",台灣生活新聞
-https://today.line.me/tw/v2/article/Lvpg70
+video://https://today.line.me/tw/v2/article/Lvpg70
 #EXTINF:-1 tvg-name="民視" tvg-logo="https://live.fanmingming.com/tv/民視.png" group-title="🇹🇼台灣【1】",民視
-http://everydaytv.top/play-3-126-0.html
+video://http://everydaytv.top/play-3-126-0.html
 #EXTINF:-1 tvg-name="民視台灣" tvg-logo="https://live.fanmingming.com/tv/民視台灣.png" group-title="🇹🇼台灣【1】",民視台灣
-http://everydaytv.top/play-3-129-0.html
+video://http://everydaytv.top/play-3-129-0.html
 #EXTINF:-1 tvg-name="民視台灣" tvg-logo="https://live.fanmingming.com/tv/民視台灣.png" group-title="🇹🇼台灣【1】",民視台灣
-https://yeslivetv.com/channels/ftvhd/
+video://https://yeslivetv.com/channels/ftvhd/
 #EXTINF:-1 tvg-name="民視旅遊" tvg-logo="https://live.fanmingming.com/tv/民視旅遊.png" group-title="🇹🇼台灣【1】",民視旅遊
-https://yeslivetv.com/channels/ftv-travel/
+video://https://yeslivetv.com/channels/ftv-travel/
 #EXTINF:-1 tvg-name="民視第一" tvg-logo="https://live.fanmingming.com/tv/民視第一.png" group-title="🇹🇼台灣【1】",民視第一
-http://everydaytv.top/play-3-127-0.html
+video://http://everydaytv.top/play-3-127-0.html
 #EXTINF:-1 tvg-name="民視第一" tvg-logo="https://live.fanmingming.com/tv/民視第一.png" group-title="🇹🇼台灣【1】",民視第一
-https://yeslivetv.com/channels/ftvone/
+video://https://yeslivetv.com/channels/ftvone/
 #EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.com/tv/民視新聞.png" group-title="🇹🇼台灣【1】",民視新聞
-https://today.line.me/tw/v2/article/PNNoG5
+video://https://today.line.me/tw/v2/article/PNNoG5
 #EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://live.fanmingming.com/tv/民視綜藝.png" group-title="🇹🇼台灣【1】",民視綜藝
-https://yeslivetv.com/channels/ftv-variety-show/
+video://https://yeslivetv.com/channels/ftv-variety-show/
 #EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://live.fanmingming.com/tv/民視綜藝.png" group-title="🇹🇼台灣【1】",民視綜藝
 video://https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16
 #EXTINF:-1 tvg-name="民視影劇" tvg-logo="https://live.fanmingming.com/tv/民視影劇.png" group-title="🇹🇼台灣【1】",民視影劇
-https://yeslivetv.com/channels/ftv-film/
+video://https://yeslivetv.com/channels/ftv-film/
 #EXTINF:-1 tvg-name="好萊塢電影" tvg-logo="https://live.fanmingming.com/tv/好萊塢電影.png" group-title="🇹🇼台灣【1】",好萊塢電影
-http://everydaytv.top/play-3-85-0.html
+video://http://everydaytv.top/play-3-85-0.html
 #EXTINF:-1 tvg-name="亞州旅遊" tvg-logo="https://live.fanmingming.com/tv/亞州旅遊.png" group-title="🇹🇼台灣【1】",亞州旅遊
-https://www.histar.tv/live/asia-travel
+video://https://www.histar.tv/live/asia-travel
 #EXTINF:-1 tvg-name="幸福空間居家" tvg-logo="https://live.fanmingming.com/tv/幸福空間居家.png" group-title="🇹🇼台灣【1】",幸福空間居家
-https://yeslivetv.com/channels/gstv/
+video://https://yeslivetv.com/channels/gstv/
 #EXTINF:-1 tvg-name="東森幼幼" tvg-logo="https://live.fanmingming.com/tv/東森幼幼.png" group-title="🇹🇼台灣【1】",東森幼幼
-https://www.histar.tv/live/ebc-yoyo
+video://https://www.histar.tv/live/ebc-yoyo
 #EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://live.fanmingming.com/tv/東森洋片.png" group-title="🇹🇼台灣【1】",東森洋片
-http://everydaytv.top/play-3-45-0.html
+video://http://everydaytv.top/play-3-45-0.html
 #EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://live.fanmingming.com/tv/東森財經新聞.png" group-title="🇹🇼台灣【1】",東森財經新聞
-https://yeslivetv.com/channels/ebcfinancial/
+video://https://yeslivetv.com/channels/ebcfinancial/
 #EXTINF:-1 tvg-name="東森超視" tvg-logo="https://live.fanmingming.com/tv/東森超視.png" group-title="🇹🇼台灣【1】",東森超視
-http://everydaytv.top/play-3-39-0.html
+video://http://everydaytv.top/play-3-39-0.html
 #EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png" group-title="🇹🇼台灣【1】",東森新聞
-https://today.line.me/tw/v2/article/grrvVZ
+video://https://today.line.me/tw/v2/article/grrvVZ
 #EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.com/tv/東森電影.png" group-title="🇹🇼台灣【1】",東森電影
-https://www.histar.tv/live/ebc-movie
+video://https://www.histar.tv/live/ebc-movie
 #EXTINF:-1 tvg-name="東森綜合" tvg-logo="https://live.fanmingming.com/tv/東森綜合.png" group-title="🇹🇼台灣【1】",東森綜合
-http://everydaytv.top/play-3-46-0.html
+video://http://everydaytv.top/play-3-46-0.html
 #EXTINF:-1 tvg-name="東森綜合" tvg-logo="https://live.fanmingming.com/tv/東森綜合.png" group-title="🇹🇼台灣【1】",東森綜合
-https://www.histar.tv/live/ebc-ettv
+video://https://www.histar.tv/live/ebc-ettv
 #EXTINF:-1 tvg-name="東森戲劇" tvg-logo="https://live.fanmingming.com/tv/東森戲劇.png" group-title="🇹🇼台灣【1】",東森戲劇
-http://everydaytv.top/play-3-42-0.html
+video://http://everydaytv.top/play-3-42-0.html
 #EXTINF:-1 tvg-name="采昌戲劇" tvg-logo="https://live.fanmingming.com/tv/采昌戲劇.png" group-title="🇹🇼台灣【1】",采昌戲劇
-https://yeslivetv.com/channels/ccii-ch629/
+video://https://yeslivetv.com/channels/ccii-ch629/
 #EXTINF:-1 tvg-name="非凡商業" tvg-logo="https://live.fanmingming.com/tv/非凡商業.png" group-title="🇹🇼台灣【1】",非凡商業
-https://yeslivetv.com/channels/ustvbiz/
+video://https://yeslivetv.com/channels/ustvbiz/
 #EXTINF:-1 tvg-name="非凡新聞" tvg-logo="https://live.fanmingming.com/tv/非凡新聞.png" group-title="🇹🇼台灣【1】",非凡新聞
-http://everydaytv.top/play-3-62-0.html
+video://http://everydaytv.top/play-3-62-0.html
 #EXTINF:-1 tvg-name="非凡新聞" tvg-logo="https://live.fanmingming.com/tv/非凡新聞.png" group-title="🇹🇼台灣【1】",非凡新聞
-https://www.histar.tv/live/ustv-news
+video://https://www.histar.tv/live/ustv-news
 #EXTINF:-1 tvg-name="非凡新聞" tvg-logo="https://live.fanmingming.com/tv/非凡新聞.png" group-title="🇹🇼台灣【1】",非凡新聞
-https://yeslivetv.com/channels/ustv/
+video://https://yeslivetv.com/channels/ustv/
 #EXTINF:-1 tvg-name="客家電視" tvg-logo="https://live.fanmingming.com/tv/客家電視.png" group-title="🇹🇼台灣【1】",客家電視
-https://yeslivetv.com/channels/hakkatv/
+video://https://yeslivetv.com/channels/hakkatv/
 #EXTINF:-1 tvg-name="星衛娛樂" tvg-logo="https://live.fanmingming.com/tv/星衛娛樂.png" group-title="🇹🇼台灣【1】",星衛娛樂
-http://everydaytv.top/play-3-183-0.html
+video://http://everydaytv.top/play-3-183-0.html
 #EXTINF:-1 tvg-name="星衛娛樂" tvg-logo="https://live.fanmingming.com/tv/星衛娛樂.png" group-title="🇹🇼台灣【1】",星衛娛樂
-https://www.histar.tv/live/star-entetainment
+video://https://www.histar.tv/live/star-entetainment
 #EXTINF:-1 tvg-name="星衛電影" tvg-logo="https://live.fanmingming.com/tv/星衛電影.png" group-title="🇹🇼台灣【1】",星衛電影
-http://everydaytv.top/play-3-182-0.html
+video://http://everydaytv.top/play-3-182-0.html
 #EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://live.fanmingming.com/tv/美亞電影.png" group-title="🇹🇼台灣【1】",美亞電影
-https://www.histar.tv/live/meiah-movies
+video://https://www.histar.tv/live/meiah-movies
 #EXTINF:-1 tvg-name="美食星球" tvg-logo="https://live.fanmingming.com/tv/美食星球.png" group-title="🇹🇼台灣【1】",美食星球
-http://everydaytv.top/play-3-130-0.html
+video://http://everydaytv.top/play-3-130-0.html
 #EXTINF:-1 tvg-name="美食星球" tvg-logo="https://live.fanmingming.com/tv/美食星球.png" group-title="🇹🇼台灣【1】",美食星球
-https://www.histar.tv/live/food-planet
+video://https://www.histar.tv/live/food-planet
 #EXTINF:-1 tvg-name="迪士尼頻道" tvg-logo="https://live.fanmingming.com/tv/迪士尼頻道.png" group-title="🇹🇼台灣【1】",迪士尼頻道
-https://www.histar.tv/live/disney
+video://https://www.histar.tv/live/disney
 #EXTINF:-1 tvg-name="動物星球" tvg-logo="https://live.fanmingming.com/tv/動物星球.png" group-title="🇹🇼台灣【1】",動物星球
-http://everydaytv.top/play-3-47-0.html
+video://http://everydaytv.top/play-3-47-0.html
 #EXTINF:-1 tvg-name="動物星球" tvg-logo="https://live.fanmingming.com/tv/動物星球.png" group-title="🇹🇼台灣【1】",動物星球
-https://www.histar.tv/live/animal-planet
+video://https://www.histar.tv/live/animal-planet
 #EXTINF:-1 tvg-name="國家地理" tvg-logo="https://live.fanmingming.com/tv/國家地理.png" group-title="🇹🇼台灣【1】",國家地理
-http://everydaytv.top/play-3-66-0.html
+video://http://everydaytv.top/play-3-66-0.html
 #EXTINF:-1 tvg-name="國家地理野生" tvg-logo="https://live.fanmingming.com/tv/國家地理野生.png" group-title="🇹🇼台灣【1】",國家地理野生
-http://everydaytv.top/play-3-67-0.html
+video://http://everydaytv.top/play-3-67-0.html
 #EXTINF:-1 tvg-name="國家地理野生" tvg-logo="https://live.fanmingming.com/tv/國家地理野生.png" group-title="🇹🇼台灣【1】",國家地理野生
-https://www.histar.tv/live/natgeo-wild
+video://https://www.histar.tv/live/natgeo-wild
 #EXTINF:-1 tvg-name="探索亞洲" tvg-logo="https://live.fanmingming.com/tv/探索亞洲.png" group-title="🇹🇼台灣【1】",探索亞洲
-http://everydaytv.top/play-3-34-0.html
+video://http://everydaytv.top/play-3-34-0.html
 #EXTINF:-1 tvg-name="探索亞洲" tvg-logo="https://live.fanmingming.com/tv/探索亞洲.png" group-title="🇹🇼台灣【1】",探索亞洲
-https://www.histar.tv/live/discovery-asia
+video://https://www.histar.tv/live/discovery-asia
 #EXTINF:-1 tvg-name="探索科學" tvg-logo="https://live.fanmingming.com/tv/探索科學.png" group-title="🇹🇼台灣【1】",探索科學
-http://everydaytv.top/play-3-36-0.html
+video://http://everydaytv.top/play-3-36-0.html
 #EXTINF:-1 tvg-name="探索科學" tvg-logo="https://live.fanmingming.com/tv/探索科學.png" group-title="🇹🇼台灣【1】",探索科學
-https://www.histar.tv/live/discovery-sci
+video://https://www.histar.tv/live/discovery-sci
 #EXTINF:-1 tvg-name="探索動力" tvg-logo="https://live.fanmingming.com/tv/探索動力.png" group-title="🇹🇼台灣【1】",探索動力
-http://everydaytv.top/play-3-35-0.html
+video://http://everydaytv.top/play-3-35-0.html
 #EXTINF:-1 tvg-name="探索動力" tvg-logo="https://live.fanmingming.com/tv/探索動力.png" group-title="🇹🇼台灣【1】",探索動力
-https://www.histar.tv/live/dmax
+video://https://www.histar.tv/live/dmax
 #EXTINF:-1 tvg-name="探索頻道" tvg-logo="https://live.fanmingming.com/tv/探索頻道.png" group-title="🇹🇼台灣【1】",探索頻道
-http://everydaytv.top/play-3-33-0.html
+video://http://everydaytv.top/play-3-33-0.html
 #EXTINF:-1 tvg-name="探索頻道" tvg-logo="https://live.fanmingming.com/tv/探索頻道.png" group-title="🇹🇼台灣【1】",探索頻道
-https://www.histar.tv/live/discovery
+video://https://www.histar.tv/live/discovery
 #EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://live.fanmingming.com/tv/壹新聞.png" group-title="🇹🇼台灣【1】",壹新聞
-https://www.histar.tv/live/nexttv
+video://https://www.histar.tv/live/nexttv
 #EXTINF:-1 tvg-name="智林體育" tvg-logo="https://live.fanmingming.com/tv/智林體育.png" group-title="🇹🇼台灣【1】",智林體育
-https://yeslivetv.com/channels/oursport/
+video://https://yeslivetv.com/channels/oursport/
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.com/tv/華視.png" group-title="🇹🇼台灣【1】",華視
-http://everydaytv.top/play-3-86-0.html
+video://http://everydaytv.top/play-3-86-0.html
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.com/tv/華視.png" group-title="🇹🇼台灣【1】",華視
-https://www.histar.tv/live/cts
+video://https://www.histar.tv/live/cts
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.com/tv/華視.png" group-title="🇹🇼台灣【1】",華視
-https://yeslivetv.com/channels/cts-hd/
+video://https://yeslivetv.com/channels/cts-hd/
 #EXTINF:-1 tvg-name="視納華仁紀實" tvg-logo="https://live.fanmingming.com/tv/視納華仁紀實.png" group-title="🇹🇼台灣【1】",視納華仁紀實
-https://yeslivetv.com/channels/cnex/
+video://https://yeslivetv.com/channels/cnex/
 #EXTINF:-1 tvg-name="運通財經" tvg-logo="https://live.fanmingming.com/tv/運通財經.png" group-title="🇹🇼台灣【1】",運通財經
 https://yeslivetv.com/channels/eftv/
 #EXTINF:-1 tvg-name="達文西頻道" tvg-logo="https://live.fanmingming.com/tv/達文西頻道.png" group-title="🇹🇼台灣【1】",達文西頻道
 https://yeslivetv.com/channels/davinci/
 #EXTINF:-1 tvg-name="靖天日本" tvg-logo="https://live.fanmingming.com/tv/靖天日本.png" group-title="🇹🇼台灣【1】",靖天日本
-https://yeslivetv.com/channels/goldentv-japan/
+video://https://yeslivetv.com/channels/goldentv-japan/
 #EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://live.fanmingming.com/tv/靖天卡通.png" group-title="🇹🇼台灣【1】",靖天卡通
-http://everydaytv.top/play-3-96-0.html
+video://http://everydaytv.top/play-3-96-0.html
 #EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://live.fanmingming.com/tv/靖天卡通.png" group-title="🇹🇼台灣【1】",靖天卡通
-https://www.histar.tv/live/jtkt
+video://https://www.histar.tv/live/jtkt
 #EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://live.fanmingming.com/tv/靖天卡通.png" group-title="🇹🇼台灣【1】",靖天卡通
-https://yeslivetv.com/channels/golden-mod107/
+video://https://yeslivetv.com/channels/golden-mod107/
 #EXTINF:-1 tvg-name="靖天映畫" tvg-logo="https://live.fanmingming.com/tv/靖天映畫.png" group-title="🇹🇼台灣【1】",靖天映畫
-https://yeslivetv.com/channels/golden-ch613/
+video://https://yeslivetv.com/channels/golden-ch613/
 #EXTINF:-1 tvg-name="靖天國際" tvg-logo="https://live.fanmingming.com/tv/靖天國際.png" group-title="🇹🇼台灣【1】",靖天國際
-http://everydaytv.top/play-3-94-0.html
+video://http://everydaytv.top/play-3-94-0.html
 #EXTINF:-1 tvg-name="靖天國際" tvg-logo="https://live.fanmingming.com/tv/靖天國際.png" group-title="🇹🇼台灣【1】",靖天國際
-https://www.histar.tv/live/jtgj
+video://https://www.histar.tv/live/jtgj
 #EXTINF:-1 tvg-name="靖天資訊" tvg-logo="https://live.fanmingming.com/tv/靖天資訊.png" group-title="🇹🇼台灣【1】",靖天資訊
-http://everydaytv.top/play-3-101-0.html
+video://http://everydaytv.top/play-3-101-0.html
 #EXTINF:-1 tvg-name="靖天電影" tvg-logo="https://live.fanmingming.com/tv/靖天電影.png" group-title="🇹🇼台灣【1】",靖天電影
-https://www.histar.tv/live/jtdy
+video://https://www.histar.tv/live/jtdy
 #EXTINF:-1 tvg-name="靖天電影" tvg-logo="https://live.fanmingming.com/tv/靖天電影.png" group-title="🇹🇼台灣【1】",靖天電影
-https://yeslivetv.com/channels/goldentv-mod614/
+video://https://yeslivetv.com/channels/goldentv-mod614/
 #EXTINF:-1 tvg-name="靖天綜合" tvg-logo="https://live.fanmingming.com/tv/靖天綜合.png" group-title="🇹🇼台灣【1】",靖天綜合
-https://yeslivetv.com/channels/goldentv-mod303/
+video://https://yeslivetv.com/channels/goldentv-mod303/
 #EXTINF:-1 tvg-name="靖天戲劇" tvg-logo="https://live.fanmingming.com/tv/靖天戲劇.png" group-title="🇹🇼台灣【1】",靖天戲劇
-https://yeslivetv.com/channels/goldentv-mod356/
+video://https://yeslivetv.com/channels/goldentv-mod356/
 #EXTINF:-1 tvg-name="靖洋卡通" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通.png" group-title="🇹🇼台灣【1】",靖洋卡通
-https://yeslivetv.com/channels/nice-bingo/
+video://https://yeslivetv.com/channels/nice-bingo/
 #EXTINF:-1 tvg-name="靖洋戲劇" tvg-logo="https://live.fanmingming.com/tv/靖洋戲劇.png" group-title="🇹🇼台灣【1】",靖洋戲劇
-https://www.histar.tv/live/jyxj
+video://https://www.histar.tv/live/jyxj
 #EXTINF:-1 tvg-name="靖洋戲劇" tvg-logo="https://live.fanmingming.com/tv/靖洋戲劇.png" group-title="🇹🇼台灣【1】",靖洋戲劇
-https://yeslivetv.com/channels/goldentv-mod357/
+video://https://yeslivetv.com/channels/goldentv-mod357/
 #EXTINF:-1 tvg-name="影迷數位電影" tvg-logo="https://live.fanmingming.com/tv/影迷數位電影.png" group-title="🇹🇼台灣【1】",影迷數位電影
-https://yeslivetv.com/channels/ccii-ch630/
+video://https://yeslivetv.com/channels/ccii-ch630/
 #EXTINF:-1 tvg-name="緯來日本" tvg-logo="https://live.fanmingming.com/tv/緯來日本.png" group-title="🇹🇼台灣【1】",緯來日本
-http://everydaytv.top/play-3-173-0.html
+video://http://everydaytv.top/play-3-173-0.html
 #EXTINF:-1 tvg-name="緯來日本" tvg-logo="https://live.fanmingming.com/tv/緯來日本.png" group-title="🇹🇼台灣【1】",緯來日本
-https://www.histar.tv/live/videoland-japan
+video://https://www.histar.tv/live/videoland-japan
 #EXTINF:-1 tvg-name="緯來育樂" tvg-logo="https://live.fanmingming.com/tv/緯來育樂.png" group-title="🇹🇼台灣【1】",緯來育樂
-http://everydaytv.top/play-3-176-0.html
+video://http://everydaytv.top/play-3-176-0.html
 #EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://live.fanmingming.com/tv/緯來電影.png" group-title="🇹🇼台灣【1】",緯來電影
-http://everydaytv.top/play-3-171-0.html
+video://http://everydaytv.top/play-3-171-0.html
 #EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://live.fanmingming.com/tv/緯來電影.png" group-title="🇹🇼台灣【1】",緯來電影
-https://www.histar.tv/live/videoland-movie
+video://https://www.histar.tv/live/videoland-movie
 #EXTINF:-1 tvg-name="緯來綜合" tvg-logo="https://live.fanmingming.com/tv/緯來綜合.png" group-title="🇹🇼台灣【1】",緯來綜合
-http://everydaytv.top/play-3-177-0.html
+video://http://everydaytv.top/play-3-177-0.html
 #EXTINF:-1 tvg-name="緯來戲劇" tvg-logo="https://live.fanmingming.com/tv/緯來戲劇.png" group-title="🇹🇼台灣【1】",緯來戲劇
-http://everydaytv.top/play-3-175-0.html
+video://http://everydaytv.top/play-3-175-0.html
 #EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://live.fanmingming.com/tv/緯來體育.png" group-title="🇹🇼台灣【1】",緯來體育
-http://everydaytv.top/play-3-174-0.html
+video://http://everydaytv.top/play-3-174-0.html
 #EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://live.fanmingming.com/tv/緯來體育.png" group-title="🇹🇼台灣【1】",緯來體育
-https://www.histar.tv/live/videoland-sport
+video://https://www.histar.tv/live/videoland-sport
 #EXTINF:-1 tvg-name="衛視中文" tvg-logo="https://live.fanmingming.com/tv/衛視中文.png" group-title="🇹🇼台灣【1】",衛視中文
-http://everydaytv.top/play-3-179-0.html
+video://http://everydaytv.top/play-3-179-0.html
 #EXTINF:-1 tvg-name="衛視電影" tvg-logo="https://live.fanmingming.com/tv/衛視電影.png" group-title="🇹🇼台灣【1】",衛視電影
-http://everydaytv.top/play-3-178-0.html
+video://http://everydaytv.top/play-3-178-0.html
 #EXTINF:-1 tvg-name="衛視電影" tvg-logo="https://live.fanmingming.com/tv/衛視電影.png" group-title="🇹🇼台灣【1】",衛視電影
-https://www.histar.tv/live/star-chinese-movies
+video://https://www.histar.tv/live/star-chinese-movies
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png" group-title="🇹🇼台灣【1】",寰宇新聞
-http://everydaytv.top/play-3-89-0.html
+video://http://everydaytv.top/play-3-89-0.html
 #EXTINF:-1 tvg-name="歷史頻道" tvg-logo="https://live.fanmingming.com/tv/歷史頻道.png" group-title="🇹🇼台灣【1】",歷史頻道
-https://www.histar.tv/live/history
+video://https://www.histar.tv/live/history
 #EXTINF:-1 tvg-name="龍祥時代" tvg-logo="https://live.fanmingming.com/tv/龍祥時代.png" group-title="🇹🇼台灣【1】",龍祥時代
-http://everydaytv.top/play-3-119-0.html
+video://http://everydaytv.top/play-3-119-0.html
 #EXTINF:-1 tvg-name="龍祥電影" tvg-logo="https://live.fanmingming.com/tv/龍祥電影.png" group-title="🇹🇼台灣【1】",龍祥電影
-https://www.histar.tv/live/lstime
+video://https://www.histar.tv/live/lstime
 #EXTINF:-1 tvg-name="龍華日韓" tvg-logo="https://live.fanmingming.com/tv/龍華日韓.png" group-title="🇹🇼台灣【1】",龍華日韓
-https://yeslivetv.com/channels/ltv-japan-korea/
+video://https://yeslivetv.com/channels/ltv-japan-korea/
 #EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://live.fanmingming.com/tv/龍華洋片.png" group-title="🇹🇼台灣【1】",龍華洋片
-http://everydaytv.top/play-3-117-0.html
+video://http://everydaytv.top/play-3-117-0.html
 #EXTINF:-1 tvg-name="龍華偶像" tvg-logo="https://live.fanmingming.com/tv/龍華偶像.png" group-title="🇹🇼台灣【1】",龍華偶像
-http://everydaytv.top/play-3-113-0.html
+video://http://everydaytv.top/play-3-113-0.html
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://live.fanmingming.com/tv/龍華電影.png" group-title="🇹🇼台灣【1】",龍華電影
-http://everydaytv.top/play-3-108-0.html
+video://http://everydaytv.top/play-3-108-0.html
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://live.fanmingming.com/tv/龍華電影.png" group-title="🇹🇼台灣【1】",龍華電影
-https://www.histar.tv/live/ltv-movies
+video://https://www.histar.tv/live/ltv-movies
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://live.fanmingming.com/tv/龍華電影.png" group-title="🇹🇼台灣【1】",龍華電影
-https://yeslivetv.com/channels/ltv-ch611/
+video://https://yeslivetv.com/channels/ltv-ch611/
 #EXTINF:-1 tvg-name="龍華影劇" tvg-logo="https://live.fanmingming.com/tv/龍華影劇.png" group-title="🇹🇼台灣【1】",龍華影劇
-http://everydaytv.top/play-3-116-0.html
+video://http://everydaytv.top/play-3-116-0.html
 #EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://live.fanmingming.com/tv/龍華戲劇.png" group-title="🇹🇼台灣【1】",龍華戲劇
-http://everydaytv.top/play-3-115-0.html
+video://http://everydaytv.top/play-3-115-0.html
 #EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://live.fanmingming.com/tv/龍華戲劇.png" group-title="🇹🇼台灣【1】",龍華戲劇
-https://yeslivetv.com/channels/ltv-drama/
+video://https://yeslivetv.com/channels/ltv-drama/
 #EXTINF:-1 tvg-name="公視" tvg-logo="https://live.fanmingming.com/tv/公視.png" group-title="🇹🇼台灣【2】",公視
 video://https://yeslivetv.com/channels/pts/
 #EXTINF:-1 tvg-name="公視新聞" tvg-logo="https://live.fanmingming.com/tv/公視新聞.png" group-title="🇹🇼台灣【2】",公視新聞
@@ -887,315 +883,303 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv101?set=4&ch=58
 video://https://www.4gtv.tv/channel/4gtv-4gtv014?set=4&ch=69
 #EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-logo="https://live.fanmingming.com/tv/TRACE Sport Stars.png" group-title="⚽體育",TRACE Sport Stars
 video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
-#EXTINF:-1 tvg-name="parse=1" tvg-logo="https://live.fanmingming.com/tv/parse=1.png" group-title="🇨🇳央視頻",parse=1
-undefined
-#EXTINF:-1 tvg-name="ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML" tvg-logo="https://live.fanmingming.com/tv/ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML.png" group-title="🇨🇳央視頻",ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
-like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合.png" group-title="🇨🇳央視頻",CCTV1综合
-https://yangshipin.cn/#/tv/home?pid=600001859
+video://https://yangshipin.cn/#/tv/home?pid=600001859
 #EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2财经.png" group-title="🇨🇳央視頻",CCTV2财经
-https://yangshipin.cn/#/tv/home?pid=600001800
+video://https://yangshipin.cn/#/tv/home?pid=600001800
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png" group-title="🇨🇳央視頻",CCTV3综艺
-http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+video://http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png" group-title="🇨🇳央視頻",CCTV3综艺
-https://yangshipin.cn/#/tv/home?pid=600001801
+video://https://yangshipin.cn/#/tv/home?pid=600001801
 #EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4中文国际.png" group-title="🇨🇳央視頻",CCTV4中文国际
-https://yangshipin.cn/#/tv/home?pid=600001814
+video://https://yangshipin.cn/#/tv/home?pid=600001814
 #EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5体育.png" group-title="🇨🇳央視頻",CCTV5体育
-https://yangshipin.cn/#/tv/home?pid=600001818
+video://https://yangshipin.cn/#/tv/home?pid=600001818
 #EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影.png" group-title="🇨🇳央視頻",CCTV6电影
-http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
+video://http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
 #EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影.png" group-title="🇨🇳央視頻",CCTV6电影
-https://yangshipin.cn/#/tv/home?pid=600001802
+video://https://yangshipin.cn/#/tv/home?pid=600001802
 #EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7国防军事.png" group-title="🇨🇳央視頻",CCTV7国防军事
-https://yangshipin.cn/#/tv/home?pid=600004092
+video://https://yangshipin.cn/#/tv/home?pid=600004092
 #EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8电视剧.png" group-title="🇨🇳央視頻",CCTV8电视剧
-http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+video://http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
 #EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8电视剧.png" group-title="🇨🇳央視頻",CCTV8电视剧
-https://yangshipin.cn/#/tv/home?pid=600001803
+video://https://yangshipin.cn/#/tv/home?pid=600001803
 #EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9纪录.png" group-title="🇨🇳央視頻",CCTV9纪录
-https://yangshipin.cn/#/tv/home?pid=600004078
+video://https://yangshipin.cn/#/tv/home?pid=600004078
 #EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10科教.png" group-title="🇨🇳央視頻",CCTV10科教
-video://https://yangshipin.cn/#/tv/home?pid=600001805
+video://video://https://yangshipin.cn/#/tv/home?pid=600001805
 #EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11戏曲.png" group-title="🇨🇳央視頻",CCTV11戏曲
-https://yangshipin.cn/#/tv/home?pid=600001806
+video://https://yangshipin.cn/#/tv/home?pid=600001806
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12社会与法.png" group-title="🇨🇳央視頻",CCTV12社会与法
-https://yangshipin.cn/#/tv/home?pid=600001807
+video://https://yangshipin.cn/#/tv/home?pid=600001807
 #EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13新闻.png" group-title="🇨🇳央視頻",CCTV13新闻
-https://yangshipin.cn/#/tv/home?pid=600001811
+video://https://yangshipin.cn/#/tv/home?pid=600001811
 #EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14少儿.png" group-title="🇨🇳央視頻",CCTV14少儿
-https://yangshipin.cn/#/tv/home?pid=600001809
+video://https://yangshipin.cn/#/tv/home?pid=600001809
 #EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15音乐.png" group-title="🇨🇳央視頻",CCTV15音乐
-https://yangshipin.cn/#/tv/home?pid=600001815
+video://https://yangshipin.cn/#/tv/home?pid=600001815
 #EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克.png" group-title="🇨🇳央視頻",CCTV16奥林匹克
-https://yangshipin.cn/#/tv/home?pid=600098637
+video://https://yangshipin.cn/#/tv/home?pid=600098637
 #EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17农业农村.png" group-title="🇨🇳央視頻",CCTV17农业农村
-https://yangshipin.cn/#/tv/home?pid=600001810
+video://https://yangshipin.cn/#/tv/home?pid=600001810
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png" group-title="🇨🇳央視頻",CCTV5+体育赛事
-https://yangshipin.cn/#/tv/home?pid=600001817
+video://https://yangshipin.cn/#/tv/home?pid=600001817
 #EXTINF:-1 tvg-name="CCTV4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4k.png" group-title="🇨🇳央視頻",CCTV4k
-https://yangshipin.cn/#/tv/home?pid=600002264
+video://https://yangshipin.cn/#/tv/home?pid=600002264
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🇨🇳央視頻",湖南卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002475
+video://https://www.yangshipin.cn/#/tv/home?pid=600002475
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🇨🇳央視頻",安徽卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002532
+video://https://www.yangshipin.cn/#/tv/home?pid=600002532
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🇨🇳央視頻",北京卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002309
+video://https://www.yangshipin.cn/#/tv/home?pid=600002309
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🇨🇳央視頻",重庆卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002531
+video://https://www.yangshipin.cn/#/tv/home?pid=600002531
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🇨🇳央視頻",东方卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002483
+video://https://www.yangshipin.cn/#/tv/home?pid=600002483
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🇨🇳央視頻",东南卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002484
+video://https://www.yangshipin.cn/#/tv/home?pid=600002484
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🇨🇳央視頻",广东卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002485
+video://https://www.yangshipin.cn/#/tv/home?pid=600002485
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🇨🇳央視頻",贵州卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002490
+video://https://www.yangshipin.cn/#/tv/home?pid=600002490
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🇨🇳央視頻",河北卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002493
+video://https://www.yangshipin.cn/#/tv/home?pid=600002493
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳央視頻",河南卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002525
+video://https://www.yangshipin.cn/#/tv/home?pid=600002525
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🇨🇳央視頻",黑龙江卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002498
+video://https://www.yangshipin.cn/#/tv/home?pid=600002498
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🇨🇳央視頻",湖北卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002508
+video://https://www.yangshipin.cn/#/tv/home?pid=600002508
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🇨🇳央視頻",江苏卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002521
+video://https://www.yangshipin.cn/#/tv/home?pid=600002521
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🇨🇳央視頻",辽宁卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002505
+video://https://www.yangshipin.cn/#/tv/home?pid=600002505
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🇨🇳央視頻",山东卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002513
+video://https://www.yangshipin.cn/#/tv/home?pid=600002513
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🇨🇳央視頻",四川卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002516
+video://https://www.yangshipin.cn/#/tv/home?pid=600002516
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🇨🇳央視頻",浙江卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002520
+video://https://www.yangshipin.cn/#/tv/home?pid=600002520
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="🇨🇳央視頻",广西卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002509
+video://https://www.yangshipin.cn/#/tv/home?pid=600002509
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🇨🇳央視頻",海南卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002506
+video://https://www.yangshipin.cn/#/tv/home?pid=600002506
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🇨🇳央視頻",深圳卫视
-https://www.yangshipin.cn/#/tv/home?pid=600002481
-#EXTINF:-1 tvg-name="cookies=__STKUUID=ac2036e8-1fc7-4b93-8dd1-4816fc804079; mba_deviceid=5548c286-5724-2d43-0f5e-4b6ff1fd8bef; MQGUID=1734834816119197696; __MQGUID=1734834816119197696; muteplaycount=3; mba_cxid_expiration=1703520000000; mba_cxid=8kpqp21m4cm; sessionid=1703490058668_8kpqp21m4cm; iwt_uuid=a9dc4cda-e692-486f-8b20-d72f2fabf2a0; mba_sessionid=12c92f61-205d-1a04-c5a3-d2f66d12dc4a; mba_last_action_time=1703490968755; lastActionTime=1703490969822; beta_timer=1703490969925; onLoad=1; residence_time=18834" tvg-logo="https://live.fanmingming.com/tv/cookies=__STKUUID=ac2036e8-1fc7-4b93-8dd1-4816fc804079; mba_deviceid=5548c286-5724-2d43-0f5e-4b6ff1fd8bef; MQGUID=1734834816119197696; __MQGUID=1734834816119197696; muteplaycount=3; mba_cxid_expiration=1703520000000; mba_cxid=8kpqp21m4cm; sessionid=1703490058668_8kpqp21m4cm; iwt_uuid=a9dc4cda-e692-486f-8b20-d72f2fabf2a0; mba_sessionid=12c92f61-205d-1a04-c5a3-d2f66d12dc4a; mba_last_action_time=1703490968755; lastActionTime=1703490969822; beta_timer=1703490969925; onLoad=1; residence_time=18834.png" group-title="🥭芒果直播",cookies=__STKUUID=ac2036e8-1fc7-4b93-8dd1-4816fc804079; mba_deviceid=5548c286-5724-2d43-0f5e-4b6ff1fd8bef; MQGUID=1734834816119197696; __MQGUID=1734834816119197696; muteplaycount=3; mba_cxid_expiration=1703520000000; mba_cxid=8kpqp21m4cm; sessionid=1703490058668_8kpqp21m4cm; iwt_uuid=a9dc4cda-e692-486f-8b20-d72f2fabf2a0; mba_sessionid=12c92f61-205d-1a04-c5a3-d2f66d12dc4a; mba_last_action_time=1703490968755; lastActionTime=1703490969822; beta_timer=1703490969925; onLoad=1; residence_time=18834
-undefined
-#EXTINF:-1 tvg-name="ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML" tvg-logo="https://live.fanmingming.com/tv/ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML.png" group-title="🥭芒果直播",ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
-like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="parse=1" tvg-logo="https://live.fanmingming.com/tv/parse=1.png" group-title="🥭芒果直播",parse=1
-undefined
-#EXTINF:-1 tvg-name="host=live.mgtv.com" tvg-logo="https://live.fanmingming.com/tv/host=live.mgtv.com.png" group-title="🥭芒果直播",host=live.mgtv.com
-undefined
-#EXTINF:-1 tvg-name="referer=live.mgtv.com" tvg-logo="https://live.fanmingming.com/tv/referer=live.mgtv.com.png" group-title="🥭芒果直播",referer=live.mgtv.com
-undefined
+video://https://www.yangshipin.cn/#/tv/home?pid=600002481
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="🥭芒果直播",湖南电影
-https://live.mgtv.com/?channelId=221
+video://https://live.mgtv.com/?channelId=221
 #EXTINF:-1 tvg-name="快乐购" tvg-logo="https://live.fanmingming.com/tv/快乐购.png" group-title="🥭芒果直播",快乐购
-https://live.mgtv.com/?channelId=267
+video://https://live.mgtv.com/?channelId=267
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="🥭芒果直播",湖南经视
-https://live.mgtv.com/?channelId=280
+video://https://live.mgtv.com/?channelId=280
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="🥭芒果直播",湖南娱乐
-https://live.mgtv.com/?channelId=344
+video://https://live.mgtv.com/?channelId=344
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="🥭芒果直播",湖南电影
-https://live.mgtv.com/?channelId=221
+video://https://live.mgtv.com/?channelId=221
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="🥭芒果直播",湖南都市
-https://live.mgtv.com/?channelId=346
+video://https://live.mgtv.com/?channelId=346
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="🥭芒果直播",湖南电视剧
-https://live.mgtv.com/?channelId=484
+video://https://live.mgtv.com/?channelId=484
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="🥭芒果直播",金鹰纪实
-https://live.mgtv.com/?channelId=316
+video://https://live.mgtv.com/?channelId=316
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="🥭芒果直播",湖南爱晚
-https://live.mgtv.com/?channelId=261
+video://https://live.mgtv.com/?channelId=261
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🥭芒果直播",金鹰卡通
-https://live.mgtv.com/?channelId=287
+video://https://live.mgtv.com/?channelId=287
 #EXTINF:-1 tvg-name="国际频道" tvg-logo="https://live.fanmingming.com/tv/国际频道.png" group-title="🥭芒果直播",国际频道
-https://live.mgtv.com/?channelId=229
+video://https://live.mgtv.com/?channelId=229
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="🥭芒果直播",先锋乒羽
-https://live.mgtv.com/?channelId=329
+video://https://live.mgtv.com/?channelId=329
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="🥭芒果直播",茶频道
-https://live.mgtv.com/?channelId=578
+video://https://live.mgtv.com/?channelId=578
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="🥭芒果直播",快乐垂钓
-https://live.mgtv.com/?channelId=218
+video://https://live.mgtv.com/?channelId=218
 #EXTINF:-1 tvg-name="长沙新闻综合" tvg-logo="https://live.fanmingming.com/tv/长沙新闻综合.png" group-title="🥭芒果直播",长沙新闻综合
-https://live.mgtv.com/?channelId=269
+video://https://live.mgtv.com/?channelId=269
 #EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://live.fanmingming.com/tv/长沙政法.png" group-title="🥭芒果直播",长沙政法
-https://live.mgtv.com/?channelId=254
+video://https://live.mgtv.com/?channelId=254
 #EXTINF:-1 tvg-name="长沙女性" tvg-logo="https://live.fanmingming.com/tv/长沙女性.png" group-title="🥭芒果直播",长沙女性
-https://live.mgtv.com/?channelId=230
-#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="🌞油管直播【1】",中天新聞
-https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
-#EXTINF:-1 tvg-name="中天新聞2" tvg-logo="https://live.fanmingming.com/tv/中天新聞2.png" group-title="🌞油管直播【1】",中天新聞2
-https://www.youtube.com/watch?v=WPfPjbOLNfE&ab_channel=%E4%B8%AD%E5%A4%A9%E6%B7%B1%E5%96%89%E5%9A%A8
-#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://live.fanmingming.com/tv/中天亞洲台.png" group-title="🌞油管直播【1】",中天亞洲台
-https://www.youtube.com/watch?v=s2waUruqze4
-#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="🌞油管直播【1】",鳳凰資訊
-https://www.youtube.com/watch?v=Zm4i_rvAcxc
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🌞油管直播【1】",CCTV-4
-https://www.youtube.com/watch?v=9sE12tg3CmA&ab_channel=LIVENOW
-#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.com/tv/TVBS新聞.png" group-title="🌞油管直播【1】",TVBS新聞
-https://www.youtube.com/watch?v=2mCSYvcfhtc&ab_channel=TVBSNEWS
-#EXTINF:-1 tvg-name="TVBSHD 56" tvg-logo="https://live.fanmingming.com/tv/TVBSHD 56.png" group-title="🌞油管直播【1】",TVBSHD 56
-https://www.youtube.com/watch?v=YvdcZ_jpLXE
-#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.com/tv/TVBS NEWS.png" group-title="🌞油管直播【1】",TVBS NEWS
-https://www.youtube.com/watch?v=m_dhMSvUCIc
-#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立iNEWS.png" group-title="🌞油管直播【1】",三立iNEWS
-https://www.youtube.com/watch?v=CKjSm5ZeehE&ab_channel=%E4%B8%89%E7%AB%8BiNEWS
-#EXTINF:-1 tvg-name="三立NEWS+" tvg-logo="https://live.fanmingming.com/tv/三立NEWS+.png" group-title="🌞油管直播【1】",三立NEWS+
-https://www.youtube.com/watch?v=oZdzzvxTfUY&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
-#EXTINF:-1 tvg-name="三立LIVE" tvg-logo="https://live.fanmingming.com/tv/三立LIVE.png" group-title="🌞油管直播【1】",三立LIVE
-https://www.youtube.com/watch?v=FoBfXvlOR6I&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
-#EXTINF:-1 tvg-name="東森新闻Live" tvg-logo="https://live.fanmingming.com/tv/東森新闻Live.png" group-title="🌞油管直播【1】",東森新闻Live
-https://www.youtube.com/watch?v=S5WOGu2HSes
-#EXTINF:-1 tvg-name="東森Live51" tvg-logo="https://live.fanmingming.com/tv/東森Live51.png" group-title="🌞油管直播【1】",東森Live51
-https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-name="東森國際新聞" tvg-logo="https://live.fanmingming.com/tv/東森國際新聞.png" group-title="🌞油管直播【1】",東森國際新聞
-https://www.youtube.com/watch?v=6gXbFIaRJt0
-#EXTINF:-1 tvg-name="東森財經" tvg-logo="https://live.fanmingming.com/tv/東森財經.png" group-title="🌞油管直播【1】",東森財經
-https://www.youtube.com/watch?v=LbS-xQ67fos&ab_channel=57%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.com/tv/民視新聞.png" group-title="🌞油管直播【1】",民視新聞
-https://www.youtube.com/watch?v=ylYJSBUgaMA&ab_channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E7%B6%B2FormosaTVNewsnetwork
-#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/華視新聞.png" group-title="🌞油管直播【1】",華視新聞
-https://www.youtube.com/watch?v=wM0g8EoUZ_E&ab_channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9ECH52
-#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中視新聞.png" group-title="🌞油管直播【1】",中視新聞
-https://www.youtube.com/watch?v=TCnaIE_SAtM&ab_channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9EHD%E7%9B%B4%E6%92%AD%E9%A0%BB%E9%81%93%EF%BD%9CTaiwanCTVnewsHDLive
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.com/tv/台視新聞.png" group-title="🌞油管直播【1】",台視新聞
-https://www.youtube.com/watch?v=xL0ch83RAK8&ab_channel=%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9ETTVNEWS
-#EXTINF:-1 tvg-name="公視新聞網" tvg-logo="https://live.fanmingming.com/tv/公視新聞網.png" group-title="🌞油管直播【1】",公視新聞網
-https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="🌞油管直播【1】",寰宇新闻
-https://www.youtube.com/watch?v=6IquAgfvYmc
-#EXTINF:-1 tvg-name="寰宇台灣台" tvg-logo="https://live.fanmingming.com/tv/寰宇台灣台.png" group-title="🌞油管直播【1】",寰宇台灣台
-https://www.youtube.com/watch?v=w87VGpgd90U
-#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://live.fanmingming.com/tv/寰宇財經台.png" group-title="🌞油管直播【1】",寰宇財經台
-https://www.youtube.com/watch?v=25SE1bbTv9k
-#EXTINF:-1 tvg-name="鏡新聞" tvg-logo="https://live.fanmingming.com/tv/鏡新聞.png" group-title="🌞油管直播【1】",鏡新聞
-https://www.youtube.com/watch?v=5n0y6b0Q25o&ab_channel=%E9%8F%A1%E6%96%B0%E8%81%9E
-#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://live.fanmingming.com/tv/TaiwanPlus.png" group-title="🌞油管直播【1】",TaiwanPlus
-https://www.youtube.com/watch?v=dZp87qnWelE
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://live.fanmingming.com/tv/ABC News.png" group-title="🌞油管直播【1】",ABC News
-https://www.youtube.com/watch?v=u8gyCHfITHw
-#EXTINF:-1 tvg-name="ABC News(Australia)" tvg-logo="https://live.fanmingming.com/tv/ABC News(Australia).png" group-title="🌞油管直播【1】",ABC News(Australia)
-https://www.youtube.com/watch?v=vOTiJkg1voo
-#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://live.fanmingming.com/tv/NBC News NOW.png" group-title="🌞油管直播【1】",NBC News NOW
-https://www.youtube.com/watch?v=PoX4NUhhIJc
-#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://live.fanmingming.com/tv/NBC NEWS.png" group-title="🌞油管直播【1】",NBC NEWS
-https://www.youtube.com/watch?v=o1ZydFM-upg
-#EXTINF:-1 tvg-name="NBC2 News" tvg-logo="https://live.fanmingming.com/tv/NBC2 News.png" group-title="🌞油管直播【1】",NBC2 News
-https://www.youtube.com/watch?v=IMNK1Mfq8FA
-#EXTINF:-1 tvg-name="NEWSMAX" tvg-logo="https://live.fanmingming.com/tv/NEWSMAX.png" group-title="🌞油管直播【1】",NEWSMAX
-https://www.youtube.com/watch?v=0BMeWXKcjIM
-#EXTINF:-1 tvg-name="News12 NewYork" tvg-logo="https://live.fanmingming.com/tv/News12 NewYork.png" group-title="🌞油管直播【1】",News12 NewYork
-https://www.youtube.com/watch?v=37OKlipyVFc
-#EXTINF:-1 tvg-name="GB News" tvg-logo="https://live.fanmingming.com/tv/GB News.png" group-title="🌞油管直播【1】",GB News
-https://www.youtube.com/watch?v=8WX6YL9JnLw
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://live.fanmingming.com/tv/Al Jazeera.png" group-title="🌞油管直播【1】",Al Jazeera
-https://www.youtube.com/watch?v=gCNeDWCI0vo
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="🌞油管直播【1】",Euronews
-https://www.youtube.com/watch?v=pykpO5kQJ98
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://live.fanmingming.com/tv/TRT World.png" group-title="🌞油管直播【1】",TRT World
-https://www.youtube.com/watch?v=5VF4aor94gw
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="🌞油管直播【1】",DW
-https://www.youtube.com/watch?v=pqabxBKzZ6M
-#EXTINF:-1 tvg-name="彭博财经台" tvg-logo="https://live.fanmingming.com/tv/彭博财经台.png" group-title="🌞油管直播【1】",彭博财经台
-https://www.youtube.com/watch?v=dp8PhLsUcFE
-#EXTINF:-1 tvg-name="France24" tvg-logo="https://live.fanmingming.com/tv/France24.png" group-title="🌞油管直播【1】",France24
-https://www.youtube.com/watch?v=tkDUSYHoKxE
-#EXTINF:-1 tvg-name="CNALives" tvg-logo="https://live.fanmingming.com/tv/CNALives.png" group-title="🌞油管直播【1】",CNALives
-https://www.youtube.com/watch?v=XWq5kBlakcQ
-#EXTINF:-1 tvg-name="TD Ameritrade" tvg-logo="https://live.fanmingming.com/tv/TD Ameritrade.png" group-title="🌞油管直播【1】",TD Ameritrade
-https://www.youtube.com/watch?v=SG1Lc0QCD_Y
-#EXTINF:-1 tvg-name="CBN News" tvg-logo="https://live.fanmingming.com/tv/CBN News.png" group-title="🌞油管直播【1】",CBN News
-https://www.youtube.com/watch?v=CG2XDTgvZPo
-#EXTINF:-1 tvg-name="tvOne 24Jam" tvg-logo="https://live.fanmingming.com/tv/tvOne 24Jam.png" group-title="🌞油管直播【1】",tvOne 24Jam
-https://www.youtube.com/watch?v=yNKvkPJl-tg
-#EXTINF:-1 tvg-name="NBC NEW" tvg-logo="https://live.fanmingming.com/tv/NBC NEW.png" group-title="🌞油管直播【1】",NBC NEW
-https://www.youtube.com/watch?v=0IUbD_4ytuo
-#EXTINF:-1 tvg-name="KOMPASTV" tvg-logo="https://live.fanmingming.com/tv/KOMPASTV.png" group-title="🌞油管直播【1】",KOMPASTV
-https://www.youtube.com/watch?v=w7ZTt55F5YE
-#EXTINF:-1 tvg-name="Arirang TV" tvg-logo="https://live.fanmingming.com/tv/Arirang TV.png" group-title="🌞油管直播【1】",Arirang TV
-https://www.youtube.com/watch?v=CJVBX7KI5nU
-#EXTINF:-1 tvg-name="MBC NEWS" tvg-logo="https://live.fanmingming.com/tv/MBC NEWS.png" group-title="🌞油管直播【1】",MBC NEWS
-https://www.youtube.com/watch?v=q-Wv4Pvt-5A
-#EXTINF:-1 tvg-name="KBS NEWS" tvg-logo="https://live.fanmingming.com/tv/KBS NEWS.png" group-title="🌞油管直播【1】",KBS NEWS
-https://www.youtube.com/watch?v=D2R15WicmAs
-#EXTINF:-1 tvg-name="KBS KOREA" tvg-logo="https://live.fanmingming.com/tv/KBS KOREA.png" group-title="🌞油管直播【1】",KBS KOREA
-https://www.youtube.com/watch?v=OxQQsIvJTTU
-#EXTINF:-1 tvg-name="NHK WORLD-JAPAN" tvg-logo="https://live.fanmingming.com/tv/NHK WORLD-JAPAN.png" group-title="🌞油管直播【1】",NHK WORLD-JAPAN
-https://www.youtube.com/watch?v=f0lYkdA-Gtw
-#EXTINF:-1 tvg-name="JapaNews24" tvg-logo="https://live.fanmingming.com/tv/JapaNews24.png" group-title="🌞油管直播【1】",JapaNews24
-https://www.youtube.com/watch?v=coYw-eVU0Ks
-#EXTINF:-1 tvg-name="ANN News" tvg-logo="https://live.fanmingming.com/tv/ANN News.png" group-title="🌞油管直播【1】",ANN News
-https://www.youtube.com/watch?v=coYw-eVU0Ks
-#EXTINF:-1 tvg-name="TBS NEWS DIG" tvg-logo="https://live.fanmingming.com/tv/TBS NEWS DIG.png" group-title="🌞油管直播【1】",TBS NEWS DIG
-https://www.youtube.com/watch?v=ohI356mwBp8
-#EXTINF:-1 tvg-name="名古屋电视台" tvg-logo="https://live.fanmingming.com/tv/名古屋电视台.png" group-title="🌞油管直播【1】",名古屋电视台
-https://www.youtube.com/watch?v=-C6FE2m7kX8
-#EXTINF:-1 tvg-name="広島新闻" tvg-logo="https://live.fanmingming.com/tv/広島新闻.png" group-title="🌞油管直播【1】",広島新闻
-https://www.youtube.com/watch?v=e2pgLUmaxGs
-#EXTINF:-1 tvg-name="北海道新闻" tvg-logo="https://live.fanmingming.com/tv/北海道新闻.png" group-title="🌞油管直播【1】",北海道新闻
-https://www.youtube.com/watch?v=d8CrKBU99Hg
-#EXTINF:-1 tvg-name="北海道weekend" tvg-logo="https://live.fanmingming.com/tv/北海道weekend.png" group-title="🌞油管直播【1】",北海道weekend
-https://www.youtube.com/watch?v=L0_P_KJVpKc
-#EXTINF:-1 tvg-name="매일경제TV" tvg-logo="https://live.fanmingming.com/tv/매일경제TV.png" group-title="🌞油管直播【1】",매일경제TV
-https://www.youtube.com/watch?v=s9xL1DpBsfQ
-#EXTINF:-1 tvg-name="YonhapnewsTV" tvg-logo="https://live.fanmingming.com/tv/YonhapnewsTV.png" group-title="🌞油管直播【1】",YonhapnewsTV
-https://www.youtube.com/watch?v=6QZ_qc75ihU
-#EXTINF:-1 tvg-name="YTN" tvg-logo="https://live.fanmingming.com/tv/YTN.png" group-title="🌞油管直播【1】",YTN
-https://www.youtube.com/watch?v=FJfwehhzIhw
-#EXTINF:-1 tvg-name="THE K-POP" tvg-logo="https://live.fanmingming.com/tv/THE K-POP.png" group-title="🌞油管直播【1】",THE K-POP
-https://www.youtube.com/watch?v=JVocS7Yftw8
-#EXTINF:-1 tvg-name="K-POP Girl Group" tvg-logo="https://live.fanmingming.com/tv/K-POP Girl Group.png" group-title="🌞油管直播【1】",K-POP Girl Group
-https://www.youtube.com/watch?v=k2F1XZxPLOA
-#EXTINF:-1 tvg-name="KBS WORLD TV" tvg-logo="https://live.fanmingming.com/tv/KBS WORLD TV.png" group-title="🌞油管直播【1】",KBS WORLD TV
-https://www.youtube.com/watch?v=yC0OLhiEMLg
-#EXTINF:-1 tvg-name="雷蒙影视" tvg-logo="https://live.fanmingming.com/tv/雷蒙影视.png" group-title="🌞油管直播【2】",雷蒙影视
+video://https://live.mgtv.com/?channelId=230
+#EXTINF:-1 tvg-name="雷蒙影视" tvg-logo="https://live.fanmingming.com/tv/雷蒙影视.png" group-title="▶YOUTUBE直播【1】",雷蒙影视
 https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="🌞油管直播【2】",中天新闻
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="▶YOUTUBE直播【1】",中天新聞
+https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
+#EXTINF:-1 tvg-name="中天新聞2" tvg-logo="https://live.fanmingming.com/tv/中天新聞2.png" group-title="▶YOUTUBE直播【1】",中天新聞2
+https://www.youtube.com/watch?v=WPfPjbOLNfE&ab_channel=%E4%B8%AD%E5%A4%A9%E6%B7%B1%E5%96%89%E5%9A%A8
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://live.fanmingming.com/tv/中天亞洲台.png" group-title="▶YOUTUBE直播【1】",中天亞洲台
+https://www.youtube.com/watch?v=s2waUruqze4
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="▶YOUTUBE直播【1】",鳳凰資訊
+https://www.youtube.com/watch?v=Zm4i_rvAcxc
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="▶YOUTUBE直播【1】",CCTV-4
+https://www.youtube.com/watch?v=9sE12tg3CmA&ab_channel=LIVENOW
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.com/tv/TVBS新聞.png" group-title="▶YOUTUBE直播【1】",TVBS新聞
+https://www.youtube.com/watch?v=2mCSYvcfhtc&ab_channel=TVBSNEWS
+#EXTINF:-1 tvg-name="TVBSHD 56" tvg-logo="https://live.fanmingming.com/tv/TVBSHD 56.png" group-title="▶YOUTUBE直播【1】",TVBSHD 56
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.com/tv/TVBS NEWS.png" group-title="▶YOUTUBE直播【1】",TVBS NEWS
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立iNEWS.png" group-title="▶YOUTUBE直播【1】",三立iNEWS
+https://www.youtube.com/watch?v=CKjSm5ZeehE&ab_channel=%E4%B8%89%E7%AB%8BiNEWS
+#EXTINF:-1 tvg-name="三立NEWS+" tvg-logo="https://live.fanmingming.com/tv/三立NEWS+.png" group-title="▶YOUTUBE直播【1】",三立NEWS+
+https://www.youtube.com/watch?v=oZdzzvxTfUY&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
+#EXTINF:-1 tvg-name="三立LIVE" tvg-logo="https://live.fanmingming.com/tv/三立LIVE.png" group-title="▶YOUTUBE直播【1】",三立LIVE
+https://www.youtube.com/watch?v=FoBfXvlOR6I&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
+#EXTINF:-1 tvg-name="東森新闻Live" tvg-logo="https://live.fanmingming.com/tv/東森新闻Live.png" group-title="▶YOUTUBE直播【1】",東森新闻Live
+https://www.youtube.com/watch?v=S5WOGu2HSes
+#EXTINF:-1 tvg-name="東森Live51" tvg-logo="https://live.fanmingming.com/tv/東森Live51.png" group-title="▶YOUTUBE直播【1】",東森Live51
+https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-name="東森國際新聞" tvg-logo="https://live.fanmingming.com/tv/東森國際新聞.png" group-title="▶YOUTUBE直播【1】",東森國際新聞
+https://www.youtube.com/watch?v=6gXbFIaRJt0
+#EXTINF:-1 tvg-name="東森財經" tvg-logo="https://live.fanmingming.com/tv/東森財經.png" group-title="▶YOUTUBE直播【1】",東森財經
+https://www.youtube.com/watch?v=LbS-xQ67fos&ab_channel=57%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.com/tv/民視新聞.png" group-title="▶YOUTUBE直播【1】",民視新聞
+https://www.youtube.com/watch?v=ylYJSBUgaMA&ab_channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E7%B6%B2FormosaTVNewsnetwork
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/華視新聞.png" group-title="▶YOUTUBE直播【1】",華視新聞
+https://www.youtube.com/watch?v=wM0g8EoUZ_E&ab_channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9ECH52
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中視新聞.png" group-title="▶YOUTUBE直播【1】",中視新聞
+https://www.youtube.com/watch?v=TCnaIE_SAtM&ab_channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9EHD%E7%9B%B4%E6%92%AD%E9%A0%BB%E9%81%93%EF%BD%9CTaiwanCTVnewsHDLive
+#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.com/tv/台視新聞.png" group-title="▶YOUTUBE直播【1】",台視新聞
+https://www.youtube.com/watch?v=xL0ch83RAK8&ab_channel=%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9ETTVNEWS
+#EXTINF:-1 tvg-name="公視新聞網" tvg-logo="https://live.fanmingming.com/tv/公視新聞網.png" group-title="▶YOUTUBE直播【1】",公視新聞網
+https://www.youtube.com/watch?v=quwqlazU-c8
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="▶YOUTUBE直播【1】",寰宇新闻
+https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1 tvg-name="寰宇台灣台" tvg-logo="https://live.fanmingming.com/tv/寰宇台灣台.png" group-title="▶YOUTUBE直播【1】",寰宇台灣台
+https://www.youtube.com/watch?v=w87VGpgd90U
+#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://live.fanmingming.com/tv/寰宇財經台.png" group-title="▶YOUTUBE直播【1】",寰宇財經台
+https://www.youtube.com/watch?v=25SE1bbTv9k
+#EXTINF:-1 tvg-name="鏡新聞" tvg-logo="https://live.fanmingming.com/tv/鏡新聞.png" group-title="▶YOUTUBE直播【1】",鏡新聞
+https://www.youtube.com/watch?v=5n0y6b0Q25o&ab_channel=%E9%8F%A1%E6%96%B0%E8%81%9E
+#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://live.fanmingming.com/tv/TaiwanPlus.png" group-title="▶YOUTUBE直播【1】",TaiwanPlus
+https://www.youtube.com/watch?v=dZp87qnWelE
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://live.fanmingming.com/tv/ABC News.png" group-title="▶YOUTUBE直播【1】",ABC News
+https://www.youtube.com/watch?v=u8gyCHfITHw
+#EXTINF:-1 tvg-name="ABC News(Australia)" tvg-logo="https://live.fanmingming.com/tv/ABC News(Australia).png" group-title="▶YOUTUBE直播【1】",ABC News(Australia)
+https://www.youtube.com/watch?v=vOTiJkg1voo
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://live.fanmingming.com/tv/NBC News NOW.png" group-title="▶YOUTUBE直播【1】",NBC News NOW
+https://www.youtube.com/watch?v=PoX4NUhhIJc
+#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://live.fanmingming.com/tv/NBC NEWS.png" group-title="▶YOUTUBE直播【1】",NBC NEWS
+https://www.youtube.com/watch?v=o1ZydFM-upg
+#EXTINF:-1 tvg-name="NBC2 News" tvg-logo="https://live.fanmingming.com/tv/NBC2 News.png" group-title="▶YOUTUBE直播【1】",NBC2 News
+https://www.youtube.com/watch?v=IMNK1Mfq8FA
+#EXTINF:-1 tvg-name="NEWSMAX" tvg-logo="https://live.fanmingming.com/tv/NEWSMAX.png" group-title="▶YOUTUBE直播【1】",NEWSMAX
+https://www.youtube.com/watch?v=0BMeWXKcjIM
+#EXTINF:-1 tvg-name="News12 NewYork" tvg-logo="https://live.fanmingming.com/tv/News12 NewYork.png" group-title="▶YOUTUBE直播【1】",News12 NewYork
+https://www.youtube.com/watch?v=37OKlipyVFc
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://live.fanmingming.com/tv/GB News.png" group-title="▶YOUTUBE直播【1】",GB News
+https://www.youtube.com/watch?v=8WX6YL9JnLw
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://live.fanmingming.com/tv/Al Jazeera.png" group-title="▶YOUTUBE直播【1】",Al Jazeera
+https://www.youtube.com/watch?v=gCNeDWCI0vo
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="▶YOUTUBE直播【1】",Euronews
+https://www.youtube.com/watch?v=pykpO5kQJ98
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://live.fanmingming.com/tv/TRT World.png" group-title="▶YOUTUBE直播【1】",TRT World
+https://www.youtube.com/watch?v=5VF4aor94gw
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="▶YOUTUBE直播【1】",DW
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+#EXTINF:-1 tvg-name="彭博财经台" tvg-logo="https://live.fanmingming.com/tv/彭博财经台.png" group-title="▶YOUTUBE直播【1】",彭博财经台
+https://www.youtube.com/watch?v=dp8PhLsUcFE
+#EXTINF:-1 tvg-name="France24" tvg-logo="https://live.fanmingming.com/tv/France24.png" group-title="▶YOUTUBE直播【1】",France24
+https://www.youtube.com/watch?v=tkDUSYHoKxE
+#EXTINF:-1 tvg-name="CNALives" tvg-logo="https://live.fanmingming.com/tv/CNALives.png" group-title="▶YOUTUBE直播【1】",CNALives
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+#EXTINF:-1 tvg-name="TD Ameritrade" tvg-logo="https://live.fanmingming.com/tv/TD Ameritrade.png" group-title="▶YOUTUBE直播【1】",TD Ameritrade
+https://www.youtube.com/watch?v=SG1Lc0QCD_Y
+#EXTINF:-1 tvg-name="CBN News" tvg-logo="https://live.fanmingming.com/tv/CBN News.png" group-title="▶YOUTUBE直播【1】",CBN News
+https://www.youtube.com/watch?v=CG2XDTgvZPo
+#EXTINF:-1 tvg-name="tvOne 24Jam" tvg-logo="https://live.fanmingming.com/tv/tvOne 24Jam.png" group-title="▶YOUTUBE直播【1】",tvOne 24Jam
+https://www.youtube.com/watch?v=yNKvkPJl-tg
+#EXTINF:-1 tvg-name="NBC NEW" tvg-logo="https://live.fanmingming.com/tv/NBC NEW.png" group-title="▶YOUTUBE直播【1】",NBC NEW
+https://www.youtube.com/watch?v=0IUbD_4ytuo
+#EXTINF:-1 tvg-name="KOMPASTV" tvg-logo="https://live.fanmingming.com/tv/KOMPASTV.png" group-title="▶YOUTUBE直播【1】",KOMPASTV
+https://www.youtube.com/watch?v=w7ZTt55F5YE
+#EXTINF:-1 tvg-name="Arirang TV" tvg-logo="https://live.fanmingming.com/tv/Arirang TV.png" group-title="▶YOUTUBE直播【1】",Arirang TV
+https://www.youtube.com/watch?v=CJVBX7KI5nU
+#EXTINF:-1 tvg-name="MBC NEWS" tvg-logo="https://live.fanmingming.com/tv/MBC NEWS.png" group-title="▶YOUTUBE直播【1】",MBC NEWS
+https://www.youtube.com/watch?v=q-Wv4Pvt-5A
+#EXTINF:-1 tvg-name="KBS NEWS" tvg-logo="https://live.fanmingming.com/tv/KBS NEWS.png" group-title="▶YOUTUBE直播【1】",KBS NEWS
+https://www.youtube.com/watch?v=D2R15WicmAs
+#EXTINF:-1 tvg-name="KBS KOREA" tvg-logo="https://live.fanmingming.com/tv/KBS KOREA.png" group-title="▶YOUTUBE直播【1】",KBS KOREA
+https://www.youtube.com/watch?v=OxQQsIvJTTU
+#EXTINF:-1 tvg-name="NHK WORLD-JAPAN" tvg-logo="https://live.fanmingming.com/tv/NHK WORLD-JAPAN.png" group-title="▶YOUTUBE直播【1】",NHK WORLD-JAPAN
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
+#EXTINF:-1 tvg-name="JapaNews24" tvg-logo="https://live.fanmingming.com/tv/JapaNews24.png" group-title="▶YOUTUBE直播【1】",JapaNews24
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF:-1 tvg-name="ANN News" tvg-logo="https://live.fanmingming.com/tv/ANN News.png" group-title="▶YOUTUBE直播【1】",ANN News
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF:-1 tvg-name="TBS NEWS DIG" tvg-logo="https://live.fanmingming.com/tv/TBS NEWS DIG.png" group-title="▶YOUTUBE直播【1】",TBS NEWS DIG
+https://www.youtube.com/watch?v=ohI356mwBp8
+#EXTINF:-1 tvg-name="名古屋电视台" tvg-logo="https://live.fanmingming.com/tv/名古屋电视台.png" group-title="▶YOUTUBE直播【1】",名古屋电视台
+https://www.youtube.com/watch?v=-C6FE2m7kX8
+#EXTINF:-1 tvg-name="広島新闻" tvg-logo="https://live.fanmingming.com/tv/広島新闻.png" group-title="▶YOUTUBE直播【1】",広島新闻
+https://www.youtube.com/watch?v=e2pgLUmaxGs
+#EXTINF:-1 tvg-name="北海道新闻" tvg-logo="https://live.fanmingming.com/tv/北海道新闻.png" group-title="▶YOUTUBE直播【1】",北海道新闻
+https://www.youtube.com/watch?v=d8CrKBU99Hg
+#EXTINF:-1 tvg-name="北海道weekend" tvg-logo="https://live.fanmingming.com/tv/北海道weekend.png" group-title="▶YOUTUBE直播【1】",北海道weekend
+https://www.youtube.com/watch?v=L0_P_KJVpKc
+#EXTINF:-1 tvg-name="매일경제TV" tvg-logo="https://live.fanmingming.com/tv/매일경제TV.png" group-title="▶YOUTUBE直播【1】",매일경제TV
+https://www.youtube.com/watch?v=s9xL1DpBsfQ
+#EXTINF:-1 tvg-name="YonhapnewsTV" tvg-logo="https://live.fanmingming.com/tv/YonhapnewsTV.png" group-title="▶YOUTUBE直播【1】",YonhapnewsTV
+https://www.youtube.com/watch?v=6QZ_qc75ihU
+#EXTINF:-1 tvg-name="YTN" tvg-logo="https://live.fanmingming.com/tv/YTN.png" group-title="▶YOUTUBE直播【1】",YTN
+https://www.youtube.com/watch?v=FJfwehhzIhw
+#EXTINF:-1 tvg-name="THE K-POP" tvg-logo="https://live.fanmingming.com/tv/THE K-POP.png" group-title="▶YOUTUBE直播【1】",THE K-POP
+https://www.youtube.com/watch?v=JVocS7Yftw8
+#EXTINF:-1 tvg-name="K-POP Girl Group" tvg-logo="https://live.fanmingming.com/tv/K-POP Girl Group.png" group-title="▶YOUTUBE直播【1】",K-POP Girl Group
+https://www.youtube.com/watch?v=k2F1XZxPLOA
+#EXTINF:-1 tvg-name="KBS WORLD TV" tvg-logo="https://live.fanmingming.com/tv/KBS WORLD TV.png" group-title="▶YOUTUBE直播【1】",KBS WORLD TV
+https://www.youtube.com/watch?v=yC0OLhiEMLg
+#EXTINF:-1 tvg-name="雷蒙影视" tvg-logo="https://live.fanmingming.com/tv/雷蒙影视.png" group-title="▶YOUTUBE直播【2】",雷蒙影视
+https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="▶YOUTUBE直播【2】",中天新闻
 https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻.m3u8
-#EXTINF:-1 tvg-name="中天新闻2" tvg-logo="https://live.fanmingming.com/tv/中天新闻2.png" group-title="🌞油管直播【2】",中天新闻2
+#EXTINF:-1 tvg-name="中天新闻2" tvg-logo="https://live.fanmingming.com/tv/中天新闻2.png" group-title="▶YOUTUBE直播【2】",中天新闻2
 https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻2.m3u8
-#EXTINF:-1 tvg-name="三立+新闻" tvg-logo="https://live.fanmingming.com/tv/三立+新闻.png" group-title="🌞油管直播【2】",三立+新闻
+#EXTINF:-1 tvg-name="三立+新闻" tvg-logo="https://live.fanmingming.com/tv/三立+新闻.png" group-title="▶YOUTUBE直播【2】",三立+新闻
 https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
-#EXTINF:-1 tvg-name="三立iNews新闻" tvg-logo="https://live.fanmingming.com/tv/三立iNews新闻.png" group-title="🌞油管直播【2】",三立iNews新闻
+#EXTINF:-1 tvg-name="三立iNews新闻" tvg-logo="https://live.fanmingming.com/tv/三立iNews新闻.png" group-title="▶YOUTUBE直播【2】",三立iNews新闻
 https://raw.githubusercontent.com/lem85930/YTM/main/三立iNews新闻.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="🌞油管直播【2】",台视新闻
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="▶YOUTUBE直播【2】",台视新闻
 https://raw.githubusercontent.com/lem85930/YTM/main/台视新闻.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="🌞油管直播【2】",民视新闻
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="▶YOUTUBE直播【2】",民视新闻
 https://raw.githubusercontent.com/lem85930/YTM/main/民视新闻.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="🌞油管直播【2】",中视新闻
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="▶YOUTUBE直播【2】",中视新闻
 https://raw.githubusercontent.com/lem85930/YTM/main/中视新闻.m3u8
-#EXTINF:-1 tvg-name="TVBS News" tvg-logo="https://live.fanmingming.com/tv/TVBS News.png" group-title="🌞油管直播【2】",TVBS News
+#EXTINF:-1 tvg-name="TVBS News" tvg-logo="https://live.fanmingming.com/tv/TVBS News.png" group-title="▶YOUTUBE直播【2】",TVBS News
 https://raw.githubusercontent.com/lem85930/utlive/YTlive/TVBS.m3u8
-#EXTINF:-1 tvg-name="TVBS国际+" tvg-logo="https://live.fanmingming.com/tv/TVBS国际+.png" group-title="🌞油管直播【2】",TVBS国际+
+#EXTINF:-1 tvg-name="TVBS国际+" tvg-logo="https://live.fanmingming.com/tv/TVBS国际+.png" group-title="▶YOUTUBE直播【2】",TVBS国际+
 https://raw.githubusercontent.com/lem85930/utlive/YTlive/TVBS新闻2.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="🌞油管直播【2】",寰宇新闻
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="▶YOUTUBE直播【2】",寰宇新闻
 https://raw.githubusercontent.com/lem85930/YTM/main/寰宇新闻.m3u8
-#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻.png" group-title="🌞油管直播【2】",东森财经新闻
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻.png" group-title="▶YOUTUBE直播【2】",东森财经新闻
 https://raw.githubusercontent.com/lem85930/YTM/main/东森财经新闻.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="🌞油管直播【2】",凤凰资讯台
+#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="▶YOUTUBE直播【2】",凤凰资讯台
 https://raw.githubusercontent.com/lem85930/YTM/main/凤凰资讯台.m3u8
-#EXTINF:-1 tvg-name="CCTV中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV中文国际.png" group-title="🌞油管直播【2】",CCTV中文国际
+#EXTINF:-1 tvg-name="CCTV中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV中文国际.png" group-title="▶YOUTUBE直播【2】",CCTV中文国际
 https://raw.githubusercontent.com/lem85930/YTM/main/CCTV中文国际.m3u8
-#EXTINF:-1 tvg-name="中天新闻https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8" tvg-logo="https://live.fanmingming.com/tv/中天新闻https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8.png" group-title="🌞油管直播【2】",中天新闻https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8
+#EXTINF:-1 tvg-name="中天新闻https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8" tvg-logo="https://live.fanmingming.com/tv/中天新闻https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8.png" group-title="▶YOUTUBE直播【2】",中天新闻https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8
 undefined
-#EXTINF:-1 tvg-name="中天新闻2" tvg-logo="https://live.fanmingming.com/tv/中天新闻2.png" group-title="🌞油管直播【2】",中天新闻2
+#EXTINF:-1 tvg-name="中天新闻2" tvg-logo="https://live.fanmingming.com/tv/中天新闻2.png" group-title="▶YOUTUBE直播【2】",中天新闻2
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/中天新闻2.m3u8
-#EXTINF:-1 tvg-name="三立+新闻" tvg-logo="https://live.fanmingming.com/tv/三立+新闻.png" group-title="🌞油管直播【2】",三立+新闻
+#EXTINF:-1 tvg-name="三立+新闻" tvg-logo="https://live.fanmingming.com/tv/三立+新闻.png" group-title="▶YOUTUBE直播【2】",三立+新闻
 https://github.moeyy.xyz/https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
-#EXTINF:-1 tvg-name="三立iNews新闻" tvg-logo="https://live.fanmingming.com/tv/三立iNews新闻.png" group-title="🌞油管直播【2】",三立iNews新闻
+#EXTINF:-1 tvg-name="三立iNews新闻" tvg-logo="https://live.fanmingming.com/tv/三立iNews新闻.png" group-title="▶YOUTUBE直播【2】",三立iNews新闻
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/三立iNews新闻.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="🌞油管直播【2】",台视新闻
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="▶YOUTUBE直播【2】",台视新闻
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/台视新闻.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="🌞油管直播【2】",民视新闻
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="▶YOUTUBE直播【2】",民视新闻
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/民视新闻.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="🌞油管直播【2】",中视新闻
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="▶YOUTUBE直播【2】",中视新闻
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/中视新闻.m3u8
-#EXTINF:-1 tvg-name="TVBS News" tvg-logo="https://live.fanmingming.com/tv/TVBS News.png" group-title="🌞油管直播【2】",TVBS News
+#EXTINF:-1 tvg-name="TVBS News" tvg-logo="https://live.fanmingming.com/tv/TVBS News.png" group-title="▶YOUTUBE直播【2】",TVBS News
 https://github.moeyy.xyz/https://github.com/lem85930/utlive/raw/YTlive/TVBS.m3u8
-#EXTINF:-1 tvg-name="TVBS国际+" tvg-logo="https://live.fanmingming.com/tv/TVBS国际+.png" group-title="🌞油管直播【2】",TVBS国际+
+#EXTINF:-1 tvg-name="TVBS国际+" tvg-logo="https://live.fanmingming.com/tv/TVBS国际+.png" group-title="▶YOUTUBE直播【2】",TVBS国际+
 https://github.moeyy.xyz/https://github.com/lem85930/utlive/raw/YTlive/TVBS新闻2.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="🌞油管直播【2】",寰宇新闻
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="▶YOUTUBE直播【2】",寰宇新闻
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/寰宇新闻.m3u8
-#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻.png" group-title="🌞油管直播【2】",东森财经新闻
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻.png" group-title="▶YOUTUBE直播【2】",东森财经新闻
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/东森财经新闻.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="🌞油管直播【2】",凤凰资讯台
+#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="▶YOUTUBE直播【2】",凤凰资讯台
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
-#EXTINF:-1 tvg-name="CCTV中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV中文国际.png" group-title="🌞油管直播【2】",CCTV中文国际
+#EXTINF:-1 tvg-name="CCTV中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV中文国际.png" group-title="▶YOUTUBE直播【2】",CCTV中文国际
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
