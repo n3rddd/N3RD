@@ -8,8 +8,87 @@
 雷蒙影视概念宣传片 PV3,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV3.mkv
 
 
+🇨🇳央视频,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+CCTV1综合,video://https://yangshipin.cn/#/tv/home?pid=600001859
+CCTV2财经,video://https://yangshipin.cn/#/tv/home?pid=600001800
+CCTV3综艺,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV3综艺,video://https://yangshipin.cn/#/tv/home?pid=600001801
+CCTV4中文国际,video://https://yangshipin.cn/#/tv/home?pid=600001814
+CCTV5体育,video://https://yangshipin.cn/#/tv/home?pid=600001818
+CCTV6电影,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV6电影,video://https://yangshipin.cn/#/tv/home?pid=600001802
+CCTV7国防军事,video://https://yangshipin.cn/#/tv/home?pid=600004092
+CCTV8电视剧,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV8电视剧,video://https://yangshipin.cn/#/tv/home?pid=600001803
+CCTV9纪录,video://https://yangshipin.cn/#/tv/home?pid=600004078
+CCTV10科教,video://video://https://yangshipin.cn/#/tv/home?pid=600001805
+CCTV11戏曲,video://https://yangshipin.cn/#/tv/home?pid=600001806
+CCTV12社会与法,video://https://yangshipin.cn/#/tv/home?pid=600001807
+CCTV13新闻,video://https://yangshipin.cn/#/tv/home?pid=600001811
+CCTV14少儿,video://https://yangshipin.cn/#/tv/home?pid=600001809
+CCTV15音乐,video://https://yangshipin.cn/#/tv/home?pid=600001815
+CCTV16奥林匹克,video://https://yangshipin.cn/#/tv/home?pid=600098637
+CCTV17农业农村,video://https://yangshipin.cn/#/tv/home?pid=600001810
+CCTV5+体育赛事,video://https://yangshipin.cn/#/tv/home?pid=600001817
+CCTV4k,video://https://yangshipin.cn/#/tv/home?pid=600002264
+湖南卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002475
+安徽卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002532
+北京卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002309
+重庆卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002531
+东方卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002483
+东南卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002484
+广东卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002485
+贵州卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002490
+河北卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002493
+河南卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002525
+黑龙江卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002498
+湖北卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002508
+江苏卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002521
+辽宁卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002505
+山东卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002513
+四川卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002516
+浙江卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002520
+广西卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002509
+海南卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002506
+深圳卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002481 
+
+
+🥭芒果直播,#genre#
+cookies=__STKUUID=ac2036e8-1fc7-4b93-8dd1-4816fc804079; mba_deviceid=5548c286-5724-2d43-0f5e-4b6ff1fd8bef; MQGUID=1734834816119197696; __MQGUID=1734834816119197696; muteplaycount=3; mba_cxid_expiration=1703520000000; mba_cxid=8kpqp21m4cm; sessionid=1703490058668_8kpqp21m4cm; iwt_uuid=a9dc4cda-e692-486f-8b20-d72f2fabf2a0; mba_sessionid=12c92f61-205d-1a04-c5a3-d2f66d12dc4a; mba_last_action_time=1703490968755; lastActionTime=1703490969822; beta_timer=1703490969925; onLoad=1; residence_time=18834
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+host=live.mgtv.com
+referer=live.mgtv.com
+湖南电影,video://https://live.mgtv.com/?channelId=221
+快乐购,video://https://live.mgtv.com/?channelId=267
+湖南经视,video://https://live.mgtv.com/?channelId=280
+湖南娱乐,video://https://live.mgtv.com/?channelId=344
+湖南电影,video://https://live.mgtv.com/?channelId=221
+湖南都市,video://https://live.mgtv.com/?channelId=346
+湖南电视剧,video://https://live.mgtv.com/?channelId=484
+金鹰纪实,video://https://live.mgtv.com/?channelId=316
+湖南爱晚,video://https://live.mgtv.com/?channelId=261
+金鹰卡通,video://https://live.mgtv.com/?channelId=287
+国际频道,video://https://live.mgtv.com/?channelId=229
+先锋乒羽,video://https://live.mgtv.com/?channelId=329
+茶频道,video://https://live.mgtv.com/?channelId=578
+快乐垂钓,video://https://live.mgtv.com/?channelId=218
+长沙新闻综合,video://https://live.mgtv.com/?channelId=269
+长沙政法,video://https://live.mgtv.com/?channelId=254
+长沙女性,video://https://live.mgtv.com/?channelId=230
+
+
+
+☕好趣网,#genre#
+CCTV1 综合,video://http://tv.haoqu99.com/1/cctv1.html
+CCTV13 新闻,video://http://tv.haoqu99.com/1/cctv13.html
+凤凰卫视中文台,video://http://tv.haoqu99.com/4/fhzw.html
+凤凰卫视资讯台,video://http://tv.haoqu99.com/4/fhzx.html
+东方卫视,video://http://tv.haoqu99.com/2/dongfangweishi.html
+
+
 🇹🇼台湾【1】,#genre#
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 台视,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
 中视,video://https://www.ofiii.com/channel/watch/4gtv-4gtv040
 华视,video://https://www.ofiii.com/channel/watch/4gtv-4gtv041
@@ -421,7 +500,7 @@ MEZZO LIVE HD,video://https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=79
 
 
 🇭🇰港澳,#genre#
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 TVB翡翠台,video://https://www.histar.tv/live/feicui
 TVB J2,video://https://www.histar.tv/live/j2
 TVB星河,video://https://www.histar.tv/live/tvb-xinghe
@@ -456,7 +535,7 @@ HOY资讯台,video://https://www.histar.tv/live/hoy-info
 
 
 ⚽体育,#genre#
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 纬来体育台,video://https://www.histar.tv/live/videoland-sport
 爱尔达体育1,video://https://www.histar.tv/live/elta-sport1
 爱尔达体育2,video://https://www.histar.tv/live/elta-sport2
@@ -477,74 +556,45 @@ ELEVEN体育2台,video://https://www.histar.tv/live/eleven-sport2
 TRACE Sport Stars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
 
 
-🇨🇳央视频,#genre#
+☘四季线上,#genre#
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-CCTV1综合,video://https://yangshipin.cn/#/tv/home?pid=600001859
-CCTV2财经,video://https://yangshipin.cn/#/tv/home?pid=600001800
-CCTV3综艺,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
-CCTV3综艺,video://https://yangshipin.cn/#/tv/home?pid=600001801
-CCTV4中文国际,video://https://yangshipin.cn/#/tv/home?pid=600001814
-CCTV5体育,video://https://yangshipin.cn/#/tv/home?pid=600001818
-CCTV6电影,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV6电影,video://https://yangshipin.cn/#/tv/home?pid=600001802
-CCTV7国防军事,video://https://yangshipin.cn/#/tv/home?pid=600004092
-CCTV8电视剧,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
-CCTV8电视剧,video://https://yangshipin.cn/#/tv/home?pid=600001803
-CCTV9纪录,video://https://yangshipin.cn/#/tv/home?pid=600004078
-CCTV10科教,video://video://https://yangshipin.cn/#/tv/home?pid=600001805
-CCTV11戏曲,video://https://yangshipin.cn/#/tv/home?pid=600001806
-CCTV12社会与法,video://https://yangshipin.cn/#/tv/home?pid=600001807
-CCTV13新闻,video://https://yangshipin.cn/#/tv/home?pid=600001811
-CCTV14少儿,video://https://yangshipin.cn/#/tv/home?pid=600001809
-CCTV15音乐,video://https://yangshipin.cn/#/tv/home?pid=600001815
-CCTV16奥林匹克,video://https://yangshipin.cn/#/tv/home?pid=600098637
-CCTV17农业农村,video://https://yangshipin.cn/#/tv/home?pid=600001810
-CCTV5+体育赛事,video://https://yangshipin.cn/#/tv/home?pid=600001817
-CCTV4k,video://https://yangshipin.cn/#/tv/home?pid=600002264
-湖南卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002475
-安徽卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002532
-北京卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002309
-重庆卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002531
-东方卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002483
-东南卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002484
-广东卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002485
-贵州卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002490
-河北卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002493
-河南卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002525
-黑龙江卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002498
-湖北卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002508
-江苏卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002521
-辽宁卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002505
-山东卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002513
-四川卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002516
-浙江卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002520
-广西卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002509
-海南卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002506
-深圳卫视,video://https://www.yangshipin.cn/#/tv/home?pid=600002481 
-
-
-🥭芒果直播,#genre#
-cookies=__STKUUID=ac2036e8-1fc7-4b93-8dd1-4816fc804079; mba_deviceid=5548c286-5724-2d43-0f5e-4b6ff1fd8bef; MQGUID=1734834816119197696; __MQGUID=1734834816119197696; muteplaycount=3; mba_cxid_expiration=1703520000000; mba_cxid=8kpqp21m4cm; sessionid=1703490058668_8kpqp21m4cm; iwt_uuid=a9dc4cda-e692-486f-8b20-d72f2fabf2a0; mba_sessionid=12c92f61-205d-1a04-c5a3-d2f66d12dc4a; mba_last_action_time=1703490968755; lastActionTime=1703490969822; beta_timer=1703490969925; onLoad=1; residence_time=18834
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-host=live.mgtv.com
-referer=live.mgtv.com
-湖南电影,video://https://live.mgtv.com/?channelId=221
-快乐购,video://https://live.mgtv.com/?channelId=267
-湖南经视,video://https://live.mgtv.com/?channelId=280
-湖南娱乐,video://https://live.mgtv.com/?channelId=344
-湖南电影,video://https://live.mgtv.com/?channelId=221
-湖南都市,video://https://live.mgtv.com/?channelId=346
-湖南电视剧,video://https://live.mgtv.com/?channelId=484
-金鹰纪实,video://https://live.mgtv.com/?channelId=316
-湖南爱晚,video://https://live.mgtv.com/?channelId=261
-金鹰卡通,video://https://live.mgtv.com/?channelId=287
-国际频道,video://https://live.mgtv.com/?channelId=229
-先锋乒羽,video://https://live.mgtv.com/?channelId=329
-茶频道,video://https://live.mgtv.com/?channelId=578
-快乐垂钓,video://https://live.mgtv.com/?channelId=218
-长沙新闻综合,video://https://live.mgtv.com/?channelId=269
-长沙政法,video://https://live.mgtv.com/?channelId=254
-长沙女性,video://https://live.mgtv.com/?channelId=230
+referer=https://www.4gtv.tv
+好消息2台,video://https://www.4gtv.tv/channel/litv-ftv17?set=4&ch=8
+金光布袋戏,video://https://www.4gtv.tv/channel/4gtv-live144?set=4&ch=236
+猪哥亮歌厅秀,video://https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113
+华视新闻,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=4&ch=34
+华视,video://https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6
+民视综艺,video://https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16
+民视第一台,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
+民视旅游,video://https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61
+民视新闻,video://https://www.4gtv.tv/channel/litv-ftv13?set=4&ch=31
+民视影剧,video://https://www.4gtv.tv/channel/litv-ftv09?set=4&ch=24
+民视台湾台,video://https://www.4gtv.tv/channel/4gtv-4gtv001?set=4&ch=2
+东森财经新闻,video://https://www.4gtv.tv/channel/4gtv-live019?set=4&ch=211
+东森新闻,video://https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
+智林体育,video://https://www.4gtv.tv/channel/4gtv-4gtv101?set=4&ch=58
+时尚运动X,video://https://www.4gtv.tv/channel/4gtv-4gtv014?set=4&ch=69
+新唐人亚太台,video://https://www.4gtv.tv/channel/4gtv-live050?set=4&ch=223
+爱尔达生活旅游,video://https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237
+寰宇新闻,video://https://www.4gtv.tv/channel/litv-longturn14?set=4&ch=36
+镜新闻,video://https://www.4gtv.tv/channel/4gtv-4gtv075?set=4&ch=268
+大爱,video://https://www.4gtv.tv/channel/4gtv-live007?set=4&ch=209
+原住民族电视台,video://https://www.4gtv.tv/channel/4gtv-live014?set=4&ch=273
+公视戏剧,video://https://www.4gtv.tv/channel/4gtv-4gtv042?set=4&ch=7
+人间卫视,video://https://www.4gtv.tv/channel/4gtv-live008?set=4&ch=210
+亚洲旅游,video://https://www.4gtv.tv/channel/litv-longturn17?set=4&ch=250
+中视菁采台,video://https://www.4gtv.tv/channel/4gtv-4gtv064?set=4&ch=123
+中视经典,video://https://www.4gtv.tv/channel/4gtv-4gtv080?set=4&ch=124
+中视新闻,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=4&ch=33
+中视,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4
+中天新闻,video://https://www.4gtv.tv/channel/4gtv-4gtv009?set=4&ch=30
+三立综合,video://https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169
+三立iNEWS,video://https://www.4gtv.tv/channel/4gtv-live089?set=4&ch=229
+TVBS综艺台,video://https://www.4gtv.tv/channel/4gtv-live087?set=4&ch=284
+TVBS新闻台,video://https://www.4gtv.tv/channel/4gtv-live072?set=4&ch=129
+TVBS台剧台,video://https://www.4gtv.tv/channel/4gtv-live088?set=4&ch=285
+MOMO亲子台,video://https://www.4gtv.tv/channel/4gtv-live107?set=4&ch=231
+客家电视台,video://https://www.4gtv.tv/channel/4gtv-4gtv043?set=4&ch=107
 
 
 ▶YOUTUBE直播【1】,#genre#
@@ -646,52 +696,3 @@ TVBS国际+,https://github.moeyy.xyz/https://github.com/lem85930/utlive/raw/YTli
 东森财经新闻,https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/东森财经新闻.m3u8
 凤凰资讯台,https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
 CCTV中文国际,https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
-
-
-☕好趣网,#genre#
-CCTV1 综合,video://http://tv.haoqu99.com/1/cctv1.html
-CCTV13 新闻,video://http://tv.haoqu99.com/1/cctv13.html
-凤凰卫视中文台,video://http://tv.haoqu99.com/4/fhzw.html
-凤凰卫视资讯台,video://http://tv.haoqu99.com/4/fhzx.html
-东方卫视,video://http://tv.haoqu99.com/2/dongfangweishi.html
-
-
-四季,#genre#
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-referer=https://www.4gtv.tv
-好消息2台,video://https://www.4gtv.tv/channel/litv-ftv17?set=4&ch=8
-金光布袋戏,video://https://www.4gtv.tv/channel/4gtv-live144?set=4&ch=236
-猪哥亮歌厅秀,video://https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113
-华视新闻,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=4&ch=34
-华视,video://https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6
-民视综艺,video://https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16
-民视第一台,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
-民视旅游,video://https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61
-民视新闻,video://https://www.4gtv.tv/channel/litv-ftv13?set=4&ch=31
-民视影剧,video://https://www.4gtv.tv/channel/litv-ftv09?set=4&ch=24
-民视台湾台,video://https://www.4gtv.tv/channel/4gtv-4gtv001?set=4&ch=2
-东森财经新闻,video://https://www.4gtv.tv/channel/4gtv-live019?set=4&ch=211
-东森新闻,video://https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
-智林体育,video://https://www.4gtv.tv/channel/4gtv-4gtv101?set=4&ch=58
-时尚运动X,video://https://www.4gtv.tv/channel/4gtv-4gtv014?set=4&ch=69
-新唐人亚太台,video://https://www.4gtv.tv/channel/4gtv-live050?set=4&ch=223
-爱尔达生活旅游,video://https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237
-寰宇新闻,video://https://www.4gtv.tv/channel/litv-longturn14?set=4&ch=36
-镜新闻,video://https://www.4gtv.tv/channel/4gtv-4gtv075?set=4&ch=268
-大爱,video://https://www.4gtv.tv/channel/4gtv-live007?set=4&ch=209
-原住民族电视台,video://https://www.4gtv.tv/channel/4gtv-live014?set=4&ch=273
-公视戏剧,video://https://www.4gtv.tv/channel/4gtv-4gtv042?set=4&ch=7
-人间卫视,video://https://www.4gtv.tv/channel/4gtv-live008?set=4&ch=210
-亚洲旅游,video://https://www.4gtv.tv/channel/litv-longturn17?set=4&ch=250
-中视菁采台,video://https://www.4gtv.tv/channel/4gtv-4gtv064?set=4&ch=123
-中视经典,video://https://www.4gtv.tv/channel/4gtv-4gtv080?set=4&ch=124
-中视新闻,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=4&ch=33
-中视,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4
-中天新闻,video://https://www.4gtv.tv/channel/4gtv-4gtv009?set=4&ch=30
-三立综合,video://https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169
-三立iNEWS,video://https://www.4gtv.tv/channel/4gtv-live089?set=4&ch=229
-TVBS综艺台,video://https://www.4gtv.tv/channel/4gtv-live087?set=4&ch=284
-TVBS新闻台,video://https://www.4gtv.tv/channel/4gtv-live072?set=4&ch=129
-TVBS台剧台,video://https://www.4gtv.tv/channel/4gtv-live088?set=4&ch=285
-MOMO亲子台,video://https://www.4gtv.tv/channel/4gtv-live107?set=4&ch=231
-客家电视台,video://https://www.4gtv.tv/channel/4gtv-4gtv043?set=4&ch=107
