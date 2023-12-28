@@ -1242,3 +1242,14 @@ https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/东森财经�
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
 #EXTINF:-1 tvg-name="CCTV中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV中文国际.png" group-title="▶YOUTUBE直播【2】",CCTV中文国际
 https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1 綜合" tvg-logo="https://live.fanmingming.com/tv/CCTV1 綜合.png" group-title="☕好趣網",CCTV1 綜合
+video://http://tv.haoqu99.com/1/cctv1.html
+#EXTINF:-1 tvg-name="CCTV13 新聞" tvg-logo="https://live.fanmingming.com/tv/CCTV13 新聞.png" group-title="☕好趣網",CCTV13 新聞
+video://http://tv.haoqu99.com/1/cctv13.html
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="☕好趣網",鳳凰衛視中文台
+video://http://tv.haoqu99.com/4/fhzw.html
+#EXTINF:-1 tvg-name="鳳凰衛視資訊臺" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊臺.png" group-title="☕好趣網",鳳凰衛視資訊臺
+video://http://tv.haoqu99.com/4/fhzx.html
+#EXTINF:-1 tvg-name="東方衛視" tvg-logo="https://live.fanmingming.com/tv/東方衛視.png" group-title="☕好趣網",東方衛視
+video://http://tv.haoqu99.com/2/dongfangweishi.html
