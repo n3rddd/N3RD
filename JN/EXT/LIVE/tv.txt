@@ -9,6 +9,7 @@
 
 
 🇹🇼台湾【1】,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 台视,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
 中视,video://https://www.ofiii.com/channel/watch/4gtv-4gtv040
 华视,video://https://www.ofiii.com/channel/watch/4gtv-4gtv041
@@ -225,6 +226,7 @@ UBA直播,video://https://today.line.me/tw/v2/article/j7J22GY
 
 
 🇹🇼台湾【2】,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 公视,video://https://yeslivetv.com/channels/pts/
 公视新闻,https://yt-stream.livednow.com/stream/quwqlazU-c8/master.m3u8
 公视新闻(备),https://www.youtube.com/watch?v=quwqlazU-c8
@@ -419,6 +421,7 @@ MEZZO LIVE HD,video://https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=79
 
 
 🇭🇰港澳,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 TVB翡翠台,video://https://www.histar.tv/live/feicui
 TVB J2,video://https://www.histar.tv/live/j2
 TVB星河,video://https://www.histar.tv/live/tvb-xinghe
@@ -453,6 +456,7 @@ HOY资讯台,video://https://www.histar.tv/live/hoy-info
 
 
 ⚽体育,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 纬来体育台,video://https://www.histar.tv/live/videoland-sport
 爱尔达体育1,video://https://www.histar.tv/live/elta-sport1
 爱尔达体育2,video://https://www.histar.tv/live/elta-sport2
