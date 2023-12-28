@@ -1008,8 +1008,8 @@ video://https://www.4gtv.tv/channel/4gtv-live023?set=1&ch=212
 video://https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="🇭🇰港澳",TVB翡翠台
 video://https://www.histar.tv/live/feicui
-#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻.png" group-title="🇭🇰港澳",TVB无线新闻
-video://https://www.histar.tv/live/tvb-news
+#EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png" group-title="🇭🇰港澳",TVB J2
+video://https://www.histar.tv/live/j2
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="🇭🇰港澳",TVB星河
 video://https://www.histar.tv/live/tvb-xinghe
 #EXTINF:-1 tvg-name="TVB韩剧" tvg-logo="https://live.fanmingming.com/tv/TVB韩剧.png" group-title="🇭🇰港澳",TVB韩剧
@@ -1020,20 +1020,54 @@ video://https://www.histar.tv/live/tvb-classic
 video://https://www.histar.tv/live/tvb-yueyu
 #EXTINF:-1 tvg-name="TVB华语剧" tvg-logo="https://live.fanmingming.com/tv/TVB华语剧.png" group-title="🇭🇰港澳",TVB华语剧
 video://https://www.histar.tv/live/tvb-drama
+#EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="🇭🇰港澳",TVB明珠台
+video://https://www.histar.tv/live/pearl
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://live.fanmingming.com/tv/TVB娱乐新闻台.png" group-title="🇭🇰港澳",TVB娱乐新闻台
+video://https://www.histar.tv/live/TVB%20ylxw
+#EXTINF:-1 tvg-name="TVB亚洲剧台" tvg-logo="https://live.fanmingming.com/tv/TVB亚洲剧台.png" group-title="🇭🇰港澳",TVB亚洲剧台
+video://https://www.histar.tv/live/tvb-asia-drama
+#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻.png" group-title="🇭🇰港澳",TVB无线新闻
+video://https://www.histar.tv/live/tvb-news
+#EXTINF:-1 tvg-name="TVB无线财经体育资讯台" tvg-logo="https://live.fanmingming.com/tv/TVB无线财经体育资讯台.png" group-title="🇭🇰港澳",TVB无线财经体育资讯台
+video://https://www.histar.tv/live/tvb-finance
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="🇭🇰港澳",ViuTV
+video://https://www.histar.tv/live/viutv
+#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://live.fanmingming.com/tv/ViuTV6.png" group-title="🇭🇰港澳",ViuTV6
+video://https://www.histar.tv/live/viutv6
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.com/tv/天映经典.png" group-title="🇭🇰港澳",天映经典
+video://https://www.histar.tv/live/cccm
+#EXTINF:-1 tvg-name="天映频道HD" tvg-logo="https://live.fanmingming.com/tv/天映频道HD.png" group-title="🇭🇰港澳",天映频道HD
+video://https://www.histar.tv/live/celestial
+#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://live.fanmingming.com/tv/NOW爆谷台.png" group-title="🇭🇰港澳",NOW爆谷台
+video://https://www.histar.tv/live/baogu-movies
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="🇭🇰港澳",NOW新闻台
+video://https://www.histar.tv/live/now-news
+#EXTINF:-1 tvg-name="NOW直播台" tvg-logo="https://live.fanmingming.com/tv/NOW直播台.png" group-title="🇭🇰港澳",NOW直播台
+video://https://www.histar.tv/live/now-direct
+#EXTINF:-1 tvg-name="NOW财经台" tvg-logo="https://live.fanmingming.com/tv/NOW财经台.png" group-title="🇭🇰港澳",NOW财经台
+video://https://www.histar.tv/live/now-finance
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="🇭🇰港澳",RTHK31
 video://https://www.histar.tv/live/rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="🇭🇰港澳",RTHK32
 video://https://www.histar.tv/live/rthk32
+#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://live.fanmingming.com/tv/HOYTV.png" group-title="🇭🇰港澳",HOYTV
+video://https://www.histar.tv/live/hoytv
 #EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://live.fanmingming.com/tv/HOY资讯台.png" group-title="🇭🇰港澳",HOY资讯台
 video://https://www.histar.tv/live/hoy-info
-#EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="🇭🇰港澳",J2
-video://https://www.histar.tv/live/j2
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="🇭🇰港澳",凤凰卫视中文台
 video://https://www.histar.tv/live/phtv-cn
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="🇭🇰港澳",凤凰卫视资讯台
 video://https://www.histar.tv/live/phtv-info
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="🇭🇰港澳",凤凰卫视香港台
+video://https://www.histar.tv/live/phtv-hk
+#EXTINF:-1 tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="🇭🇰港澳",香港国际财经台
+video://https://www.histar.tv/live/hkibc
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="🇭🇰港澳",澳门莲花
 video://https://www.histar.tv/live/lotustv
+#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="https://live.fanmingming.com/tv/澳门资讯.png" group-title="🇭🇰港澳",澳门资讯
+video://https://www.histar.tv/live/amzx
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="🇭🇰港澳",澳视澳门
+video://https://www.histar.tv/live/asam
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://live.fanmingming.com/tv/纬来体育台.png" group-title="⚽体育",纬来体育台
 video://https://www.histar.tv/live/videoland-sport
 #EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育1.png" group-title="⚽体育",爱尔达体育1
