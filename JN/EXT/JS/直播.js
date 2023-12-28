@@ -1,7 +1,6 @@
 [
 {"name":"雷蒙影视概念宣传片","url":"https://lem.clem7.repl.co/N3RD/JN/CRIMETVPV.txt"},
-{"name":"雷蒙Live1","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.txt","circuit":1},
-{"name":"雷蒙Live2","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u","circuit":1},
+{"name":"雷蒙Live","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u","group":1},
 {"name":"FTYLive","url":"https://xhdwc.tk/tvlive.txt","circuit":1},
 {"name":"TWKJLive","url":"http://tvkj.top/tvlive.txt"},
 {"name":"JVSSLive","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8","group":1},
