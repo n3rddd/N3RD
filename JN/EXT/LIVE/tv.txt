@@ -625,3 +625,11 @@ TVBS国际+,https://github.moeyy.xyz/https://github.com/lem85930/utlive/raw/YTli
 东森财经新闻,https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/东森财经新闻.m3u8
 凤凰资讯台,https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
 CCTV中文国际,https://github.moeyy.xyz/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
+
+
+☕好趣網,#genre#
+CCTV1 綜合,video://http://tv.haoqu99.com/1/cctv1.html
+CCTV13 新聞,video://http://tv.haoqu99.com/1/cctv13.html
+鳳凰衛視中文台,video://http://tv.haoqu99.com/4/fhzw.html
+鳳凰衛視資訊臺,video://http://tv.haoqu99.com/4/fhzx.html
+東方衛視,video://http://tv.haoqu99.com/2/dongfangweishi.html
