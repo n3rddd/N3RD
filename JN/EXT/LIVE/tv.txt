@@ -87,6 +87,19 @@ CCTV13 新闻,video://http://tv.haoqu99.com/1/cctv13.html
 东方卫视,video://http://tv.haoqu99.com/2/dongfangweishi.html
 
 
+📢广播迷,#genre#
+凤凰卫视中文台,video://http://www.guangbomi.com/tv/hk/ifeng1.html
+凤凰卫视资讯台,video://http://www.guangbomi.com/tv/hk/fhzx.html
+澳门澳亚卫视,video://http://www.guangbomi.com/tv/hk/imastv.html
+澳门莲花卫视,video://http://www.guangbomi.com/tv/hk/lotustv.html
+RTHK31,video://http://www.guangbomi.com/tv/hk/rhk31.html
+RTHK32,video://http://www.guangbomi.com/tv/hk/rhk32.html
+RTHK33,video://http://www.guangbomi.com/tv/hk/rthk33.html
+RTHK34,video://http://www.guangbomi.com/tv/hk/rthk34.html
+RTHK35,video://http://www.guangbomi.com/tv/hk/rthk35.html
+耀才财经台,video://http://www.guangbomi.com/tv/hk/bsgroup.html
+
+
 🇹🇼台湾【1】,#genre#
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 台视,video://https://www.ofiii.com/channel/watch/4gtv-4gtv066
