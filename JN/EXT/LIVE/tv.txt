@@ -88,6 +88,7 @@ CCTV13 新闻,video://http://tv.haoqu99.com/1/cctv13.html
 
 
 📢广播迷,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 凤凰卫视中文台,video://http://www.guangbomi.com/tv/hk/ifeng1.html
 凤凰卫视资讯台,video://http://www.guangbomi.com/tv/hk/fhzx.html
 澳门澳亚卫视,video://http://www.guangbomi.com/tv/hk/imastv.html
