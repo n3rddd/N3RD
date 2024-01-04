@@ -59,6 +59,7 @@
   
 // ⇩⇩ 阿里夸克迅雷UC网盘 ⇩⇩ 
 {"key":"csp_Config","name":"雷蒙影视 | 💿网盘及弹幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
+{"key":"csp_PanSou","name":"雷蒙影视 | 💿盘搜(SP)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_Pan99","name":"雷蒙影视 | 💿盘99(SP)","type":3,"api":"csp_Pan99","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://pan99.xyz$$$null$$$1"},
 {"key":"csp_FourKHDR","name":"雷蒙影视 | 💿4KHDR(SP)","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/4k.json$$$1"},
 {"key":"csp_XiaoZhang","name":"雷蒙影视 | 💿校长影视(SP)","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
@@ -96,7 +97,6 @@
 {"key":"csp_Wogg_运输车","name":"雷蒙影视 | 👽运输车(SP)","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://www.weixine.net/$$$null$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_Hdhive","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$1"},
 {"key":"csp_Gitcafe","name":"雷蒙影视 | 😺小纸条(阿里APP扫码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
-{"key":"csp_PanSou","name":"雷蒙影视 | 🐱盘搜(阿里APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_Zhaozy","name":"雷蒙影视 | 😺找资源(阿里APP扫码)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$fanfan$$$qqq111"},
 {"key":"csp_UpYun","name":"雷蒙影视 | 😺云搜(阿里APP扫码)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_Dovx","name":"雷蒙影视 | 😺七夜(阿里APP扫码)","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0},
