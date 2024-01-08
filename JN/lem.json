@@ -369,6 +369,7 @@
 // ⇩⇩ 道长DRPY-JS规则 ⇩⇩ 
 {"key":"drjs_AList","name":"雷蒙影视 | 👺AList(DRPY)","type":3,"api":"./EXT/LIB/alist.min.js","searchable":0,"ext":"./N3RD/T/li.json"},
 {"key":"drjs_MV库","name":"雷蒙影视 | 👺MV库(DRPY)","type":3,"api":"./EXT/JS/lf_live_min.js","ext":"./EXT/JS/lf_live_min3.txt"},
+{"key":"drjs_996影视","name":"雷蒙影视 | 👺996影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/996影视.js"},
 {"key":"drjs_酷云77","name":"雷蒙影视 | 👺酷云77(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/酷云77.js"},
 {"key":"drjs_厂长资源","name":"雷蒙影视 | 👺厂长资源(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/厂长资源.js"},
 {"key":"drjs_ddys","name":"雷蒙影视 | 👺低端影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ddys.js","playerType":2},
@@ -395,9 +396,8 @@
 {"key":"drjs_兄弟影视","name":"雷蒙影视 | 👺兄弟影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/兄弟影视.js"},
 {"key":"drjs_69美剧","name":"雷蒙影视 | 👺69美剧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/69美剧.js"},
 {"key":"drjs_69美剧[V2]","name":"雷蒙影视 | 👺69美剧[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/69美剧[V2].js"},
-{"key":"drjs_996影视","name":"雷蒙影视 | 👺996影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/996影视.js"},
 {"key":"drjs_88看球","name":"雷蒙影视 | 👺88看球(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/88看球.js"},
- {"key":"drjs_8号影院","name":"雷蒙影视 | 👺8号影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/8号影院.js"},
+{"key":"drjs_8号影院","name":"雷蒙影视 | 👺8号影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/8号影院.js"},
 {"key":"drjs_徕米TV","name":"雷蒙影视 | 👺酷徕米TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/徕米TV.js"},
 {"key":"drjs_独播库[飞]","name":"雷蒙影视 | 👺独播库[飞](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/独播库[飞].js"},
 {"key":"drjs_宝片[V2]","name":"雷蒙影视 | 👺宝片[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/宝片[V2].js"},
