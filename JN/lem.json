@@ -365,10 +365,6 @@
 {"key":"lfjs_爱看机器人","name":"雷蒙影视 | 👺爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot5_2_min.js"},
 {"key":"lfjs_磁力搜索","name":"雷蒙影视 | 🧲磁力搜索(LFJS)","type":3,"api":"./EXT/JS/lf_p2p2_min.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"ext":""},
 
- 
-{"key":"hipy_t3_base","name":"base(hipy_t3)","type":3,"api":"./dr_py/txt/hipy/base_spider.py","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/txt/hipy/base_spider.json"},
-{"key":"hipy_t3_cctv","name":"cctv(hipy_t3)","type":3,"api":"./dr_py/txt/hipy/cctv_spider.py","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/txt/hipy/cctv_spider.json"},
-
 
 // ⇩⇩ 道长DRPY-JS规则 ⇩⇩ 
 {"key":"drjs_AList","name":"雷蒙影视 | 👺AList(DRPY)","type":3,"api":"./EXT/LIB/alist.min.js","searchable":0,"ext":"./N3RD/T/li.json"},
@@ -641,7 +637,7 @@
 {"key":"drjs_banan","name":"雷蒙影视 | 👺香蕉(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/banan.js"},
 {"key":"drjs_黄瓜TV","name":"雷蒙影视 | 👺黄瓜TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/黄瓜TV.js"},
 {"key":"drjs_苹果爱微","name":"雷蒙影视 | 👺苹果爱微(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/苹果爱微.js"},
-
+ 
 //{"key":"drjs_532影院[V2]","name":"雷蒙影视 | 👺532影院[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/532影院[V2].js"},
 //{"key":"drjs_EMO蓝光[V2]","name":"雷蒙影视 | 👺EMO蓝光[V2](DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/EMO蓝光[V2].js"},
 //{"key":"drjs_Fun4K","name":"雷蒙影视 | 👺Fun4K(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/Fun4K.js"},
@@ -797,6 +793,12 @@
 //{"key":"drjs_风车动漫","name":"雷蒙影视 | 👺风车动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/风车动漫.js"},
 //{"key":"drjs_JRS看直播","name":"雷蒙影视 | 👺JRS看直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/JRS看直播.js"},
 //{"key":"drjs_JRS看球网","name":"雷蒙影视 | 👺JRS看球网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/JRS看球网.js"},
+
+/*
+//⇩⇩ 道长HIPY测试 ⇩⇩ 
+{"key":"hipy_t3_CCTV","name":"雷蒙影视 | 👺CCTV(HIPY_P3)","type":3,"api":"./dr_py/txt/hipy/cctv_spider.py","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/txt/hipy/cctv_spider.json"},
+{"key":"hipy_t3_测试","name":"雷蒙影视 | 👺测试(HIPY_P3)","type":3,"api":"./dr_py/txt/hipy/base_spider.py","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/txt/hipy/base_spider.json"},
+*/
 
   
 // ⇩⇩ XBPQ规则 ⇩⇩ 
