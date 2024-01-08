@@ -364,8 +364,12 @@
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 👺豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search3_min.js"},
 {"key":"lfjs_爱看机器人","name":"雷蒙影视 | 👺爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot5_2_min.js"},
 {"key":"lfjs_磁力搜索","name":"雷蒙影视 | 🧲磁力搜索(LFJS)","type":3,"api":"./EXT/JS/lf_p2p2_min.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"ext":""},
-  
-  
+
+ 
+{"key":"hipy_t3_base","name":"base(hipy_t3)","type":3,"api":"./dr_py/txt/hipy/base_spider.py","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/txt/hipy/base_spider.json"},
+{"key":"hipy_t3_cctv","name":"cctv(hipy_t3)","type":3,"api":"./dr_py/txt/hipy/cctv_spider.py","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/txt/hipy/cctv_spider.json"},
+
+
 // ⇩⇩ 道长DRPY-JS规则 ⇩⇩ 
 {"key":"drjs_AList","name":"雷蒙影视 | 👺AList(DRPY)","type":3,"api":"./EXT/LIB/alist.min.js","searchable":0,"ext":"./N3RD/T/li.json"},
 {"key":"drjs_MV库","name":"雷蒙影视 | 👺MV库(DRPY)","type":3,"api":"./EXT/JS/lf_live_min.js","ext":"./EXT/JS/lf_live_min3.txt"},
