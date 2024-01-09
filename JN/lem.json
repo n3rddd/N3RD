@@ -176,8 +176,6 @@
 {"key":"csp_CandyMuj_sstv","name":"雷蒙影视 | 🚗速搜影院(SP)","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_hjtv","name":"雷蒙影视 | 🍺韩剧TV(SP)","type":3,"api":"csp_CandyMuj_hjtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_dmxq","name":"雷蒙影视 | 🚅极速影视(SP)","type":3,"api":"csp_CandyMuj_dmxq","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_jxyc","name":"雷蒙影视 | 💖京项影城(SP)","type":3,"api":"csp_CandyMuj_jxyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xc1080.xn--654a.cc"},
-{"key":"csp_CandyMuj_jxyc2","name":"雷蒙影视 | 💖京项影城2(SP)","type":3,"api":"csp_CandyMuj_jxyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcom.xn--654a.cc"},
 {"key":"csp_CandyMuj_haokongbu","name":"雷蒙影视 | 🧛‍♂️好恐怖(SP)","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_taoju","name":"雷蒙影视 | 🌊淘剧影院(SP)","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_lm5","name":"雷蒙影视 | 🌃星辰影院(SP)","type":3,"api":"csp_CandyMuj_lm5","searchable":1,"quickSearch":1,"filterable":1},
