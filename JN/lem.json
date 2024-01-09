@@ -204,9 +204,6 @@
 {"key":"csp_LvDou_影探_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️影探(MULTI)","type":3,"api":"csp_LvDou","ext":{"server":"http://ytvip.lyyytv.cn","version":"2.2.231017"}},
 {"key":"csp_LvDou_追忆_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️追忆(MULTI)","type":3,"api":"csp_LvDou","ext":{"server":"http://tvbox.aleoe.cc","version":"3.5.231120"}},
 {"key":"csp_YingSC_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️玩偶表哥(MULTI)","type":3,"api":"csp_YingSC","changeable":0,"ext":{"site":"https://www.weixine.net/api.php/app/","ali":"./N3RD/T/t.txt"}},
-{"key":"csp_PanSearchQuark_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️夸克盘搜(MULTI)","type":3,"api":"csp_PanSearchQuark","changeable":0,"hide":1},
-{"key":"csp_PanSouQuark_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️夸克猫狸搜(MULTI)","type":3,"api":"csp_PanSouQuark","changeable":0,"hide":1},
-{"key":"csp_XiaoZhiTiao_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️小纸条(MULTI)","type":3,"api":"csp_XiaoZhiTiao","changeable":0,"ext":"./N3RD/T/t.txt","hide":1},
  
 {"key":"csp_Web996_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕996影视(MULTI)","type":3,"api":"csp_Web996","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cs1369.com#公众号:影视资源站"},
 {"key":"csp_AListBox_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕小雅AList(MULTI)","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"https://d.kstore.space/download/6474/tvbox/xiaoya.json#公众号:影视资源站","style":{"type":"list"}},
