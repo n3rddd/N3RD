@@ -173,7 +173,6 @@
  
 // ⇩⇩ CM SPIDER ⇩⇩ 
 {"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_sstv","name":"雷蒙影视 | 🚗速搜影院(SP)","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_hjtv","name":"雷蒙影视 | 🍺韩剧TV(SP)","type":3,"api":"csp_CandyMuj_hjtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_dmxq","name":"雷蒙影视 | 🚅极速影视(SP)","type":3,"api":"csp_CandyMuj_dmxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_haokongbu","name":"雷蒙影视 | 🧛‍♂️好恐怖(SP)","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1},
