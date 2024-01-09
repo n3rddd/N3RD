@@ -624,6 +624,7 @@ MOMO亲子台,video://https://www.4gtv.tv/channel/4gtv-live107?set=4&ch=231
 
 
 🇨🇳央视4K专区,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 CCTV4K1,https://epg.pw/stream/1609644cdf59d8b7998267b7593c6c4d325b2fd3718d345e4d7405f2c68d8e80.m3u8
 CCTV4K2,https://epg.pw/stream/cdb7dc4b9bb55b9a6313ce183fe52ded97374c2862e39eba121614d6f7207c13.m3u8
 CCTV4K3,https://epg.pw/stream/c97f7bc60ee4f85f4d4a922e28391a840c8ba0c6524a66bc72a1606d5370565b.m3u8
@@ -631,11 +632,13 @@ CCTV4K4,https://epg.pw/stream/7a75b421ef8187ba65e03db4b8a66a58e515ae76824a6c7eec
 
 
 📞LINE新闻,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 东森新闻,video://https://today.line.me/tw/v2/article/grrvVZ
 TVBS新闻,video://https://today.line.me/tw/v2/article/jggMBa
 
 
 ⭐星视界,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 东森新闻,video://https://www.histar.tv/live/ebc-news
 TVBS新闻,video://https://www.histar.tv/live/tvbs-news
 纬来日本,video://https://www.histar.tv/live/videoland-japan
@@ -657,6 +660,7 @@ Love Nature,video://https://www.histar.tv/live/love-nature
 
 
 🌝EVERYDAY港湾直播,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 东森新闻,video://http://everydaytv.top/play-3-43-0.html
 TVBS新闻,video://http://everydaytv.top/play-3-167-0.html
 纬来日本,video://http://everydaytv.top/play-3-175-0.html
@@ -677,6 +681,7 @@ CN卡通频道,video://http://everydaytv.top/play-3-108-0.html
 年代新闻,video://http://everydaytv.top/play-3-139-0.html
 
 🇨🇳NODE央视,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 x2财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 3综艺,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
@@ -698,6 +703,7 @@ x17农业农村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 
 🇨🇳陝西央视,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -725,6 +731,7 @@ x17农业农村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 
 🇨🇳陝西卫视,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
@@ -755,6 +762,7 @@ x17农业农村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 
 🇨🇳陝西收费,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
 女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
 文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
@@ -770,18 +778,21 @@ x17农业农村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 
 🇨🇳陝西纪实,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 北京纪实科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 上海纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 湖南金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 
 
 🇨🇳陝西电影,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
 
 🇨🇳黑龙江移动,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
