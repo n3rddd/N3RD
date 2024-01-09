@@ -1257,6 +1257,43 @@ referer=https://www.4gtv.tv
 #EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://live.fanmingming.com/tv/客家电视台.png" group-title="☘四季线上",客家电视台
 video://https://www.4gtv.tv/channel/4gtv-4gtv043?set=4&ch=107
 
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="⭐星视界",东森新闻
+video://https://www.histar.tv/live/ebc-news
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="⭐星视界",TVBS新闻
+video://https://www.histar.tv/live/tvbs-news
+#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://live.fanmingming.com/tv/纬来日本.png" group-title="⭐星视界",纬来日本
+video://https://www.histar.tv/live/videoland-japan
+#EXTINF:-1 tvg-name="东森幼幼" tvg-logo="https://live.fanmingming.com/tv/东森幼幼.png" group-title="⭐星视界",东森幼幼
+video://https://www.histar.tv/live/ebc-yoyo
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="⭐星视界",动物星球
+video://https://www.histar.tv/live/animal-planet
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/Love Nature.png" group-title="⭐星视界",Love Nature
+video://https://www.histar.tv/live/love-nature
+#EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游.png" group-title="⭐星视界",亚洲旅游
+video://https://www.histar.tv/live/asia-travel
+#EXTINF:-1 tvg-name="爱尔达旅游" tvg-logo="https://live.fanmingming.com/tv/爱尔达旅游.png" group-title="⭐星视界",爱尔达旅游
+video://https://www.histar.tv/live/elta-lifetravel
+#EXTINF:-1 tvg-name="壹新闻" tvg-logo="https://live.fanmingming.com/tv/壹新闻.png" group-title="⭐星视界",壹新闻
+video://https://www.histar.tv/live/nexttv
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.com/tv/年代新闻.png" group-title="⭐星视界",年代新闻
+video://https://www.histar.tv/live/era-news
+#EXTINF:-1 tvg-name="9纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="⭐星视界",9纪录
+video://https://www.histar.tv/live/cctv9
+#EXTINF:-1 tvg-name="10科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="⭐星视界",10科教
+video://https://www.histar.tv/live/cctv10
+#EXTINF:-1 tvg-name="13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="⭐星视界",13新闻
+video://https://www.histar.tv/live/cctv13
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="⭐星视界",江苏卫视
+video://https://www.histar.tv/live/jiangsu
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="⭐星视界",浙江卫视
+video://https://www.histar.tv/live/zhejiang
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="⭐星视界",湖南卫视
+video://https://www.histar.tv/live/hunan
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="⭐星视界",北京卫视
+video://https://www.histar.tv/live/beijing
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="⭐星视界",东方卫视
+video://https://www.histar.tv/live/dongfang
+
 #EXTINF:-1 tvg-name="雷蒙影视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON1.png" group-title="▶YOUTUBE直播【1】",雷蒙影视
 https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="▶YOUTUBE直播【1】",中天新闻
