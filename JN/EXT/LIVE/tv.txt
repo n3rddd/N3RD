@@ -635,7 +635,7 @@ CCTV4K4,https://epg.pw/stream/7a75b421ef8187ba65e03db4b8a66a58e515ae76824a6c7eec
 TVBS新闻,video://https://today.line.me/tw/v2/article/jggMBa
 
 
-⭐星视界嗅探,#genre#
+⭐星视界,#genre#
 东森新闻,video://https://www.histar.tv/live/ebc-news
 TVBS新闻,video://https://www.histar.tv/live/tvbs-news
 纬来日本,video://https://www.histar.tv/live/videoland-japan
