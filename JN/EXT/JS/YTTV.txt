@@ -1,9 +1,9 @@
 👦雷蒙影視概念宣傳片,#genre#
-雷蒙影視 PV1,https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
+雷蒙影視 PV1,https://github.moeyy.xyzhttps://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
 雷蒙影視 PV1,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV1.mkv
-雷蒙影視 PV2,https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+雷蒙影視 PV2,https://github.moeyy.xyzhttps://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 雷蒙影視 PV2,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV2.mkv
-雷蒙影視 PV3,https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV3.mkv
+雷蒙影視 PV3,https://github.moeyy.xyzhttps://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV3.mkv
 雷蒙影視 PV3,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV3.mkv
 
 
@@ -35,7 +35,7 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 
 
-🇺🇳国际新闻,#genre#
+🌍国际新闻,#genre#
 ABC News,https://www.youtube.com/watch?v=u8gyCHfITHw
 ABC News(Australia),https://www.youtube.com/watch?v=vOTiJkg1voo
 NBC News NOW,https://www.youtube.com/watch?v=PoX4NUhhIJc
@@ -87,3 +87,24 @@ parse=1
 凤凰卫视资讯台,https://www.histar.tv/live/phtv-info
 parse=1
 凤凰卫视中文台,https://www.histar.tv/live/phtv-cn
+
+
+☕好趣網/parse,#genre#
+CCTV1 綜合,http://tv.haoqu99.com/1/cctv1.html
+CCTV13 新聞,http://tv.haoqu99.com/1/cctv13.html
+鳳凰衛視中文台,http://tv.haoqu99.com/4/fhzw.html
+鳳凰衛視資訊臺,http://tv.haoqu99.com/4/fhzx.html
+東方衛視,http://tv.haoqu99.com/2/dongfangweishi.html
+
+
+📢广播迷/parse,#genre#
+凤凰卫视中文台,http://www.guangbomi.com/tv/hk/ifeng1.html
+凤凰卫视资讯台,http://www.guangbomi.com/tv/hk/fhzx.html
+澳门澳亚卫视,http://www.guangbomi.com/tv/hk/imastv.html
+澳门莲花卫视,http://www.guangbomi.com/tv/hk/lotustv.html
+RTHK31,http://www.guangbomi.com/tv/hk/rhk31.html
+RTHK32,http://www.guangbomi.com/tv/hk/rhk32.html
+RTHK33,http://www.guangbomi.com/tv/hk/rthk33.html
+RTHK34,http://www.guangbomi.com/tv/hk/rthk34.html
+RTHK35,http://www.guangbomi.com/tv/hk/rthk35.html
+耀才财经台,http://www.guangbomi.com/tv/hk/bsgroup.html
