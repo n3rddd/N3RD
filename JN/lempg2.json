@@ -74,7 +74,9 @@
 {"key":"csp_YunSo","name":"雷蒙影视 | 💿小云搜索(SP)","type":3,"api":"csp_YunSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_Panta","name":"雷蒙影视 | 💿盘Ta(SP)","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://www.91panta.cn/$$$null$$$1"},
 {"key":"csp_DaPanSo","name":"雷蒙影视 | 💿大盘搜(SP)","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://dapanso.com$$$null"},
-{"key":"csp_Qianfan","name":"雷蒙影视 | 💿千帆(SP)","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://pan.qianfan.app$$$null$$$QianFanID=2uv89payop7itb47vk52od1oc0vsbj57; _ga_6Z94VT54DV=GS1.1.1704346197.2.1.1704346441.0.0.0"},
+{"key":"csp_HunHePan","name":"雷蒙影视 | 💿混合盘(SP)","type":3,"api":"csp_HunHePan","searchable":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
+{"key":"csp_MiaoSou","name":"雷蒙影视 | 💿秒搜(SP)","type":3,"api":"csp_MiaoSou","searchable":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
+{"key":"csp_Qianfan","name":"雷蒙影视 | 💿千帆(SP)","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://pan.qianfan.app$$$null$$$./N3RD/T/qf.txt"},
 {"key":"csp_Libvio","name":"雷蒙影视 | 💿LIBVIO(SP)","type":3,"api":"csp_Libvio","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://www.libvio.pro$$$null"},
 {"key":"csp_Xb6v","name":"雷蒙影视 | 💿新6V(SP)","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$http://www.xb6v.com$$$null$$$1"},
 {"key":"csp_PikPakShare","name":"雷蒙影视 | 💿PikPak分享(SP)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/p.json$$$./N3RD/T/p.json.txt.gz"},
@@ -105,7 +107,7 @@
 {"key":"csp_UpYun","name":"雷蒙影视 | 😺云搜(阿里APP扫码)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_Dovx","name":"雷蒙影视 | 😺七夜(阿里APP扫码)","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 😺PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
-{"key":"csp_YiSo","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"},
+{"key":"csp_YiSo","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/yiso.txt"},
 
 
 // ⇩⇩ OK包 ⇩⇩ 
