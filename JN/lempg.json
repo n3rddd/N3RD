@@ -76,6 +76,7 @@
 {"key":"csp_DaPanSo","name":"雷蒙影视 | 💿大盘搜(SP)","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$https://dapanso.com$$$null"},
 {"key":"csp_HunHePan","name":"雷蒙影视 | 💿混合盘(SP)","type":3,"api":"csp_HunHePan","searchable":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt"},
 {"key":"csp_MiaoSou","name":"雷蒙影视 | 💿秒搜(SP)","type":3,"api":"csp_MiaoSou","searchable":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt"},
+{"key":"csp_PikaSo","name":"雷蒙影视 | 💿皮卡搜(SP)","type":3,"api":"csp_PikaSo","searchable":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://www.pikaso.top/"},
 {"key":"csp_Qianfan","name":"雷蒙影视 | 💿千帆(SP)","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$https://pan.qianfan.app$$$null$$$./N3RD/T/qf.txt"},
 {"key":"csp_Libvio","name":"雷蒙影视 | 💿LIBVIO(SP)","type":3,"api":"csp_Libvio","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$https://www.libvio.pro$$$null"},
 {"key":"csp_Xb6v","name":"雷蒙影视 | 💿新6V(SP)","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$http://www.xb6v.com$$$null$$$1"},
