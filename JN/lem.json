@@ -200,11 +200,7 @@
 //{"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/t.txt"},
 
 
-// ⇩⇩ MULTIJAR ⇩⇩  
-{"key":"csp_LvDou_影探_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️影探(MULTI)","type":3,"api":"csp_LvDou","ext":{"server":"http://ytvip.lyyytv.cn","version":"2.2.231017"}},
-{"key":"csp_LvDou_追忆_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️追忆(MULTI)","type":3,"api":"csp_LvDou","ext":{"server":"http://tvbox.aleoe.cc","version":"3.5.231120"}},
-{"key":"csp_YingSC_MULTIJAR","jar":"./N3RD/J/hfq.jar","name":"雷蒙影视 | ♨️玩偶表哥(MULTI)","type":3,"api":"csp_YingSC","changeable":0,"ext":{"site":"https://www.weixine.net/api.php/app/","ali":"./N3RD/T/t.txt"}},
- 
+// ⇩⇩ MULTIJAR ⇩⇩   
 {"key":"csp_Web996_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕996影视(MULTI)","type":3,"api":"csp_Web996","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cs1369.com#公众号:影视资源站"},
 {"key":"csp_AListBox_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕小雅AList(MULTI)","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"https://d.kstore.space/download/6474/tvbox/xiaoya.json#公众号:影视资源站","style":{"type":"list"}},
 {"key":"csp_Xifan_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕稀饭动漫(MULTI)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1,"ext":"公众号:影视资源站"},
@@ -239,7 +235,6 @@
 {"key":"xml_奇虎","name":"雷蒙影视 | ️🚀奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_淘片","name":"雷蒙影视 | ️🚀淘片","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_爱坤","name":"雷蒙影视 | ️🚀爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"xml_豪华","name":"雷蒙影视 | ️🚀豪华","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
 {"key":"xml_万达","name":"雷蒙影视 | ️🚀万达","type":1,"api":"http://www.duse.pro//api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影直播-放映厅","电视直播-放映厅","体育直播-放映厅"]},
 
 
