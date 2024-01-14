@@ -1,7 +1,7 @@
 import { Crypto, load, _ } from './lib/cat.js';
 
 let key = 'ikanbot';
-let url = 'https://www.aikanbot.com';
+let url = 'https://www.ikanbot.com';
 let siteKey = '';
 let siteType = 0;
 
@@ -117,7 +117,7 @@ async function detail(id) {
 		vod_actor: $(detail).find('h3:nth-child(5)').text(),
 	};
     const token = getToken($);
-	const res = await req(url + '/api/getResN?videoId=' + id.substring(id.lastIndexOf('/') + 1) + '&mtype=2&token=' + token, {
+	const res = await req(url + '/api/getResN?videoId=' + id.substring(id.lastIndexOf('/') + 1) + '&mtype=1&token=' + token, {
 		headers: {
 			Referer: 'play',
 			'User-Agent': UA,

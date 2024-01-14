@@ -1,6 +1,6 @@
-import { _ } from 'assets://js/lib/cat.js';
+import { _ } from './lib/cat.js';
 
-let key = 'bookkan';
+let key = 'bookan';
 let url = 'https://api.bookan.com.cn';
 let siteKey = '';
 let siteType = 0;
@@ -65,7 +65,7 @@ async function detail(id) {
 
     let book = {
         book_id: id,
-        book_type: '',
+        type_name: '',
         book_year: '',
         book_area: '',
         book_remarks: '',
