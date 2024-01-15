@@ -294,8 +294,10 @@
 {"key":"drjs_dygang_PG","name":"雷蒙影视 | 🧲电影港(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dygang.js"},
 {"key":"drjs_mp4us_PG","name":"雷蒙影视 | 🧲MP4US(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/mp4us.js"},
 {"key":"drjs_kuba_PG","name":"雷蒙影视 | 🧲酷吧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kuba.js"},
+{"key":"drjs_jiyingw_PG","name":"雷蒙影视 | 🧲极影网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"./EXT/JS/jiyingw.js"},
+{"key":"drjs_4khdr_PG","name":"雷蒙影视 | 🧲4KHDR(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"./EXT/JS/4khdr.js"},
 
-
+ 
 // ⇩⇩ 阿里夸克网盘 ⇩⇩ 
 {"key":"drjs_meijumi_PG","name":"雷蒙影视 | 📀美剧迷(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/meijumi.js"},
 {"key":"drjs_aipanso_PG","name":"雷蒙影视 | 📀爱盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/aipanso.js"},
