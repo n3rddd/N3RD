@@ -16,7 +16,7 @@ var rule = {
 	filterable:1,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':'https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/jiyingw.txt',
+         	'Cookie':'https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/jiyingw.txt',
 		'Accept':'*/*',
 		'Referer': 'https://www.jiyingw.net/'
 	},
