@@ -1,20 +1,13 @@
 {
 
-"spider":"./N3RD/J/lem0109.jar;md5;2078D59927E08A7CE818D76B9497ED84",
- 
+"spider":"./N3RD/J/lem0120.jar;md5;F32F6E046D4ED6FD388FFB913AD45B96",
+
+//"spider":"./N3RD/J/lem0109.jar;md5;2078D59927E08A7CE818D76B9497ED84",
 //"spider":"./N3RD/J/lem0102.jar;md5;AE5CA60C634F2825A8081EA98E17F135",
 //"spider":"./N3RD/J/lem1225.jar;md5;F14E53E0E0E7A3D0FE8F4D0835BF5B57",
 //"spider":"./N3RD/J/lem1217.jar;md5;938496D411344D6CABF096759741533C",
 //"spider":"./N3RD/J/lem1211.jar;md5;32423EE6C5039465A0CA2FA3ECFCB864",fongmi阿里多线阿里
 //"spider":"./N3RD/J/lem1203.jar;md5;F5769AD7BD813268065E60B6C49F77F6",
-//"spider":"./N3RD/J/lem1128.jar;md5;DBD039CDD37D65DA41242AAEF84663A1",
-//"spider":"./N3RD/J/lem1127.jar;md5;A0F7F91C9EAF3EC69A107B5F7C54A430",
-//"spider":"./N3RD/J/lem1120.jar;md5;5CE4AF6003C6F635DE5EA11AA490FA8B",
-//"spider":"./N3RD/J/lem1110.jar;md5;2D3138DD879C12E9751D92AA46F61E66",
-//"spider":"./N3RD/J/lem1107.jar;md5;A136C2B8A5ABBBF320BA00B92DCC738B",
-//"spider":"./N3RD/J/lem1105.jar;md5;C450CD4C638D859F8F01DEE0E16899BB",
-//"spider":"./N3RD/J/lem1102.jar;md5;BFA0402F076B9322D0EA52AF052CF0D4",
-//"spider":"./N3RD/J/lem1101.jar;md5;39E9AA3A294E1D0F0B6F3886C5E0037B",
 
 "wallpaper":"https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/crimetv.png",
 
@@ -123,10 +116,10 @@
 {"key":"csp_Bttwoo","name":"雷蒙影视 | ✌两个BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"雷蒙影视 | ✂简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
+{"key":"csp_Ys23","name":"雷蒙影视 | 🎞影视23(SP)","type":3,"api":"csp_Ys23","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30},
 {"key":"csp_SP33","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_SP360","name":"雷蒙影视 | 3️⃣360(备用)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"雷蒙影视 | 🎙JustLive直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"csp_Bilituys","name":"雷蒙影视 | 🐇哔哩兔(SP)","type":3,"api":"csp_Bilituys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tangrenjie","name":"雷蒙影视 | 🍜唐人街(需翻墙)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_NiNi","name":"雷蒙影视 | 🏝泥巴影院(需翻墙)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Star","name":"雷蒙影视 | ⭐星星(需翻墙)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -147,16 +140,16 @@
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_Bdys01_QJ","name":"雷蒙影视 | 📯哔嘀影视(备用)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(备用)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz"},
 {"key":"csp_Lib_QJ","name":"雷蒙影视 | 🎉Libvio(备用)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/static/js/playerconfig.js"},
 {"key":"csp_NanGuaQJ","name":"雷蒙影视 | 🎃南瓜影视(备用)","type":3,"api":"csp_NanGuaQJ","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_HmysQJ","name":"雷蒙影视 | 🐎河马(SP)","type":3,"api":"csp_HmysQJ","playerType":1,"ext":"https://m.jmzp.net.cn"},
 {"key":"csp_TTian_QJ","name":"雷蒙影视 | ✈天天(SP)","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
 {"key":"csp_Hudie_QJ","name":"雷蒙影视 | 🦋蝴蝶(SP)","type":3,"api":"csp_Hudie","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
+{"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc"},
 {"key":"csp_qiao2_巧技一","name":"雷蒙影视 | 🌑巧技一(SP)","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
 {"key":"csp_qiao2_巧技二","name":"雷蒙影视 | 🌑巧技二(SP)","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"},
 {"key":"csp_qiao2_巧技三","name":"雷蒙影视 | 🌑巧技三(SP)","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
 {"key":"csp_qiao2_巧技四","name":"雷蒙影视 | 🌑巧技四(SP)","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"},
+{"key":"csp_qiao2_巧技五","name":"雷蒙影视 | 🌑巧技五(SP)","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"},
 {"key":"csp_Skapp_TVB云播_QJ","name":"雷蒙影视 | 🍥TVB云播(APPSK)","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"},
 {"key":"csp_Skapp_嘶哩_QJ","name":"雷蒙影视 | 🍥嘶哩(APPSK)","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/sili"},
 {"key":"csp_qiao_侠客_QJ","name":"雷蒙影视 | 🍏侠客(APPTO)","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/heihei"},
@@ -249,7 +242,8 @@
 {"key":"csp_AppYsV2_速看100","name":"雷蒙影视 | 🖤速看100(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/"},
 {"key":"csp_AppYsV2_影探","name":"雷蒙影视 | 🖤影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://wvvipcms.lyyytv.cn/api.php/app/"},
 {"key":"csp_AppYsV2_K影院","name":"雷蒙影视 | 🖤K影院(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
-
+{"key":"csp_AppYsV2_喵播","name":"雷蒙影视 | 🖤喵播(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://111.230.51.151:9696/api.php/app/"},
+ 
 
 // ⇩⇩ T4 ⇩⇩ 
 {"key":"T4_哔哩哔哩","name":"雷蒙影视 | 4️⃣哔哩哔哩(T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=dash,mp4","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"viewType":1,"ext":{"type":"雷蒙Lem作品#Allblanc#帕梅拉#游戏#电影#音乐#白噪音#演唱会"}},
