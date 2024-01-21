@@ -227,6 +227,7 @@
 {"key":"xml_淘片","name":"雷蒙影视 | ️🚀淘片","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_爱坤","name":"雷蒙影视 | ️🚀爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_万达","name":"雷蒙影视 | ️🚀万达","type":1,"api":"http://www.duse.pro//api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影直播-放映厅","电视直播-放映厅","体育直播-放映厅"]},
+{"key":"xml_短剧","name":"雷蒙影视 | ️🚀短剧","type":1,"api":"https://zzdj.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 
 // ⇩⇩ APP ⇩⇩ 
