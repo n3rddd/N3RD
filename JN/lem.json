@@ -226,7 +226,6 @@
 {"key":"xml_奇虎","name":"雷蒙影视 | ️🚀奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_淘片","name":"雷蒙影视 | ️🚀淘片","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_爱坤","name":"雷蒙影视 | ️🚀爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"xml_万达","name":"雷蒙影视 | ️🚀万达","type":1,"api":"http://www.duse.pro//api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影直播-放映厅","电视直播-放映厅","体育直播-放映厅"]},
 {"key":"xml_短剧","name":"雷蒙影视 | ️🚀短剧","type":1,"api":"https://zzdj.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 
@@ -569,7 +568,6 @@
 {"key":"drjs_快看","name":"雷蒙影视 | 👺快看(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/快看.js"},
 {"key":"drjs_霹雳影视","name":"雷蒙影视 | 👺霹雳影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/霹雳影视.js"},
 {"key":"drjs_四个圈影视","name":"雷蒙影视 | 👺四个圈影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/四个圈影视.js"},
-{"key":"drjs_厂长资源","name":"雷蒙影视 | 👺厂长资源(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/厂长资源.js"},
 {"key":"drjs_兔小贝","name":"雷蒙影视 | 👺兔小贝(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/兔小贝.js"},
 {"key":"drjs_AnFuns","name":"雷蒙影视 | 👺AnFuns(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/AnFuns.js"},
 {"key":"drjs_555影视","name":"雷蒙影视 | 👺555影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/555影视.js"},
