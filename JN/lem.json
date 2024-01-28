@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0120.jar;md5;F32F6E046D4ED6FD388FFB913AD45B96",
+"spider":"./N3RD/J/lem0128.jar;md5;02B9B31B666845D6C42E39809A70624E",
 
+//"spider":"./N3RD/J/lem0120.jar;md5;F32F6E046D4ED6FD388FFB913AD45B96",
 //"spider":"./N3RD/J/lem0109.jar;md5;2078D59927E08A7CE818D76B9497ED84",
 //"spider":"./N3RD/J/lem0102.jar;md5;AE5CA60C634F2825A8081EA98E17F135",
 //"spider":"./N3RD/J/lem1225.jar;md5;F14E53E0E0E7A3D0FE8F4D0835BF5B57",
@@ -67,7 +68,6 @@
 {"key":"csp_CCTV_ZAL","name":"雷蒙影视 | ©央视(SP)","type":3,"api":"csp_CCTV","searchable":1,"filterable":0,"changeable":0,"ext":"./EXT/XB/cctv.json"},
 {"key":"csp_FirstAid","name":"雷蒙影视 | 🚑急救教学(SP)","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"YOUTUBE直播","name":"雷蒙影视 | ▶YOUTUBE直播【翻墙观看】▶","type":3,"playerType":2,"api":"./EXT/JS/lf_live8_min.js","ext":"./EXT/JS/YT.txt"},
-{"key":"雷蒙影视K歌库","name":"雷蒙影视 | 🎤雷蒙影视K歌库【选[音轨]切换原音/伴奏】🎤","type":1,"api":"https://mv.clem7.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Kugou","name":"雷蒙影视 | 🎵酷狗音乐","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Douban","name":"雷蒙影视 | 📡我的豆瓣(SP)","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
 {"key":"csp_DouDou","name":"雷蒙影视 | 📡豆瓣片单(SP)","type":3,"api":"csp_DouDou","searchable":0},
@@ -127,7 +127,7 @@
 {"key":"csp_Ying","name":"雷蒙影视 | 🤖樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"雷蒙影视 | 🤖异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kanqiu","name":"雷蒙影视 | ⚽看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
-{"key":"csp_Duanju","name":"雷蒙影视 | 🌭短剧(SP)","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
+{"key":"csp_Duanju","name":"雷蒙影视 | 🌭短剧(SP)","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"ext":"https://duanju.one","style":{"type":"rect","ratio":1.433}},
 
 {"key":"csp_IQIYI_ZAL","name":"雷蒙影视 | 🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV_ZAL","name":"雷蒙影视 | 🥭芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
