@@ -1,35 +1,33 @@
 {
-  "vodPic": "https://inews.gtimg.com/newsapp_bt/0/13263837859/1000",
-  "classes": [
-    {
-      "type_name": "今日更新",
-      "type_id": "/每日更新",
-      "type_flag":"1"
-    },
-    {
-      "type_name": "电影",
-      "type_id": "/电影",
-      "type_flag":"1"
-    },
-    {
-      "type_name": "剧集",
-      "type_id": "/电视剧",
-      "type_flag":"1"
-    },
-    {
-      "type_name": "纪录片",
-      "type_id": "/纪录片",
-      "type_flag":"1"
-    },
-    {
-      "type_name": "综艺",
-      "type_id": "/综艺",
-      "type_flag":"1"
-    },
-    {
-      "type_name": "动漫",
-      "type_id": "/动漫",
-      "type_flag":"1"
-    }
-  ]
+	"vodPic": "https://inews.gtimg.com/newsapp_bt/0/13263837859/1000",
+	"classes": [{
+		"type_name": "今日更新",
+		"type_id": "/每日更新",
+		"type_flag": "1"
+	}, {
+		"type_name": "电影",
+		"type_id": "/电影",
+		"type_flag": "1"
+	}, {
+		"type_name": "剧集",
+		"type_id": "/电视剧",
+		"type_flag": "1"
+	}, {
+		"type_name": "纪录片",
+		"type_id": "/纪录片",
+		"type_flag": "1"
+	}, {
+		"type_name": "综艺",
+		"type_id": "/综艺",
+		"type_flag": "1"
+	}, {
+		"type_name": "动漫",
+		"type_id": "/动漫",
+		"type_flag": "1"
+	}],
+	"site": {
+		"name": "雅雅",
+		"server": "http://171.8.105.208:5678"
+	},
+	"homeContent": "/每日更新/电影/中国"
 }
