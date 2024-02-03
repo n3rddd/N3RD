@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0128.jar;md5;02B9B31B666845D6C42E39809A70624E",
+"spider":"./N3RD/J/lem0203.jar;md5;7F0B8CB354CE5CF9B215B9CFBE04C8C7",
 
+//"spider":"./N3RD/J/lem0128.jar;md5;02B9B31B666845D6C42E39809A70624E",
 //"spider":"./N3RD/J/lem0120.jar;md5;F32F6E046D4ED6FD388FFB913AD45B96",
 //"spider":"./N3RD/J/lem0109.jar;md5;2078D59927E08A7CE818D76B9497ED84",
 //"spider":"./N3RD/J/lem0102.jar;md5;AE5CA60C634F2825A8081EA98E17F135",
@@ -161,6 +162,19 @@
 {"key":"csp_SC1080_QJ","name":"雷蒙影视 | 🕐时常影视(SP)","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Music_QJ","name":"雷蒙影视 | 🎵音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Dygang_QJ","name":"雷蒙影视 | 🚢电影港(SP)","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1},
+
+// ⇩⇩ QILE SPIDER ⇩⇩ 
+{"key":"csp_Ayy","name":"雷蒙影视 | ❤爱看(SP)","type":3,"api":"csp_Ayy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czzy","name":"雷蒙影视 | 👴厂长(SP)","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Freeok","name":"雷蒙影视 | 🆗OK(SP)","type":3,"api":"csp_Freeok","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ggys","name":"雷蒙影视 | ✨高光(SP)","type":3,"api":"csp_Ggys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Hdr4k","name":"雷蒙影视 | 🔗HDR4K(SP)","type":3,"api":"csp_Hdr4k","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nkdyw","name":"雷蒙影视 | 👓耐看(SP)","type":3,"api":"csp_Nkdyw","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Oftens","name":"雷蒙影视 | 🎠往往(SP)","type":3,"api":"csp_Oftens","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Saohuo","name":"雷蒙影视 | 🔥骚火(SP)","type":3,"api":"csp_Saohuo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Tvyb","name":"雷蒙影视 | 🛫云播(SP)","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Hdmoli","name":"雷蒙影视 | 🌼HDMOLI(SP)","type":3,"api":"csp_Hdmoli","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Itiyu","name":"雷蒙影视 | 🏀爱体育(SP)","type":3,"api":"csp_Itiyu","searchable":1,"quickSearch":1,"filterable":1},
  
 // ⇩⇩ CM SPIDER ⇩⇩ 
 {"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1},
