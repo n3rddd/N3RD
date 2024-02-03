@@ -35,6 +35,16 @@
 {"name":"雷蒙影视 LUST VER.","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/main/APP/LUSTTV2.0.0.apk","version":"2.0.0 20230326","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/COVER3.png"}
 ]
 },
+
+{"name":"FongMi影视",
+"list":[
+{"name":"JAVA v8a","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","version":"","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
+{"name":"JAVA v7a","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","version":"","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
+{"name":"PYTHON v8a","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk","version":"","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
+{"name":"PYTHON v7a","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk","version":"","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
+{"name":"4x","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback.json","version":"","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"}
+]
+},
   
 {"name":"本地包【将复制的链接粘贴到配置地址】",
 "list":[
