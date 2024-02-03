@@ -1,5 +1,5 @@
 [
-{"name":"雷蒙影视概念宣传片","url":"https://lem.clem7.repl.co/N3RD/JN/CRIMETVPV.txt"},
+{"name":"雷蒙影视概念宣传片","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/CRIMETVPV.txt"},
 {"name":"雷蒙Live","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u","group":1},
 {"name":"FTYLive","url":"https://xhdwc.tk/tvlive.txt","circuit":1},
 {"name":"TWKJLive","url":"http://tvkj.top/tvlive.txt"},
