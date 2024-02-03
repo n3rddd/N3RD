@@ -88,6 +88,7 @@
 {"key":"csp_PikPakShare","name":"雷蒙影视 | 💿PikPak分享(SP)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/p.json$$$./N3RD/T/p.json.txt.gz"},
 {"key":"csp_PikPakShare181","name":"雷蒙影视 | 💿PikPak分享 18+[Ⅰ]","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/pa.json$$$./N3RD/T/pa.json.txt.gz"},
 {"key":"csp_PikPakShare182","name":"雷蒙影视 | 💿PikPak分享 18+[Ⅱ]","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/pa1.json$$$./N3RD/T/pa1.json.txt.gz"},
+{"key":"csp_AliShare_EBook","name":"雷蒙影视 | 💿阿里云盘书籍分享(SP)","type":3,"api":"csp_AliShare","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/alishare.ebook.txt"},
 
 {"key":"drjs_aipanso_PG","name":"雷蒙影视 | 📀爱盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/aipanso.js"},
 {"key":"drjs_funletu_PG","name":"雷蒙影视 | 📀趣盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/funletu.js"},
