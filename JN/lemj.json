@@ -326,8 +326,8 @@
 
 
 "rules": [
-{"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
-{"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
+{"name":"火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
+{"name":"抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
 {"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["toutiaovod.com"]},
 {"name":"喵次元139嗅探","hosts":["mcloud.139.com"],"regex":["mcloud.139.com"]},
 {"name":"348资源嗅探","hosts":["aliyundrive.net"],"regex":["aliyundrive.net"]},
