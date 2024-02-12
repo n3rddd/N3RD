@@ -332,8 +332,8 @@
 {"name":"喵次元139嗅探","hosts":["mcloud.139.com"],"regex":["mcloud.139.com"]},
 {"name":"348资源嗅探","hosts":["aliyundrive.net"],"regex":["aliyundrive.net"]},
 {"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
-{"name": "海外看","hosts": ["haiwaikan"],"regex": ["8.1748","10.0099","10.3333","16.0599"},
-{"name": "廣告","hosts": ["."],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+","#EXTINF.*?\\s+.*?original.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/[\\d]{8}\\/[a-zA-Z0-9]{8}\\/hls\\/.*?\\.ts\\s+","#EXTINF.*?\\s+.*[1-9][\\d]{4}\\.ts\\s+"]}
+{"name":"海外看","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
+{"name":"廣告","hosts":["."],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+","#EXTINF.*?\\s+.*?original.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/[\\d]{8}\\/[a-zA-Z0-9]{8}\\/hls\\/.*?\\.ts\\s+","#EXTINF.*?\\s+.*[1-9][\\d]{4}\\.ts\\s+"]}
 ],
 
 "parses": [
