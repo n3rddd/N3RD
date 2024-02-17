@@ -393,6 +393,8 @@
 {"key":"drjs_B站影视","name":"雷蒙影视 | 👺B站影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/B站影视.js"},
 {"key":"drjs_JustLive","name":"雷蒙影视 | 👺JustLive(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/JustLive.js"},
 {"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/腾云驾雾.js"},
+{"key":"drjs_高光影视","name":"雷蒙影视 | 👺高光影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/高光影视.js"},
+{"key":"drjs_圣城影视","name":"雷蒙影视 | 👺圣城影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/圣城影视.js"},
 {"key":"drjs_中国人线上看","name":"雷蒙影视 | 👺中国人线上看(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/中国人线上看.js"},
 {"key":"drjs_7喜影院","name":"雷蒙影视 | 👺7喜影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/7喜影院.js"},
 {"key":"drjs_567电影院","name":"雷蒙影视 | 👺567电影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/567电影院.js"},
