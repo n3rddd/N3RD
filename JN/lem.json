@@ -255,19 +255,6 @@
 
 // ⇩⇩ T4 ⇩⇩ 
 {"key":"T4_安博","name":"雷蒙影视 | 4️⃣安博(T4)","type":4,"api":"https://ali.xn--sxr.hz.cz/site/ub1818","searchable":1,"quickSearch":1,"filterable":0},
-
-{"key":"T4_哔哩哔哩","name":"雷蒙影视 | 4️⃣哔哩哔哩(T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=dash,mp4","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"viewType":1,"ext":{"type":"雷蒙Lem作品#Allblanc#帕梅拉#游戏#电影#音乐#白噪音#演唱会"}},
-{"key":"T4_荐片","name":"雷蒙影视 | 4️⃣荐片(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"T4_玩偶哥哥","name":"雷蒙影视 | 4️⃣玩偶哥哥(T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=7984abb3f03c447196459eebd03eda63","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"T4_阿里采集聚搜","name":"雷蒙影视 | 4️⃣阿里采集聚搜(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/ali","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"d3dd517c45af4dd2ae6c371574731bc6","apiList":[{"name":"非凡","api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"},{"name":"索尼","api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8"},{"name":"量子","api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"}]},"changeable":1},
-{"key":"T4_有声小说","name":"雷蒙影视 | 4️⃣有声小说(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
-{"key":"T4_央视","name":"雷蒙影视 | 4️⃣央视(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/cntv","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
-{"key":"T4_体育","name":"雷蒙影视 | 4️⃣体育(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/sport","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
-{"key":"T4_直播","name":"雷蒙影视 | 4️⃣直播(T4)","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/live","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":{"url":"./N3RD/T/t4live.json"}},
-
-//{"key":"T4_小纸条","name":"雷蒙影视 | 4️⃣小纸条(T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"d3dd517c45af4dd2ae6c371574731bc6"},
-//{"key":"T4_Ali","name":"雷蒙影视 | 4️⃣阿里聚合搜(T4)","type":4,"api":"http://home.jundie.top:9520/ali/cli_Alii?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482","searchable":1,"quickSearch":1,"filterable":1},
  
   
 // ⇩⇩ 磁力MAGNET ⇩⇩ 
