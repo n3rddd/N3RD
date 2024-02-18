@@ -253,7 +253,7 @@
 {"key":"drjs_跑TV","name":"雷蒙影视 | 👺跑TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/跑TV.js"},
 {"key":"drjs_banan","name":"雷蒙影视 | 👺香蕉(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/banan.js"},
 {"key":"drjs_黄瓜TV","name":"雷蒙影视 | 👺黄瓜TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/黄瓜TV.js"},
-{"key":"drjs_苹果爱微","name":"雷蒙影视 | 👺苹果爱微(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/苹果爱微.js"},
+{"key":"drjs_苹果爱微","name":"雷蒙影视 | 👺苹果爱微(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/苹果爱微.js"}
 
 /*
 {"key":"drjs_喜马拉雅","name":"雷蒙影视 | 👺喜马拉雅(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/喜马拉雅.js"},
