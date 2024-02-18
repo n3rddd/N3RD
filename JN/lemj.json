@@ -244,7 +244,7 @@
 {"key":"drjs_310直播","name":"雷蒙影视 | 👺310直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/310直播.js"},
 
 // ⇩⇩ DRPY 18+ ⇩⇩ 
-{"key":"drjs_ss直播","name":"雷蒙影视 | 👺ss直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ss直播.js"},
+{"key":"drjs_ss直播","name":"雷蒙影视 | 👺ss直播(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/ss直播.js"},
 {"key":"drjs_18AV","name":"雷蒙影视 | 👺18AV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/18av.js"},
 {"key":"drjs_猫了个咪","name":"雷蒙影视 | 👺猫了个咪(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/猫了个咪.js"},
 {"key":"drjs_Missav","name":"雷蒙影视 | 👺MissAV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/Missav.js"},
