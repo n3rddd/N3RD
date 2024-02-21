@@ -446,7 +446,6 @@
 {"key":"drjs_纽约影院","name":"雷蒙影视 | 👺纽约影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/纽约影院.js"},
 {"key":"drjs_追剧迷","name":"雷蒙影视 | 👺追剧迷(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/追剧迷.js"},
 {"key":"drjs_熊猫影视","name":"雷蒙影视 | 👺熊猫影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/熊猫影视.js"},
-{"key":"drjs_开眼视频","name":"雷蒙影视 | 👺开眼视频(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/开眼视频.js"},
 {"key":"drjs_去看吧","name":"雷蒙影视 | 👺去看吧(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/去看吧.js"},
 {"key":"drjs_偲霖影视","name":"雷蒙影视 | 👺偲霖影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/偲霖影视.js"}, 
 {"key":"drjs_奇优影院","name":"雷蒙影视 | 👺奇优影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/奇优影院.js"},
@@ -460,6 +459,7 @@
 {"key":"drjs_天天视频","name":"雷蒙影视 | 👺天天视频(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/天天视频.js"},
  
 {"key":"drjs_播客","name":"雷蒙影视 | 👺播客(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/播客.js","searchable":0,"quickSearch":0},
+{"key":"drjs_开眼视频","name":"雷蒙影视 | 👺开眼视频(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/开眼视频.js","searchable":0,"quickSearch":0},
 {"key":"drjs_酷6网","name":"雷蒙影视 | 👺酷6网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/酷6网.js","searchable":0,"quickSearch":0},
 {"key":"drjs_网易公版影像","name":"雷蒙影视 | 👺网易公版影像(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/网易公版影像.js","searchable":0,"quickSearch":0},
 {"key":"drjs_短视频","name":"雷蒙影视 | 👺短视频(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":0,"ext":"./EXT/JS/短视频.js","searchable":0,"quickSearch":0},
