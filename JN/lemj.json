@@ -56,6 +56,8 @@
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视JS专线 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search1_min.js"},
 
 {"key":"drjs_直播","name":"雷蒙影视 | 👺电视直播(DRPY)","type":3,"api":"./EXT/JS/直播转点播.js","ext":"./EXT/JS/直播.js&&&./N3RD/W/IMG.png"},
+{"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👹爱看机器人2(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot2.js"},
+{"key":"drjs_爱看机器人3","name":"雷蒙影视 | 👹爱看机器人3(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/ikanbot3.js"},
 {"key":"drjs_我的哔哩","name":"雷蒙影视 | 👺我的哔哩(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/我的哔哩.js"},
 {"key":"drjs_AList","name":"雷蒙影视 | 👺AList(DRPY)","type":3,"api":"./EXT/LIB/alist.min.js","searchable":0,"ext":"./N3RD/T/li.json"},
 {"key":"drjs_MV库","name":"雷蒙影视 | 👺MV库(DRPY)","type":3,"api":"./EXT/JS/lf_live_min.js","ext":"./EXT/JS/lf_live_min3.txt"},
