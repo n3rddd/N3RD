@@ -353,6 +353,8 @@
 {"key":"drjs_139影视","name":"雷蒙影视 | 👺139影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/139影视.js"},
 {"key":"drjs_网飞.TV","name":"雷蒙影视 | 👺网飞.TV(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/网飞.TV.js"},
 {"key":"drjs_奈飞中文","name":"雷蒙影视 | 👺奈飞中文(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/奈飞中文.js"},
+{"key":"drjs_348电影网","name":"雷蒙影视 | 👺348电影网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/348电影网.js"},
+{"key":"drjs_看了么","name":"雷蒙影视 | 👺看了么(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/看了么.js"},
 {"key":"drjs_大师兄影视","name":"雷蒙影视 | 👺大师兄影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/大师兄影视.js"},
 {"key":"drjs_高光影视","name":"雷蒙影视 | 👺高光影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/高光影视.js"},
 {"key":"drjs_圣城影视","name":"雷蒙影视 | 👺圣城影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/圣城影视.js"},
