@@ -215,6 +215,11 @@
 {"key":"csp_WebDJu_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕短剧(MULTI)","type":3,"api":"csp_WebDJu","searchable":0,"quickSearch":0,"filterable":0,"ext":"公众号:影视资源站"},
 {"key":"csp_BookTing_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕听书(MULTI)","type":3,"api":"csp_BookTing","searchable":0,"changeable":0,"ext":"https://m.ting275.com#公众号#影视资源站"},
 
+{"key":"csp_Buleitv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮布蕾(MULTI)","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0},
+{"key":"csp_Yingtantv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮影探(MULTI)","type":3,"api":"csp_Yingtantv","searchable":1,"changeable":0},
+{"key":"csp_Yingtantv2_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮影探2(MULTI)","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0},
+{"key":"csp_Zhuiyitv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮追忆(MULTI)","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0},
+
 
 // ⇩⇩ 采集 ⇩⇩ 
 {"key":"xml_BENMX","name":"雷蒙影视 | ️🚀BENMX","type":1,"api":"http://film.benmx.com/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":1},
