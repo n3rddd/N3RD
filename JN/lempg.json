@@ -82,6 +82,7 @@
 {"key":"csp_YydsVip","name":"雷蒙影视 | 💿YYDSVIP(SP)","type":3,"api":"csp_YydsVip","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$http://yydsvip.cn$$$null$$$1"},
 {"key":"csp_Libvio","name":"雷蒙影视 | 💿LIBVIO(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$https://www.libvio.pro$$$null"},
 {"key":"csp_Xb6v","name":"雷蒙影视 | 💿新6V(SP)","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$http://www.xb6v.com$$$null$$$1"},
+{"key":"csp_Meijumi","name":"雷蒙影视 | 💿美剧迷(SP)","type":3,"api":"csp_Meijumi","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$https://www.meijumi.net/$$$null$$$1"},
 {"key":"csp_AliShare","name":"雷蒙影视 | 💿阿里云盘分享(SP)","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/alishare.txt"},
 {"key":"csp_ThunderShare","name":"雷蒙影视 | 💿迅雷云盘分享(SP)","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/thundershare.txt"},
 {"key":"csp_QuarkShare","name":"雷蒙影视 | 💿夸克云盘分享(SP)","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/quarkshare.txt"},
@@ -142,14 +143,14 @@
 
 
 // ⇩⇩ 爬虫SPIDER ⇩⇩ 
-{"key":"csp_Kugou","name":"雷蒙影视 | 🎵酷狗音乐(SP)","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
+{"key":"csp_Yingtantv","name":"雷蒙影视 | 🐮影探(SP)","type":3,"api":"csp_Yingtantv","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"$$$./N3RD/T/yt.json$$$1"},
+{"key":"csp_Yscapp","name":"雷蒙影视 | 🐮影视车(SP)","type":3,"api":"csp_Yscapp","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"playerType":1,"ext":"1"},
+{"key":"csp_Zhuiyitv","name":"雷蒙影视 | 🐮追忆(SP)","type":3,"api":"csp_Zhuiyitv","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"$$$./N3RD/T/yt.json$$$1"},
 {"key":"csp_Bili","name":"雷蒙影视 | 🅱哔哩哔哩弹幕版(SP)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"type":"雷蒙Lem作品#Allblanc#帕梅拉#游戏#电影#音乐#白噪音#演唱会","cookie":"SESSDATA=13efc517%2C1700577613%2Cfcea6%2A52;bili_jct=272ef2be34e676f7cf6339c17dcb7bb5;DedeUserID=284097455;DedeUserID__ckMd5=e652501280a8dfd1;"}},
 {"key":"csp_Bdys01","name":"雷蒙影视 | 📯哔嘀影视弹幕版(SP)","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.bdys03.com/$$$null$$$1"},
-{"key":"csp_Cs1369","name":"雷蒙影视 | 9️⃣996影视(SP)","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ys23","name":"雷蒙影视 | 🎞影视23(SP)","type":3,"api":"csp_Ys23","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30},
 {"key":"csp_Hmys","name":"雷蒙影视 | 🐎河马(SP)","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn"},
 {"key":"csp_TTian","name":"雷蒙影视 | ✈天天(SP)","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
-{"key":"csp_Hudie","name":"雷蒙影视 | 🦋蝴蝶(SP)","type":3,"api":"csp_Hudie","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
 {"key":"csp_NanGua","name":"雷蒙影视 | 🎃南瓜弹幕版(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"null$$$1"},
 {"key":"csp_Sp360","name":"雷蒙影视 | 3️⃣360影视弹幕版(SP)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":30},
 {"key":"csp_YQKan ","name":"雷蒙影视 | 📺一起看(SP)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
@@ -164,6 +165,7 @@
 {"key":"csp_Ying","name":"雷蒙影视 | 🤖樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"雷蒙影视 | 🤖异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Duanju","name":"雷蒙影视 | 🌭短剧(SP)","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
+{"key":"csp_Kugou","name":"雷蒙影视 | 🎵酷狗音乐(SP)","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
 
 
 // ⇩⇩ 推送PUSH ⇩⇩ 
