@@ -81,6 +81,7 @@
 {"key":"csp_YydsVip","name":"雷蒙影视 | 💿YYDSVIP(SP)","type":3,"api":"csp_YydsVip","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$http://yydsvip.cn$$$null$$$1"},
 {"key":"csp_Libvio","name":"雷蒙影视 | 💿LIBVIO(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://www.libvio.pro$$$null"},
 {"key":"csp_Xb6v","name":"雷蒙影视 | 💿新6V(SP)","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$http://www.xb6v.com$$$null$$$1"},
+{"key":"csp_Meijumi","name":"雷蒙影视 | 💿美剧迷(SP)","type":3,"api":"csp_Meijumi","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://www.meijumi.net/$$$null$$$1"},
 {"key":"csp_AliShare","name":"雷蒙影视 | 💿阿里云盘分享(SP)","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/alishare.txt"},
 {"key":"csp_ThunderShare","name":"雷蒙影视 | 💿迅雷云盘分享(SP)","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/thundershare.txt"},
 {"key":"csp_QuarkShare","name":"雷蒙影视 | 💿夸克云盘分享(SP)","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/quarkshare.txt"},
@@ -166,14 +167,14 @@
 
 
 // ⇩⇩ 爬虫SPIDER ⇩⇩ 
-{"key":"csp_Kugou","name":"雷蒙影视 | 🎵酷狗音乐(SP)","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
+{"key":"csp_Yingtantv","name":"雷蒙影视 | 🐮影探(SP)","type":3,"api":"csp_Yingtantv","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"$$$./N3RD/T/yt.json$$$1"},
+{"key":"csp_Yscapp","name":"雷蒙影视 | 🐮影视车(SP)","type":3,"api":"csp_Yscapp","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"playerType":1,"ext":"1"},
+{"key":"csp_Zhuiyitv","name":"雷蒙影视 | 🐮追忆(SP)","type":3,"api":"csp_Zhuiyitv","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"$$$./N3RD/T/yt.json$$$1"},
 {"key":"csp_Bili","name":"雷蒙影视 | 🅱哔哩哔哩弹幕版(SP)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"type":"雷蒙Lem作品#Allblanc#帕梅拉#游戏#电影#音乐#白噪音#演唱会","cookie":"SESSDATA=13efc517%2C1700577613%2Cfcea6%2A52;bili_jct=272ef2be34e676f7cf6339c17dcb7bb5;DedeUserID=284097455;DedeUserID__ckMd5=e652501280a8dfd1;"}},
 {"key":"csp_Bdys01","name":"雷蒙影视 | 📯哔嘀影视弹幕版(SP)","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.bdys03.com/$$$null$$$1"},
-{"key":"csp_Cs1369","name":"雷蒙影视 | 9️⃣996影视(SP)","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ys23","name":"雷蒙影视 | 🎞影视23(SP)","type":3,"api":"csp_Ys23","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30},
 {"key":"csp_Hmys","name":"雷蒙影视 | 🐎河马(SP)","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn"},
 {"key":"csp_TTian","name":"雷蒙影视 | ✈天天(SP)","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
-{"key":"csp_Hudie","name":"雷蒙影视 | 🦋蝴蝶(SP)","type":3,"api":"csp_Hudie","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
 {"key":"csp_NanGua","name":"雷蒙影视 | 🎃南瓜弹幕版(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"null$$$1"},
 {"key":"csp_Sp360","name":"雷蒙影视 | 3️⃣360影视弹幕版(SP)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":30},
 {"key":"csp_YQKan ","name":"雷蒙影视 | 📺一起看(SP)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
@@ -182,12 +183,13 @@
 {"key":"csp_Ddys","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mayiys","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc"},
 {"key":"csp_Maolv","name":"雷蒙影视 | 🐴毛驴(SP)","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DDMJ_QJ","name":"雷蒙影视 | 🍚米酷视频(SP)","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.129.116:6688"},
 {"key":"csp_NiNi","name":"雷蒙影视 | 🏝泥巴影院(需翻墙)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"雷蒙影视 | 🤖动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_Ying","name":"雷蒙影视 | 🤖樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"雷蒙影视 | 🤖异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Duanju","name":"雷蒙影视 | 🌭短剧(SP)","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
+{"key":"csp_Kugou","name":"雷蒙影视 | 🎵酷狗音乐(SP)","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
+
 
 // ⇩⇩ 推送PUSH ⇩⇩ 
 {"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"}
@@ -204,25 +206,15 @@
 "rules":[
 {"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
   
+{"name":"火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
+{"name":"抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
+{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["toutiaovod.com"]},
+{"name":"喵次元139嗅探","hosts":["mcloud.139.com"],"regex":["mcloud.139.com"]},
+{"name":"348资源嗅探","hosts":["aliyundrive.net"],"regex":["aliyundrive.net"]},
+{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
 {"name":"海外看","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
-{"name":"暴風","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"量子","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["18.5333"]},
-{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
-{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
-{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666","25.08"]},
-{"name":"索尼","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
-{"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
- 
-{"name":"廣告","hosts":["."],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+"]},
-{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","更 多","社區","社 區","x u u","xuu","最新","最 新","直播","直 播","更新","更 新","社区","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
-{"name":"极速","hosts":["jszy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"蚂蚁","hosts":["v.cdnlz1.com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"巧记","host":["qiaoji"],"filter":["qiaoji"]},
 {"name":"一起看","hosts":["yqk88"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]},
-{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"索尼","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"廣告","hosts":["."],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+","#EXTINF.*?\\s+.*?original.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/[\\d]{8}\\/[a-zA-Z0-9]{8}\\/hls\\/.*?\\.ts\\s+","#EXTINF.*?\\s+.*[1-9][\\d]{4}\\.ts\\s+"]},
 
 {"name":"夜市","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
 {"name":"毛驢","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]}
@@ -230,6 +222,7 @@
 
 "ads": [
 "static-mozai.4gtv.tv",
+"s3t3d2y8.afcdn.net",
 "wan.51img1.com",
 "iqiyi.hbuioo.com",
 "vip.ffzyad.com",
