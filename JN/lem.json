@@ -198,6 +198,8 @@
 
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
+{"key":"csp_LvDou_宇宙_MULTIJAR","jar":"./N3RD/J/lvdou.jar","name":"雷蒙影视 | 🪐宇宙4K(MULTI)","type":3,"api":"csp_LvDou","searchable":1,"quickSearch":1,"filterable":1,"timeout":30,"playerType":1,"ext":{"server":"http://ds1.yuzhoukeji.top/api.php/app/","mackey":"btC11NMbhWho2LsL|vZfPqkHE71Epi167","danmu":true}},
+
 {"key":"csp_Buleitv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮布蕾(MULTI)","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0},
 {"key":"csp_Yingtantv2_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮影探(MULTI)","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0},
 {"key":"csp_Zhuiyitv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮追忆(MULTI)","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0},
