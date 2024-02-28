@@ -200,9 +200,8 @@
 // ⇩⇩ MULTIJAR ⇩⇩ 
 {"key":"csp_LvDou_宇宙_MULTIJAR","jar":"./N3RD/J/lvdou.jar","name":"雷蒙影视 | 🪐宇宙4K(MULTI)","type":3,"api":"csp_LvDou","searchable":1,"quickSearch":1,"filterable":1,"timeout":30,"playerType":1,"ext":{"server":"http://goulanzi.yuzhoukeji.top/api.php/app/","mackey":"toudongxidegou88|qunimagebishabi9","danmu":true}},
 
-{"key":"csp_Buleitv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮布蕾(MULTI)","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0},
+{"key":"csp_Fangniu4k_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮放牛(MULTI)","type":3,"api":"csp_Fangniu4k","searchable":1,"changeable":0},
 {"key":"csp_Yingtantv2_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮影探(MULTI)","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0},
-{"key":"csp_Zhuiyitv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮追忆(MULTI)","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0},
  
 {"key":"csp_WebAiKun_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕皮皮虾(MULTI)","type":3,"api":"csp_WebAiKun","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aikun.tv"},
 {"key":"csp_Web608_MULTIJAR","jar":"./N3RD/J/ys.jar","name":"雷蒙影视 | 🍕新视觉影院(MULTI)","type":3,"api":"csp_Web608","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy4.com"},
