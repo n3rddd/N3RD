@@ -115,6 +115,7 @@
 {"key":"csp_Jianying","name":"雷蒙影视 | ✂简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"csp_AppYsV2_咕噜","name":"雷蒙影视 | 🖤咕噜(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
+{"key":"csp_App_短剧_ZAL","name":"雷蒙影视 | ️🖤短剧(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zzdj.cc/api.php/provide/vod"}, 
 {"key":"csp_SP33","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_SP360","name":"雷蒙影视 | 3️⃣360(备用)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"雷蒙影视 | 🎙JustLive直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
@@ -231,7 +232,6 @@
 {"key":"xml_爱坤","name":"雷蒙影视 | ️🚀爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_熊掌","name":"雷蒙影视 | ️🚀熊掌","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"filterable":0,"changeable":1,"categories":["国产剧","国产动漫","大陆综艺","欧美剧","日韩剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 {"key":"xml_官方","name":"雷蒙影视 | ️🚀官方","type":1,"api":"http://aliys.cn:90/api.php/provide/vod","playUrl":"https://wangqing.vip/mao/taobao/guanjie.html?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片"]},
-{"key":"csp_App","name":"雷蒙影视 | ️🚀短剧","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zzdj.cc/api.php/provide/vod"}, 
 
 
 // ⇩⇩ 磁力MAGNET ⇩⇩ 
