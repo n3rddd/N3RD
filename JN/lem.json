@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0224.jar;md5;65EA93F13E540AA4C501EEE0FBD4D09C",
+"spider":"./N3RD/J/lem0302.jar;md5;994F5F0553CB67519B1FA5002A7171BB",
 
+//"spider":"./N3RD/J/lem0224.jar;md5;65EA93F13E540AA4C501EEE0FBD4D09C",
 //"spider":"./N3RD/J/lem0217.jar;md5;59B6FE2D1A1F6801377D44AD0F11C17F",
 //"spider":"./N3RD/J/lem0203.jar;md5;F98CBA0778451CB70BBC3E09F8E58D86",
 //"spider":"./N3RD/J/lem0128.jar;md5;02B9B31B666845D6C42E39809A70624E",
@@ -98,7 +99,6 @@
 {"key":"csp_Czsapp","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy55.com/"},
 {"key":"csp_YQKan ","name":"雷蒙影视 | 📺一起看(SP)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Maolv","name":"雷蒙影视 | 🐴毛驴(SP)","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.maolvys.com/"},
-{"key":"csp_Appto_南坊","name":"雷蒙影视 | 🍎南坊(APPTO)","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="},
 {"key":"csp_AppMao_萌米","name":"雷蒙影视 | 🍎萌米(APPTO)","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="}, 
 {"key":"csp_AppMao_星奇","name":"雷蒙影视 | 🍎星奇(APPTO)","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
 {"key":"csp_Appto_率率","name":"雷蒙影视 | 🌸率率(APPLD)","type":3,"api":"csp_AppLd","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"},
@@ -114,7 +114,7 @@
 {"key":"csp_Bttwoo","name":"雷蒙影视 | ✌两个BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"雷蒙影视 | ✂简影(SP)","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
-{"key":"csp_Ys23","name":"雷蒙影视 | 🎞影视23(SP)","type":3,"api":"csp_Ys23","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30},
+{"key":"csp_AppYsV2_咕噜","name":"雷蒙影视 | 🖤咕噜(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
 {"key":"csp_SP33","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_SP360","name":"雷蒙影视 | 3️⃣360(备用)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"雷蒙影视 | 🎙JustLive直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
@@ -235,14 +235,6 @@
 {"key":"xml_熊掌","name":"雷蒙影视 | ️🚀熊掌","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"filterable":0,"changeable":1,"categories":["国产剧","国产动漫","大陆综艺","欧美剧","日韩剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 {"key":"xml_官方","name":"雷蒙影视 | ️🚀官方","type":1,"api":"http://aliys.cn:90/api.php/provide/vod","playUrl":"https://wangqing.vip/mao/taobao/guanjie.html?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片"]},
 {"key":"xml_短剧","name":"雷蒙影视 | ️🚀短剧","type":1,"api":"https://zzdj.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-
-
-// ⇩⇩ APP ⇩⇩ 
-{"key":"csp_AppYsV2_咕噜","name":"雷蒙影视 | 🖤咕噜(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
-
-
-// ⇩⇩ T4 ⇩⇩ 
-{"key":"T4_安博","name":"雷蒙影视 | 4️⃣安博(T4)","type":4,"api":"https://ali.xn--sxr.hz.cz/site/ub1818","searchable":1,"quickSearch":1,"filterable":0},
  
   
 // ⇩⇩ 磁力MAGNET ⇩⇩ 
