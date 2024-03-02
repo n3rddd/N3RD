@@ -1,5 +1,4 @@
-default 我的备份盘
-resource 我的资源盘
+self 我的阿里云盘
 DNgnCudf4cD?pwd=6666 Tacit0924-总合集 1 updated_at DESC
 mxAfB6eRgY4 阿里1T 1
 53wnUaTUWN8 全球分享 1
