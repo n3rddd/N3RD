@@ -321,7 +321,7 @@
 {"key":"drjs_meow_PG","name":"雷蒙影视 | 📀Meow搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/meow.js"},
 {"key":"drjs_qimiao_PG","name":"雷蒙影视 | 📀奇妙搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/qimiao.js"},
 {"key":"drjs_rrdyw_PG","name":"雷蒙影视 | 📀RRDY网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/rrdyw.js"},
-{"key":"drjs_kkpans_PG","name":"雷蒙影视 | 📀KK网盘(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kkpans.js"}
+{"key":"drjs_kkpans_PG","name":"雷蒙影视 | 📀KK网盘(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kkpans.js"},
 
 {"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt","jar":"./N3RD/J/pg.jar"}
 
