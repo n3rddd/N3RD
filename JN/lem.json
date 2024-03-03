@@ -231,9 +231,10 @@
 {"key":"xml_乐视","name":"雷蒙影视 | ️🚀乐视","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/","searchable":1,"filterable":0,"changeable":1,"categories":["国产剧","国产动漫","日韩动漫","大陆综艺","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 {"key":"xml_爱坤","name":"雷蒙影视 | ️🚀爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_熊掌","name":"雷蒙影视 | ️🚀熊掌","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"filterable":0,"changeable":1,"categories":["国产剧","国产动漫","大陆综艺","欧美剧","日韩剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
-{"key":"xml_官方","name":"雷蒙影视 | ️🚀官方","type":1,"api":"http://aliys.cn:90/api.php/provide/vod","playUrl":"https://wangqing.vip/mao/taobao/guanjie.html?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片"]},
+{"key":"xml_官方","name":"雷蒙影视 | ️🚀官方","type":1,"api":"http://aliys.cn:90/api.php/provide/vod","playUrl":"https://wangqing.vip/mao/taobao/guanjie.html?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片"]}
 
 
+/*
 // ⇩⇩ 磁力MAGNET ⇩⇩ 
 {"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},
 {"key":"csp_Xb6v","name":"雷蒙影视 | 🧲6V电影网(备用)","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"filterable":1},
@@ -521,6 +522,7 @@
 {"key":"drjs_评书随身听","name":"雷蒙影视 | 👺评书随身听(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/评书随身听.js","searchable":0,"quickSearch":0},
 {"key":"drjs_有声绘本网","name":"雷蒙影视 | 👺有声绘本网(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/有声绘本网.js","searchable":0,"quickSearch":0},
 {"key":"drjs_童趣","name":"雷蒙影视 | 👺童趣(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/童趣.js","searchable":0,"quickSearch":0}
+*/
 
 ],
 
