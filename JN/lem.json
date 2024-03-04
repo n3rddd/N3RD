@@ -202,8 +202,9 @@
 {"key":"csp_LvDou_宇宙_MULTIJAR","jar":"./N3RD/J/lvdou.jar","name":"雷蒙影视 | 🪐宇宙4K(MULTI)","type":3,"api":"csp_LvDou","searchable":1,"quickSearch":1,"filterable":1,"timeout":30,"playerType":1,"ext":{"server":"http://goulanzi.yuzhoukeji.top/api.php/app/","mackey":"toudongxidegou88|qunimagebisha559","danmu":true}},
 {"key":"csp_Fangniu4k_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮放牛(MULTI)","type":3,"api":"csp_Fangniu4k","searchable":1,"changeable":0},
 {"key":"csp_Yinyuetai_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮音悦台(MULTI)","type":3,"api":"csp_Yinyuetai","searchable":1,"changeable":0},
- 
+{"key":"csp_Iktv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮KTV(MULTI)","type":3,"api":"csp_Iktv","searchable":1,"changeable":0}, 
 
+ 
 // ⇩⇩ 采集 ⇩⇩ 
 {"key":"xml_小胡","name":"雷蒙影视 | ️🚀小胡","type":1,"api":"http://cc.xzam.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_快车","name":"雷蒙影视 | ️🚀快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","动画片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
