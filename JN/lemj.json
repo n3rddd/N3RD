@@ -120,6 +120,7 @@
 {"key":"drjs_新视觉影视","name":"雷蒙影视 | 👺新视觉影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/新视觉影视.js"},
 {"key":"drjs_两个BT","name":"雷蒙影视 | 👺两个BT(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/两个BT.js"},
 {"key":"drjs_量子资源","name":"雷蒙影视 | 👺量子资源(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/量子资源.js"},
+{"key":"drjs_996影视","name":"雷蒙影视 | 👺996影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/996影视.js"},
 {"key":"drjs_欧帝影院","name":"雷蒙影视 | 👺欧帝影院(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/欧帝影院.js"},
 {"key":"drjs_哔哩影视","name":"雷蒙影视 | 👺哔哩影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/哔哩影视.js"},
 {"key":"drjs_B站影视","name":"雷蒙影视 | 👺B站影视(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/B站影视.js"},
