@@ -193,7 +193,13 @@
 {"key":"csp_Yinyuetai_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮音悦台(MULTI)","type":3,"api":"csp_Yinyuetai","searchable":1,"changeable":0,"playerType":2},
 {"key":"csp_Iktv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮KTV(MULTI)","type":3,"api":"csp_Iktv","searchable":1,"changeable":0}, 
 
- 
+
+// ⇩⇩ T4 ⇩⇩ 
+{"key":"T4_360","name":"雷蒙影视 | 4️⃣360(T4)","type": 4,"api":"https://catbox.n13.club/360.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"T4_网易云音乐","name":"雷蒙影视 | 4️⃣网易云音乐(T4)","type":4,"api":"https://catbox.n13.club/wy.php"},
+{"key":"T4_爱听","name":"雷蒙影视 | 4️⃣爱听(T4)","type":4,"api":"https://catbox.n13.club/yy.php"},
+
+
 // ⇩⇩ 采集 ⇩⇩ 
 {"key":"xml_小胡","name":"雷蒙影视 | ️🚀小胡","type":1,"api":"http://cc.xzam.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_快车","name":"雷蒙影视 | ️🚀快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","动画片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
