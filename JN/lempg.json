@@ -85,6 +85,7 @@
 {"key":"csp_Meijumi","name":"雷蒙影视 | 💿美剧迷(SP)","type":3,"api":"csp_Meijumi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$https://www.meijumi.xyz/$$$null$$$1"},
 {"key":"csp_Moli","name":"雷蒙影视 | 💿HDmoli(SP)","type":3,"api":"csp_Moli","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://www.hdmoli.pro/$$$null$$$1$$$./N3RD/T/moli.json"},
 {"key":"csp_Panyq","name":"雷蒙影视 | 💿盘友圈(SP)","type":3,"api":"csp_Panyq","timeout":60,"ext":"./N3RD/T/pg.txt"},
+{"key":"csp_Xpanpan","name":"雷蒙影视 | 💿小盘盘(SP)","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://xpanpan.site$$$null$$$1"},
 {"key":"csp_AliShare","name":"雷蒙影视 | 💿阿里云盘分享(SP)","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/alishare.txt"},
 {"key":"csp_ThunderShare","name":"雷蒙影视 | 💿迅雷云盘分享(SP)","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/thundershare.txt"},
 {"key":"csp_QuarkShare","name":"雷蒙影视 | 💿夸克云盘分享(SP)","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/quarkshare.txt"},
