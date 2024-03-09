@@ -229,8 +229,8 @@
 {"key":"xml_淘片","name":"雷蒙影视 | ️🚀淘片","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_乐视","name":"雷蒙影视 | ️🚀乐视","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/","searchable":1,"filterable":0,"changeable":1,"categories":["国产剧","国产动漫","日韩动漫","大陆综艺","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 {"key":"xml_爱坤","name":"雷蒙影视 | ️🚀爱坤","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"xml_熊掌","name":"雷蒙影视 | ️🚀熊掌","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"filterable":0,"changeable":1,"categories":["国产剧","国产动漫","大陆综艺","欧美剧","日韩剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]}
 {"key":"xml_羽路","name":"雷蒙影视 | ️🚀羽路","type":1,"api":"https://ylu.cc/api.php/provide/vod/at/xml/","playUrl":"https://ylu.cc/","searchable":1,"quickSearch":1,"filterable":0,"categories":["电影","国产剧","综艺","动漫","记录片"]},
+{"key":"xml_熊掌","name":"雷蒙影视 | ️🚀熊掌","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"filterable":0,"changeable":1,"categories":["国产剧","国产动漫","大陆综艺","欧美剧","日韩剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]}
 
 
 /*
