@@ -48,8 +48,8 @@
 
 {"name":"雷蒙推荐",
 "list":[
-{"name":"我的电视","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/main/APP/my-tv-v1.6.1.apk","version":"安卓5以上专用版","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/lizongying/my-tv/main/app/src/main/res/drawable/logo.png"},
-{"name":"我的电视","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/main/APP/my-tv-v1.6.2.apk","version":"通用版","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/lizongying/my-tv/main/app/src/main/res/drawable/logo.png"},
+{"name":"我的电视","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/main/APP/my-tv-v1.6.3.apk","version":"安卓5以上专用版","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/lizongying/my-tv/main/app/src/main/res/drawable/logo.png"},
+{"name":"我的电视","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/main/APP/my-tv-v1.6.4.apk","version":"通用版","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/lizongying/my-tv/main/app/src/main/res/drawable/logo.png"},
 {"name":"FongMi影视","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","version":"JAVA v8a","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
 {"name":"FongMi影视","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","version":"JAVA v7a","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
 {"name":"FongMi影视","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk","version":"PYTHON v8a","icon":"https://gh.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
