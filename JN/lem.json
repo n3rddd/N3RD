@@ -197,6 +197,7 @@
 
 // ⇩⇩ T4 ⇩⇩ 
 {"key":"T4_360","name":"雷蒙影视 | 4️⃣360(T4)","type":4,"api":"https://catbox.n13.club/360.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"T4_短剧","name":"雷蒙影视 | 4️⃣短剧(T4)","type":4,"api":"https://catbox.n13.club/duanju.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"T4_音悦台","name":"雷蒙影视 | 4️⃣音悦台(T4)","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"T4_网易云音乐","name":"雷蒙影视 | 4️⃣网易云音乐(T4)","type":4,"api":"https://catbox.n13.club/wy.php"},
 {"key":"T4_爱听","name":"雷蒙影视 | 4️⃣爱听(T4)","type":4,"api":"https://catbox.n13.club/yyy.php"},
