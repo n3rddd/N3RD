@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0311.jar;md5;35115AF87A83073268D2F01F70C3CDA6",
+"spider":"./N3RD/J/lem0314.jar;md5;3740A68B9D2E1E60E5FD5959A3E2EFD8",
 
+//"spider":"./N3RD/J/lem0311.jar;md5;35115AF87A83073268D2F01F70C3CDA6",
 //"spider":"./N3RD/J/lem0306.jar;md5;72FCC1A181A2C771A53946A720EB7E50",
 //"spider":"./N3RD/J/lem0302.jar;md5;994F5F0553CB67519B1FA5002A7171BB",
 //"spider":"./N3RD/J/lem0224.jar;md5;65EA93F13E540AA4C501EEE0FBD4D09C",
@@ -91,6 +92,7 @@
 {"key":"csp_NanGua","name":"雷蒙影视 | 🎃南瓜影视(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Kkys","name":"雷蒙影视 | 💡酷看影视(SP)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"csp_YQKan ","name":"雷蒙影视 | 📺一起看(SP)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_BaiPiao","name":"雷蒙影视 | 👻白嫖影视(SP)","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_WoGG","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./N3RD/T/t.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 //{"key":"csp_Wogg2","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_Wogg2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"./N3RD/T/t.txt","filter":"./N3RD/T/wogg.json"}},
 {"key":"csp_YCyz","name":"雷蒙影视 | ☀原创(SP)","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
@@ -122,7 +124,7 @@
 {"key":"csp_Ying","name":"雷蒙影视 | 🤖樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"雷蒙影视 | 🤖异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kanqiu","name":"雷蒙影视 | ⚽看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
-{"key":"csp_Duanju","name":"雷蒙影视 | 🌭短剧(SP)","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"ext":"https://www.duanjutv.icu","style":{"type":"rect","ratio":1.433}},
+{"key":"csp_Duanju","name":"雷蒙影视 | 🌭短剧(SP)","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"csp_Kugou","name":"雷蒙影视 | 🎵酷狗音乐(SP)","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
 
 {"key":"csp_IQIYI_ZAL","name":"雷蒙影视 | 🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
@@ -210,6 +212,7 @@
 
  
 // ⇩⇩ 采集 ⇩⇩ 
+{"key":"vod_新星","name":"雷蒙影视 | ️🚀新星","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"vod_小胡","name":"雷蒙影视 | ️🚀小胡","type":1,"api":"http://cc.xzam.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_快车","name":"雷蒙影视 | ️🚀快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","动画片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
 {"key":"vod_火狐","name":"雷蒙影视 | ️🚀火狐","type":1,"style":{"type":"rect","ratio":0.8},"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
