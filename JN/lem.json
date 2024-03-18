@@ -215,7 +215,7 @@
 {"key":"csp_WexXb6v_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮新6V(MULTI)","type":3,"api":"csp_WexXb6v","searchable":1,"changeable":0},
 {"key":"csp_WexTwobt_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮两个BT(MULTI)","type":3,"api":"csp_WexTwobt","searchable":1,"changeable":0},
 {"key":"csp_WexPandalivetv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮韩国直播(MULTI)","type":3,"api":"csp_WexPandalivetv","searchable":0,"changeable":0},
-{"key":"csp_WexYinyuetai_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮音悦台(MULTI)","type":3,"api":"csp_WexYinyuetai","searchable":1,"changeable":0},
+{"key":"csp_WexYinyuetai_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮音悦台(MULTI)","type":3,"api":"csp_WexYinyuetai","searchable":1,"changeable":0,"playerType":2},
 {"key":"csp_WexIktv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮KTV(MULTI)","type":3,"api":"csp_WexIktv","searchable":1,"changeable":0},
 
 
