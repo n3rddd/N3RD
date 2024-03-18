@@ -193,9 +193,30 @@
 
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
-{"key":"csp_Fangniu4k_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮放牛(MULTI)","type":3,"api":"csp_Fangniu4k","searchable":1,"changeable":0},
-{"key":"csp_Yinyuetai_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮音悦台(MULTI)","type":3,"api":"csp_Yinyuetai","searchable":1,"changeable":0,"playerType":2},
-{"key":"csp_Iktv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮KTV(MULTI)","type":3,"api":"csp_Iktv","searchable":1,"changeable":0}, 
+{"key":"csp_WexNgys_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮南瓜(MULTI)","type":3,"api":"csp_WexNgys","searchable":1,"changeable":1},
+{"key":"csp_Wexxpgtv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮苹果(MULTI)","type":3,"api":"csp_Wexxpgtv","searchable":1,"changeable":1},
+{"key":"csp_WexTiantianys_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮天天(MULTI)","type":3,"api":"csp_WexTiantianys","searchable":1,"changeable":1},
+{"key":"csp_WexMingriys_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮明日(MULTI)","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1},
+{"key":"csp_WexFujutv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮腐剧(MULTI)","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
+{"key":"csp_WexKanmeiju_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮美剧(MULTI)","type":3,"api":"csp_WexKanmeiju","searchable":1,"changeable":1},
+{"key":"csp_WexFangniu4k_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮放牛(MULTI)","type":3,"api":"csp_WexFangniu4k","searchable":1,"changeable":1},
+{"key":"csp_WexShijuedy_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮视觉(MULTI)","type":3,"api":"csp_WexShijuedy","searchable":1,"changeable":1},
+{"key":"csp_WexNmys_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮农民(MULTI)","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
+{"key":"csp_Wexbaipiao_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮白嫖(MULTI)","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1},
+{"key":"csp_WexDiduanys_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮哔嘀(MULTI)","type":3,"api":"csp_WexBDys","searchable":1,"changeable":1},
+{"key":"csp_WexDiduanys_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮低端(MULTI)","type":3,"api":"csp_WexDiduanys","searchable":1,"changeable":1},
+{"key":"csp_WexF4kvm_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮纯享(MULTI)","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1},
+{"key":"csp_WexFreeok_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮OK(MULTI)","type":3,"api":"csp_WexFreeok","searchable":1,"changeable":0},
+{"key":"csp_Tvbyunv2_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮云播(MULTI)","type":3,"api":"csp_Tvbyunv2","searchable":1,"changeable":1},
+{"key":"csp_Lingsanys_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮第三(MULTI)","type":3,"api":"csp_Lingsanys","searchable":1,"changeable":1},
+{"key":"csp_Wexvipduanju_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮短剧1(MULTI)","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1},
+{"key":"csp_Wexduanju001_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮短剧2(MULTI)","type":3,"api":"csp_Wexduanju001","searchable":1,"changeable":1},
+{"key":"csp_WexMp4dy_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮MP4(MULTI)","type":3,"api":"csp_WexMp4dy","searchable":1,"changeable":0},
+{"key":"csp_WexXb6v_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮新6V(MULTI)","type":3,"api":"csp_WexXb6v","searchable":1,"changeable":0},
+{"key":"csp_WexTwobt_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮两个BT(MULTI)","type":3,"api":"csp_WexTwobt","searchable":1,"changeable":0},
+{"key":"csp_WexPandalivetv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮韩国直播(MULTI)","type":3,"api":"csp_WexPandalivetv","searchable":0,"changeable":0},
+{"key":"csp_WexYinyuetai_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮音悦台(MULTI)","type":3,"api":"csp_WexYinyuetai","searchable":1,"changeable":0},
+{"key":"csp_WexIktv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮KTV┃(MULTI)","type":3,"api":"csp_WexIktv","searchable":1,"changeable":0},
 
 
 // ⇩⇩ T4 ⇩⇩ 
