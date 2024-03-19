@@ -1,14 +1,12 @@
 {
 
-"spider":"./N3RD/J/lem0318.jar;md5;1D02088EEBCC5ABA3266783DA8921A45",
+"spider":"./N3RD/J/lem0319.jar;md5;269B8C4AEB52FD0C4FE3DF79E3AA0450",
 
+//"spider":"./N3RD/J/lem0318.jar;md5;1D02088EEBCC5ABA3266783DA8921A45",
 //"spider":"./N3RD/J/lem0314.jar;md5;3740A68B9D2E1E60E5FD5959A3E2EFD8",
 //"spider":"./N3RD/J/lem0311.jar;md5;35115AF87A83073268D2F01F70C3CDA6",
 //"spider":"./N3RD/J/lem0306.jar;md5;72FCC1A181A2C771A53946A720EB7E50",
 //"spider":"./N3RD/J/lem0302.jar;md5;994F5F0553CB67519B1FA5002A7171BB",
-//"spider":"./N3RD/J/lem0224.jar;md5;65EA93F13E540AA4C501EEE0FBD4D09C",
-//"spider":"./N3RD/J/lem0217.jar;md5;59B6FE2D1A1F6801377D44AD0F11C17F",
-//"spider":"./N3RD/J/lem0203.jar;md5;F98CBA0778451CB70BBC3E09F8E58D86",
 //"spider":"./N3RD/J/lem1211.jar;md5;32423EE6C5039465A0CA2FA3ECFCB864",fongmi阿里多线阿里
 
 "wallpaper":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/crimetv.png",
@@ -141,13 +139,12 @@
 {"key":"csp_TTian_追剧_QJ","name":"雷蒙影视 | ✈追剧(SP)","type":3,"api":"csp_TTian","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.kzjtv.com"},
 {"key":"csp_Fdys_QJ","name":"雷蒙影视 | ⚡发电(SP)","type":3,"api":"csp_Fdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmvod_QJ","name":"雷蒙影视 | 🍋柠檬(SP)","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmsvip.php?url="},
-{"key":"csp_qiao3_时常_QJ","name":"雷蒙影视 | 🕐时常(SP)","type":3,"api":"csp_qiao3","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"},
-{"key":"csp_Skapp_TVB云播_QJ","name":"雷蒙影视 | 🍥TVB云播(APPSK)","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"},
-{"key":"csp_qiao_星星_QJ","name":"雷蒙影视 | 🍏星星(APPTO)","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing"},
+{"key":"vod_AI1","name":"雷蒙影视 | ️🚀AI1","type":1,"api":"http://124.222.116.5/macos/seven/api.php/provide/vod/","playerType":2,"searchable":1,"quickSearch":1},
+{"key":"vod_AI2","name":"雷蒙影视 | ️🚀AI2","type":1,"api":"http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist","playerType":2,"searchable":1,"quickSearch":1},
+{"key":"vod_AI3","name":"雷蒙影视 | ️🚀AI3","type":1,"api":"http://124.222.30.115/mb/api.php/provide/vod/?ac=videolist","playerType":2,"searchable":1,"quickSearch":1},
 {"key":"csp_KanKan_QJ","name":"雷蒙影视 | 👁看看视频(SP)","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ShiLiuDY_QJ","name":"雷蒙影视 | 🍇石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
-{"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc|rzys875|182"},
-{"key":"csp_Music_QJ","name":"雷蒙影视 | 🎵音乐欣赏(SP)","api":"csp_Music","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://pandown.pro/tvbox/mayi.txt"},
 {"key":"csp_Dygang_QJ","name":"雷蒙影视 | 🚢电影港(SP)","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ QILE SPIDER ⇩⇩ 
