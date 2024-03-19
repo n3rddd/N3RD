@@ -218,19 +218,6 @@
 {"key":"csp_WexYinyuetai_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮音悦台(MULTI)","type":3,"api":"csp_WexYinyuetai","searchable":1,"changeable":0,"playerType":2},
 {"key":"csp_WexIktv_MULTIJAR","jar":"./N3RD/J/wex.jar","name":"雷蒙影视 | 🐮KTV(MULTI)","type":3,"api":"csp_WexIktv","searchable":1,"changeable":0},
 
-
-// ⇩⇩ T4 ⇩⇩ 
-{"key":"T4_白嫖影视","name":"雷蒙影视 | 4️⃣白嫖影视(T4)","type":4,"api":"https://catbox.n13.club/bpys.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"T4_极光TV","name":"雷蒙影视 | 4️⃣极光TV(T4)","type":4,"api":"https://catbox.n13.club/jiguang.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"T4_360","name":"雷蒙影视 | 4️⃣360(T4)","type":4,"api":"https://catbox.n13.club/360.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"T4_央视频","name":"雷蒙影视 | 4️⃣央视频(T4)","type":4,"api":"https://catbox.n13.club/cctv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"T4_短剧屋","name":"雷蒙影视 | 4️⃣短剧屋(T4)","type":4,"api":"https://catbox.n13.club/duanju5.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"T4_短剧大全","name":"雷蒙影视 | 4️⃣短剧大全(T4)","type":4,"api":"https://catbox.n13.club/duanju.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"T4_音悦台","name":"雷蒙影视 | 4️⃣音悦台(T4)","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"T4_IKTV","name":"雷蒙影视 | 4️⃣IKTV(T4)","type":4,"api":"https://catbox.n13.club/iktv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"T4_A8音乐","name":"雷蒙影视 | 4️⃣A8音乐(T4)","type":4,"api":"https://catbox.n13.club/a8.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"T4_爱听","name":"雷蒙影视 | 4️⃣爱听(T4)","type":4,"api":"https://catbox.n13.club/yyy.php"},
-
  
 // ⇩⇩ 采集 ⇩⇩ 
 {"key":"vod_小胡","name":"雷蒙影视 | ️🚀小胡","type":1,"api":"http://cc.xzam.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
