@@ -61,6 +61,7 @@
   
 // ⇩⇩ 阿里夸克迅雷UC网盘 ⇩⇩ 
 {"key":"csp_Config","name":"雷蒙影视 | 💿网盘及弹幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
+{"key":"csp_PushShare","name":"雷蒙影视 | 💿我的资源分享(SP)","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_PanSou","name":"雷蒙影视 | 💿盘搜(SP)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_EightEight88Pan","name":"雷蒙影视 | 💿88网盘(SP)","type":3,"api":"csp_EightEight","timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://662688.xyz"},
 {"key":"csp_Pan99","name":"雷蒙影视 | 💿盘99(SP)","type":3,"api":"csp_Pan99","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://pan99.xyz$$$null$$$1"},
@@ -88,7 +89,6 @@
 {"key":"csp_AliShare","name":"雷蒙影视 | 💿阿里云盘分享(SP)","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/alishare.txt"},
 {"key":"csp_ThunderShare","name":"雷蒙影视 | 💿迅雷云盘分享(SP)","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/thundershare.txt"},
 {"key":"csp_QuarkShare","name":"雷蒙影视 | 💿夸克云盘分享(SP)","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/quarkshare.txt"},
-{"key":"csp_PushShare","name":"雷蒙影视 | 💿我的资源分享(SP)","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_PikPakShare","name":"雷蒙影视 | 💿PikPak分享(SP)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/p.json$$$./N3RD/T/p.json.txt.gz"},
 {"key":"csp_PikPakShare181","name":"雷蒙影视 | 💿PikPak分享 18+[Ⅰ]","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/pa.json$$$./N3RD/T/pa.json.txt.gz"},
 {"key":"csp_PikPakShare182","name":"雷蒙影视 | 💿PikPak分享 18+[Ⅱ]","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/pa1.json$$$./N3RD/T/pa1.json.txt.gz"},
