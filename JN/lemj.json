@@ -50,6 +50,9 @@
 
 "sites":[
 
+{"key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
+
+// ⇩⇩ 豆瓣片单 ⇩⇩ 
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视JS专线 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视JS专线 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search1_min.js"},
 
