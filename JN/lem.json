@@ -228,6 +228,18 @@
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexxsmp3_MULTIJAR","name":"雷蒙影视 | 🐮相声(MULTI)","type":3,"api":"csp_Wexxsmp3","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexpsmp3_MULTIJAR","name":"雷蒙影视 | 🐮评书(MULTI)","type":3,"api":"csp_Wexpsmp3","searchable":1,"changeable":0},
 
+
+// ⇩⇩ T4 ⇩⇩ 
+{"key":"T4_白嫖影视","name":"雷蒙影视 | 4️⃣白嫖影视(T4)","type":4,"api":"https://catbox.n13.club/bpys.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"T4_极光TV","name":"雷蒙影视 | 4️⃣极光TV(T4)","type":4,"api":"https://catbox.n13.club/jiguang.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"T4_360","name":"雷蒙影视 | 4️⃣360(T4)","type":4,"api":"https://catbox.n13.club/360.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"T4_央视频","name":"雷蒙影视 | 4️⃣央视频(T4)","type":4,"api":"https://catbox.n13.club/cctv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"T4_音悦台","name":"雷蒙影视 | 4️⃣音悦台(T4)","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"T4_IKTV","name":"雷蒙影视 | 4️⃣IKTV(T4)","type":4,"api":"https://catbox.n13.club/iktv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"T4_网易云音乐","name":"雷蒙影视 | 4️⃣网易云音乐(T4)","type":4,"api":"https://catbox.n13.club/wy.php"},
+{"key":"T4_A8音乐","name":"雷蒙影视 | 4️⃣A8音乐(T4)","type":4,"api":"https://catbox.n13.club/a8.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"T4_爱听","name":"雷蒙影视 | 4️⃣爱听(T4)","type":4,"api":"https://catbox.n13.club/yyy.php"},
+ 
  
 // ⇩⇩ 采集 ⇩⇩ 
 {"key":"vod_快车","name":"雷蒙影视 | ️🚀快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","动画片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
@@ -258,11 +270,12 @@
 {"key":"vod_百度","name":"雷蒙影视 | ️🚀百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod","playUrl":"https://jx.jxbdzyw.com/m3u8/?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"vod_无尽","name":"雷蒙影视 | ️🚀无尽","type":1,"api":"https://api.wujinapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://jx.wujinkk.com/dplayer/?url="},
 {"key":"vod_天空","name":"雷蒙影视 | ️🚀天空","type":1,"api":"http://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
+{"key":"vod_红牛","name":"雷蒙影视 | ️🚀红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_熊掌","name":"雷蒙影视 | ️🚀熊掌","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"filterable":0,"changeable":1,"categories":["国产剧","国产动漫","大陆综艺","欧美剧","日韩剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 {"key":"xml_海兔","name":"雷蒙影视 | ️🚀海兔","type":0,"api":"https://www.haituu.tv/api.php/provide/vod/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"xml_金鹰","name":"雷蒙影视 | ️🚀金鹰","type":0,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]}
 
-
+ 
 /*-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 // ⇩⇩ 磁力MAGNET ⇩⇩ 
 {"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},
