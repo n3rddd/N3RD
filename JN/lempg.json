@@ -111,9 +111,10 @@
 {"key":"drjs_libvio_PG","name":"雷蒙影视 | 📀Libvio(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/libvio.js"},
 {"key":"drjs_kkpans_PG","name":"雷蒙影视 | 📀KK网盘(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kkpans.js"},
 
-{"key":"csp_Wogg","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt$$$https://wogg.xyz/$$$1"},
-{"key":"csp_Wogg_运输车","name":"雷蒙影视 | 👽运输车(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$https://www.weixine.net/$$$null$$$1$$$./N3RD/T/wogg.json"},
-{"key":"csp_Wobg","name":"雷蒙影视 | 👽玩偶表哥(SP)","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt$$$https://wobge.run.goorm.io$$$1"},  
+{"key":"csp_Wogg","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt$$$https://wogg.xyz/$$$null$$$1$$$./N3RD/T/wogg.json"},
+{"key":"csp_Wogg_影视车","name":"雷蒙影视 | 👽影视车(SP)","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$https://www.weixine.link/$$$null$$$1$$$./N3RD/T/wogg.json"},
+{"key":"csp_Wobg","name":"雷蒙影视 | 👽玩偶表哥(SP)","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./N3RD/T/wogg.json"},  
+{"key":"csp_Wobg_玩你老哥","name":"雷蒙影视 | 👽玩你老哥(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://tv.yydsys.top/$$$null$$$1$$$./N3RD/T/wogg.json"}, 
 {"key":"csp_Hdhive","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt$$$null$$$1"},
 {"key":"csp_Gitcafe","name":"雷蒙影视 | 😺小纸条(阿里APP扫码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt"},
 {"key":"csp_Zhaozy","name":"雷蒙影视 | 😺找资源(阿里APP扫码)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/pg.txt$$$fanty$$$qqq111"},
