@@ -124,31 +124,6 @@
 {"key":"csp_Dovx","name":"雷蒙影视 | 😺七夜(阿里APP扫码)","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 😺PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_YiSo","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/yiso.txt"},
-
-
-/*
-// ⇩⇩ OK包 ⇩⇩ 
-{"key":"csp_Config_OK_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1}},
-{"key":"csp_Sp360_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣360弹幕版(MULTI)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"csp_Jianpian_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣荐片弹幕版(MULTI)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"csp_NiNi_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣泥巴弹幕版(MULTI)","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext":{"danmu":true}},
-{"key":"玩偶哥哥弹幕版_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣玩偶哥哥弹幕版(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","filter":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json","danmu":true}},
-{"key":"运输车弹幕版_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣运输车弹幕(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","filter":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json","cookie":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/c.txt","site":"https://www.weixine.net","danmu":true},"timeout":25},
-{"key":"玩偶表哥弹幕版_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣玩偶表哥弹幕版(MULTI)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","cookie":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/c.txt","danmu":true}},
-{"key":"我哥哥弹幕版_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣我哥哥弹幕版(MULTI)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","cookie":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/c.txt","site":"http://www.ttkx.live","danmu":true},"timeout":25},
-{"key":"csp_Tzfile_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣团长弹幕版(MULTI)","type":3,"api":"csp_Tzfile","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","cookie":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/c.txt","danmu":true},"timeout":25},
-{"key":"csp_XiaoZhiTiao_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣小纸条弹幕版(MULTI)","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","danmu":true}},
-{"key":"csp_PanSearch_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣PanSearch弹幕版(MULTI)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","danmu":true}},
-{"key":"csp_Zhaozy_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣找资源弹幕版(MULTI)","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","username":"zhaoziyuannb","password":"zhaoziyuannb","danmu":true}},
-{"key":"csp_Dovx_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣七夜弹幕版(MULTI)","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","danmu":true}},
-{"key":"csp_PanSou_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣盘搜弹幕版(MULTI)","type":3,"api":"csp_PanSou","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","danmu":true}},
-{"key":"csp_YiSo_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣易搜弹幕版(MULTI)","type":3,"api":"csp_YiSo","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","danmu":true,"cookie":"JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"}},
-{"key":"csp_Upys_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣Up云搜(MULTI)","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","danmu":true}},
-{"key":"csp_Yunpan4k_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣云盘4K(MULTI)","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/t.txt","danmu":true}},
-{"key":"csp_QuPanSou_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣趣盘搜(MULTI)","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/c.txt","danmu":true}},
-{"key":"csp_Qkpanso_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣夸克盘搜(MULTI)","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/c.txt","danmu":true}},
-{"key":"csp_KsLive_MULTIJAR","jar":"./N3RD/J/ok.jar","name":"雷蒙影视 | #️⃣快手直播(MULTI)","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433}},
-*/
   
 
 // ⇩⇩ 磁力MAGNET ⇩⇩ 
@@ -168,7 +143,8 @@
 {"key":"csp_Clg","name":"雷蒙影视 | 🧲磁力狗(SP)","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://clg.clgvip1.xyz/$$$proxy$$$1","style":{"type":"rect","ratio":1.5}},
 {"key":"csp_BtSearch","name":"雷蒙影视 | 🧲BTSearch(SP)","type":3,"api":"csp_BtSearch","searchable":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$null$$$1"},
 {"key":"csp_BtSow","name":"雷蒙影视 | 🧲BTSow(SP)","type":3,"api":"csp_BtSow","searchable":1,"changeable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$null$$$null$$$1"},
-  
+
+
 // ⇩⇩ 采集 ⇩⇩ 
 {"key":"lfjs_爱看机器人","name":"雷蒙影视 | 👹爱看机器人(LFJS)","type":3,"api":"./EXT/JS/lf_ikanbot5_2_min.js"},
 {"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👹爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/爱看机器人2.js"},
