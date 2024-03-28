@@ -63,6 +63,7 @@
 // ⇩⇩ 阿里夸克迅雷UC网盘 ⇩⇩ 
 {"key":"csp_Config","name":"雷蒙影视 | 💿网盘及弹幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./N3RD/T/pg.txt"},
 {"key":"csp_PushShare","name":"雷蒙影视 | 💿我的资源分享(SP)","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
+{"key":"csp_Xinshijue","name":"雷蒙影视 | 💿新视觉(SP)","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://www.80yy3.com/$$$proxy$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_YingSo","name":"雷蒙影视 | 💿影搜(SP)","type":3,"api":"csp_YingSo","timeout":60,"ext":"./N3RD/T/pg.txt"},
 {"key":"csp_YunPan","name":"雷蒙影视 | 💿云盘资源(SP)","type":3,"api":"csp_YunPan","timeout":60,"ext":"./N3RD/T/pg.txt$$$null$$$proxy$$$1"},
 {"key":"csp_YunPanOne","name":"雷蒙影视 | 💿云盘One(SP)","type":3,"api":"csp_YunPanOne","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/pg.txt"},
