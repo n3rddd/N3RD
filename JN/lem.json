@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0325.jar;md5;8990AF2131D24434AAC771921453A5BD",
+"spider":"./N3RD/J/lem0329.jar;md5;D68C90F6EBC0AB7BCDC4389724A8165D",
 
+//"spider":"./N3RD/J/lem0325.jar;md5;8990AF2131D24434AAC771921453A5BD",
 //"spider":"./N3RD/J/lem0319.jar;md5;269B8C4AEB52FD0C4FE3DF79E3AA0450",
 //"spider":"./N3RD/J/lem0318.jar;md5;1D02088EEBCC5ABA3266783DA8921A45",
 //"spider":"./N3RD/J/lem0314.jar;md5;3740A68B9D2E1E60E5FD5959A3E2EFD8",
@@ -93,7 +94,7 @@
 {"key":"csp_Kkys","name":"雷蒙影视 | 💡酷看影视(SP)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"csp_LiteApple","name":"雷蒙影视 | 🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_YQKan ","name":"雷蒙影视 | 📺一起看(SP)","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_BaiPiao","name":"雷蒙影视 | 👻白嫖影视(SP)","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_BaiPiao","name":"雷蒙影视 | 👻白嫖影视(SP)","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
 {"key":"csp_WoGG","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./N3RD/T/t.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 //{"key":"csp_Wogg2","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_Wogg2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"./N3RD/T/t.txt","filter":"./N3RD/T/wogg.json"}},
 {"key":"csp_YCyz","name":"雷蒙影视 | ☀原创(SP)","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
@@ -110,6 +111,8 @@
 {"key":"csp_Voflix","name":"雷蒙影视 | 🌀Voflix(SP)","type":"3","api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.me/"},
 {"key":"csp_Bttwoo","name":"雷蒙影视 | ✌两个BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
+{"key":"csp_Cs1369","name":"雷蒙影视 | 9️⃣996影院(SP)","type":3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_XingYiYing","name":"雷蒙影视 | 🌟星易影(SP)","type":3,"api":"csp_XingYiYing","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppYsV2_咕噜","name":"雷蒙影视 | 🖤咕噜(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
 {"key":"csp_App_短剧_ZAL","name":"雷蒙影视 | ️🖤短剧(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://zzdj.cc/api.php/provide/vod"}, 
 {"key":"csp_SP33","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -124,7 +127,6 @@
 {"key":"csp_Ying","name":"雷蒙影视 | 🤖樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"雷蒙影视 | 🤖异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kanqiu","name":"雷蒙影视 | ⚽看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
-{"key":"csp_Duanju","name":"雷蒙影视 | 🌭短剧(SP)","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"csp_Kugou","name":"雷蒙影视 | 🎵酷狗音乐(SP)","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
 
 {"key":"csp_IQIYI_ZAL","name":"雷蒙影视 | 🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
@@ -173,7 +175,12 @@
 {"key":"csp_CandyMuj_yzzy","name":"雷蒙影视 | 💯优质资源(SP)","type":3,"api":"csp_CandyMuj_yzzy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_yinfans","name":"雷蒙影视 | 🧲音范丝(SP)","type":3,"api":"csp_CandyMuj_yinfans","searchable":1,"quickSearch":1,"filterable":1},
 
-// ⇩⇩ 搜索 ⇩⇩ 
+// ⇩⇩ 磁力MAGNET ⇩⇩ 
+{"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},
+{"key":"csp_PiaoHua","name":"雷蒙影视 | 🧲新飘花电影网(SP)","type":3,"api":"csp_PiaoHua","searchable":1,"quickSearch":1,"filterable":1},
+
+// ⇩⇩ 网盘搜索 ⇩⇩ 
+{"key":"csp_QuarkPanso","name":"雷蒙影视 | 🐺夸搜(SP)","type":3,"api":"csp_QuarkPanso","searchable":1,"quickSearch":1,"changeable":0,"ext":"./N3RD/T/t.txt---4k|auto|fhd"},
 {"key":"csp_Hdhive_ZAL","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_Paper_ZAL","name":"雷蒙影视 | 😺小纸条(阿里APP扫码)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
 {"key":"csp_XiaoZhiTiao","name":"雷蒙影视 | 😺小纸条(备用)","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
@@ -279,10 +286,6 @@
  
 /*-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 // ⇩⇩ 磁力MAGNET ⇩⇩ 
-{"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},
-{"key":"csp_Xb6v","name":"雷蒙影视 | 🧲6V电影网(备用)","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_PiaoHua","name":"雷蒙影视 | 🧲新飘花电影网(SP)","type":3,"api":"csp_PiaoHua","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_Mp4Mov_XYQ","name":"雷蒙影视 | 🧲Mp4电影(SP)","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SeedHub_XYQ","name":"雷蒙影视 | 🧲SeedHub(SP)","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_KubaCL_XYQ","name":"雷蒙影视 | 🧲酷吧电影(SP)","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
