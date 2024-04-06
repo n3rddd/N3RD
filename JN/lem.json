@@ -216,7 +216,7 @@
 {"jar":"./N3RD/J/wex.jar","key":"csp_Tvbyunv2_MULTIJAR","name":"雷蒙影视 | 🐮云播(MULTI)","type":3,"api":"csp_Tvbyunv2","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Lingsanys_MULTIJAR","name":"雷蒙影视 | 🐮第三(MULTI)","type":3,"api":"csp_Lingsanys","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexvipduanju_MULTIJAR","name":"雷蒙影视 | 🐮短剧(MULTI)","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1},
-{"jar":"./N3RD/J/wex.jar","key":"csp_Wexbtbbt_MULTIJAR","name":"雷蒙影视 | 🐮BT下载(MULTI)","type":3,"api":"csp_Wexbtbbt","searchable":1,"changeable":0,"style":{"type":"list","ratio":1}},
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wexbtbbt_MULTIJAR","name":"雷蒙影视 | 🐮BT之家(MULTI)","type":3,"api":"csp_Wexbtbbt","searchable":1,"changeable":0,"style":{"type":"list","ratio":1}},
 {"jar":"./N3RD/J/wex.jar","key":"csp_WexMp4dy_MULTIJAR","name":"雷蒙影视 | 🐮MP4(MULTI)","type":3,"api":"csp_WexMp4dy","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_WexXb6v_MULTIJAR","name":"雷蒙影视 | 🐮新6V(MULTI)","type":3,"api":"csp_WexXb6v","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_WexTwobt_MULTIJAR","name":"雷蒙影视 | 🐮两个BT(MULTI)","type":3,"api":"csp_WexTwobt","searchable":1,"changeable":0},
