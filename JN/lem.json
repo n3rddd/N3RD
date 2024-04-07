@@ -112,8 +112,6 @@
 {"key":"csp_AppYsV2_咕噜","name":"雷蒙影视 | 🖤咕噜(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
 {"key":"csp_App_短剧_ZAL","name":"雷蒙影视 | ️🖤短剧(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://zzdj.cc/api.php/provide/vod"}, 
 {"key":"csp_Yj1211","name":"雷蒙影视 | 🎙JustLive直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"csp_NiNi","name":"雷蒙影视 | 🏝泥巴影院(SP)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"socks5://127.0.0.1:10072"},
-{"key":"csp_Star","name":"雷蒙影视 | ⭐星星(SP)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"socks5://127.0.0.1:10072"},
 {"key":"csp_Anime1","name":"雷蒙影视 | 🤖Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_Dm84","name":"雷蒙影视 | 🤖动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_Ying","name":"雷蒙影视 | 🤖樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
@@ -193,6 +191,9 @@
 
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
+{"jar":"./N3RD/J/pg.jar","key":"csp_NiNi_PG","name":"雷蒙影视 | 🏝泥巴(SP)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"socks5://127.0.0.1:10072"},
+{"jar":"./N3RD/J/pg.jar","key":"csp_Star_PG","name":"雷蒙影视 | ⭐星星(SP)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"socks5://127.0.0.1:10072"},
+
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexconfig_MULTIJAR","name":"雷蒙影视 | 🐮配置中心","type":3,"api":"csp_Wexconfig","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.43}},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wogg_MULTIJAR","name":"雷蒙影视 | 🐮玩偶(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_WexKuyun77_MULTIJAR","name":"雷蒙影视 | 🐮七七(MULTI)","type":3,"api":"csp_WexKuyun77","searchable":1,"changeable":1},
