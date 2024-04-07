@@ -112,7 +112,6 @@
 {"key":"csp_AppYsV2_咕噜","name":"雷蒙影视 | 🖤咕噜(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
 {"key":"csp_App_短剧_ZAL","name":"雷蒙影视 | ️🖤短剧(APP)","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://zzdj.cc/api.php/provide/vod"}, 
 {"key":"csp_Yj1211","name":"雷蒙影视 | 🎙JustLive直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"csp_Tangrenjie","name":"雷蒙影视 | 🍜唐人街(需翻墙)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_NiNi","name":"雷蒙影视 | 🏝泥巴影院(需翻墙)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Star","name":"雷蒙影视 | ⭐星星(需翻墙)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Anime1","name":"雷蒙影视 | 🤖Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
