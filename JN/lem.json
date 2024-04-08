@@ -18,7 +18,7 @@
 {"name":"HOTELLive","type":0,"url":"https://gh.isteed.cc/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"雷蒙Live","type":0,"url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"央视频","type":0,"url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/parse.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YOUTUBE直播","type":0,"url":"http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/YTTV.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YOUTUBE直播","type":0,"url":"https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/YTTV.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"LEMLive","type":0,"url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FTYLive","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"MVMLive","type":0,"url":"https://gh.isteed.cc/https:/raw.githubusercontent.com/myvmiao/tv/main/e.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -191,8 +191,8 @@
 
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
-{"jar":"./N3RD/J/pg.jar","key":"csp_NiNi_PG","name":"雷蒙影视 | 🏝泥巴(SP)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"socks5://127.0.0.1:10073"},
-{"jar":"./N3RD/J/pg.jar","key":"csp_Star_PG","name":"雷蒙影视 | ⭐星星(SP)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"socks5://127.0.0.1:10073"},
+{"jar":"./N3RD/J/pg.jar","key":"csp_NiNi_PG","name":"雷蒙影视 | 🏝泥巴(SP)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"socks5://127.0.0.1:10071"},
+{"jar":"./N3RD/J/pg.jar","key":"csp_Star_PG","name":"雷蒙影视 | ⭐星星(SP)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"socks5://127.0.0.1:10074"},
 
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexconfig_MULTIJAR","name":"雷蒙影视 | 🐮配置中心","type":3,"api":"csp_Wexconfig","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.43}},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wogg_MULTIJAR","name":"雷蒙影视 | 🐮玩偶(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"changeable":1},
