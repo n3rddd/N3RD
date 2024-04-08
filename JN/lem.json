@@ -191,8 +191,8 @@
 
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
-{"jar":"./N3RD/J/pg.jar","key":"csp_NiNi_PG","name":"雷蒙影视 | 🏝泥巴(SP)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"socks5://127.0.0.1:10072"},
-{"jar":"./N3RD/J/pg.jar","key":"csp_Star_PG","name":"雷蒙影视 | ⭐星星(SP)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"socks5://127.0.0.1:10072"},
+{"jar":"./N3RD/J/pg.jar","key":"csp_NiNi_PG","name":"雷蒙影视 | 🏝泥巴(SP)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"socks5://127.0.0.1:10073"},
+{"jar":"./N3RD/J/pg.jar","key":"csp_Star_PG","name":"雷蒙影视 | ⭐星星(SP)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"socks5://127.0.0.1:10073"},
 
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexconfig_MULTIJAR","name":"雷蒙影视 | 🐮配置中心","type":3,"api":"csp_Wexconfig","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.43}},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wogg_MULTIJAR","name":"雷蒙影视 | 🐮玩偶(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"changeable":1},
