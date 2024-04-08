@@ -56,5 +56,5 @@
 "wgcf_vless_path":"/?ed=2048",
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
-"wgcf_vless_tls":false
+"wgcf_vless_tls":true
 }
