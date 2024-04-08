@@ -42,7 +42,7 @@
 "pikpak_flags":"4k",
 "pikpak_thread_limit":2,
 "pikpak_vip_thread_limit":2,
-"pikpak_proxy":"socks5://127.0.0.1:10074",
+"pikpak_proxy":"socks5://127.0.0.1:10071",
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
 "wgcf_key":"MDWlpWPJz/+tuZXIpv1SAngnLNKDaSVnkeqj9cRblnE=",
@@ -51,10 +51,10 @@
 "wgcf_xray_url":"./xray.gz",
 "wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"d4736153-2626-4028-838b-7a68dae1525f",
-"wgcf_vless_optname":"worker-billowing-cake-9edd.vejipwv079.workers.dev",
+"wgcf_vless_optname":"www.csgo.com:80",
 "wgcf_vless_worker":"worker-billowing-cake-9edd.vejipwv079.workers.dev",
 "wgcf_vless_path":"/?ed=2048",
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
-"wgcf_vless_tls":true
+"wgcf_vless_tls":false
 }
