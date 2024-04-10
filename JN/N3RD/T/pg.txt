@@ -46,7 +46,7 @@
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
 "wgcf_key":"MDWlpWPJz/+tuZXIpv1SAngnLNKDaSVnkeqj9cRblnE=",
-"wgcf_key2":"ME2r8aARwLJNzveZi5IIWaSDbW+HORsW3hJic7PPKE0=",
+"wgcf_key2":"MGVAErlMtU5I1h9NuhzobOPES40TDC3OA0WEHfg/Gk4=",
 "wgcf_ipport":"162.159.195.64:8742",
 "wgcf_xray_url":"./xray.gz",
 "wgcf_json_url":"./wgcf.json",
