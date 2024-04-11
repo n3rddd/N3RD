@@ -49,7 +49,6 @@
 "wgcf_key2":"6Br1TRK+4QBaIE6tbSK7tcSZxUDSaggkAc3frRC1WEg=",
 "wgcf_ipport":"162.159.195.54:928",
 "wgcf_xray_url":"./xray.gz",
-"wgcf_geoip_url":"./geoip.dat.gz",
 "wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"d4736153-2626-4028-838b-7a68dae1525f",
 "wgcf_vless_optname":"www.visa.com.sg:80",
