@@ -239,7 +239,7 @@
 		}
 	],
 	"routing": {
-		"domainStrategy": "AsIs",
+		"domainStrategy": "IPOnDemand",
 		"rules": [
 			{
 				"type": "field",
@@ -247,6 +247,20 @@
 					"127.0.0.1"
 				],
 				"outboundTag": "direct"
+			},
+			{
+				"ip": [
+					"geoip:private"
+				],
+				"outboundTag": "direct",
+				"type": "field"
+			},
+			{
+				"ip": [
+					"geoip:cn"
+				],
+				"outboundTag": "direct",
+				"type": "field"
 			},
 			{
 				"type": "field",
