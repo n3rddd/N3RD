@@ -52,7 +52,7 @@
 "wgcf_geoip_url":"./geoip.dat.gz",
 "wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"d4736153-2626-4028-838b-7a68dae1525f",
-"wgcf_vless_optname":"www.visa.com.sg:80",
+"wgcf_vless_optname":"www.zsu.gov.ua:80",
 "wgcf_vless_worker":"worker-billowing-cake-9edd.vejipwv079.workers.dev",
 "wgcf_vless_path":"/?ed=2048",
 "wgcf_vless_protocol":"vless",
