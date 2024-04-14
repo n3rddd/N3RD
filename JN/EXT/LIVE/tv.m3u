@@ -12,6 +12,16 @@ https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV2.mkv
 #EXTINF:-1 tvg-name="雷蒙影视概念宣传片 PV3" tvg-logo="https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON3.png" group-title="🌞雷蒙影视直播",雷蒙影视概念宣传片 PV3
 https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV3.mkv
 
+#EXTINF:-1 tvg-name="雷蒙影视概念宣传片 PV1" tvg-logo="https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON1.png" group-title="🌞雷蒙影视直播",雷蒙影视概念宣传片 PV1
+https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
+#EXTINF:-1 tvg-name="雷蒙影视概念宣传片 PV2" tvg-logo="https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON2.png" group-title="🌞雷蒙影视直播",雷蒙影视概念宣传片 PV2
+https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
+
+#EXTINF:-1 tvg-name="雷蒙影视概念宣传片 PV1" tvg-logo="https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON1.png" group-title="🌞雷蒙影视直播",雷蒙影视概念宣传片 PV1
+https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
+#EXTINF:-1 tvg-name="雷蒙影视概念宣传片 PV2" tvg-logo="https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON2.png" group-title="🌞雷蒙影视直播",雷蒙影视概念宣传片 PV2
+https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
+
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🇨🇳央视频",CCTV1综合
 video://https://yangshipin.cn/#/tv/home?pid=600001859
