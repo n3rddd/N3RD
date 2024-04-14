@@ -7,6 +7,12 @@
 雷蒙影视概念宣传片 PV2,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV2.mkv
 雷蒙影视概念宣传片 PV3,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV3.mkv
 
+雷蒙影视主题曲 #1,https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
+雷蒙影视主题曲 #2,https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
+
+雷蒙影视主题曲 #1,https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
+雷蒙影视主题曲 #2,https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
+
 
 🇹🇼YOUTUBE直播,#genre#
 ﻿鳳凰資訊,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10071|127.0.0.1:10072|127.0.0.1:10074&url=https://m.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
