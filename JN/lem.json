@@ -174,7 +174,6 @@
 {"key":"csp_PanSou","name":"雷蒙影视 | 🐱盘搜(阿里APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"aliToken":"./N3RD/T/t.txt","from":"4k|auto|fhd"}},
 {"key":"csp_UpYun","name":"雷蒙影视 | 😺云搜(阿里APP扫码)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"aliToken":"./N3RD/T/t.txt","from":"4k|auto|fhd"}},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 😺PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"aliToken":"./N3RD/T/t.txt","from":"4k|auto|fhd"}},
-{"key":"csp_Hdhive_ZAL","name":"雷蒙影视 | 😺影巢(阿里APP扫码)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/t.txt"},
 
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./N3RD/T/a.json"},
 {"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt","jar":"./N3RD/J/pg.jar"},
@@ -238,6 +237,7 @@
 
 
 // ⇩⇩ T4 ⇩⇩ 
+{"key":"T4_豆瓣推荐","name":"雷蒙影视 | 4️⃣豆瓣推荐(T4)","type":4,"api":"https://catbox.n13.club/douban.php"}
 {"key":"T4_采集合集","name":"雷蒙影视 | 4️⃣采集合集(T4)","type":4,"api":"https://catbox.n13.club/caiji.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"T4_白嫖影视","name":"雷蒙影视 | 4️⃣白嫖影视(T4)","type":4,"api":"https://catbox.n13.club/bpys.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"T4_极光TV","name":"雷蒙影视 | 4️⃣极光TV(T4)","type":4,"api":"https://catbox.n13.club/jiguang.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
@@ -365,6 +365,10 @@
 {"name":"二","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
 {"name":"小","type":1,"url":"http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="},
 {"name":"帅","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
+
+//QJ
+{"name":"巧技","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"]}},
+{"name":"巧技二","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"]}},
 
 //PGY
 {"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
