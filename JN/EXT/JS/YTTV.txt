@@ -86,13 +86,6 @@ K-POP Girl Group,https://www.youtube.com/watch?v=k2F1XZxPLOA
 KBS WORLD TV,https://www.youtube.com/watch?v=yC0OLhiEMLg
 
 
-🇭🇰鳳凰新聞,#genre#
-parse=1
-凤凰卫视资讯台,https://www.histar.tv/live/phtv-info
-parse=1
-凤凰卫视中文台,https://www.histar.tv/live/phtv-cn
-
-
 ☕好趣網/parse,#genre#
 CCTV1 綜合,http://tv.haoqu99.com/1/cctv1.html
 CCTV13 新聞,http://tv.haoqu99.com/1/cctv13.html
