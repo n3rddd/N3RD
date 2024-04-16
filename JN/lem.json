@@ -214,7 +214,7 @@
 
 
 // ⇩⇩ T4 ⇩⇩ 
-{"key":"T4_豆瓣推荐","name":"雷蒙影视 | 4️⃣豆瓣推荐(T4)","type":4,"api":"https://catbox.n13.club/douban.php"}
+{"key":"T4_豆瓣推荐","name":"雷蒙影视 | 4️⃣豆瓣推荐(T4)","type":4,"api":"https://catbox.n13.club/douban.php"},
 {"key":"T4_采集合集","name":"雷蒙影视 | 4️⃣采集合集(T4)","type":4,"api":"https://catbox.n13.club/caiji.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"T4_白嫖影视","name":"雷蒙影视 | 4️⃣白嫖影视(T4)","type":4,"api":"https://catbox.n13.club/bpys.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"T4_极光TV","name":"雷蒙影视 | 4️⃣极光TV(T4)","type":4,"api":"https://catbox.n13.club/jiguang.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
