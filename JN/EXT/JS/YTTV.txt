@@ -91,6 +91,7 @@ CCTV1 綜合,http://tv.haoqu99.com/1/cctv1.html
 CCTV13 新聞,http://tv.haoqu99.com/1/cctv13.html
 鳳凰衛視中文台,http://tv.haoqu99.com/4/fhzw.html
 鳳凰衛視資訊臺,http://tv.haoqu99.com/4/fhzx.html
+湖南衛視,http://tv.haoqu99.com/2/hunanweishi.html
 東方衛視,http://tv.haoqu99.com/2/dongfangweishi.html
 浙江衛視,http://tv.haoqu99.com/2/zhejiangweishi.html
 江蘇衛視,http://tv.haoqu99.com/2/jiangsuweishi.html
