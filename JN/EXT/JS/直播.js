@@ -1,7 +1,5 @@
 [
 {"name":"雷蒙影视概念宣传片","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/ctvpv.txt"},
-{"name":"FTYLive","url":"https://xhdwc.tk/xiutan.m3u","circuit":1},
-{"name":"雷蒙Live","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/tv.m3u","group":1},
 {"name":"搜集","url":"https://gh.isteed.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","group":1},
 {"name":"港台节目","url":"http://www.stream-link.org/stream-link.m3u","group":1},
 {"name":"BiliBili直播","url":"https://www.goodiptv.club/bililive.m3u","group":1},
