@@ -4,12 +4,6 @@
 
 //"spider":"./N3RD/J/lem0329.jar;md5;31640244B1B713434D20F001031C13A3",
 //"spider":"./N3RD/J/lem0325.jar;md5;8990AF2131D24434AAC771921453A5BD",
-//"spider":"./N3RD/J/lem0319.jar;md5;269B8C4AEB52FD0C4FE3DF79E3AA0450",
-//"spider":"./N3RD/J/lem0318.jar;md5;1D02088EEBCC5ABA3266783DA8921A45",
-//"spider":"./N3RD/J/lem0314.jar;md5;3740A68B9D2E1E60E5FD5959A3E2EFD8",
-//"spider":"./N3RD/J/lem0311.jar;md5;35115AF87A83073268D2F01F70C3CDA6",
-//"spider":"./N3RD/J/lem0306.jar;md5;72FCC1A181A2C771A53946A720EB7E50",
-//"spider":"./N3RD/J/lem0302.jar;md5;994F5F0553CB67519B1FA5002A7171BB",
 //"spider":"./N3RD/J/lem1211.jar;md5;32423EE6C5039465A0CA2FA3ECFCB864",fongmi阿里多线阿里
 
 "wallpaper":"https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/crimetv.png",
@@ -34,14 +28,12 @@
 
 "sites":[
 
-// ⇩⇩ Lem缝合包 ⇩⇩ 
+// ⇩⇩ 榜单直播 ⇩⇩ 
 {"key":"csp_Notice","name":"📢【Lem声明】公告","type":3,"api":"csp_Notice","ext":"雷蒙影视独家资源，私享即可，请勿传播！"},
-{"key":"公告1","name":"📢【Lem声明】勿传播本线路","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./EXT/XB/ANNOUNCEMENT.json"},
- 
+{"key":"公告1","name":"📢【Lem声明】勿传播本线路","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./EXT/XB/ANNOUNCEMENT.json"}, 
 {"key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","jar":"./N3RD/J/market.jar","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
-{"key":"csp_PushShare","name":"雷蒙影视 | 💿雷蒙网盘影集","jar":"./N3RD/J/pg.jar","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/lemshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
-
 {"key":"csp_FirstAid","name":"雷蒙影视 | 🚑急救教学(SP)","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
+
 {"key":"drjs_直播","name":"雷蒙影视 | 🖥电视直播(DRJS)","type":3,"api":"./EXT/JS/直播转点播.js","changeable":0,"ext":"./EXT/JS/直播.js&&&./N3RD/W/POSTER1.png"},
 {"key":"csp_Live2Vod","name":"雷蒙影视 | 🖥电视直播(SP)","type":3,"api":"csp_Live2Vod","changeable":0,"ext":"./EXT/JS/直播.js"},
 {"key":"csp_CCTV_ZAL","name":"雷蒙影视 | ©央视(SP)","type":3,"api":"csp_CCTV","searchable":1,"filterable":0,"changeable":0,"ext":"./EXT/XB/cctv.json"},
@@ -51,13 +43,18 @@
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 {"key":"csp_YGP","name":"雷蒙影视 | 🎞预告片(SP)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 
-{"key":"csp_Ikanbot_PG","name":"雷蒙影视 | 🤖爱看机器人(SP)","jar":"./N3RD/J/pg.jar","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.ikanbot.com$$$proxy"},
-{"key":"csp_Jianpian_PG","name":"雷蒙影视 | 🥇荐片弹幕版(SP)","jar":"./N3RD/J/pg.jar","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./N3RD/T/jianpian.json$$$1"},
-{"key":"vod_量子资源","name":"雷蒙影视 | 🚀量子资源","type":1,"jar":"./N3RD/J/pg.jar","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"vod_非凡资源","name":"雷蒙影视 | 🚀非凡资源","type":1,"jar":"./N3RD/J/pg.jar","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key":"vod_暴风资源","name":"雷蒙影视 | 🚀暴风资源","type":1,"jar":"./N3RD/J/pg.jar","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://app.bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
-{"key":"vod_索尼资源","name":"雷蒙影视 | ️🚀索尼资源","type":1,"jar":"./N3RD/J/pg.jar","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","伦理片"]},
 
+// ⇩⇩ PGjar加载 ⇩⇩
+{"jar":"./N3RD/J/pg.jar","key":"csp_PushShare_PG","name":"雷蒙影视 | 💿雷蒙网盘影集","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/lemshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
+{"jar":"./N3RD/J/pg.jar","key":"csp_Ikanbot_PG","name":"雷蒙影视 | 🤖爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.ikanbot.com$$$proxy"},
+{"jar":"./N3RD/J/pg.jar","key":"csp_Jianpian_PG","name":"雷蒙影视 | 🥇荐片弹幕版(SP)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./N3RD/T/jianpian.json$$$1"},
+{"jar":"./N3RD/J/pg.jar","key":"vod_量子资源","name":"雷蒙影视 | 🚀量子资源","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"jar":"./N3RD/J/pg.jar","key":"vod_非凡资源","name":"雷蒙影视 | 🚀非凡资源","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"jar":"./N3RD/J/pg.jar","key":"vod_暴风资源","name":"雷蒙影视 | 🚀暴风资源","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://app.bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
+{"jar":"./N3RD/J/pg.jar","key":"vod_索尼资源","name":"雷蒙影视 | ️🚀索尼资源","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","伦理片"]},
+
+
+// ⇩⇩ Lem缝合包 ⇩⇩ 
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_JianPian_XYQ","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 {"key":"csp_RinHome_ZAL","name":"雷蒙影视 | 🏆荐片(备用)","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":1},
