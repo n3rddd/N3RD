@@ -25,10 +25,11 @@
 
 "sites":[
 
-{"key":"csp_Market","jar":"./N3RD/J/market.jar","name":"雷蒙影视 | 🏪商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
+{"key":"csp_Market","name":"雷蒙影视 | 🏪商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 
 
 // ⇩⇩ 豆瓣片单 ⇩⇩ 
+{"key":"csp_Douban","name":"雷蒙影视采集专线 | 📡豆瓣(SP)","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
 {"key":"drjs_豆瓣","name":"雷蒙影视采集专线 | 📡豆瓣(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 {"key":"lfjs_豆瓣","name":"雷蒙影视采集专线 | 📡豆瓣(LFJS)","type":3,"api":"./EXT/JS/lf_search3_min.js"},
 
