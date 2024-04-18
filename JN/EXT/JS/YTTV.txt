@@ -39,6 +39,99 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TaiwanPlus,https://www.youtube.com/watch?v=26yBmvLekxM
 
 
+🌍国际新闻,#genre#
+ABC News,https://www.youtube.com/watch?v=u8gyCHfITHw
+ABC News(Australia),https://www.youtube.com/watch?v=vOTiJkg1voo
+NBC News NOW,https://www.youtube.com/watch?v=PoX4NUhhIJc
+NBC NEWS,https://www.youtube.com/watch?v=o1ZydFM-upg
+NBC2 News,https://www.youtube.com/watch?v=IMNK1Mfq8FA
+NEWSMAX,https://www.youtube.com/watch?v=0BMeWXKcjIM
+News12 NewYork,https://www.youtube.com/watch?v=37OKlipyVFc
+GB News,https://www.youtube.com/watch?v=8WX6YL9JnLw
+Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
+Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
+TRT World,https://www.youtube.com/watch?v=5VF4aor94gw
+DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
+彭博财经台,https://www.youtube.com/watch?v=dp8PhLsUcFE
+France24,https://www.youtube.com/watch?v=tkDUSYHoKxE
+CNALives,https://www.youtube.com/watch?v=XWq5kBlakcQ
+TD Ameritrade,https://www.youtube.com/watch?v=SG1Lc0QCD_Y
+CBN News,https://www.youtube.com/watch?v=CG2XDTgvZPo
+tvOne 24Jam,https://www.youtube.com/watch?v=yNKvkPJl-tg
+NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
+KOMPASTV,https://www.youtube.com/watch?v=w7ZTt55F5YE
+
+
+🇯🇵🇰🇷日韩新聞,#genre#
+Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
+MBC NEWS,https://www.youtube.com/watch?v=q-Wv4Pvt-5A
+KBS NEWS,https://www.youtube.com/watch?v=D2R15WicmAs
+KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
+NHK WORLD-JAPAN,https://www.youtube.com/watch?v=f0lYkdA-Gtw
+JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
+TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
+名古屋电视台,https://www.youtube.com/watch?v=-C6FE2m7kX8
+広島新闻,https://www.youtube.com/watch?v=e2pgLUmaxGs
+北海道新闻,https://www.youtube.com/watch?v=d8CrKBU99Hg
+北海道weekend,https://www.youtube.com/watch?v=L0_P_KJVpKc
+매일경제TV,https://www.youtube.com/watch?v=s9xL1DpBsfQ
+YonhapnewsTV,https://www.youtube.com/watch?v=6QZ_qc75ihU
+YTN,https://www.youtube.com/watch?v=FJfwehhzIhw
+
+
+🇰🇷K-POP,#genre#
+THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
+THE K-POP 2,https://www.youtube.com/watch?v=jCg2DzrukDo
+Vibing with K-Pop,https://www.youtube.com/watch?v=ESzv6U3s-eQ
+
+
+☕好趣網/parse,#genre#
+CCTV1 綜合,http://tv.haoqu99.com/1/cctv1.html
+CCTV13 新聞,http://tv.haoqu99.com/1/cctv13.html
+鳳凰衛視中文台,http://tv.haoqu99.com/4/fhzw.html
+鳳凰衛視資訊臺,http://tv.haoqu99.com/4/fhzx.html
+湖南衛視,http://tv.haoqu99.com/2/hunanweishi.html
+東方衛視,http://tv.haoqu99.com/2/dongfangweishi.html
+浙江衛視,http://tv.haoqu99.com/2/zhejiangweishi.html
+江蘇衛視,http://tv.haoqu99.com/2/jiangsuweishi.html
+重慶衛視,http://tv.haoqu99.com/2/chongqing-weishi.html
+
+CCTV1 綜合,video://http://tv.haoqu99.com/1/cctv1.html
+CCTV13 新聞,video://http://tv.haoqu99.com/1/cctv13.html
+鳳凰衛視中文台,video://http://tv.haoqu99.com/4/fhzw.html
+鳳凰衛視資訊臺,video://http://tv.haoqu99.com/4/fhzx.html
+湖南衛視,video://http://tv.haoqu99.com/2/hunanweishi.html
+東方衛視,video://http://tv.haoqu99.com/2/dongfangweishi.html
+浙江衛視,video://http://tv.haoqu99.com/2/zhejiangweishi.html
+江蘇衛視,video://http://tv.haoqu99.com/2/jiangsuweishi.html
+重慶衛視,video://http://tv.haoqu99.com/2/chongqing-weishi.html
+
+
+📢广播迷/parse,#genre#
+凤凰卫视中文台,http://www.guangbomi.com/tv/hk/ifeng1.html
+凤凰卫视资讯台,http://www.guangbomi.com/tv/hk/fhzx.html
+澳门澳亚卫视,http://www.guangbomi.com/tv/hk/imastv.html
+澳门莲花卫视,http://www.guangbomi.com/tv/hk/lotustv.html
+RTHK31,http://www.guangbomi.com/tv/hk/rhk31.html
+RTHK32,http://www.guangbomi.com/tv/hk/rhk32.html
+RTHK33,http://www.guangbomi.com/tv/hk/rthk33.html
+RTHK34,http://www.guangbomi.com/tv/hk/rthk34.html
+RTHK35,http://www.guangbomi.com/tv/hk/rthk35.html
+耀才财经台,http://www.guangbomi.com/tv/hk/bsgroup.html
+
+凤凰卫视中文台,video://http://www.guangbomi.com/tv/hk/ifeng1.html
+凤凰卫视资讯台,video://http://www.guangbomi.com/tv/hk/fhzx.html
+澳门澳亚卫视,video://http://www.guangbomi.com/tv/hk/imastv.html
+澳门莲花卫视,video://http://www.guangbomi.com/tv/hk/lotustv.html
+RTHK31,video://http://www.guangbomi.com/tv/hk/rhk31.html
+RTHK32,video://http://www.guangbomi.com/tv/hk/rhk32.html
+RTHK33,video://http://www.guangbomi.com/tv/hk/rthk33.html
+RTHK34,video://http://www.guangbomi.com/tv/hk/rthk34.html
+RTHK35,video://http://www.guangbomi.com/tv/hk/rthk35.html
+耀才财经台,video://http://www.guangbomi.com/tv/hk/bsgroup.html
+
+
 🇹🇼四季線上,#genre#
 parse=1 
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -168,96 +261,3 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 208電影免費看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=245
 209超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
 210花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
-
-
-🌍国际新闻,#genre#
-ABC News,https://www.youtube.com/watch?v=u8gyCHfITHw
-ABC News(Australia),https://www.youtube.com/watch?v=vOTiJkg1voo
-NBC News NOW,https://www.youtube.com/watch?v=PoX4NUhhIJc
-NBC NEWS,https://www.youtube.com/watch?v=o1ZydFM-upg
-NBC2 News,https://www.youtube.com/watch?v=IMNK1Mfq8FA
-NEWSMAX,https://www.youtube.com/watch?v=0BMeWXKcjIM
-News12 NewYork,https://www.youtube.com/watch?v=37OKlipyVFc
-GB News,https://www.youtube.com/watch?v=8WX6YL9JnLw
-Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
-Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
-TRT World,https://www.youtube.com/watch?v=5VF4aor94gw
-DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
-彭博财经台,https://www.youtube.com/watch?v=dp8PhLsUcFE
-France24,https://www.youtube.com/watch?v=tkDUSYHoKxE
-CNALives,https://www.youtube.com/watch?v=XWq5kBlakcQ
-TD Ameritrade,https://www.youtube.com/watch?v=SG1Lc0QCD_Y
-CBN News,https://www.youtube.com/watch?v=CG2XDTgvZPo
-tvOne 24Jam,https://www.youtube.com/watch?v=yNKvkPJl-tg
-NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
-KOMPASTV,https://www.youtube.com/watch?v=w7ZTt55F5YE
-
-
-🇯🇵🇰🇷日韩新聞,#genre#
-Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
-MBC NEWS,https://www.youtube.com/watch?v=q-Wv4Pvt-5A
-KBS NEWS,https://www.youtube.com/watch?v=D2R15WicmAs
-KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
-NHK WORLD-JAPAN,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
-ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
-TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
-名古屋电视台,https://www.youtube.com/watch?v=-C6FE2m7kX8
-広島新闻,https://www.youtube.com/watch?v=e2pgLUmaxGs
-北海道新闻,https://www.youtube.com/watch?v=d8CrKBU99Hg
-北海道weekend,https://www.youtube.com/watch?v=L0_P_KJVpKc
-매일경제TV,https://www.youtube.com/watch?v=s9xL1DpBsfQ
-YonhapnewsTV,https://www.youtube.com/watch?v=6QZ_qc75ihU
-YTN,https://www.youtube.com/watch?v=FJfwehhzIhw
-
-
-🇰🇷K-POP,#genre#
-THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
-THE K-POP 2,https://www.youtube.com/watch?v=jCg2DzrukDo
-Vibing with K-Pop,https://www.youtube.com/watch?v=ESzv6U3s-eQ
-
-
-☕好趣網/parse,#genre#
-CCTV1 綜合,http://tv.haoqu99.com/1/cctv1.html
-CCTV13 新聞,http://tv.haoqu99.com/1/cctv13.html
-鳳凰衛視中文台,http://tv.haoqu99.com/4/fhzw.html
-鳳凰衛視資訊臺,http://tv.haoqu99.com/4/fhzx.html
-湖南衛視,http://tv.haoqu99.com/2/hunanweishi.html
-東方衛視,http://tv.haoqu99.com/2/dongfangweishi.html
-浙江衛視,http://tv.haoqu99.com/2/zhejiangweishi.html
-江蘇衛視,http://tv.haoqu99.com/2/jiangsuweishi.html
-重慶衛視,http://tv.haoqu99.com/2/chongqing-weishi.html
-
-CCTV1 綜合,video://http://tv.haoqu99.com/1/cctv1.html
-CCTV13 新聞,video://http://tv.haoqu99.com/1/cctv13.html
-鳳凰衛視中文台,video://http://tv.haoqu99.com/4/fhzw.html
-鳳凰衛視資訊臺,video://http://tv.haoqu99.com/4/fhzx.html
-湖南衛視,video://http://tv.haoqu99.com/2/hunanweishi.html
-東方衛視,video://http://tv.haoqu99.com/2/dongfangweishi.html
-浙江衛視,video://http://tv.haoqu99.com/2/zhejiangweishi.html
-江蘇衛視,video://http://tv.haoqu99.com/2/jiangsuweishi.html
-重慶衛視,video://http://tv.haoqu99.com/2/chongqing-weishi.html
-
-
-📢广播迷/parse,#genre#
-凤凰卫视中文台,http://www.guangbomi.com/tv/hk/ifeng1.html
-凤凰卫视资讯台,http://www.guangbomi.com/tv/hk/fhzx.html
-澳门澳亚卫视,http://www.guangbomi.com/tv/hk/imastv.html
-澳门莲花卫视,http://www.guangbomi.com/tv/hk/lotustv.html
-RTHK31,http://www.guangbomi.com/tv/hk/rhk31.html
-RTHK32,http://www.guangbomi.com/tv/hk/rhk32.html
-RTHK33,http://www.guangbomi.com/tv/hk/rthk33.html
-RTHK34,http://www.guangbomi.com/tv/hk/rthk34.html
-RTHK35,http://www.guangbomi.com/tv/hk/rthk35.html
-耀才财经台,http://www.guangbomi.com/tv/hk/bsgroup.html
-
-凤凰卫视中文台,video://http://www.guangbomi.com/tv/hk/ifeng1.html
-凤凰卫视资讯台,video://http://www.guangbomi.com/tv/hk/fhzx.html
-澳门澳亚卫视,video://http://www.guangbomi.com/tv/hk/imastv.html
-澳门莲花卫视,video://http://www.guangbomi.com/tv/hk/lotustv.html
-RTHK31,video://http://www.guangbomi.com/tv/hk/rhk31.html
-RTHK32,video://http://www.guangbomi.com/tv/hk/rhk32.html
-RTHK33,video://http://www.guangbomi.com/tv/hk/rthk33.html
-RTHK34,video://http://www.guangbomi.com/tv/hk/rthk34.html
-RTHK35,video://http://www.guangbomi.com/tv/hk/rthk35.html
-耀才财经台,video://http://www.guangbomi.com/tv/hk/bsgroup.html
