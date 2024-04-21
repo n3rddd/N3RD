@@ -234,6 +234,10 @@
 {"key":"T4_A8音乐","name":"雷蒙影视 | 4️⃣A8音乐(T4)","type":4,"api":"https://catbox.n13.club/a8.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"T4_网易云音乐","name":"雷蒙影视 | 4️⃣网易云音乐(T4)","type":4,"api":"https://catbox.n13.club/wy.php"},
 {"key":"T4_爱听","name":"雷蒙影视 | 4️⃣爱听(T4)","type":4,"api":"https://catbox.n13.club/yyy.php"},
+{"key":"T4_6V","name":"雷蒙影视 | 4️⃣6V(T4)","type":4,"api":"https://catbox.n13.club/6v.php"}, 
+{"key":"T4_玩偶4K","name":"雷蒙影视 | 4️⃣玩偶4k(T4)","type":4,"api":"https://catbox.n13.club/wo4k.php"},
+{"key":"T4_4KHDR","name":"雷蒙影视 | 4️⃣4khdr(T4)","type":4,"api":"https://catbox.n13.club/4khdr.php"},
+{"key":"T4_电影港","name":"雷蒙影视 | 4️⃣电影港(T4)","type":4,"api":"https://catbox.n13.club/dygangs.php"},
  
  
 // ⇩⇩ 采集 ⇩⇩ 
