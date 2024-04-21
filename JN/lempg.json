@@ -40,6 +40,7 @@
 {"key":"csp_PushShare","name":"雷蒙影视 | 💿我的资源分享(SP)","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_Xinshijue","name":"雷蒙影视 | 💿新视觉(SP)","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://www.80yy3.com/$$$proxy$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_YingSo","name":"雷蒙影视 | 💿影搜(SP)","type":3,"api":"csp_YingSo","timeout":60,"ext":"./N3RD/T/pg.txt"},
+{"key":"csp_Gaoqing","name":"雷蒙影视 | 💿中国高清网(SP)","type":3,"api":"csp_Gaoqing","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://gaoqing.la/$$$proxy$$$1"},
 {"key":"csp_Ddys","name":"雷蒙影视 | 💿低端影视(SP)","type":3,"api":"csp_Ddys","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://ddys.pro/$$$proxy$$$1$$$"},
 {"key":"csp_YunPan","name":"雷蒙影视 | 💿云盘资源(SP)","type":3,"api":"csp_YunPan","timeout":60,"ext":"./N3RD/T/pg.txt$$$null$$$proxy$$$1"},
 {"key":"csp_YunPanOne","name":"雷蒙影视 | 💿云盘One(SP)","type":3,"api":"csp_YunPanOne","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/pg.txt"},
