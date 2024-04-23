@@ -217,7 +217,7 @@
 
 
 // ⇩⇩ T4 ⇩⇩ 
-{"key":"T4_央视","name":"雷蒙影视 | 4️⃣央视(T4)","type":4,"api":"https://catbox.n13.club/cntv.php"}
+{"key":"T4_央视","name":"雷蒙影视 | 4️⃣央视(T4)","type":4,"api":"https://catbox.n13.club/cntv.php"},
 {"key":"T4_豆瓣","name":"雷蒙影视 | 4️⃣豆瓣(T4)","type":4,"api":"https://catbox.n13.club/douban.php"},
 {"key":"T4_预告","name":"雷蒙影视 | 4️⃣预告(T4)","type":4,"api":"https://catbox.n13.club/yugaopian.php"},
 {"key":"T4_采集","name":"雷蒙影视 | 4️⃣采集(T4)","type":4,"api":"https://catbox.n13.club/caiji.php"},
