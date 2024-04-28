@@ -171,6 +171,8 @@
 
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexconfig_MULTIJAR","name":"雷蒙影视 | 🐮配置中心","type":3,"api":"csp_Wexconfig","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.43}},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wogg_MULTIJAR","name":"雷蒙影视 | 🐮玩偶(MULTI)","type":3,"api":"csp_Wogg","searchable":1,"changeable":1},
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wexwanni_MULTIJAR","name":"雷蒙影视 | 🐮玩你(MULTI)","type":3,"api":"csp_Wexwanni","searchable":1,"changeable":1},
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wexwanwo_MULTIJAR","name":"雷蒙影视 | 🐮玩我(MULTI)","type":3,"api":"csp_Wexwanwo","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wextudou_MULTIJAR","name":"雷蒙影视 | 🐮土豆(MULTI)","type":3,"api":"csp_Wextudou","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexyingchao_MULTIJAR","name":"雷蒙影视 | 🐮影巢(MULTI)","type":3,"api":"csp_Wexyingchao","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexwencai_MULTIJAR","name":"雷蒙影视 | 🐮文才(MULTI)","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1},
@@ -205,8 +207,10 @@
 {"jar":"./N3RD/J/wex.jar","key":"csp_WexMp4dy_MULTIJAR","name":"雷蒙影视 | 🐮MP4(MULTI)","type":3,"api":"csp_WexMp4dy","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_WexXb6v_MULTIJAR","name":"雷蒙影视 | 🐮新6V(MULTI)","type":3,"api":"csp_WexXb6v","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_WexTwobt_MULTIJAR","name":"雷蒙影视 | 🐮两个BT(MULTI)","type":3,"api":"csp_WexTwobt","searchable":1,"changeable":0},
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wexwo4k_MULTIJAR","name":"蒙影视 | 🐮WO4K(MULTI)","type":3,"api":"csp_Wexwo4k","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexduanjuso_MULTIJAR","name":"雷蒙影视 | 🐮短剧搜索(MULTI)","type":3,"api":"csp_Wexduanjuso","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexyingso_MULTIJAR","name":"雷蒙影视 | 🐮影搜(MULTI)","type":3,"api":"csp_Wexyingso","searchable":1,"changeable":0},
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wexed3000_MULTIJAR","name":"雷蒙影视 | 🐮易迪(MULTI)","type":3,"api":"csp_Wexed3000","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexciliso_MULTIJAR","name":"雷蒙影视 | 🐮磁力搜(MULTI)","type":3,"api":"csp_Wexciliso","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wextangdou_MULTIJAR","name":"雷蒙影视 | 🐮糖豆(MULTI)","type":3,"api":"csp_Wextangdou","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2}},
 {"jar":"./N3RD/J/wex.jar","key":"csp_WexPandalivetv_MULTIJAR","name":"雷蒙影视 | 🐮韩国直播(MULTI)","type":3,"api":"csp_WexPandalivetv","searchable":0,"changeable":0},
@@ -216,6 +220,7 @@
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexxsmp3_MULTIJAR","name":"雷蒙影视 | 🐮相声(MULTI)","type":3,"api":"csp_Wexxsmp3","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexpsmp3_MULTIJAR","name":"雷蒙影视 | 🐮评书(MULTI)","type":3,"api":"csp_Wexpsmp3","searchable":1,"changeable":0},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexliyuan_MULTIJAR","name":"雷蒙影视 | 🐮梨园(MULTI)","type":3,"api":"csp_Wexliyuan","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2}},
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wexwuxiang_MULTIJAR","name":"雷蒙影视 | 🐮武享(MULTI)","type":3,"api":"csp_Wexwuxiang","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2}},
 
 
 // ⇩⇩ T4 ⇩⇩ 
