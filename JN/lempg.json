@@ -107,7 +107,7 @@
 {"key":"lfjs_磁力搜索","name":"雷蒙影视 | 🧲磁力搜索(LFJS)","type":3,"api":"./EXT/JS/lf_p2p2_min.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"ext":"18+"},
 {"key":"csp_BtSearch","name":"雷蒙影视 | 🧲BTSearch(SP)","type":3,"api":"csp_BtSearch","searchable":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$null$$$null$$$1"},
 {"key":"csp_BtSow","name":"雷蒙影视 | 🧲BTSow(SP)","type":3,"api":"csp_BtSow","searchable":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$null$$$null$$$1"},
-{"key":"csp_Wo4k","name":"雷蒙影视 | 🧲玩偶4K(SP)","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://www.wo4k.com/$$$proxy$$$1$$$./N3RD/T/wogg.json"},
+{"key":"csp_Wo4k","name":"雷蒙影视 | 🧲玩偶4K(SP)","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://www.wo4k.net/$$$proxy$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_Bt0","name":"雷蒙影视 | 🧲不太灵(SP)","type":3,"api":"csp_Bt0","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"null$$$null$$$1"},
 {"key":"csp_Xb6v","name":"雷蒙影视 | 🧲新6V(SP)","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$http://www.xb6v.com$$$null$$$1"},
 {"key":"csp_SeedHub","name":"雷蒙影视 | 🧲SeedHub(SP)","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
