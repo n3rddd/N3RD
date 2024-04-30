@@ -122,7 +122,7 @@
 {"key":"drjs_4khdr_PG","name":"雷蒙影视 | 🧲4KHDR(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/4khdr.js"},
 {"key":"drjs_mp4us_PG","name":"雷蒙影视 | 🧲MP4US(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/mp4us.js"},
 {"key":"drjs_kuba_PG","name":"雷蒙影视 | 🧲酷吧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kuba.js"},
-{"key":"drjs_cilixiong_PG","name":"雷蒙影视 | 🧲磁力熊(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/cilixiong.js"},
+{"key":"drjs_cilixiong_PG","name":"雷蒙影视 | 🧲磁力熊(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/cilixiongp.js"},
 
 
 // ⇩⇩ 采集 ⇩⇩ 
