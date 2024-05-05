@@ -1,14 +1,14 @@
 🌞雷蒙影视直播,#genre#
-雷蒙影视概念宣传片 PV1,https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-雷蒙影视概念宣传片 PV2,https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
-雷蒙影视概念宣传片 PV3,https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV3.mkv
+雷蒙影视概念宣传片 PV1,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
+雷蒙影视概念宣传片 PV2,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+雷蒙影视概念宣传片 PV3,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV3.mkv
 
 雷蒙影视概念宣传片 PV1,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV1.mkv
 雷蒙影视概念宣传片 PV2,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV2.mkv
 雷蒙影视概念宣传片 PV3,https://agit.ai/n3rd/N3RD123/raw/branch/master/W/CRIMETVPV3.mkv
 
-雷蒙影视主题曲 #1,https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
-雷蒙影视主题曲 #2,https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
+雷蒙影视主题曲 #1,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
+雷蒙影视主题曲 #2,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 
 雷蒙影视主题曲 #1,https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
 雷蒙影视主题曲 #2,https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
@@ -725,7 +725,7 @@ CN卡通频道,video://http://everydaytv.top/play-3-108-0.html
 
 
 ▶YOUTUBE直播【1】,#genre#
-雷蒙影视,https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
+雷蒙影视,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
 中天新闻2,https://www.youtube.com/watch?v=WPfPjbOLNfE&ab_channel=%E4%B8%AD%E5%A4%A9%E6%B7%B1%E5%96%89%E5%9A%A8
 中天亚洲台,https://www.youtube.com/watch?v=s2waUruqze4
@@ -795,7 +795,7 @@ KBS WORLD TV,https://www.youtube.com/watch?v=yC0OLhiEMLg
 
 
 ▶YOUTUBE直播【2】,#genre#
-雷蒙影视,https://gh.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
+雷蒙影视,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
 中天新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻.m3u8
 中天新闻2,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻2.m3u8
 三立+新闻,https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
@@ -810,19 +810,19 @@ TVBS国际+,https://raw.githubusercontent.com/lem85930/utlive/YTlive/TVBS新闻2
 凤凰资讯台,https://raw.githubusercontent.com/lem85930/YTM/main/凤凰资讯台.m3u8
 CCTV中文国际,https://raw.githubusercontent.com/lem85930/YTM/main/CCTV中文国际.m3u8
 
-中天新闻https://gh.isteed.cc/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8
-中天新闻2,https://gh.isteed.cc/https://github.com/lem85930/YTM/raw/main/中天新闻2.m3u8
-三立+新闻,https://gh.isteed.cc/https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
-三立iNews新闻,https://gh.isteed.cc/https://github.com/lem85930/YTM/raw/main/三立iNews新闻.m3u8
-台视新闻,https://gh.isteed.cc/https://github.com/lem85930/YTM/raw/main/台视新闻.m3u8
-民视新闻,https://gh.isteed.cc/https://github.com/lem85930/YTM/raw/main/民视新闻.m3u8
-中视新闻,https://gh.isteed.cc/https://github.com/lem85930/YTM/raw/main/中视新闻.m3u8
-TVBS News,https://gh.isteed.cc/https://github.com/lem85930/utlive/raw/YTlive/TVBS.m3u8
-TVBS国际+,https://gh.isteed.cc/https://github.com/lem85930/utlive/raw/YTlive/TVBS新闻2.m3u8
-寰宇新闻,https://gh.isteed.cc/https://github.com/lem85930/YTM/raw/main/寰宇新闻.m3u8
-东森财经新闻,https://gh.isteed.cc/https://github.com/lem85930/YTM/raw/main/东森财经新闻.m3u8
-凤凰资讯台,https://gh.isteed.cc/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
-CCTV中文国际,https://gh.isteed.cc/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
+中天新闻https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8
+中天新闻2,https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/中天新闻2.m3u8
+三立+新闻,https://cors.isteed.cc/https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
+三立iNews新闻,https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/三立iNews新闻.m3u8
+台视新闻,https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/台视新闻.m3u8
+民视新闻,https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/民视新闻.m3u8
+中视新闻,https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/中视新闻.m3u8
+TVBS News,https://cors.isteed.cc/https://github.com/lem85930/utlive/raw/YTlive/TVBS.m3u8
+TVBS国际+,https://cors.isteed.cc/https://github.com/lem85930/utlive/raw/YTlive/TVBS新闻2.m3u8
+寰宇新闻,https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/寰宇新闻.m3u8
+东森财经新闻,https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/东森财经新闻.m3u8
+凤凰资讯台,https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
+CCTV中文国际,https://cors.isteed.cc/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
 
 ▶YOUTUBE直播【3】,#genre#
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
