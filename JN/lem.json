@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0503.jar;md5;262205BCFADA48964A5F2D6A4F520BD9",
+"spider":"./N3RD/J/lem0511.jar;md5;5910B59F0D3DC4D010522EBCC8E36B2B",
 
+//"spider":"./N3RD/J/lem0503.jar;md5;262205BCFADA48964A5F2D6A4F520BD9",
 //"spider":"./N3RD/J/lem0423.jar;md5;F5F25556DEAF4016A82345864B16CD81",
 //"spider":"./N3RD/J/lem0419.jar;md5;BFFBEC07FEACB9F9113B948BDC21DFE9",
 //"spider":"./N3RD/J/lem0415.jar;md5;6DD912EF9443A7C285B48D56BC49955C",
@@ -75,6 +76,7 @@
 {"key":"csp_YCyz","name":"雷蒙影视 | ☀原创(SP)","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Xdys","name":"雷蒙影视 | 💥兄弟(SP)","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_AppTT_萌米","name":"雷蒙影视 | 👀萌米(APP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"csp_AppTT_热播","name":"雷蒙影视 | 👀热播(APP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"csp_NewCz","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top/"},
 {"key":"csp_Maolv","name":"雷蒙影视 | 🐴毛驴(SP)","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
