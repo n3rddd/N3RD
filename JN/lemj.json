@@ -181,8 +181,42 @@
 {"key":"csp_XBPQ_BT","name":"雷蒙影视 | 🧲BT(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"跳转数组":"<a&&</a[包含:tdown]","跳转链接":"href=\"&&\"","搜索url":"https://www.btbtl.com/search/{wd}","跳转链接前缀":"https://www.btbtl.com","跳转链接后缀":"","播放数组":"class=\"video-info-footer&&</div[不包含:文件]","播放链接":"href=\"&&\"[包含:magnet]","分类":"电影$movies#电视剧$tv","分类url":"https://www.btbtl.com/type/{cateId}/{catePg}/"}},
 {"key":"csp_XBPQ_MP4US","name":"雷蒙影视 | 🧲MP4US(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"标题":"《&&》","数组":"<li>&&</li>","副标题":"rate badge\">&&</span>+|+update_time\">&&</span>","线路标题":"<h2>&&</h2>[替换:下载地址>>磁力]","播放数组":"download_url&&</ul>","播放列表":"<a&&</a>[不包含:ed2k]","线路数组":"download_url&&</ul>","分类二次截取":"<ul&&</ul>","分类数组":"<li&&</li>","分类标题":">&&</a","分类ID":"/list/&&-1.html","分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"}},
 
+ 
+// ⇩⇩ CatVodOpen JS规则 ⇩⇩ 
+{"key":"catjs_douban","name":"雷蒙影视 | 😸豆瓣(CATJS)","api":"./CATJS/js/douban.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_cntv","name":"雷蒙影视 | 😸中央影视(CATJS)","api":"./CATJS/js/cntv.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_bilibili","name":"雷蒙影视 | 😸哔哩哔哩(CATJS)","api":"./CATJS/js/bilibili.js","timeout":30,"ext":{"box":"TVBox","cookie":"buvid3=02675249-8ED3-C418-87F5-59E18316459714816infoc; b_nut=1704421014; _uuid=5D435F74-F574-D9AB-62C1-B9294DE465D913102infoc; buvid_fp=e8c5650c749398e9b5cad3f3ddb5081e; buvid4=007E85D1-52C1-7E6E-07CF-837FFBC9349516677-024010502-J5vTDSZDCw4fNnXRejbSVg%3D%3D; rpdid=|()kYJmulRu0J'u~|RRJl)JR; PVID=1; SESSDATA=3be091d3%2C1720332009%2C699ed%2A11CjAcCdwXG5kY1umhCOpQHOn_WP7L9xFBfWO7KKd4BPweodpR6VyIfeNyPiRmkr5jCqsSVjg0R0dZOVVHRUo3RnhPRTZFc3JPbGdiUjFCdHpiRDhiTkticmdKTjVyS1VhbDdvNjFMSDJlbUJydUlRdjFUNGFBNkJlV2ZTa0N1Q1BEVi1QYTQzTUh3IIEC; bili_jct=b0ee7b5d3f27df893545d811d95506d4; DedeUserID=78014638; DedeUserID__ckMd5=4c8c5d65065e468a; enable_web_push=DISABLE; header_theme_version=CLOSE; home_feed_column=5; CURRENT_BLACKGAP=0; CURRENT_FNVAL=4048; b_lsid=75E916AA_18EA1A8D995; bsource=search_baidu; FEED_LIVE_VERSION=V_HEADER_LIVE_NO_POP; browser_resolution=1507-691; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTIzNjk5MTMsImlhdCI6MTcxMjExMDY1MywicGx0IjotMX0.8zQW_fNTCSBlK_JkHnzu3gDw62wuTK1qgKcbGec3swM; bili_ticket_expires=171236985"},"playerType":0,"type":3},
+{"key":"catjs_ikanbot","name":"雷蒙影视 | 😸爱看机器人(CATJS)","api":"./CATJS/js/ikanbot.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_jianpian","name":"雷蒙影视 | 😸荐片(CATJS)","api":"./CATJS/js/jianpian.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_nangua","name":"雷蒙影视 | 😸南瓜影视(CATJS)","api":"./CATJS/js/nangua.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_newvision","name":"雷蒙影视 | 😸新视觉影院(CATJS)","api":"./CATJS/js/newvision.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_tiantian","name":"雷蒙影视 | 😸天天影视(CATJS)","api":"./CATJS/js/tiantian.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_kuaikan","name":"雷蒙影视 | 😸快看视频(CATJS)","api":"./CATJS/js/kuaikan.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_kankan70","name":"雷蒙影视 | 😸70看看(CATJS)","api":"./CATJS/js/kankan70.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_liangzi","name":"雷蒙影视 | 😸量子资源(CATJS)","api":"./CATJS/js/liangzi.js","timeout":30,"ext":{"box":"TVBox","code":0},"playerType":0,"type":3},
+{"key":"catjs_feifan","name":"雷蒙影视 | 😸非凡资源(CATJS)","api":"./CATJS/js/feifan.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_changzhang","name":"雷蒙影视 | 😸厂长直连(CATJS)","api":"./CATJS/js/changzhang.js","timeout":30,"ext":{"box":"TVBox","token":"51427b95ab9d47a6921a27951ebd3f1e"},"playerType":0,"type":3},
+{"key":"catjs_mp4movie","name":"雷蒙影视 | 😸Mp4电影(CATJS)","api":"./CATJS/js/mp4movie.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_aiyingshi","name":"雷蒙影视 | 😸爱影视(CATJS)","api":"./CATJS/js/aiyingshi.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_lovemovie","name":"雷蒙影视 | 😸爱情电影网(CATJS)","api":"./CATJS/js/lovemovie.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_sp360","name":"雷蒙影视 | 😸360影视(CATJS)","api":"./CATJS/js/sp360.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_dubo","name":"雷蒙影视 | 😸独播影视(CATJS)","api":"./CATJS/js/dubo.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_star","name":"雷蒙影视 | 😸星视界(CATJS)","api":"./CATJS/js/star.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_haiwaikan","name":"雷蒙影视 | 😸海外看(CATJS)","api":"./CATJS/js/haiwaikan.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_nivod","name":"雷蒙影视 | 😸泥视频(CATJS)","api":"./CATJS/js/nivod.js","timeout":30,"ext":{"box":"TVBox","code":0},"playerType":0,"type":3},
+{"key":"catjs_mxanime","name":"雷蒙影视 | 😸MX动漫(CATJS)","api":"./CATJS/js/mxanime.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_huya","name":"雷蒙影视 | 😸虎牙直播(CATJS)","api":"./CATJS/js/huya.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_gitcafe","name":"雷蒙影视 | 😸阿里纸条(CATJS)","api":"./CATJS/js/gitcafe.js","timeout":30,"ext":{"box":"TVBox","token":"51427b95ab9d47a6921a27951ebd3f1e"},"playerType":0,"type":3},
+{"key":"catjs_alipansou","name":"雷蒙影视 | 😸阿里猫狸(CATJS)","api":"./CATJS/js/alipansou.js","timeout":30,"ext":{"box":"TVBox","token":"51427b95ab9d47a6921a27951ebd3f1e"},"playerType":0,"type":3},
+{"key":"catjs_wogg","name":"雷蒙影视 | 😸阿里玩偶(CATJS)","api":"./CATJS/js/wogg.js","timeout":30,"ext":{"box":"TVBox","token":"51427b95ab9d47a6921a27951ebd3f1e"},"playerType":0,"type":3},
+{"key":"catjs_pan_search","name":"雷蒙影视 | 😸阿里盘搜(CATJS)","api":"./CATJS/js/pan_search.js","timeout":30,"ext":{"box":"TVBox","token":"51427b95ab9d47a6921a27951ebd3f1e"},"playerType":0,"type":3},
+{"key":"catjs_aliyunpanshare","name":"雷蒙影视 | 😸阿里云盘分享(CATJS)","api":"./CATJS/js/aliyunpanshare.js","timeout":30,"ext":{"box":"TVBox","token":"51427b95ab9d47a6921a27951ebd3f1e"},"playerType":0,"type":3},
+{"key":"catjs_cilixiong","name":"雷蒙影视 | 😸磁力熊(CATJS)","api":"./CATJS/js/cilixiong.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_xb6v","name":"雷蒙影视 | 😸新6V(CATJS)","api":"./CATJS/js/xb6v.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
+{"key":"catjs_dygangs","name":"雷蒙影视 | 😸电影港(CATJS)","api":"./CATJS/js/dygangs.js","timeout":30,"ext":{"box":"TVBox"},"playerType":0,"type":3},
 
-//道长DRPY-JS规则
+
+// ⇩⇩ 道长DRPY-JS规则 ⇩⇩ 
 {"key":"drjs_直播","name":"雷蒙影视 | 👺电视直播(DRPY)","type":3,"api":"./EXT/JS/直播转点播.js","ext":"./EXT/JS/直播.js&&&./N3RD/W/IMG.png"},
 {"key":"drjs_荐片","name":"雷蒙影视 | 👺荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👺爱看机器人2(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
