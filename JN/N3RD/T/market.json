@@ -50,7 +50,7 @@
 
 {"name":"雷蒙推荐",
 "list":[
-{"name":"我的电视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/main/APP/my-tv-v2.0.1.apk","version":"2.0.1 20240516","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/lizongying/my-tv/main/app/src/main/res/drawable/logo.png"},
+{"name":"我的电视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/main/APP/my-tv-v2.0.5.apk","version":"2.0.5 20240521","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/lizongying/my-tv/main/app/src/main/res/drawable/logo.png"},
 
 {"name":"FongMi影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk","version":"JAVA v8a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
 {"name":"FongMi影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v7a.apk","version":"JAVA v7a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
