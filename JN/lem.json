@@ -53,7 +53,7 @@
 
 // ⇩⇩ PGjar加载 ⇩⇩
 {"jar":"./N3RD/J/pg.jar","key":"csp_PushShare_PG","name":"雷蒙影视 | 💿雷蒙网盘影集","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/lemshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
-{"jar":"./N3RD/J/pg.jar","key":"csp_Ikanbot_PG","name":"雷蒙影视 | 🤖爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.ikanbot.com$$$proxy"},
+{"jar":"./N3RD/J/pg.jar","key":"csp_Ikanbot_PG","name":"雷蒙影视 | 🤖爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.aikanbot.com/$$$proxy"},
 {"jar":"./N3RD/J/pg.jar","key":"csp_Jianpian_PG","name":"雷蒙影视 | 🥇荐片弹幕版(SP)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./N3RD/T/jianpian.json$$$1"},
 {"jar":"./N3RD/J/pg.jar","key":"csp_Kuaikan_PG","name":"雷蒙影视 | 👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"jar":"./N3RD/J/pg.jar","key":"vod_量子资源","name":"雷蒙影视 | 🚀量子资源","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
