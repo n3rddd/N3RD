@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0518.jar;md5;0DAF3110E4D4DC833A2A3D344877E3FE",
+"spider":"./N3RD/J/lem0524.jar;md5;9D09A4ABAE69D094DAFEE82355F2B15E",
 
+//"spider":"./N3RD/J/lem0518.jar;md5;0DAF3110E4D4DC833A2A3D344877E3FE",
 //"spider":"./N3RD/J/lem0516.jar;md5;1F81F0E4BFEDD314439A01EB94059864",
 //"spider":"./N3RD/J/lem0511.jar;md5;5910B59F0D3DC4D010522EBCC8E36B2B",
 //"spider":"./N3RD/J/lem0503.jar;md5;262205BCFADA48964A5F2D6A4F520BD9",
@@ -75,6 +76,7 @@
 {"key":"csp_WoGG","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"./N3RD/T/t.txt","quarkCookie":"./N3RD/T/c.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 {"key":"csp_YCyz","name":"雷蒙影视 | ☀原创(SP)","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Xdys","name":"雷蒙影视 | 💥兄弟(SP)","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"csp_Kekys","name":"雷蒙影视 | 👻可可(SP)","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_AppTT_萌米","name":"雷蒙影视 | 👀萌米(APP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"csp_AppTT_热播","name":"雷蒙影视 | 👀热播(APP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"csp_NewCz","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top/"},
@@ -113,6 +115,7 @@
 {"key":"csp_YOUKU_ZAL","name":"雷蒙影视 | 🔻优酷(SP)","type":3,"api":"csp_YOUKU","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
+{"key":"csp_CZSPP_QJ","name":"雷蒙影视 | 👴厂长资源(备用)","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"https://czys.top/"},
 {"key":"csp_Lib_QJ","name":"雷蒙影视 | 🎉Libvio(备用)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/static/js/playerconfig.js"},
 {"key":"csp_NanGuaQJ","name":"雷蒙影视 | 🎃南瓜影视(备用)","type":3,"api":"csp_NanGuaQJ","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Bdys01_QJ","name":"雷蒙影视 | 📯哔嘀影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -120,13 +123,14 @@
 {"key":"csp_TTian_热播_QJ","name":"雷蒙影视 | ✈热播(SP)","type":3,"api":"csp_TTian","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.rbotv.cn"},
 {"key":"csp_TTian_追剧_QJ","name":"雷蒙影视 | ✈追剧(SP)","type":3,"api":"csp_TTian","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.kzjtv.com"},
 {"key":"csp_Fdys_QJ","name":"雷蒙影视 | ⚡发电(SP)","type":3,"api":"csp_Fdys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nmvod_QJ","name":"雷蒙影视 | 🍋柠檬(SP)","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmapl/anmm.php?url="},
+{"key":"csp_Nmvod_QJ","name":"雷蒙影视 | 🍋柠檬(SP)","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/relay.php?url="},
 {"key":"qjvod_AI1","name":"雷蒙影视 | ️🚀AI1","type":1,"api":"http://124.222.116.5/macos/seven/api.php/provide/vod/","playerType":2,"searchable":1,"quickSearch":1},
 {"key":"qjvod_AI2","name":"雷蒙影视 | ️🚀AI2","type":1,"api":"http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist","playerType":2,"searchable":1,"quickSearch":1},
 {"key":"qjvod_AI3","name":"雷蒙影视 | ️🚀AI3","type":1,"api":"http://124.222.30.115/mb/api.php/provide/vod/?ac=videolist","playerType":2,"searchable":1,"quickSearch":1},
 {"key":"csp_AI1","name":"雷蒙影视 | ️💻AI1(SP)","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.116.5/macos/seven/api.php/provide/vod/|okhttp/4.9.1|https://jx.kuaizi.cc"},
 {"key":"csp_AI2","name":"雷蒙影视 | ️💻AI2(SP)","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji"},
 {"key":"csp_AI3","name":"雷蒙影视 | ️💻AI3(SP)","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji"},
+{"key":"csp_qiao3_QJ","name":"雷蒙影视 | 🏰圣城(SP)","type":3,"api":"csp_qiao3","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"},
 {"key":"csp_KanKan_QJ","name":"雷蒙影视 | 👁看看视频(SP)","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ShiLiuDY_QJ","name":"雷蒙影视 | 🍇石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
 {"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://pandown.pro/tvbox/mayi.txt"},
@@ -158,6 +162,7 @@
 
 // ⇩⇩ 网盘搜索 ⇩⇩ 
 {"key":"csp_PanSearch_夸克","name":"雷蒙影视 | 🐺夸搜(夸克APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"./N3RD/T/c.txt","from":"4k|auto|fhd"}},
+{"key":"csp_MIPanSo","name":"雷蒙影视 | 🐺米搜(夸克APP扫码)","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"./N3RD/T/c.txt","from":"4k|auto|fhd"}},
 {"key":"csp_YiSo","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"aliToken":"./N3RD/T/t.txt","from":"4k|auto|fhd"}},
 {"key":"csp_PanSou","name":"雷蒙影视 | 🐱盘搜(阿里APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"aliToken":"./N3RD/T/t.txt","from":"4k|auto|fhd"}},
 {"key":"csp_UpYun","name":"雷蒙影视 | 😺云搜(阿里APP扫码)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"aliToken":"./N3RD/T/t.txt","from":"4k|auto|fhd"}},
