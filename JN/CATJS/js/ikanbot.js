@@ -58,7 +58,7 @@ function get_tks(play_id, e_token) {
 class IKanBotSpider extends Spider {
     constructor() {
         super();
-        this.siteUrl = "https://v.ikanbot.com"
+        this.siteUrl = "https://v.aikanbot.com"
     }
 
     getName() {
