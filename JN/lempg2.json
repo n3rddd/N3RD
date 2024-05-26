@@ -151,7 +151,7 @@
   
 // ⇩⇩ 爬虫SPIDER ⇩⇩ 
 {"key":"csp_Bili","name":"雷蒙影视 | 🅱哔哩哔哩(SP)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"type":"雷蒙Lem作品#Allblanc#帕梅拉#游戏#电影#音乐#白噪音#演唱会","cookie":"SESSDATA=13efc517%2C1700577613%2Cfcea6%2A52;bili_jct=272ef2be34e676f7cf6339c17dcb7bb5;DedeUserID=284097455;DedeUserID__ckMd5=e652501280a8dfd1;"}},
-{"key":"csp_Bdys01","name":"雷蒙影视 | 📯哔嘀影视(SP)","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.yjys.me/$$$null$$$1"},
+{"key":"csp_Bdys01","name":"雷蒙影视 | 📯哔嘀影视(SP)","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://www.yjys.me/$$$proxy$$$1"},
 {"key":"csp_TTian_天天","name":"雷蒙影视 | ✈天天(SP)","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn$$$null$$$1"},
 {"key":"csp_TTian_追剧","name":"雷蒙影视 | ✈追剧(SP)","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com$$$null$$$1"},
 {"key":"csp_NanGua","name":"雷蒙影视 | 🎃南瓜(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"null$$$1"},
