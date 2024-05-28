@@ -264,7 +264,7 @@ function pre(){
 
 let rule = {};
 let vercode = typeof(pdfl) ==='function'?'drpy2.1':'drpy2';
-const VERSION = vercode+' 3.9.50beta19 202400526';
+const VERSION = vercode+' 3.9.50beta20 202400528';
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染 (有能力解决的话尽量解决下，支持对象直接渲染字符串转义,如果加了|safe就不转义)[影魔牛逼，最新的文件发现这问题已经解决了]
  * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来 (这个大毛病需要重点排除一下)
@@ -289,7 +289,7 @@ const VERSION = vercode+' 3.9.50beta19 202400526';
 
 
 /*** 以下是内置变量和解析方法 **/
-const MOBILE_UA = 'Mozilla/5.0 (Linux; Android 11; M2007J3SC Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045714 Mobile Safari/537.36';
+const MOBILE_UA = 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36';
 const PC_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36';
 const UA = 'Mozilla/5.0';
 const UC_UA = 'Mozilla/5.0 (Linux; U; Android 9; zh-CN; MI 9 Build/PKQ1.181121.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.5.5.1035 Mobile Safari/537.36';
@@ -1441,7 +1441,7 @@ function verifyCode(url){
             console.log(`第${cnt+1}次验证码识别结果:${code}`);
             let submit_url = `${host}/index.php/ajax/verify_check?type=search&verify=${code}`;
             console.log(submit_url);
-            let html = request(submit_url,{headers:{Cookie:cookie,'User-Agent':MOBILE_UA},'method':'POST'});
+            let html = request(submit_url,{headers:{Cookie:cookie},'method':'POST'});
             // console.log(html);
             html = JSON.parse(html);
             if(html.msg === 'ok'){
@@ -1539,6 +1539,19 @@ function buildUrl(url,obj){
 function $require(url){
     eval(request(url));
 }
+
+/**
+ * 将obj所有key变小写
+ * @param obj
+ */
+function keysToLowerCase(obj) {
+  return Object.keys(obj).reduce((result, key) => {
+    const newKey = key.toLowerCase();
+    result[newKey] = obj[key]; // 如果值也是对象，可以递归调用本函数
+    return result;
+  }, {});
+}
+
 /**
  * 海阔网页请求函数完整封装
  * @param url 请求链接
@@ -1570,6 +1583,13 @@ function request(url,obj,ocr_flag){
         let keys = Object.keys(headers).map(it=>it.toLowerCase());
         if(!keys.includes('user-agent')){
             headers['User-Agent'] = MOBILE_UA;
+            // fetch_params 里存在ua则优先，否则才默认手机UA
+            if( typeof(fetch_params) === 'object' && fetch_params && fetch_params.headers){
+            let fetch_headers = keysToLowerCase(fetch_params.headers);
+            if(fetch_headers['user-agent']){
+              headers['User-Agent'] = fetch_headers['user-agent'];
+            }
+            }
         }if(!keys.includes('referer')){
             headers['Referer'] = getHome(url);
         }
