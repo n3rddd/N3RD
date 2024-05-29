@@ -2,7 +2,19 @@ var rule = {
     author: '小可乐/240527/第一版',
     title: '爱看农民[优]',
     host: 'https://m.emsdn.cn',
-    hostJs: `print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src = jsp.pdfh(html,"body&&a:eq(0)&&href")||jsp.pdfh(html,"body&&a:eq(0)&&Text");if(!src.startsWith('http')){src='https://'+src};print("抓到主页:"+src);HOST=src`,
+    hostJs: $js.toString(() => {
+        print(HOST);
+        let html = request(HOST, {headers: {"User-Agent": PC_UA}});
+        let src = jsp.pdfh(html, "body&&a:eq(0)&&href") || jsp.pdfh(html, "body&&a:eq(0)&&Text");
+        if (src && src.length > 5) {
+            print(src);
+            if (!src.startsWith('http')) {
+                src = 'https://' + src
+            }
+            print("抓到主页:" + src);
+            HOST = src
+        }
+    }),
     headers: {'User-Agent': 'PC_UA'},
     编码: 'utf-8',
     timeout: 5000,
