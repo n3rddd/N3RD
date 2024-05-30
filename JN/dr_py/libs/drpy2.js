@@ -321,7 +321,7 @@ const DOM_CHECK_ATTR = /(url|src|href|-original|-src|-play|-url|style)$/;
 // 过滤特殊链接,不走urlJoin
 const SPECIAL_URL = /^(ftp|magnet|thunder|ws):/;
 const NOADD_INDEX = /:eq|:lt|:gt|:first|:last|^body$|^#/;  // 不自动加eq下标索引
-const URLJOIN_ATTR = /(url|src|href|-original|-src|-play|-url|style)$/;  // 需要自动urljoin的属性
+const URLJOIN_ATTR = /(url|src|href|-original|-src|-play|-url|style)$|^(data-|url-|src-)/;  // 需要自动urljoin的属性
 const SELECT_REGEX = /:eq|:lt|:gt|#/g;
 const SELECT_REGEX_A = /:eq|:lt|:gt/g;
 
