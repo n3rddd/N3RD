@@ -239,6 +239,7 @@
 {"key":"drjs_胖虎影视","name":"雷蒙影视 | 👺胖虎影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/胖虎影视.js"},
 {"key":"drjs_爱看hd","name":"雷蒙影视 | 👺爱看hd(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/爱看hd.js"},
 {"key":"drjs_88看球","name":"雷蒙影视 | 👺88看球(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/88看球.js"},
+{"key":"drjs_维奇动漫","name":"雷蒙影视 | 👺维奇动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/维奇动漫.js"},
 {"key":"drjs_好趣网","name":"雷蒙影视 | 👺好趣网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/好趣网.js"},
 {"key":"drjs_被窝电影","name":"雷蒙影视 | 👺被窝电影(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/被窝电影.js"},
 {"key":"drjs_蚂蚁影视","name":"雷蒙影视 | 👺蚂蚁影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/蚂蚁影视.js"},
@@ -325,6 +326,7 @@
 {"key":"drjs_掌心世界","name":"雷蒙影视 | 👺掌心世界(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/掌心世界.js"},
 {"key":"drjs_孜然影视","name":"雷蒙影视 | 👺孜然影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/孜然影视.js"},
 
+{"key":"drjs_影搜[搜]","name":"雷蒙影视 | 👺影搜[搜](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影搜[搜].js"},
 {"key":"drjs_狗狗盘[搜]","name":"雷蒙影视 | 👺狗狗盘[搜](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/狗狗盘[搜].js"},
 {"key":"drjs_小站盘[搜]","name":"雷蒙影视 | 👺小站盘[搜](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/小站盘[搜].js"},
 {"key":"drjs_云盘资源网","name":"雷蒙影视 | 👺云盘资源网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/云盘资源网.js"},
