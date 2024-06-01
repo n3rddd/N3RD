@@ -24,70 +24,70 @@ https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3R
 
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🇨🇳央视频",CCTV1综合
-video://https://yangshipin.cn/#/tv/home?pid=600001859
+video://https://yangshipin.cn/tv/home?pid=600001859
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🇨🇳央视频",CCTV2财经
-video://https://yangshipin.cn/#/tv/home?pid=600001800
+video://https://yangshipin.cn/tv/home?pid=600001800
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🇨🇳央视频",CCTV3综艺
 http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🇨🇳央视频",CCTV3综艺
-video://https://yangshipin.cn/#/tv/home?pid=600001801
+video://https://yangshipin.cn/tv/home?pid=600001801
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🇨🇳央视频",CCTV4中文国际
-video://https://yangshipin.cn/#/tv/home?pid=600001814
+video://https://yangshipin.cn/tv/home?pid=600001814
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🇨🇳央视频",CCTV5体育
-video://https://yangshipin.cn/#/tv/home?pid=600001818
+video://https://yangshipin.cn/tv/home?pid=600001818
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="🇨🇳央视频",CCTV6电影
 http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="🇨🇳央视频",CCTV6电影
-video://https://yangshipin.cn/#/tv/home?pid=600001802
+video://https://yangshipin.cn/tv/home?pid=600001802
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🇨🇳央视频",CCTV7国防军事
-video://https://yangshipin.cn/#/tv/home?pid=600004092
+video://https://yangshipin.cn/tv/home?pid=600004092
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="🇨🇳央视频",CCTV8电视剧
 http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="🇨🇳央视频",CCTV8电视剧
-video://https://yangshipin.cn/#/tv/home?pid=600001803
+video://https://yangshipin.cn/tv/home?pid=600001803
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🇨🇳央视频",CCTV9纪录
-video://https://yangshipin.cn/#/tv/home?pid=600004078
+video://https://yangshipin.cn/tv/home?pid=600004078
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🇨🇳央视频",CCTV10科教
-video://https://yangshipin.cn/#/tv/home?pid=600001805
+video://https://yangshipin.cn/tv/home?pid=600001805
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🇨🇳央视频",CCTV11戏曲
-video://https://yangshipin.cn/#/tv/home?pid=600001806
+video://https://yangshipin.cn/tv/home?pid=600001806
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🇨🇳央视频",CCTV12社会与法
-video://https://yangshipin.cn/#/tv/home?pid=600001807
+video://https://yangshipin.cn/tv/home?pid=600001807
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🇨🇳央视频",CCTV13新闻
-video://https://yangshipin.cn/#/tv/home?pid=600001811
+video://https://yangshipin.cn/tv/home?pid=600001811
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🇨🇳央视频",CCTV14少儿
-video://https://yangshipin.cn/#/tv/home?pid=600001809
+video://https://yangshipin.cn/tv/home?pid=600001809
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="🇨🇳央视频",CCTV15音乐
-video://https://yangshipin.cn/#/tv/home?pid=600001815
+video://https://yangshipin.cn/tv/home?pid=600001815
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🇨🇳央视频",CCTV16奥林匹克
-video://https://yangshipin.cn/#/tv/home?pid=600098637
+video://https://yangshipin.cn/tv/home?pid=600098637
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🇨🇳央视频",CCTV17农业农村
-video://https://yangshipin.cn/#/tv/home?pid=600001810
+video://https://yangshipin.cn/tv/home?pid=600001810
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🇨🇳央视频",CCTV5+体育赛事
-video://https://yangshipin.cn/#/tv/home?pid=600001817
+video://https://yangshipin.cn/tv/home?pid=600001817
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CCTV4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4k.png" group-title="🇨🇳央视频",CCTV4k
-video://https://yangshipin.cn/#/tv/home?pid=600002264
+video://https://yangshipin.cn/tv/home?pid=600002264
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🇨🇳央视频",湖南卫视
 video://https://www.yangshipin.cn/#/tv/home?pid=600002475
