@@ -11,9 +11,9 @@ var rule = {
     play_parse: true,
     lazy: $js.toString(() => {
         let url = input.startsWith('push://') ? input : 'push://' + input;
-        input = {parse: 1, url: url};
+        input = {parse: 0, url: url};
     }),
-    一级: '',
+    // 一级: '',
     二级: $js.toString(() => {
         VOD = {};
         VOD.vod_id = input;
