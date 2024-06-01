@@ -90,64 +90,64 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 video://https://yangshipin.cn/tv/home?pid=600002264
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🇨🇳央视频",湖南卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002475
+video://https://www.yangshipin.cn/tv/home?pid=600002475
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🇨🇳央视频",安徽卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002532
+video://https://www.yangshipin.cn/tv/home?pid=600002532
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🇨🇳央视频",北京卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002309
+video://https://www.yangshipin.cn/tv/home?pid=600002309
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🇨🇳央视频",重庆卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002531
+video://https://www.yangshipin.cn/tv/home?pid=600002531
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🇨🇳央视频",东方卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002483
+video://https://www.yangshipin.cn/tv/home?pid=600002483
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🇨🇳央视频",东南卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002484
+video://https://www.yangshipin.cn/tv/home?pid=600002484
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🇨🇳央视频",广东卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002485
+video://https://www.yangshipin.cn/tv/home?pid=600002485
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🇨🇳央视频",贵州卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002490
+video://https://www.yangshipin.cn/tv/home?pid=600002490
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🇨🇳央视频",河北卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002493
+video://https://www.yangshipin.cn/tv/home?pid=600002493
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳央视频",河南卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002525
+video://https://www.yangshipin.cn/tv/home?pid=600002525
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🇨🇳央视频",黑龙江卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002498
+video://https://www.yangshipin.cn/tv/home?pid=600002498
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🇨🇳央视频",湖北卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002508
+video://https://www.yangshipin.cn/tv/home?pid=600002508
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🇨🇳央视频",江苏卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002521
+video://https://www.yangshipin.cn/tv/home?pid=600002521
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🇨🇳央视频",辽宁卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002505
+video://https://www.yangshipin.cn/tv/home?pid=600002505
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🇨🇳央视频",山东卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002513
+video://https://www.yangshipin.cn/tv/home?pid=600002513
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🇨🇳央视频",四川卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002516
+video://https://www.yangshipin.cn/tv/home?pid=600002516
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🇨🇳央视频",浙江卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002520
+video://https://www.yangshipin.cn/tv/home?pid=600002520
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="🇨🇳央视频",广西卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002509
+video://https://www.yangshipin.cn/tv/home?pid=600002509
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🇨🇳央视频",海南卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002506
+video://https://www.yangshipin.cn/tv/home?pid=600002506
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🇨🇳央视频",深圳卫视
-video://https://www.yangshipin.cn/#/tv/home?pid=600002481
+video://https://www.yangshipin.cn/tv/home?pid=600002481
 
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="🥭芒果直播",湖南电影
