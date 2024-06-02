@@ -83,7 +83,6 @@ YTN,https://www.youtube.com/watch?v=FJfwehhzIhw
 🇰🇷K-POP,#genre#
 THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 THE K-POP 2,https://www.youtube.com/watch?v=jCg2DzrukDo
-Vibing with K-Pop,https://www.youtube.com/watch?v=ESzv6U3s-eQ
 
 
 ☕好趣網/parse,#genre#
