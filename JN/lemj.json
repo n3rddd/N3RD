@@ -248,6 +248,9 @@
 {"key":"drjs_看客影院","name":"雷蒙影视 | 👺看客影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/看客影院.js"},
 {"key":"drjs_胖虎影视","name":"雷蒙影视 | 👺胖虎影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/胖虎影视.js"},
 {"key":"drjs_爱看hd","name":"雷蒙影视 | 👺爱看hd(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/爱看hd.js"},
+{"key":"drjs_次元城动漫","name":"雷蒙影视 | 👺次元城动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/次元城动漫.js"},
+{"key":"drjs_第一韩漫-z","name":"雷蒙影视 | 👺第一韩漫-z(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/第一韩漫-z.js"},
+{"key":"drjs_七色番","name":"雷蒙影视 | 👺七色番(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/七色番.js"},
 {"key":"drjs_88看球","name":"雷蒙影视 | 👺88看球(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/88看球.js"},
 {"key":"drjs_维奇动漫","name":"雷蒙影视 | 👺维奇动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/维奇动漫.js"},
 {"key":"drjs_好趣网","name":"雷蒙影视 | 👺好趣网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/好趣网.js"},
@@ -537,6 +540,7 @@
 {"key":"drjs_兔小贝","name":"雷蒙影视 | 👺兔小贝(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/兔小贝.js","searchable":0,"quickSearch":0},
 
 // ⇩⇩ DRPY 18+ ⇩⇩ 
+{"key":"drjs_Pornhub-z","name":"雷蒙影视 | 👺Pornhub-z(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/Pornhub-z.js"},
 {"key":"drjs_29片库","name":"雷蒙影视 | 👺29片库(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/29片库.js"},
 {"key":"drjs_ss直播","name":"雷蒙影视 | 👺ss直播(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"ext":"./EXT/JS/ss直播.js"},
 
