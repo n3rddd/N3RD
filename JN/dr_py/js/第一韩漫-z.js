@@ -47,8 +47,10 @@ var rule = {
             }
         })
     },
+
     搜索: $js.toString(() => {
         let d = [];
+
         let arr = jsp.pdfh(request(input), "body&&script:eq(3)&&Html");
         arr = JSON.parse(arr.split("serchArry=")[1].slice(0, -1));
         arr.forEach(v => {
