@@ -264,7 +264,7 @@ function pre() {
 
 let rule = {};
 let vercode = typeof (pdfl) === 'function' ? 'drpy2.1' : 'drpy2';
-const VERSION = vercode + ' 3.9.50beta25 20240604';
+const VERSION = vercode + ' 3.9.50beta26 20240605';
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染 (有能力解决的话尽量解决下，支持对象直接渲染字符串转义,如果加了|safe就不转义)[影魔牛逼，最新的文件发现这问题已经解决了]
  * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来 (这个大毛病需要重点排除一下)
@@ -2095,14 +2095,26 @@ function homeVodParse(homeVodObj) {
     let t2 = (new Date()).getTime();
     console.log('加载首页推荐耗时:' + (t2 - t1) + '毫秒');
     // console.log(JSON.stringify(d));
-    if (rule.图片替换 && rule.图片替换.includes('=>')) {
-        let replace_from = rule.图片替换.split('=>')[0];
-        let replace_to = rule.图片替换.split('=>')[1];
-        d.forEach(it => {
-            if (it.vod_pic && it.vod_pic.startsWith('http')) {
-                it.vod_pic = it.vod_pic.replace(replace_from, replace_to);
-            }
-        });
+    if (rule.图片替换) {
+        if (rule.图片替换.startsWith('js:')) {
+            d.forEach(it => {
+                try {
+                    var input = it.vod_pic;
+                    eval(rule.图片替换.trim().replace('js:', ''));
+                    it.vod_pic = input;
+                } catch (e) {
+                    log(`图片:${it.vod_pic}替换错误:${e.message}`);
+                }
+            });
+        } else if (rule.图片替换.includes('=>')) {
+            let replace_from = rule.图片替换.split('=>')[0];
+            let replace_to = rule.图片替换.split('=>')[1];
+            d.forEach(it => {
+                if (it.vod_pic && it.vod_pic.startsWith('http')) {
+                    it.vod_pic = it.vod_pic.replace(replace_from, replace_to);
+                }
+            });
+        }
     }
     if (rule.图片来源) {
         d.forEach(it => {
@@ -2241,14 +2253,26 @@ function categoryParse(cateObj) {
             console.log(e.message);
         }
     }
-    if (rule.图片替换 && rule.图片替换.includes('=>')) {
-        let replace_from = rule.图片替换.split('=>')[0];
-        let replace_to = rule.图片替换.split('=>')[1];
-        d.forEach(it => {
-            if (it.vod_pic && it.vod_pic.startsWith('http')) {
-                it.vod_pic = it.vod_pic.replace(replace_from, replace_to);
-            }
-        });
+    if (rule.图片替换) {
+        if (rule.图片替换.startsWith('js:')) {
+            d.forEach(it => {
+                try {
+                    var input = it.vod_pic;
+                    eval(rule.图片替换.trim().replace('js:', ''));
+                    it.vod_pic = input;
+                } catch (e) {
+                    log(`图片:${it.vod_pic}替换错误:${e.message}`);
+                }
+            });
+        } else if (rule.图片替换.includes('=>')) {
+            let replace_from = rule.图片替换.split('=>')[0];
+            let replace_to = rule.图片替换.split('=>')[1];
+            d.forEach(it => {
+                if (it.vod_pic && it.vod_pic.startsWith('http')) {
+                    it.vod_pic = it.vod_pic.replace(replace_from, replace_to);
+                }
+            });
+        }
     }
     if (rule.图片来源) {
         d.forEach(it => {
@@ -2447,14 +2471,26 @@ function searchParse(searchObj) {
             return '{}'
         }
     }
-    if (rule.图片替换 && rule.图片替换.includes('=>')) {
-        let replace_from = rule.图片替换.split('=>')[0];
-        let replace_to = rule.图片替换.split('=>')[1];
-        d.forEach(it => {
-            if (it.vod_pic && it.vod_pic.startsWith('http')) {
-                it.vod_pic = it.vod_pic.replace(replace_from, replace_to);
-            }
-        });
+    if (rule.图片替换) {
+        if (rule.图片替换.startsWith('js:')) {
+            d.forEach(it => {
+                try {
+                    var input = it.vod_pic;
+                    eval(rule.图片替换.trim().replace('js:', ''));
+                    it.vod_pic = input;
+                } catch (e) {
+                    log(`图片:${it.vod_pic}替换错误:${e.message}`);
+                }
+            });
+        } else if (rule.图片替换.includes('=>')) {
+            let replace_from = rule.图片替换.split('=>')[0];
+            let replace_to = rule.图片替换.split('=>')[1];
+            d.forEach(it => {
+                if (it.vod_pic && it.vod_pic.startsWith('http')) {
+                    it.vod_pic = it.vod_pic.replace(replace_from, replace_to);
+                }
+            });
+        }
     }
     if (rule.图片来源) {
         d.forEach(it => {
