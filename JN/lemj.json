@@ -253,7 +253,6 @@
 {"key":"drjs_胖虎影视","name":"雷蒙影视 | 👺胖虎影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/胖虎影视.js"},
 {"key":"drjs_爱看hd","name":"雷蒙影视 | 👺爱看hd(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/爱看hd.js"},
 {"key":"drjs_虾酱追剧","name":"雷蒙影视 | 👺虾酱追剧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/虾酱追剧.js"},
-{"key":"drjs_蜡笔[盘]","name":"雷蒙影视 | 👺蜡笔[盘](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/蜡笔[盘].js"},
 {"key":"drjs_绿色仓库","name":"雷蒙影视 | 👺绿色仓库(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/绿色仓库.js"},
 {"key":"drjs_热播之家","name":"雷蒙影视 | 👺热播之家(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/热播之家.js"},
 {"key":"drjs_驴番","name":"雷蒙影视 | 👺驴番(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/驴番.js"},
@@ -356,6 +355,7 @@
 {"key":"drjs_磁力熊[磁]","name":"雷蒙影视 | 👺磁力熊[磁](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/磁力熊[磁].js"},
 {"key":"drjs_玩偶哥哥[盘]","name":"雷蒙影视 | 👺玩偶哥哥[盘](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/玩偶哥哥[盘].js"},
 {"key":"drjs_阿里土豆[盘]","name":"雷蒙影视 | 👺阿里土豆[盘](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/阿里土豆[盘].js"}, 
+{"key":"drjs_蜡笔[盘]","name":"雷蒙影视 | 👺蜡笔[盘](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/蜡笔[盘].js"},
 {"key":"drjs_神马电影[搜]","name":"雷蒙影视 | 👺神马电影[搜](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/神马电影[搜].js"},
 {"key":"drjs_一号影院[搜]","name":"雷蒙影视 | 👺一号影院[搜](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/一号影院[搜].js"},
  
