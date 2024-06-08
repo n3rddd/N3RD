@@ -38,7 +38,7 @@
 
 {"key":"csp_Jianpian","name":"雷蒙影视 | 🥇荐片弹幕版(SP)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./N3RD/T/jianpian.json$$$1"},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
-{"key":"csp_Youtube","name":"雷蒙影视 | ▶YouTube(SP)","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":0,"ext":{"type":"直播#新闻#音乐#Vevo#MusicVideo#Spotify#综艺#小姐不熙娣#游戏#体育#剧集#电影#8K#4K#HDR#movie#music#documentary","proxy":"proxy","codecs":""},"style":{"type":"rect","ratio":1.5}},
+{"key":"csp_Youtube","name":"雷蒙影视 | ▶YouTube(SP)","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":0,"ext":{"type":"直播#新闻#音乐#Vevo#MusicVideo#Spotify#KPop#综艺#小姐不熙娣#游戏#体育#剧集#电影#8K#4K#HDR#movie#music#documentary","proxy":"proxy","codecs":""},"style":{"type":"rect","ratio":1.5}},
 
 // ⇩⇩ 阿里夸克迅雷UC网盘 ⇩⇩ 
 {"key":"csp_Config","name":"雷蒙影视 | 💿网盘及弹幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./N3RD/T/pg.txt"},
