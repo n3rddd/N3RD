@@ -45,7 +45,7 @@
 {"key":"drjs_直播","name":"雷蒙影视 | 🖥电视直播(DRJS)","type":3,"api":"./EXT/JS/直播转点播.js","changeable":0,"ext":"./EXT/JS/直播.js&&&./N3RD/W/POSTER1.png"},
 {"key":"csp_Live2Vod","name":"雷蒙影视 | 🖥电视直播(SP)","type":3,"api":"csp_Live2Vod","changeable":0,"ext":"./EXT/JS/直播.js"},
 {"key":"csp_CCTV_ZAL","name":"雷蒙影视 | ©央视(SP)","type":3,"api":"csp_CCTV","searchable":1,"filterable":0,"changeable":0,"ext":"./EXT/XB/cctv.json"},
-{"key":"YOUTUBE直播","name":"雷蒙影视 | ▶YOUTUBE直播【翻墙观看】▶","type":3,"playerType":2,"api":"./EXT/JS/lf_live8_min.js","ext":"./EXT/JS/YT.txt"},
+{"key":"YOUTUBE直播","name":"雷蒙影视 | ▶油管直播(LFJS)","type":3,"playerType":2,"api":"./EXT/JS/lf_live8_min.js","ext":"./EXT/JS/YT.txt"},
 {"key":"csp_Douban","name":"雷蒙影视 | 📡我的豆瓣(SP)","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
 {"key":"csp_DouDou","name":"雷蒙影视 | 📡豆瓣片单(SP)","type":3,"api":"csp_DouDou","searchable":0},
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/豆瓣[官].js"},
@@ -53,7 +53,7 @@
 
 
 // ⇩⇩ PGjar加载 ⇩⇩
-{"jar":"./N3RD/J/pg.jar","key":"csp_Youtube_PG","name":"雷蒙影视 | ▶YouTube(SP)","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":0,"ext":{"type":"直播#新闻#音乐#Vevo#MusicVideo#Spotify#KPop#综艺#小姐不熙娣#游戏#体育#剧集#电影#8K#4K#HDR#movie#music#documentary","proxy":"proxy"},"style":{"type":"rect","ratio":1.5}},
+{"jar":"./N3RD/J/pg.jar","key":"csp_Youtube_PG","name":"雷蒙影视 | ▶YouTube(SP)","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":0,"ext":{"json":"./N3RD/T/ytc.json","type":"","proxy":"proxy"},"style":{"type":"rect","ratio":1.5}},
 {"jar":"./N3RD/J/pg.jar","key":"csp_PushShare_PG","name":"雷蒙影视 | 💿雷蒙网盘影集","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/lemshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"jar":"./N3RD/J/pg.jar","key":"csp_Ikanbot_PG","name":"雷蒙影视 | 🤖爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.aikanbot.com/$$$proxy"},
 {"jar":"./N3RD/J/pg.jar","key":"csp_Jianpian_PG","name":"雷蒙影视 | 🥇荐片弹幕版(SP)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./N3RD/T/jianpian.json$$$1"},
