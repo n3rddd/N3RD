@@ -76,7 +76,7 @@
 }
 ],
 
-"电影国区":[
+"电影":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"movie"},
 {"n":"Netflix","v":"netflix full movie"},
@@ -91,7 +91,7 @@
 }
 ],
 
-"电影外区":[
+"movie":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"movie"},
 {"n":"Netflix","v":"netflix full movie"},
