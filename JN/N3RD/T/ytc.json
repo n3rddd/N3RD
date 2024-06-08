@@ -9,6 +9,7 @@
 {"type_id":"movie","type_name":"电影外区"},
 {"type_id":"电视剧","type_name":"剧集"},
 {"type_id":"短剧","type_name":"短剧"},
+{"type_id":"netflix","type_name":"Netflix"},
 {"type_id":"documentary","type_name":"纪录片"}
 ],
 
@@ -79,7 +80,6 @@
 "电影":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"movie"},
-{"n":"Netflix","v":"netflix full movie"},
 {"n":"电影解说","v":"电影解说"},
 {"n":"华语","v":"中文电影"},
 {"n":"英语","v":"english movie"},
@@ -94,7 +94,6 @@
 "movie":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"movie"},
-{"n":"Netflix","v":"netflix full movie"},
 {"n":"华语","v":"chinese movie"},
 {"n":"英语","v":"english movie"},
 {"n":"日语","v":"japanese movie"},
@@ -108,7 +107,6 @@
 "电视剧":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"series"},
-{"n":"Netflix","v":"netflix full episode"},
 {"n":"华语","v":"中文电视剧"},
 {"n":"英语","v":"english series"},
 {"n":"日语","v":"japanese series"},
@@ -124,6 +122,15 @@
 {"n":"全部","v":"短剧"},
 {"n":"热门","v":"热门短剧"},
 {"n":"最新","v":"最新短剧"}
+]
+}
+],
+
+"netflix":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"netflix"},
+{"n":"全集","v":"full"},
+{"n":"预告","v":"trailor"}
 ]
 }
 ],
