@@ -4,9 +4,11 @@
 {"type_id":"新闻","type_name":"新闻"},
 {"type_id":"music","type_name":"音乐"},
 {"type_id":"综艺","type_name":"综艺"},
+{"type_id":"游戏","type_name":"游戏"},
 {"type_id":"电影","type_name":"电影国区"},
 {"type_id":"movie","type_name":"电影外区"},
 {"type_id":"电视剧","type_name":"剧集"},
+{"type_id":"短剧","type_name":"短剧"},
 {"type_id":"documentary","type_name":"纪录片"}
 ],
 
@@ -63,6 +65,17 @@
 }
 ],
 
+"游戏":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"game"},
+{"n":"游戏解说","v":"游戏解说"},
+{"n":"游戏直播","v":"游戏直播"},
+{"n":"恐怖游戏","v":"恐怖游戏"},
+{"n":"游戏全流程","v":"full game walkthrough"}
+]
+}
+],
+
 "电影国区":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"movie"},
@@ -98,6 +111,15 @@
 {"n":"韩语","v":"korean series"},
 {"n":"恐怖","v":"horror series"},
 {"n":"经典","v":"classic series"}
+]
+}
+],
+
+"短剧":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"短剧"},
+{"n":"热门","v":"热门短剧"},
+{"n":"最新","v":"最新短剧"}
 ]
 }
 ],
