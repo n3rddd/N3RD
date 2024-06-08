@@ -2,11 +2,12 @@
 "class":[
 {"type_id":"直播","type_name":"直播"},
 {"type_id":"新闻","type_name":"新闻"},
-{"type_id":"音乐","type_name":"音乐"},
+{"type_id":"music","type_name":"音乐"},
 {"type_id":"综艺","type_name":"综艺"},
-{"type_id":"电影","type_name":"电影"},
+{"type_id":"电影","type_name":"电影一区"},
+{"type_id":"movie","type_name":"电影二区"},
 {"type_id":"电视剧","type_name":"剧集"},
-{"type_id":"纪录片","type_name":"纪录片"}
+{"type_id":"documentary","type_name":"纪录片"}
 ],
 
 "filters":{
@@ -34,7 +35,7 @@
 }
 ],
 
-"音乐":[
+"music":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"music"},
 {"n":"Vevo","v":"vevo"},
@@ -42,6 +43,7 @@
 {"n":"K-Pop","v":"kpop"},
 {"n":"MVs","v":"music video"},
 {"n":"New Releases","v":"music new releases"}
+{"n":"华语","v":"中文音乐"},
 ]
 }
 ],
@@ -58,7 +60,20 @@
 }
 ],
 
-"电影":[
+"电影一区":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"movie"},
+{"n":"华语","v":"电影"},
+{"n":"英语","v":"english movie"},
+{"n":"日语","v":"japanese movie"},
+{"n":"韩语","v":"korean movie"},
+{"n":"恐怖","v":"horror movie"},
+{"n":"经典","v":"classic movie"}
+]
+}
+],
+
+"电影二区":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"movie"},
 {"n":"华语","v":"电影"},
