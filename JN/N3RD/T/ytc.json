@@ -1,0 +1,48 @@
+{
+"class":[
+{"type_id":"live","type_name":"直播"},
+{"type_id":"news","type_name":"新闻"},
+{"type_id":"music","type_name":"音乐"}
+],
+
+"filters":{
+"live":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"live"},
+{"n":"台湾","v":"taiwan news live"},
+{"n":"亚洲","v":"asian news live"},
+{"n":"国内","v":"chinese news live"},
+{"n":"CNN","v":"CNN news live"},
+{"n":"BBC","v":"BBC news live"}
+]
+}
+],
+
+"news":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"news"},
+{"n":"台湾","v":"taiwan news"},
+{"n":"亚洲","v":"asian news"},
+{"n":"国内","v":"chinese news"},
+{"n":"CNN","v":"CNN news"},
+{"n":"BBC","v":"BBC news"}
+]
+}
+],
+
+"music":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"music"},
+{"n":"Vevo","v":"vevo"},
+{"n":"Spotify","v":"spotify"},
+{"n":"K-Pop","v":"kpop"},
+{"n":"MVs","v":"music video"},
+{"n":"New Releases","v":"music new releases"}
+]
+}
+]
+
+},
+"jx":0,
+"parse":0
+}
