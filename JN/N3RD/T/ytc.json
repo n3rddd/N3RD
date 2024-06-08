@@ -4,8 +4,8 @@
 {"type_id":"新闻","type_name":"新闻"},
 {"type_id":"music","type_name":"音乐"},
 {"type_id":"综艺","type_name":"综艺"},
-{"type_id":"电影","type_name":"电影一区"},
-{"type_id":"movie","type_name":"电影二区"},
+{"type_id":"电影","type_name":"电影国区"},
+{"type_id":"movie","type_name":"电影外区"},
 {"type_id":"电视剧","type_name":"剧集"},
 {"type_id":"documentary","type_name":"纪录片"}
 ],
@@ -29,6 +29,7 @@
 {"n":"台湾","v":"taiwan news"},
 {"n":"亚洲","v":"asian news"},
 {"n":"内地","v":"chinese news"},
+{"n":"少康战情室","v":"少康战情室"},
 {"n":"CNN","v":"CNN news"},
 {"n":"BBC","v":"BBC news"}
 ]
@@ -55,15 +56,17 @@
 {"n":"内地","v":"chinese tv show"},
 {"n":"香港","v":"hongkong tv show"},
 {"n":"小姐不熙娣","v":"小姐不熙娣"},
+{"n":"奔跑吧","v":"奔跑吧"},
+{"n":"康熙来了","v":"康熙来了"},
 {"n":"乘风","v":"乘风2024"}
 ]
 }
 ],
 
-"电影一区":[
+"电影国区":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"movie"},
-{"n":"华语","v":"电影"},
+{"n":"华语","v":"中文电影"},
 {"n":"英语","v":"english movie"},
 {"n":"日语","v":"japanese movie"},
 {"n":"韩语","v":"korean movie"},
@@ -73,10 +76,10 @@
 }
 ],
 
-"电影二区":[
+"电影外区":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"movie"},
-{"n":"华语","v":"电影"},
+{"n":"华语","v":"chinese movie"},
 {"n":"英语","v":"english movie"},
 {"n":"日语","v":"japanese movie"},
 {"n":"韩语","v":"korean movie"},
@@ -88,8 +91,8 @@
 
 "电视剧":[
 {"key":"tid","name":"子分类","value":[
-{"n":"全部","v":"movie"},
-{"n":"华语","v":"电视剧"},
+{"n":"全部","v":"series"},
+{"n":"华语","v":"中文电视剧"},
 {"n":"英语","v":"english series"},
 {"n":"日语","v":"japanese series"},
 {"n":"韩语","v":"korean series"},
