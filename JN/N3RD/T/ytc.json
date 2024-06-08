@@ -42,10 +42,10 @@
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"music"},
 {"n":"Vevo","v":"vevo"},
-{"n":"Spotify","v":"spotify"},
 {"n":"K-Pop","v":"kpop"},
 {"n":"MVs","v":"music video"},
 {"n":"New Releases","v":"music new releases"},
+{"n":"Spotify","v":"spotify"},
 {"n":"华语","v":"中文音乐"}
 ]
 }
@@ -54,8 +54,8 @@
 "综艺":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"tv show"},
-{"n":"台湾","v":"taiwan tv show"},
 {"n":"内地","v":"chinese tv show"},
+{"n":"台湾","v":"taiwan tv show"},
 {"n":"香港","v":"hongkong tv show"},
 {"n":"小姐不熙娣","v":"小姐不熙娣"},
 {"n":"奔跑吧","v":"奔跑吧"},
