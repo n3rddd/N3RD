@@ -1,36 +1,40 @@
 {
 "class":[
-{"type_id":"live","type_name":"直播"},
-{"type_id":"news","type_name":"新闻"},
-{"type_id":"music","type_name":"音乐"}
+{"type_id":"直播","type_name":"直播"},
+{"type_id":"新闻","type_name":"新闻"},
+{"type_id":"音乐","type_name":"音乐"},
+{"type_id":"综艺","type_name":"综艺"},
+{"type_id":"电影","type_name":"电影"},
+{"type_id":"电视剧","type_name":"剧集"},
+{"type_id":"纪录片","type_name":"纪录片"}
 ],
 
 "filters":{
-"live":[
+"直播":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"live"},
 {"n":"台湾","v":"taiwan news live"},
 {"n":"亚洲","v":"asian news live"},
-{"n":"国内","v":"chinese news live"},
+{"n":"内地","v":"chinese news live"},
 {"n":"CNN","v":"CNN news live"},
 {"n":"BBC","v":"BBC news live"}
 ]
 }
 ],
 
-"news":[
+"新闻":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"news"},
 {"n":"台湾","v":"taiwan news"},
 {"n":"亚洲","v":"asian news"},
-{"n":"国内","v":"chinese news"},
+{"n":"内地","v":"chinese news"},
 {"n":"CNN","v":"CNN news"},
 {"n":"BBC","v":"BBC news"}
 ]
 }
 ],
 
-"music":[
+"音乐":[
 {"key":"tid","name":"子分类","value":[
 {"n":"全部","v":"music"},
 {"n":"Vevo","v":"vevo"},
@@ -40,7 +44,56 @@
 {"n":"New Releases","v":"music new releases"}
 ]
 }
+],
+
+"综艺":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"tv show"},
+{"n":"台湾","v":"taiwan tv show"},
+{"n":"内地","v":"chinese tv show"},
+{"n":"香港","v":"hongkong tv show"},
+{"n":"小姐不熙娣","v":"小姐不熙娣"},
+{"n":"乘风","v":"乘风2024"}
 ]
+}
+],
+
+"电影":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"movie"},
+{"n":"华语","v":"电影"},
+{"n":"英语","v":"english movie"},
+{"n":"日语","v":"japanese movie"},
+{"n":"韩语","v":"korean movie"},
+{"n":"恐怖","v":"horror movie"},
+{"n":"经典","v":"classic movie"}
+]
+}
+],
+
+"电视剧":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"movie"},
+{"n":"华语","v":"电视剧"},
+{"n":"英语","v":"english series"},
+{"n":"日语","v":"japanese series"},
+{"n":"韩语","v":"korean series"},
+{"n":"恐怖","v":"horror series"},
+{"n":"经典","v":"classic series"}
+]
+}
+],
+
+"纪录片":[
+{"key":"tid","name":"子分类","value":[
+{"n":"全部","v":"documentary"},
+{"n":"Netflix","v":"netflix documentary"},
+{"n":"BBC","v":"bbc documentary"},
+{"n":"华语","v":"纪录片"}
+]
+}
+]
+
 
 },
 "jx":0,
