@@ -55,7 +55,7 @@
 
 "music":[
 {"key":"tid","name":"外区","value":[
-{"n":"[外区]","v":"music"},
+{"n":"[全部]","v":"music"},
 {"n":"Vevo","v":"vevo"},
 {"n":"K-Pop","v":"kpop"},
 {"n":"MVs","v":"music video"},
@@ -177,7 +177,7 @@
 }
 ],
 
-"纪录片":[
+"documentary":[
 {"key":"tid","name":"外区","value":[
 {"n":"[全部]","v":"documentary"},
 {"n":"Netflix","v":"netflix documentary"},
