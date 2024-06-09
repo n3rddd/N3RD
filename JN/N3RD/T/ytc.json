@@ -9,7 +9,8 @@
 {"type_id":"电视剧","type_name":"剧集"},
 {"type_id":"短剧","type_name":"短剧"},
 {"type_id":"netflix","type_name":"Netflix"},
-{"type_id":"documentary","type_name":"纪录片"}
+{"type_id":"documentary","type_name":"纪录片"},
+{"type_id":"channel","type_name":"频道"}
 ],
 
 "filters":{
@@ -134,6 +135,8 @@
 {"key":"tid","name":"国区","value":[
 {"n":"国区","v":"电视剧"},
 {"n":"华语","v":"中文电视剧"},
+{"n":"TVB","v":"TVB电视剧"},
+{"n":"ATV","v":"ATV电视剧"},
 {"n":"英语","v":"电视剧 english series"},
 {"n":"日语","v":"电视剧 japanese series"},
 {"n":"韩语","v":"电视剧 korean series"},
@@ -183,8 +186,60 @@
 {"n":"华语","v":"纪录片"}
 ]
 }
-]
+],
 
+"channel":[
+{"key":"tid","name":"芒果TV","value":[
+{"n":"芒果TV","v":"@MangoTV-Official"},
+{"n":"芒果TV推理宇宙","v":"@MangoTV-Mystery"},
+{"n":"芒果TV音乐","v":"@MangoTV-Music"}
+]
+},
+{"key":"tid","name":"爱奇艺","value":[
+{"n":"爱奇艺","v":"@iQIYIofficial"},
+{"n":"爱奇艺综艺","v":"@iQIYIVariety"},
+{"n":"爱奇艺华语剧场","v":"@iQIYICDrama"},
+{"n":"爱奇艺台湾","v":"@iQIYITW"},
+{"n":"爱奇艺大电影","v":"@iQIYIMOVIETHEATER"},
+{"n":"爱奇艺东方奇幻","v":"@iQIYIOrientalFantasy"},
+{"n":"爱奇艺动漫","v":"@iQIYIAnime"}
+]
+},
+{"key":"tid","name":"腾讯视频","value":[
+{"n":"腾讯视频","v":"@TencentVideo"},
+{"n":"腾讯热播综艺","v":"@TencentVideoShow"},
+{"n":"腾讯纪录片","v":"@TencentVideoDocumentary"},
+{"n":"腾讯精选微剧","v":"@TencentVideoMiniDrama"},
+{"n":"腾讯青春剧场","v":"@TencentVideoRomantic"},
+{"n":"腾讯悬疑剧场","v":"@TencentVideoSuspense"},
+{"n":"腾讯古装剧场","v":"@TencentVideoCostume"},
+{"n":"腾讯动漫剧场","v":"@TencentVideoAnimation"}
+]
+},
+{"key":"tid","name":"优酷视频","value":[
+{"n":"优酷视频","v":"@youku-official"},
+{"n":"优酷综艺","v":"@youkushow"},
+{"n":"优酷古装","v":"@youkucostume"},
+{"n":"优酷电影","v":"@youkumovie"},
+{"n":"优酷剧集","v":"@youkuromance"},
+{"n":"优酷纪录片","v":"@youkudocumentary"},
+{"n":"优酷华语剧场","v":"@youkuhuayu"}
+]
+},
+{"key":"tid","name":"音乐","value":[
+{"n":"Vevo","v":"@VEVO"},
+{"n":"Universal Music Group","v":"@universalmusicgroup"},
+{"n":"Britney Spears","v":"@britneyspears"},
+{"n":"Taylor Swift","v":"@TaylorSwift"}
+]
+},
+{"key":"tid","name":"其他","value":[
+{"n":"小姐不熙娣","v":"@DeeGirlsTalk"},
+{"n":"TVB","v":"@TVB"},
+{"n":"ATV亚洲电视","v":"@atvhongkong"}
+]
+}
+]
 
 },
 "jx":0,
