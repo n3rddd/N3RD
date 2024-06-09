@@ -15,7 +15,7 @@
 "filters":{
 "直播":[
 {"key":"tid","name":"国区","value":[
-{"n":"全部","v":"直播"},
+{"n":"国区","v":"直播"},
 {"n":"台湾","v":"直播 taiwan news live"},
 {"n":"亚洲","v":"直播 asian news live"},
 {"n":"内地","v":"直播 chinese news live"},
@@ -24,7 +24,7 @@
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"全部","v":"live"},
+{"n":"外区","v":"live"},
 {"n":"台湾","v":"taiwan news live"},
 {"n":"亚洲","v":"asian news live"},
 {"n":"内地","v":"chinese news live"},
@@ -36,7 +36,7 @@
 
 "新闻":[
 {"key":"tid","name":"国区","value":[
-{"n":"全部","v":"新闻"},
+{"n":"国区","v":"新闻"},
 {"n":"台湾","v":"新闻 taiwan news"},
 {"n":"亚洲","v":"新闻 asian news"},
 {"n":"内地","v":"新闻 chinese news"},
@@ -44,7 +44,7 @@
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"全部","v":"news"},
+{"n":"外区","v":"news"},
 {"n":"台湾","v":"taiwan news"},
 {"n":"亚洲","v":"asian news"},
 {"n":"内地","v":"chinese news"},
@@ -56,7 +56,7 @@
 
 "music":[
 {"key":"tid","name":"外区","value":[
-{"n":"全部","v":"music"},
+{"n":"外区","v":"music"},
 {"n":"Vevo","v":"vevo"},
 {"n":"K-Pop","v":"kpop"},
 {"n":"MVs","v":"music video"},
@@ -69,7 +69,7 @@
 
 "综艺":[
 {"key":"tid","name":"国区","value":[
-{"n":"全部","v":"综艺"},
+{"n":"国区","v":"综艺"},
 {"n":"内地","v":"综艺 chinese tv show"},
 {"n":"台湾","v":"综艺 taiwan tv show"},
 {"n":"香港","v":"综艺 hongkong tv show"},
@@ -80,7 +80,7 @@
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"全部","v":"tv show"},
+{"n":"外区","v":"tv show"},
 {"n":"内地","v":"chinese tv show"},
 {"n":"台湾","v":"taiwan tv show"},
 {"n":"香港","v":"hongkong tv show"}
@@ -90,7 +90,7 @@
 
 "游戏":[
 {"key":"tid","name":"国区","value":[
-{"n":"全部","v":"游戏"},
+{"n":"国区","v":"游戏"},
 {"n":"游戏解说","v":"游戏解说"},
 {"n":"游戏直播","v":"游戏直播"},
 {"n":"恐怖游戏","v":"恐怖游戏"},
@@ -98,7 +98,7 @@
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"全部","v":"game"},
+{"n":"外区","v":"game"},
 {"n":"游戏直播","v":"game live"},
 {"n":"恐怖游戏","v":"horror game"},
 {"n":"游戏全流程","v":"full game walkthrough"}
@@ -108,7 +108,7 @@
 
 "电影":[
 {"key":"tid","name":"国区","value":[
-{"n":"全部","v":"电影"},
+{"n":"国区","v":"电影"},
 {"n":"电影解说","v":"电影解说"},
 {"n":"华语","v":"中文电影"},
 {"n":"英语","v":"电影 english movie"},
@@ -119,7 +119,7 @@
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"全部","v":"movie"},
+{"n":"外区","v":"movie"},
 {"n":"华语","v":"chinese movie"},
 {"n":"英语","v":"english movie"},
 {"n":"日语","v":"japanese movie"},
@@ -132,7 +132,7 @@
 
 "电视剧":[
 {"key":"tid","name":"国区","value":[
-{"n":"全部","v":"电视剧"},
+{"n":"国区","v":"电视剧"},
 {"n":"华语","v":"中文电视剧"},
 {"n":"英语","v":"电视剧 english series"},
 {"n":"日语","v":"电视剧 japanese series"},
@@ -142,7 +142,7 @@
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"全部","v":"series"},
+{"n":"外区","v":"series"},
 {"n":"华语","v":"chinese series"},
 {"n":"英语","v":"english series"},
 {"n":"日语","v":"japanese series"},
@@ -155,20 +155,20 @@
 
 "短剧":[
 {"key":"tid","name":"国区","value":[
-{"n":"全部","v":"短剧"},
+{"n":"短剧","v":"短剧"},
 {"n":"热门","v":"热门短剧"},
 {"n":"最新","v":"最新短剧"}
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"全部","v":"short film"}
+{"n":"短片","v":"short film"}
 ]
 }
 ],
 
 "netflix":[
 {"key":"tid","name":"外区","value":[
-{"n":"全部","v":"netflix"},
+{"n":"外区","v":"netflix"},
 {"n":"全集","v":"netflix full episode"},
 {"n":"预告","v":"netflix trailor"}
 ]
@@ -177,7 +177,7 @@
 
 "纪录片":[
 {"key":"tid","name":"外区","value":[
-{"n":"全部","v":"documentary"},
+{"n":"外区","v":"documentary"},
 {"n":"Netflix","v":"netflix documentary"},
 {"n":"BBC","v":"bbc documentary"},
 {"n":"华语","v":"纪录片"}
