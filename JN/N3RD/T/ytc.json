@@ -16,16 +16,14 @@
 "filters":{
 "直播":[
 {"key":"tid","name":"国区","value":[
-{"n":"国区","v":"直播"},
+{"n":"[国区]","v":"直播"},
 {"n":"台湾","v":"直播 taiwan news live"},
 {"n":"亚洲","v":"直播 asian news live"},
-{"n":"内地","v":"直播 chinese news live"},
-{"n":"CNN","v":"直播 CNN news live"},
-{"n":"BBC","v":"直播 BBC news live"}
+{"n":"内地","v":"直播 chinese news live"}
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"外区","v":"live"},
+{"n":"[外区]","v":"live"},
 {"n":"台湾","v":"taiwan news live"},
 {"n":"亚洲","v":"asian news live"},
 {"n":"内地","v":"chinese news live"},
@@ -37,7 +35,7 @@
 
 "新闻":[
 {"key":"tid","name":"国区","value":[
-{"n":"国区","v":"新闻"},
+{"n":"[国区]","v":"新闻"},
 {"n":"台湾","v":"新闻 taiwan news"},
 {"n":"亚洲","v":"新闻 asian news"},
 {"n":"内地","v":"新闻 chinese news"},
@@ -45,7 +43,7 @@
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"外区","v":"news"},
+{"n":"[外区]","v":"news"},
 {"n":"台湾","v":"taiwan news"},
 {"n":"亚洲","v":"asian news"},
 {"n":"内地","v":"chinese news"},
@@ -57,12 +55,13 @@
 
 "music":[
 {"key":"tid","name":"外区","value":[
-{"n":"外区","v":"music"},
+{"n":"[外区]","v":"music"},
 {"n":"Vevo","v":"vevo"},
 {"n":"K-Pop","v":"kpop"},
 {"n":"MVs","v":"music video"},
 {"n":"New Releases","v":"music new releases"},
-{"n":"Spotify","v":"spotify"},
+{"n":"Billboard","v":"billboard single"},
+{"n":"Spotify","v":"spotify playlist"},
 {"n":"华语","v":"中文音乐"}
 ]
 }
@@ -70,7 +69,7 @@
 
 "综艺":[
 {"key":"tid","name":"国区","value":[
-{"n":"国区","v":"综艺"},
+{"n":"[国区]","v":"综艺"},
 {"n":"内地","v":"综艺 chinese tv show"},
 {"n":"台湾","v":"综艺 taiwan tv show"},
 {"n":"香港","v":"综艺 hongkong tv show"},
@@ -81,7 +80,7 @@
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"外区","v":"tv show"},
+{"n":"[外区]","v":"tv show"},
 {"n":"内地","v":"chinese tv show"},
 {"n":"台湾","v":"taiwan tv show"},
 {"n":"香港","v":"hongkong tv show"}
@@ -91,15 +90,15 @@
 
 "游戏":[
 {"key":"tid","name":"国区","value":[
-{"n":"国区","v":"游戏"},
-{"n":"游戏解说","v":"游戏解说"},
+{"n":"[国区]","v":"游戏"},
 {"n":"游戏直播","v":"游戏直播"},
 {"n":"恐怖游戏","v":"恐怖游戏"},
-{"n":"游戏全流程","v":"游戏 full game walkthrough"}
+{"n":"游戏全流程","v":"游戏全流程"},
+{"n":"游戏解说","v":"游戏解说"}
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"外区","v":"game"},
+{"n":"[外区]","v":"game"},
 {"n":"游戏直播","v":"game live"},
 {"n":"恐怖游戏","v":"horror game"},
 {"n":"游戏全流程","v":"full game walkthrough"}
@@ -109,18 +108,18 @@
 
 "电影":[
 {"key":"tid","name":"国区","value":[
-{"n":"国区","v":"电影"},
-{"n":"电影解说","v":"电影解说"},
+{"n":"[国区]","v":"电影"},
 {"n":"华语","v":"中文电影"},
 {"n":"英语","v":"电影 english movie"},
 {"n":"日语","v":"电影 japanese movie"},
 {"n":"韩语","v":"电影 korean movie"},
 {"n":"恐怖","v":"电影 horror movie"},
-{"n":"经典","v":"电影 classic movie"}
+{"n":"经典","v":"电影 classic movie"},
+{"n":"电影解说","v":"电影解说"}
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"外区","v":"movie"},
+{"n":"[外区]","v":"movie"},
 {"n":"华语","v":"chinese movie"},
 {"n":"英语","v":"english movie"},
 {"n":"日语","v":"japanese movie"},
@@ -133,19 +132,19 @@
 
 "电视剧":[
 {"key":"tid","name":"国区","value":[
-{"n":"国区","v":"电视剧"},
+{"n":"[国区]","v":"电视剧"},
 {"n":"华语","v":"中文电视剧"},
-{"n":"TVB","v":"TVB电视剧"},
-{"n":"ATV","v":"ATV电视剧"},
 {"n":"英语","v":"电视剧 english series"},
 {"n":"日语","v":"电视剧 japanese series"},
 {"n":"韩语","v":"电视剧 korean series"},
 {"n":"恐怖","v":"电视剧 horror series"},
-{"n":"经典","v":"电视剧 classic series"}
+{"n":"经典","v":"电视剧 classic series"},
+{"n":"TVB","v":"TVB电视剧"},
+{"n":"ATV","v":"ATV电视剧"}
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"外区","v":"series"},
+{"n":"[外区]","v":"series"},
 {"n":"华语","v":"chinese series"},
 {"n":"英语","v":"english series"},
 {"n":"日语","v":"japanese series"},
@@ -158,20 +157,20 @@
 
 "短剧":[
 {"key":"tid","name":"国区","value":[
-{"n":"短剧","v":"短剧"},
+{"n":"[短剧]","v":"短剧"},
 {"n":"热门","v":"热门短剧"},
 {"n":"最新","v":"最新短剧"}
 ]
 },
 {"key":"tid","name":"外区","value":[
-{"n":"短片","v":"short film"}
+{"n":"[短片]","v":"short film"}
 ]
 }
 ],
 
 "netflix":[
 {"key":"tid","name":"外区","value":[
-{"n":"外区","v":"netflix"},
+{"n":"[全部]","v":"netflix"},
 {"n":"全集","v":"netflix full episode"},
 {"n":"预告","v":"netflix trailor"}
 ]
@@ -180,7 +179,7 @@
 
 "纪录片":[
 {"key":"tid","name":"外区","value":[
-{"n":"外区","v":"documentary"},
+{"n":"[全部]","v":"documentary"},
 {"n":"Netflix","v":"netflix documentary"},
 {"n":"BBC","v":"bbc documentary"},
 {"n":"华语","v":"纪录片"}
@@ -190,12 +189,15 @@
 
 "channel":[
 {"key":"tid","name":"芒果TV","value":[
+{"n":"[芒果TV系列]","v":"@MangoTV-Official"},
 {"n":"芒果TV","v":"@MangoTV-Official"},
+{"n":"芒果TV青春剧场","v":"@MangoTVDramaOfficial"},
 {"n":"芒果TV推理宇宙","v":"@MangoTV-Mystery"},
 {"n":"芒果TV音乐","v":"@MangoTV-Music"}
 ]
 },
 {"key":"tid","name":"爱奇艺","value":[
+{"n":"[爱奇艺系列]","v":"@iQIYIofficial"},
 {"n":"爱奇艺","v":"@iQIYIofficial"},
 {"n":"爱奇艺综艺","v":"@iQIYIVariety"},
 {"n":"爱奇艺华语剧场","v":"@iQIYICDrama"},
@@ -206,6 +208,7 @@
 ]
 },
 {"key":"tid","name":"腾讯视频","value":[
+{"n":"[腾讯视频系列]","v":"@TencentVideo"},
 {"n":"腾讯视频","v":"@TencentVideo"},
 {"n":"腾讯热播综艺","v":"@TencentVideoShow"},
 {"n":"腾讯纪录片","v":"@TencentVideoDocumentary"},
@@ -217,6 +220,7 @@
 ]
 },
 {"key":"tid","name":"优酷视频","value":[
+{"n":"[优酷视频系列]","v":"@youku-official"},
 {"n":"优酷视频","v":"@youku-official"},
 {"n":"优酷综艺","v":"@youkushow"},
 {"n":"优酷古装","v":"@youkucostume"},
@@ -226,16 +230,28 @@
 {"n":"优酷华语剧场","v":"@youkuhuayu"}
 ]
 },
+{"key":"tid","name":"TVB","value":[
+{"n":"[TVB系列]","v":"@TVB"},
+{"n":"TVB","v":"@TVB"},
+{"n":"TVB热播剧场","v":"@TVBBestDramaChannel"},
+{"n":"TVB国语剧场","v":"@TVBDrama"},
+{"n":"TVB神秘频道","v":"@TVB_Mystery"},
+{"n":"TVB玄学台","v":"@TVBGhost"},
+{"n":"TVB综艺","v":"@TVB_Variety"},
+{"n":"TVB喜剧台","v":"@TVBComedy"}
+]
+},
 {"key":"tid","name":"音乐","value":[
+{"n":"[音乐系列]","v":"@VEVO"},
 {"n":"Vevo","v":"@VEVO"},
-{"n":"Universal Music Group","v":"@universalmusicgroup"},
+{"n":"The Top 50 Singles","v":"@TheTop50Singles"},
 {"n":"Britney Spears","v":"@britneyspears"},
 {"n":"Taylor Swift","v":"@TaylorSwift"}
 ]
 },
 {"key":"tid","name":"其他","value":[
+{"n":"[其他系列]","v":"@DeeGirlsTalk"},
 {"n":"小姐不熙娣","v":"@DeeGirlsTalk"},
-{"n":"TVB","v":"@TVB"},
 {"n":"ATV亚洲电视","v":"@atvhongkong"}
 ]
 }
