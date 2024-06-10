@@ -2,6 +2,7 @@
 "class":[
 {"type_id":"直播","type_name":"直播"},
 {"type_id":"新闻","type_name":"新闻"},
+{"type_id":"@ebcstars","type_name":"娱乐"},
 {"type_id":"music","type_name":"音乐"},
 {"type_id":"综艺","type_name":"综艺"},
 {"type_id":"游戏","type_name":"游戏"},
@@ -49,6 +50,17 @@
 {"n":"内地","v":"chinese news"},
 {"n":"CNN","v":"CNN news"},
 {"n":"BBC","v":"BBC news"}
+]
+}
+],
+
+"@ebcstars":[
+{"key":"tid","name":"娱乐新闻","value":[
+{"n":"[全部]","v":"@ebcstars"},
+{"n":"东森娱乐","v":"@ebcstars"},
+{"n":"Star ETtoday","v":"@ETtodaySTAR"},
+{"n":"中时新闻网娱乐","v":"@chinatimesent"},
+{"n":"三立娱乐新闻","v":"@star_setn"}
 ]
 }
 ],
