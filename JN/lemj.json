@@ -234,6 +234,7 @@
 {"key":"drjs_网飞猫[优]","name":"雷蒙影视 | 👺网飞猫[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/网飞猫[优].js"},
 {"key":"drjs_LIBVIO[优]","name":"雷蒙影视 | 👺LIBVIO[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/LIBVIO[优].js"},
 
+{"key":"drjs_飞刀资源[采]","name":"雷蒙影视 | 👺飞刀资源[采](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/飞刀资源[采].js"},
 {"key":"drjs_黑木耳资源[资]","name":"雷蒙影视 | 👺黑木耳资源[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/黑木耳资源[资].js"},
 {"key":"drjs_量子影视[资]","name":"雷蒙影视 | 👺量子影视[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/量子影视[资].js"},
 {"key":"drjs_量子资源[资]","name":"雷蒙影视 | 👺量子资源[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/量子资源[资].js"},
@@ -338,6 +339,9 @@
 {"key":"drjs_掌心世界","name":"雷蒙影视 | 👺掌心世界(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/掌心世界.js"},
 {"key":"drjs_孜然影视","name":"雷蒙影视 | 👺孜然影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/孜然影视.js"},
 
+{"key":"drjs_MuteFun动漫","name":"雷蒙影视 | 👺MuteFun动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/MuteFun动漫.js"},
+{"key":"drjs_大米动漫","name":"雷蒙影视 | 👺大米动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/大米动漫.js"},
+{"key":"drjs_动漫网","name":"雷蒙影视 | 👺动漫网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/动漫网.js"}, 
 {"key":"drjs_NT动漫","name":"雷蒙影视 | 👺NT动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/NT动漫.js"},
 {"key":"drjs_58动漫","name":"雷蒙影视 | 👺58动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/58动漫.js"}, 
 {"key":"drjs_驴番","name":"雷蒙影视 | 👺驴番(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/驴番.js"},
@@ -357,6 +361,7 @@
 {"key":"drjs_玩偶哥哥[盘]","name":"雷蒙影视 | 👺玩偶哥哥[盘](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/玩偶哥哥[盘].js"},
 {"key":"drjs_阿里土豆[盘]","name":"雷蒙影视 | 👺阿里土豆[盘](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/阿里土豆[盘].js"}, 
 {"key":"drjs_蜡笔[盘]","name":"雷蒙影视 | 👺蜡笔[盘](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/蜡笔[盘].js"},
+{"key":"drjs_橘子柚[盘]","name":"雷蒙影视 | 👺橘子柚[盘](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/橘子柚[盘].js"},
 {"key":"drjs_神马电影[搜]","name":"雷蒙影视 | 👺神马电影[搜](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/神马电影[搜].js"},
 {"key":"drjs_一号影院[搜]","name":"雷蒙影视 | 👺一号影院[搜](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/一号影院[搜].js"},
  
@@ -551,12 +556,18 @@
 {"key":"drjs_童趣","name":"雷蒙影视 | 👺童趣(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/童趣.js","searchable":0,"quickSearch":0},
 {"key":"drjs_兔小贝","name":"雷蒙影视 | 👺兔小贝(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/兔小贝.js","searchable":0,"quickSearch":0},
 
-// ⇩⇩ DRPY 书源 ⇩⇩ 
+// ⇩⇩ HIPY 书源 ⇩⇩ 
+{"key":"drjs_飞翔鸟[书]","name":"雷蒙影视 | 👺飞翔鸟[书](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/飞翔鸟[书].js"},
+{"key":"drjs_顶点小说[书]","name":"雷蒙影视 | 👺顶点小说[书](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/顶点小说[书].js"},
+{"key":"drjs_顶点小说2[书]","name":"雷蒙影视 | 👺顶点小说2[书](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/顶点小说2[书].js"},
+{"key":"drjs_丫丫电子书[书]","name":"雷蒙影视 | 👺丫丫电子书[书](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/丫丫电子书[书].js"},
 {"key":"drjs_笔趣阁[书]","name":"雷蒙影视 | 👺笔趣阁[书](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/笔趣阁[书].js"},
 {"key":"drjs_番茄小说[书]","name":"雷蒙影视 | 👺番茄小说[书](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/番茄小说[书].js"},
 {"key":"drjs_7猫小说[书]","name":"雷蒙影视 | 👺7猫小说[书](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/7猫小说[书].js"},
+{"key":"drjs_包子漫画","name":"雷蒙影视 | 👺包子漫画(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/包子漫画.js"},
+{"key":"drjs_古风漫画","name":"雷蒙影视 | 👺古风漫画(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/古风漫画.js"},
 
-// ⇩⇩ DRPY 18+ ⇩⇩ 
+// ⇩⇩ HIPY 18+ ⇩⇩ 
 {"key":"drjs_黑料不打烊","name":"雷蒙影视 | 👺黑料不打烊(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/黑料不打烊.js"},
 {"key":"drjs_黑料不打烊-z","name":"雷蒙影视 | 👺黑料不打烊-z(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/黑料不打烊-z.js"},
 {"key":"drjs_乐草TV","name":"雷蒙影视 | 👺乐草TV(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/乐草TV.js"},
