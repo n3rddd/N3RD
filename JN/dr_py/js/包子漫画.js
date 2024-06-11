@@ -1,7 +1,7 @@
 var rule = {
     类型: '漫画',//影视|听书|漫画|小说
     title: '包子漫画',
-    host: 'https://baozimh.org/',
+    host: 'https://godamh.com/',
     url: 'fyclass/page/fypage',
     searchUrl: '/s/**?page=fypage',
     searchable: 2,
@@ -16,17 +16,20 @@ var rule = {
     timeout: 5000,
     class_name: '全部',
     class_url: '/manga',
-    class_parse: '.homenavtax&&a;a&&Text;a&&href;org/(.*)',
+    class_parse: '.homenavtax&&a;a&&Text;a&&href;(/manga.*-.*)',
     cate_exclude: '',
     play_parse: true,
     lazy: $js.toString(() => {
         log(input);
         let _id = input.split('@@')[0];
         let _url = input.split('@@')[1];
-        let mid = _url.split('/').slice(-1)[0].split('-')[0];
-        let html = request(`https://api-get.mgsearcher.com/api/chapter/getinfo?m=${mid}&c=${_id}`, {headers: {Referer: 'https://m.baozimh.one/'}});
+        //let mid = _url.split('/').slice(-1)[0].split('-')[0];
+        let html1 = request(_url, {headers: {Referer: 'https://godamh.com/'}});
+        let mid = pdfh(html1, '#chapterContent&&data-ms');
+        let html = request(`https://api-get.mgsearcher.com/api/chapter/getinfo?m=${mid}&c=${_id}`, {headers: {Referer: 'https://godamh.com/'}});
         let json = JSON.parse(html);
-        let imgs = json.data.info.images.map(it => it.url);
+        let re = '@Referer=https://godamh.com/';
+        let imgs = json.data.info.images.map(it => it.url + re);
         //log(imgs);
         input = {url: 'pics://' + imgs.join('&&')};
     }),
@@ -50,7 +53,7 @@ var rule = {
             //log(input);
             let data_id = pdfh(html, '#allchapters&&data-mid');
             //log(data_id);
-            let html1 = request(`https://api-get.mgsearcher.com/api/manga/get?mid=${data_id}&mode=all`, {headers: {Referer: 'https://m.baozimh.one/'}});
+            let html1 = request(`https://api-get.mgsearcher.com/api/manga/get?mid=${data_id}&mode=all`, {headers: {Referer: 'https://godamh.com/'}});
             let json = JSON.parse(html1);
             //log(json);
             let list1 = [];
