@@ -16,30 +16,27 @@ var rule = {
     quickSearch: 1,
     filterable: 1,
 
-//分类太多，动态获取写筛选太烦
-// class_parse: '.nav-list&&li;a&&Text;a&&href;vodtype/(.*?)\\.html',
-// cate_exclude: '重生|明星',
-    class_name: '逆袭(1组)&现代言情(2组)&神豪(3组)&赘婿(4组)',
-    class_url: '1&21&26&31',
+    class_name: '逆袭(1组)&都市(2组)&神医(3组)&脑洞(4组)',
+    class_url: '1&20&25&30',
     filter_def: {
         1: {cateId: '1'},
-        21: {cateId: '21'},
-        26: {cateId: '26'},
-        31: {cateId: '31'}
+        20: {cateId: '20'},
+        25: {cateId: '25'},
+        30: {cateId: '30'}
     },
 
-    proxy_rule: '',
-    sniffer: 0,
-    isVideo: '',
     play_parse: true,
     parse_url: '',
-    lazy: '',
+    lazy: `js:
+var kcode = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+var kurl = kcode.url;
+input = {
+parse: 0, url: kurl, header: {"User-Agent": 'MOBILE_UA', "Referer":"https://duanjutt.tv"}
+}`,
 
     limit: 9,
     double: false,
-//列表;(true双层列表);标题;图片;描述;链接;详情(可不写)
     推荐: '*;*;*;*;*',
-//列表;标题;图片;描述;链接;详情(可不写)
     一级: '.myui-vodlist li;a&&title;a&&data-original;.text-right&&Text;a&&href',
     二级: {
 //名称;类型
@@ -61,8 +58,7 @@ var rule = {
 //选集链接
         "list_url": "a&&href"
     },
-//列表;标题;图片;描述;链接;详情(可不写)
     搜索: '.myui-vodlist__media .thumb;*;*;*;*',
 
-    filter: 'H4sIAAAAAAAAA+3Wy0ojQRQG4HepdQY0cXR05914v19xEbVBGXVAewZEAtFOVEYTnSEYBY13iEK8gAZNI75MqrvyFtMZ/zoVyC67QO+6vqquqsX5ObXOqlnD1Dr7rq2xBjYb0DX/HPOw5cCS5oztJ5Mnd53xr8DiT+3/wmWH86EtcZkusDOoZkHPJ9vxE35/DvYSi+MDa2MX7FOrbz9E5je4hjhvvPPXTblJFQtOF2Y+r7eo6bq2oq7H0wnrIVpyPR5J5Y0UtqCNGwGNJE2QJpJmSDNJC6SFpBXSStIGaSNph7STdEA6SPwQP0knpJOkC9JF0g3pJumB9JD0QnpJ+iB9JP2QfpIByADJIGSQZAgyRDIMGSYZgYyQjEJGScYgYyTjkHGSCcgEySRkkqTqSz2s8FVcKjNrqkys2F+e3S8pEyuRySee8b++4CyV2+ayWesxjpn5BX1V1fJDmO9sYWZ19seKVjh12sO8ZcTIjj3mzCuRCllGRBa8ShPfvxZX5N5iL/lLpcraObJvktJVrBzke6b0r26s3FhVRKxqy4jVTVI83clSr1WHZCLCeJdep/xgj9+fSv+mgnYdzZnb0uvV+vAf61lGzOd2KDdKFRElXxkdSrwc8dsPWepFL71YmL/JbuJTvck20uIiJF11JR7J5MxD6UWPve2oHT+Du03JTVIFJCn4D28JtyIzDQAA',
+    filter: 'H4sIAAAAAAAAA+3WW0sbQRQH8Pf9GPOcQkxMrb55N97vV3xI7UJFa0HXgoRA2k1UqolWgrFQY1sVYiFewIY2i/hlMruTb+GG/ueMJW95C+zbzm92z8zD+XM2qrEm1ragRdmKvsXa2FLE0MNvmI+tRd7p7tq5s3huz11/iKxuurAQZWsuV+Lb4mehyu6iicV8/9jJfOPX38EBYvH10P64Bw6qt68eRfEzuJm4spNyMmfgEIstxnx0vVXdMPR1dT1eyNo3qZrr8WS+YuZRggq3A9pJOiAdJJ2QTpIuSBdJN6SbpAfSQ9IL6SXpg/SRhCFhkn5IP8kAZIBkEDJIMgQZIhmGDJOMQEZIRiGjJGOQMZJxyDjJBGSCZBIySTIFmSKZhkyTzEBmSGYhsyRzkDmSecg8if9FK6z69F+vvN5SfWKnj3jpoKZP7Gyxkr1HAWPZfVXWLZdK9m0GO2+XjQ3VzDcJvruNnY2l9+t69Vht0aexgL+eKJkP/M8nmRm/Skf6tmydi3zcNpNyVyWNH1yIc/LAc6/5SiXO3j1xLnPSm71sedlqmGyF6siW2+x835L9HlLZusyJu1/SX6rzi0lhPkhvUX64z69Ppb9SabtIla0d6a1enrw8NUqegvXMKpH4Yt/L+RFUs0r8PuFXj9Kf/Q+mE/yvzF9QTSnHLIgfcelqPvFksWwdS/fmk5enxsiTFnsC8UnvbkgNAAA='
 }
