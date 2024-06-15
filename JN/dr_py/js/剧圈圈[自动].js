@@ -1,9 +1,11 @@
-Object.assign(muban.mxpro.二级, {
-    tab_text: 'div--small&&Text',
-});
 var rule = {
-    模板: 'mxpro',
-    title: '剧圈圈',
+    模板: '自动',
+    模板修改: $js.toString(() => {
+        Object.assign(muban.自动.二级, {
+            tab_text: 'div--small&&Text',
+        });
+    }),
+    title: '剧圈圈[自动]',
     host: 'https://www.jqqzx.cc/',
     url: '/vodshow/id/fyclass/page/fypage.html',
     searchUrl: '/vodsearch**/page/fypage.html',
