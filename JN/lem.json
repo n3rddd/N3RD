@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0601.jar;md5;118D1377D8D8A47828F20050B3409F62",
+"spider":"./N3RD/J/lem0615.jar;md5;F9F4E1A4AE334D2DFFE20E213BB8C56A",
 
+//"spider":"./N3RD/J/lem0601.jar;md5;118D1377D8D8A47828F20050B3409F62",
 //"spider":"./N3RD/J/lem0524.jar;md5;9D09A4ABAE69D094DAFEE82355F2B15E",
 //"spider":"./N3RD/J/lem0518.jar;md5;0DAF3110E4D4DC833A2A3D344877E3FE",
 //"spider":"./N3RD/J/lem0516.jar;md5;1F81F0E4BFEDD314439A01EB94059864",
@@ -71,6 +72,8 @@
 {"key":"drjs_爱看机器人3","name":"雷蒙影视 | 👹爱看机器人3(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot3.js"},
 {"key":"csp_Bili","name":"雷蒙影视 | 🅱哔哩哔哩(SP)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./EXT/XB/Bili1.json"},
 {"key":"drjs_我的哔哩","name":"雷蒙影视 | 🅱我的哔哩(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/我的哔哩.js"},
+{"key":"csp_Jpys","name":"雷蒙影视 | 💮文才(SP)","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Cddys","name":"雷蒙影视 | 🎊彩蛋(SP)","type":3,"api":"csp_Cddys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_NanGua","name":"雷蒙影视 | 🎃南瓜影视(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Kkys","name":"雷蒙影视 | 💡酷看影视(SP)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"csp_LiteApple","name":"雷蒙影视 | 🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
@@ -85,7 +88,6 @@
 {"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
 {"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_Zxzj","name":"雷蒙影视 | 📹在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com/"},
-{"key":"csp_Nmys","name":"雷蒙影视 | 👨‍🌾农民影视(SP)","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/XB/Nmys.json"},
 {"key":"csp_Auete","name":"雷蒙影视 | 🎀Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 {"key":"csp_Voflix","name":"雷蒙影视 | 🌀Voflix(SP)","type":"3","api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.me/"},
 {"key":"csp_Bttwoo","name":"雷蒙影视 | ✌两个BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
