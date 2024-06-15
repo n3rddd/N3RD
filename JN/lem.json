@@ -188,6 +188,8 @@
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wextudou_MULTIJAR","name":"雷蒙影视 | 🐮土豆(MULTI)","type":3,"api":"csp_Wextudou","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexyingchao_MULTIJAR","name":"雷蒙影视 | 🐮影巢(MULTI)","type":3,"api":"csp_Wexyingchao","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexwencai_MULTIJAR","name":"雷蒙影视 | 🐮文才(MULTI)","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1},
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wexhuaruitv_MULTIJAR","name":"雷蒙影视 | 🐮花蕊(MULTI)","type":3,"api":"csp_Wexhuaruitv","searchable":1,"changeable":1},
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wexjiazitv_MULTIJAR","name":"雷蒙影视 | 🐮甲子(MULTI)","type":3,"api":"csp_Wexjiazitv","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_WexTiantianys_MULTIJAR","name":"雷蒙影视 | 🐮天天(MULTI)","type":3,"api":"csp_WexTiantianys","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexsaohuo_MULTIJAR","name":"雷蒙影视 | 🐮骚火(MULTI)","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexzxzj_MULTIJAR","name":"雷蒙影视 | 🐮在线(MULTI)","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1},
@@ -403,9 +405,9 @@
 {"name":"Web解析聚合","type":3,"url":"Web"},
 
 //WEX
-{"name":"王","type":1,"url":"http://43.136.176.188:91/api/?key=f99226916774bfa29c9af99b2c736fd9&url="},
-{"name":"二","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
-{"name":"小","type":1,"url":"http://xxjx.qqwx.ren/?url="},
+{"name":"王","type":1,"url":"http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="},
+{"name":"二","type":1,"url":"http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="},
+{"name":"小","type":1,"url":"http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="},
 {"name":"帅","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
 
 //QJ
