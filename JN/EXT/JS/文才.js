@@ -3,8 +3,9 @@ var rule = {
     host: 'https://api.zeqaht.com',
     //homeTid: '1',
     homeUrl: '/api.php/provide/vod/?ac=detail&t=33',
-    detailUrl: '/api.php/provide/vod/?ac=detail&ids=fyid',
-    searchUrl: '/api.php/provide/vod/?wd=**&pg=fypage',
+    detailUrl: 'https://www.ruituka.com/detail/fyid',
+    //searchUrl: '/api.php/provide/vod/?ac=detail&wd=**&pg=fypage',
+    searchUrl: '/index.php/ajax/suggest?mid=1&wd=**&limit=100',
     //url: '/api.php/provide/vod/?ac=detail&pg=fypage&t=fyclass',
     url: '/index.php/ajax/data?mid=1&tid=fyfilter&page=fypage&limit=20',//网站的分类页面链接
     headers: {
@@ -35,25 +36,16 @@ var rule = {
     filterable: 0,//是否启用分类筛选,
     play_parse: true,
     图片替换: 'https://api.zeqaht.com=>https://obs.gduamoe.com',
-    parse_url: '',
-    lazy: `js:
-            if(/\\.(m3u8|mp4)/.test(input)){
-            input = {
-            parse: 0,
-            url: input,
-            header: {
-                "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36',
-                "Referer":"www.whbax.cn"
-            }
-            }
-            }
-            `,
+    lazy: '',
     推荐: '*',
     一级: 'json:list;vod_name;vod_pic;vod_remarks;vod_id;vod_play_from',
-    二级: `js:
-            let html=request(input);
-            html=JSON.parse(html);
-            let data=html.list;
-            VOD=data[0];`,
-    搜索: '*',
+    二级: {
+        title: '.title&&Text',
+        img: '.module-item-pic&&img&&data-original',
+        desc: ';.module-info-item-content:eq(2)&&Text;.module-info-tag-link:eq(1)&&Text;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text',
+        content: '.wrapper_more_text&&Text',
+        tabs: '.player_name',
+        lists: '.listitem&&a',
+    },
+    搜索: 'json:list;name;pic;;id',
 }
