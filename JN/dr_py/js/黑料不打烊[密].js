@@ -1,1 +1,127 @@
-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
+var rule = {
+    title: '黑料不打烊[密]',
+    host: 'https://hl49.co',
+    url: '/category/fyclass/fypage.html',
+    searchUrl: '/index/search_article?word=**&page=fypage',
+    searchable: 1,
+    quickSearch: 0,
+    filterable: 0,
+    headers: {
+        'User-Agent': 'Mozilla/5.0',
+    },
+    class_parse: '.slider-content&&a;span&&Text;a&&href;.*/(\\d+)\.html',
+    hostJs: $js.toString(() => {
+        HOST = 'https://mgj.uzrpy.com';
+        try {
+            let html = request(rule.host);
+            HOST = pdfh(html, ".box-wrap&&a&&href") || HOST;
+        } catch (e) {
+            log(`获取Host错误${e.message}`);
+        }
+    }),
+    hikerListCol: "card_pic_1",
+    hikerClassListCol: "card_pic_1",
+    lazy: typeof MY_NAME !== "undefined" ? $js.toString(() => {
+        var list = jsp.pdfa(request(input), '.dplayer');
+        input = {
+            parse: ""
+        };
+        if (list.length === '1') {
+            let url = JSON.parse(pdfh(list[0], '.dplayer&&config')).video.url;
+            input.url = url.startsWith("http") ? url : "https://hls.vdtuzv.com" + url;
+        } else {
+            var a = []
+            list.forEach((data, id) => a.push('第' + (id + 1) + '部'))
+            input.url = $(a, 1)
+                .select(list => {
+                    input = input.match(/\d+/)[0] - 1
+                    return $(JSON.parse(pdfh(list[input], '.dplayer&&config'))
+                        .video.url)
+                        .lazyRule(() => input.startsWith("http") ? input : "https://hls.vdtuzv.com" + input)
+                }, list)
+        }
+    }) : void 0,
+    play_parse: true,
+    limit: 6,
+    proxy_rule: $js.toString(() => {
+        //log(input);
+        // 测试:https://www.wakatool.com/base64img
+        if (input) {
+            let t1 = new Date().getTime();
+            let _type = input.url.split('.').slice(-1)[0];
+            let data = request(input.url, {toBase64: true});
+            //log(data);
+            let t2 = new Date().getTime();
+            log(`网络请求获取图片耗时:${t2 - t1}ms`);
+            // log(`当前线程:${java.lang.Thread.currentThread().getName()}`);
+
+            let key = CryptoJS.enc.Utf8.parse("f5d965df75336270");
+            let iv = CryptoJS.enc.Utf8.parse("97b60394abc2fbe1");
+            let encrypted = CryptoJS.AES.decrypt({
+                ciphertext: CryptoJS.enc.Base64.parse(data)
+            }, key, {
+                iv: iv,
+                mode: CryptoJS.mode.CBC,
+                padding: CryptoJS.pad.Pkcs7
+            }).toString(CryptoJS.enc.Base64);
+            let img_base64 = 'data:image/' + _type + ';base64,' + encrypted;
+            let t3 = new Date().getTime();
+            log(`已获取图片${input.url}解密耗时:${t3 - t2}ms`);
+            // // input = [200, 'text/plain', img_base64];
+            // input = [302, 'text/html', '', {Location:'https://www.baidu.com'}];
+            input = [200, 'image/' + _type, img_base64, null, 1];
+            // input = [200, 'text/plain', data];
+        }
+    }),
+    预处理: $js.toString(() => {
+        rule.cate_exclude = '';
+    }),
+    推荐: '*',
+    一级: $js.toString(() => {
+        let d = [];
+        let html = request(input);
+        let list = pdfa(html, '.video-item');
+        list.forEach(item => {
+            var pic = pdfh(item, 'img&&onload');
+            var url = pd(item, 'a&&href', MY_URL);
+            var title = pdfh(item, '.title&&Text');
+            if (title) {
+                d.push({
+                    title: title,
+                    img: pic,
+                    desc: "0",
+                    url: url
+                });
+            }
+        });
+        setResult(d);
+    }),
+    //一级: '.video-item;.title&&Text;img&&onload;;a&&href',
+    图片替换: $js.toString(() => {
+        if (/loadImg/.test(input)) {
+            input = input.split("'")[1];
+        }
+        input = getProxyUrl() + '&url=' + input;
+    }),
+    二级: "*",
+    搜索: $js.toString(() => {
+        let d = [];
+        let u = input.split("?");
+        let h = post(u[0], {
+            body: u[1]
+        });
+        let list = JSON.parse(h).data.list;
+
+        list.forEach(item => {
+            let pic = item.thumb;
+            let url = `${rule.host}/archives/${item.id}.html`
+            d.push({
+                title: item.title,
+                desc: item.created_date,
+                img: pic,
+                url: url
+            });
+        });
+        setResult(d);
+    })
+}
