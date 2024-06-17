@@ -257,14 +257,14 @@ function pre() {
             //  直接操作 rule_fetch_params 这个变量 .headers.Cookie
             eval(code);
         } catch (e) {
-            console.log('预处理执行失败:' + e.message);
+            console.log(`预处理执行失败:${e.message}`);
         }
     }
 }
 
 let rule = {};
 let vercode = typeof (pdfl) === 'function' ? 'drpy2.1' : 'drpy2';
-const VERSION = vercode + ' 3.9.50beta30 20240616';
+const VERSION = vercode + ' 3.9.50beta31 20240617';
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染 (有能力解决的话尽量解决下，支持对象直接渲染字符串转义,如果加了|safe就不转义)[影魔牛逼，最新的文件发现这问题已经解决了]
  * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来 (这个大毛病需要重点排除一下)
@@ -1154,7 +1154,7 @@ function getQuery(url) {
         });
         return resObj;
     } catch (err) {
-        log('getQuery发生错误:' + e.message)
+        log(`getQuery发生错误:${e.message}`)
         return {};
     }
 }
@@ -1215,7 +1215,7 @@ function pdfh2(html, parse) {
             html2 = html.rr(html.ele).toString();
         }
     } catch (e) {
-        print('html对象转文本发生了错误:' + e.message);
+        print(`html对象转文本发生了错误:${e.message}`);
     }
     let result = defaultParser.pdfh(html2, parse);
     let option = parse.includes('&&') ? parse.split('&&').slice(-1)[0] : parse.split(' ').slice(-1)[0];
@@ -1243,7 +1243,7 @@ function pdfa2(html, parse) {
             html2 = html.rr(html.ele).toString();
         }
     } catch (e) {
-        print('html对象转文本发生了错误:' + e.message);
+        print(`html对象转文本发生了错误:${e.message}`);
     }
     return defaultParser.pdfa(html2, parse);
 }
@@ -1829,7 +1829,7 @@ function homeParse(homeObj) {
                     classes = input;
                 }
             } catch (e) {
-                log('通过js动态获取分类发生了错误:' + e.message);
+                log(`通过js动态获取分类发生了错误:${e.message}`);
             }
         } else {
             let p = homeObj.class_parse.split(';');
@@ -2026,7 +2026,7 @@ function homeVodParse(homeVodObj) {
                             // print(vod);
                             d.push(vod);
                         } catch (e) {
-                            console.log('首页列表双层定位处理发生错误:' + e.message);
+                            console.log(`首页列表双层定位处理发生错误:${e.message}`);
                         }
 
                     }
@@ -2081,7 +2081,7 @@ function homeVodParse(homeVodObj) {
                         d.push(vod);
 
                     } catch (e) {
-                        console.log('首页列表单层定位处理发生错误:' + e.message);
+                        console.log(`首页列表单层定位处理发生错误:${e.message}`);
                     }
 
                 }
@@ -2175,7 +2175,7 @@ function categoryParse(cateObj) {
                     }
                 }
             } catch (e) {
-                print('合并不同分类对应的默认筛选出错:' + e.message);
+                print(`合并不同分类对应的默认筛选出错:${e.message}`);
             }
         }
         let new_url;
@@ -2467,7 +2467,7 @@ function searchParse(searchObj) {
 
             }
         } catch (e) {
-            print('搜索发生错误:' + e.message);
+            print(`搜索发生错误:${e.message}`);
             return '{}'
         }
     }
@@ -2696,13 +2696,13 @@ function detailParse(detailObj) {
                             try {
                                 LISTS[i] = LISTS[i].map(it => it.split('$').slice(0, 2).join('$'));
                             } catch (e) {
-                                print('格式化LISTS发生错误:' + e.message);
+                                print(`格式化LISTS发生错误:${e.message}`);
                             }
                         }
                     }
                     vod_play_url = LISTS.map(it => it.join('#')).join(vod_play_url);
                 } catch (e) {
-                    print('js执行lists: 发生错误:' + e.message);
+                    print(`js执行lists: 发生错误:${e.message}`);
                 }
 
             } else {
@@ -2898,7 +2898,7 @@ function playParse(playObj) {
                 url: input
             };
         } catch (e) {
-            print('js免嗅错误:' + e.message);
+            print(`js免嗅错误:${e.message}`);
             lazy_play = common_play;
         }
     } else {
@@ -2980,7 +2980,7 @@ function isVideoParse(isVideoObj) {
                 return false
             }
         } catch (e) {
-            log('执行嗅探规则发生错误:' + e.message);
+            log(`执行嗅探规则发生错误:${e.message}`);
             return false
         }
     }
@@ -3142,7 +3142,7 @@ function init(ext) {
                 eval(rule.hostJs);
                 rule.host = HOST.rstrip('/');
             } catch (e) {
-                console.log(`执行${rule.hostJs}获取host发生错误:` + e.message);
+                console.log(`执行${rule.hostJs}获取host发生错误:${e.message}`);
             }
         }
         if (rule['模板'] === '自动') {
@@ -3257,13 +3257,13 @@ function init(ext) {
                                 console.log(v);
                                 rule.headers[k] = v;
                             } catch (e) {
-                                console.log(`从${v}获取cookie发生错误:` + e.message);
+                                console.log(`从${v}获取cookie发生错误:${e.message}`);
                             }
                         }
                     }
                 }
             } catch (e) {
-                console.log('处理headers发生错误:' + e.message);
+                console.log(`处理headers发生错误:${e.message}`);
             }
         }
         // print(rule.headers);
@@ -3273,7 +3273,7 @@ function init(ext) {
         pre(); // 预处理
         init_test();
     } catch (e) {
-        console.log('init_test发生错误:' + e.message);
+        console.log(`init_test发生错误:${e.message}`);
     }
 }
 
