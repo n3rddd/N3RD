@@ -1,5 +1,5 @@
 var rule = {
-    title: "88看球",
+    title: "88看球[球]",
     // host:'http://www.88kanqiu.cc',
     host: "http://www.88kanqiu.live",
     url: "/match/fyclass/live",

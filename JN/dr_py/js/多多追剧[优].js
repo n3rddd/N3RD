@@ -1,5 +1,5 @@
 var rule = {
-    title: '多多追剧',
+    title: '多多追剧[优]',
     模板: '首图',
     host: 'https://www.ddkk.tv',
     url: '/channel/fyclass-fypage.html',

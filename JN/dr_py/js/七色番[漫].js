@@ -1,5 +1,5 @@
 var rule = {
-    title: "七色番",
+    title: "七色番[漫]",
     host: "https://www.7sefun.top",
     url: "/vodshow/fyclassfyfilter",
     searchUrl: "/vodsearch/**----------fypage---.html",

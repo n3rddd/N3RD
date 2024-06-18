@@ -1,5 +1,5 @@
 var rule = {
-    title: '虎牙直播',
+    title: '虎牙直播[官]',
     host: 'https://www.huya.com',
     homeUrl: '/cache.php?m=LiveList&do=getLiveListByPage&gameId=2168&tagAll=0&page=1',//用于"分类获取"和"推荐获取"
     url: '/cache.php?m=LiveList&do=getLiveListByPage&gameId=fyfilter&tagAll=0&page=fypage',

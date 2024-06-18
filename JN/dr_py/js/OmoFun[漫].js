@@ -1,5 +1,5 @@
 var rule = {
-    title: 'OmoFun',
+    title: 'OmoFun[漫]',
     host: 'http://omofun1.xyz',
     hostJs: $js.toString(() => {
         print(HOST);

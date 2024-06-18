@@ -1,6 +1,6 @@
 var rule = {
     类型: '听书',
-    title: '播客',
+    title: '播客[听]',
     host: 'https://getpodcast.xyz',
     url: '/fyclass',
     searchUrl: '',

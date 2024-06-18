@@ -1,6 +1,6 @@
 var rule = {
     类型: '听书',//影视|听书|漫画|小说
-    title: '有声听书网',
+    title: '有声听书网[听]',
     host: 'https://www.ysts.cc/',
     url: '/book/fyclass/lastupdate/fypage.html',
     searchUrl: '/search.html?searchtype=name&searchword=**&page=fypage',

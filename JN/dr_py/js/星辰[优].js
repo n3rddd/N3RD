@@ -3,7 +3,7 @@ Object.assign(muban.首图2.二级, {
     tabs: '.stui-pannel__head h3',
 });
 var rule = {
-    title: '星辰',
+    title: '星辰[优]',
     模板: '首图2',
     host: 'http://www.xingchenwu.com',
     // url:'/fyclass/indexfypage.html[/fyclass/index.html]',

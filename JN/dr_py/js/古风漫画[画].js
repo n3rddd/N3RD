@@ -1,6 +1,6 @@
 var rule = {
     类型: '漫画',//影视|听书|漫画|小说
-    title: '古风漫画',
+    title: '古风漫画[画]',
     host: 'https://www.gufengmh9.com/',
     //host:'https://www.gufengmh.com/',
     url: '/list/fyclass/fypage/',

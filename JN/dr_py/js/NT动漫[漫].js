@@ -1,6 +1,6 @@
 var rule = {
     类型: '影视',//影视|听书|漫画|小说
-    title: 'NT动漫',
+    title: 'NT动漫[漫]',
     host: 'http://www.ntdm9.com/',
     url: '/type/fyclass-fypage.html',
     class_name: '日本&中国&欧美',

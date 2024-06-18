@@ -1,7 +1,7 @@
 muban.首图2.二级.tabs = '.tabt3&&span';
 muban.首图2.二级.lists = '.ulNumList&&ul&&li';
 var rule = {
-    title: '动漫网',
+    title: '动漫网[漫]',
     模板: '首图2',
     host: 'https://www.dongman8.cc',
     url: '/vodtype/fyclass-fypage.html',

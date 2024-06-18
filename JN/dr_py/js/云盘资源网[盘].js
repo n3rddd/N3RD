@@ -1,5 +1,5 @@
 var rule = {
-    title: '云盘资源网',
+    title: '云盘资源网[盘]',
     host: 'https://res.yunpan.win',
     hostJs: '',
     headers: {'User-Agent': 'MOBILE_UA'},

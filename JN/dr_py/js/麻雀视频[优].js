@@ -1,5 +1,5 @@
 var rule = {
-    title: '麻雀视频',
+    title: '麻雀视频[优]',
     host: 'https://mqtv.cc',
     parse_url: 'https://player.mqtv.cc/fun/?url=',
     url: '/libs/VodList.api.php?type=fyclass&rank=rankhot&cat=&year=&area=&page=fypage',

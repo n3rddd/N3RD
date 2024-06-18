@@ -1,5 +1,5 @@
 var rule = {
-	title:'广播迷FM',
+	title:'广播迷FM[听]',
 	host:'http://www.guangbomi.com',
     编码:'gb18030',
     搜索编码:'gb18030',

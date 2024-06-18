@@ -3,7 +3,7 @@ muban.vfed.二级.desc = '.fed-col-md3:eq(3)&&Text;;;.fed-col-md6--span:eq(0)&&T
 muban.vfed.二级.tabs = '.nav-tabs&&li';
 muban.vfed.二级.lists = '.myui-content__list:eq(#id)&&li';
 var rule = {
-    title: '58动漫',
+    title: '58动漫[漫]',
     模板: 'vfed',
     host: 'http://www.ting38.com',
     url: '/search.php?page=fypage&searchtype=5&tid=fyclassfyfilter',

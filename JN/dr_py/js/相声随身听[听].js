@@ -1,5 +1,5 @@
 var rule = {
-    title: '相声随身听',
+    title: '相声随身听[听]',
     host: 'https://www.xsmp3.com',
     // url:'/fyclass/fypage.html',
     url: '/fyfilter/fypage.html',

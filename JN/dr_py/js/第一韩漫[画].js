@@ -1,6 +1,6 @@
 var rule = {
     类型: '漫画',//影视|听书|漫画|小说
-    title: '第一韩漫',
+    title: '第一韩漫[画]',
     host: 'https://www.hztoon.com',
     url: '/api/fyclass-fypage',
     detailUrl: '/comic/fyid',

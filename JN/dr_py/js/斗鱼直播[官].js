@@ -1,5 +1,5 @@
 var rule = {
-    title: '斗鱼直播',
+    title: '斗鱼直播[官]',
     host: 'https://m.douyu.com',
     homeUrl: '/api/home/mix',//网站的首页链接,用于分类获取和推荐获取
     url: '/api/room/list?page=fypage&type=fyfilter',

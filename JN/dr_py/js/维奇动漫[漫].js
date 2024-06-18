@@ -1,5 +1,5 @@
 var rule = {
-    title: '维奇动漫',
+    title: '维奇动漫[漫]',
     host: 'https://www.uiviki.com',
     hostJs: '',
     headers: {'User-Agent': 'MOBILE_UA'},

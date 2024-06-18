@@ -18,7 +18,7 @@
  */
 
 var rule = {
-    title: '哔哩直播',
+    title: '哔哩直播[官]',
     host: 'https://api.live.bilibili.com',
     homeUrl: '/xlive/web-interface/v1/second/getUserRecommend?page=1&page_size=30&platform=web',//用于"分类获取"和"推荐获取"
     url: '/xlive/web-interface/v1/second/getList?platform=web&parent_area_id=fyclass&area_id=fyfilter&sort_type=online&page=fypage',

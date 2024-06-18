@@ -1,5 +1,5 @@
 var rule = {
-    title: '清风DJ',
+    title: '清风DJ[听]',
     host: 'https://www.vvvdj.com',
     // url: '/sort/fyclass/0-0-0-0-fypage.html',
     url: '/sort/fyclass/fyfilter.html',

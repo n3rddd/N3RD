@@ -1,6 +1,6 @@
 var rule = {
     类型: '漫画',//影视|听书|漫画|小说
-    title: '包子漫画',
+    title: '包子漫画[画]',
     host: 'https://godamh.com/',
     url: 'fyclass/page/fypage',
     searchUrl: '/s/**?page=fypage',

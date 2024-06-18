@@ -1,5 +1,5 @@
 var rule = {
-    title:'爱车MV',
+    title:'爱车MV[听]',
     host:'https://www.ichemv.com',
     homeUrl:'/mv/',
     url:'/mv/fyclass_fypage.html',

@@ -1,6 +1,6 @@
 var rule = {
     类型: '漫画',
-    title: '漫小肆',//名称
+    title: '漫小肆[画]',//名称
     host: 'http://www.mxshm.top/',//域名
     class_name: '连载中&已完结',//分类名
     class_url: '0&1',//分类词

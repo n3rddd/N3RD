@@ -24,7 +24,7 @@
     * 传参 ?type=url&params=../json/小学教育.json
  */
 var rule = {
-    title:'我的哔哩-小学教育',
+    title:'我的哔哩-小学教育[官]',
     host:'https://api.bilibili.com',
     homeUrl:'/x/web-interface/ranking/v2?rid=0&type=origin',
     url:'/x/web-interface/search/type?search_type=video&keyword=fyclass&page=fypage',
