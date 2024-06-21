@@ -28,7 +28,7 @@ var rule = {
     homeUrl:'/x/web-interface/ranking/v2?rid=0&type=origin',
     url:'/x/web-interface/search/type?search_type=video&keyword=fyclass&page=fypage',
     class_parse:`js:
-    let html=request('../json/Bili1.json');
+    let html=request('https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/Bili1.json');
     let json = dealJson(html);
     input=json.classes;
     homeObj.filter = json.filter;
