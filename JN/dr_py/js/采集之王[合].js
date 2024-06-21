@@ -1,10 +1,13 @@
 /**
+ * 强烈推荐静态分类。可以加快速度!!!
  * 传参 ?type=url&params=../json/采集.json
+ * 传参 ?type=url&params=../json/采集静态.json
  * [{"name":"暴风资源","url":"https://bfzyapi.com","parse_url":""},{"name":"飞刀资源","url":"http://www.feidaozy.com","parse_url":""},{"name":"黑木耳资源","url":"https://www.heimuer.tv","parse_url":""}]
  */
 var rule = {
     title: '采集之王[合]',
     author: '道长',
+    version: '20240621 beta6',
     host: '',
     homeTid: '', // 首页推荐。一般填写第一个资源站的想要的推荐分类的id.可以空
     homeUrl: '/api.php/provide/vod/?ac=detail&t={{rule.homeTid}}',
@@ -16,15 +19,44 @@ var rule = {
     headers: {'User-Agent': 'MOBILE_UA'},
     timeout: 5000, // class_name: '电影&电视剧&综艺&动漫',
     limit: 20,
+    search_limit: 5, // 搜索限制取前5个，可以注释掉，就不限制搜索
     searchable: 1,//是否启用全局搜索,
     quickSearch: 0,//是否启用快速搜索,
     filterable: 1,//是否启用分类筛选,
     play_parse: true,
-    parse_url: '', // 这个参数暂时不起作用。聚合类的每个资源应该有自己独立的解析口
+    parse_url: '', // 这个参数暂时不起作用。聚合类的每个资源应该有自己独立的解析口。单独配置在采集.json里的parse_url有效
     // params: 'http://127.0.0.1:5707/files/json/%E9%87%87%E9%9B%86.json',
+    // params: 'http://127.0.0.1:5707/files/json/采集静态.json',
+    // hostJs:$js.toString(()=>{
+    //
+    // }),
     预处理: $js.toString(() => {
+        function getClasses(item) {
+            let classes = [];
+            if (item.class_name && item.class_url) {
+                if (!/&|电影|电视剧|综艺|动漫[\u4E00-\u9FA5]+/.test(item.class_name)) {
+                    try {
+                        item.class_name = ungzip(item.class_name)
+                    } catch (e) {
+                        log(`不识别的class_name导致gzip解码失败:${e}`)
+                        return classes
+                    }
+                }
+                let names = item.class_name.split('&');
+                let urls = item.class_url.split('&');
+                let cnt = Math.min(names.length, urls.length);
+                for (let i = 0; i < cnt; i++) {
+                    classes.push({
+                        'type_id': urls[i],
+                        'type_name': names[i]
+                    });
+                }
+            }
+            return classes
+        }
+
         let _url = rule.params;
-        if (_url && typeof (_url) === 'string' && _url.startsWith('http')) {
+        if (_url && typeof (_url) === 'string' && /^(http|file)/.test(_url)) {
             let html = request(_url);
             let json = JSON.parse(html);
             let _classes = [];
@@ -35,11 +67,19 @@ var rule = {
                     type_name: it.name,
                     type_id: it.url,
                     parse_url: it.parse_url || '',
+                    api: it.api || '',
                     cate_exclude: it.cate_exclude || '',
+                    // class_name: it.class_name || '',
+                    // class_url: it.class_url || '',
                 };
                 _classes.push(_obj);
                 try {
-                    let json1 = JSON.parse(request(urljoin(_obj.type_id, rule.classUrl))).class;
+                    let json1 = [];
+                    if (it.class_name && it.class_url) {
+                        json1 = getClasses(it);
+                    } else {
+                        json1 = JSON.parse(request(urljoin(_obj.type_id, _obj.api || rule.classUrl))).class;
+                    }
                     if (_obj.cate_exclude) {
                         json1 = json1.filter(cl => !new RegExp(_obj.cate_exclude, 'i').test(cl.type_name));
                     }
@@ -99,14 +139,21 @@ var rule = {
         input = rule.classes;
     }),
     推荐: $js.toString(() => {
+        VODS = [];
         if (rule.classes) {
             let _url = urljoin(rule.classes[0].type_id, input);
-            let html = request(_url);
-            let json = JSON.parse(html);
-            VODS = json.list;
-            VODS.forEach(it => {
-                it.vod_id = rule.classes[0].type_id + '$' + it.vod_id
-            });
+            if (rule.classes[0].api) {
+                _url = _url.replace('/api.php/provide/vod/', rule.classes[0].api)
+            }
+            try {
+                let html = request(_url);
+                let json = JSON.parse(html);
+                VODS = json.list;
+                VODS.forEach(it => {
+                    it.vod_id = rule.classes[0].type_id + '$' + it.vod_id
+                });
+            } catch (e) {
+            }
         }
     }),
     一级: $js.toString(() => {
@@ -114,6 +161,10 @@ var rule = {
         if (rule.classes) {
             // log(input);
             let _url = urljoin(MY_CATE, input);
+            let current_vod = rule.classes.find(item => item.type_id === MY_CATE);
+            if (current_vod && current_vod.api) {
+                _url = _url.replace('/api.php/provide/vod/', current_vod.api)
+            }
             let html = request(_url);
             let json = JSON.parse(html);
             VODS = json.list;
@@ -127,24 +178,36 @@ var rule = {
         VOD = [];
         if (rule.classes) {
             let _url = urljoin(fyclass, input);
+            let current_vod = rule.classes.find(item => item.type_id === fyclass);
+            if (current_vod && current_vod.api) {
+                _url = _url.replace('/api.php/provide/vod/', current_vod.api)
+            }
             let html = request(_url);
             let json = JSON.parse(html);
             let data = json.list;
             VOD = data[0];
+            if (current_vod && current_vod.type_name) {
+                VOD.vod_play_from = VOD.vod_play_from.split('$$$').map(it => current_vod.type_name + '|' + it).join('$$$')
+            }
         }
     }),
     搜索: $js.toString(() => {
         VODS = [];
         if (rule.classes) {
-            rule.classes.forEach(it => {
+            let search_classes = rule.search_limit?rule.classes.slice(0, rule.search_limit):rule.classes;
+            search_classes.forEach(it => {
                 let _url = urljoin(it.type_id, input);
+                if (it.api) {
+                    _url = _url.replace('/api.php/provide/vod/', it.api)
+                }
                 // log(_url);
                 try {
                     let html = request(_url);
                     let json = JSON.parse(html);
                     let data = json.list;
                     data.forEach(i => {
-                        i.vod_id = it.type_id + '$' + i.vod_id
+                        i.vod_id = it.type_id + '$' + i.vod_id;
+                        i.vod_remarks = i.vod_remarks + '|' + it.type_name;
                     });
                     VODS = VODS.concat(data);
                 } catch (e) {
@@ -156,15 +219,23 @@ var rule = {
     }),
     lazy: $js.toString(() => {
         // lazy想办法用对应的parse_url，但是有难度，暂未实现
+        let parse_url = '';
+        if (flag && flag.includes('|')) {
+            let type_name = flag.split('|')[0];
+            let current_vod = rule.classes.find(item => item.type_name === type_name);
+            if (current_vod && current_vod.parse_url) {
+                parse_url = current_vod.parse_url
+            }
+        }
         if (/\.(m3u8|mp4)/.test(input)) {
             input = {parse: 0, url: input}
         } else {
-            if (rule.parse_url.startsWith('json:')) {
-                let purl = rule.parse_url.replace('json:', '') + input;
+            if (parse_url.startsWith('json:')) {
+                let purl = parse_url.replace('json:', '') + input;
                 let html = request(purl);
                 input = {parse: 0, url: JSON.parse(html).url}
             } else {
-                input = rule.parse_url + input;
+                input = parse_url + input;
             }
         }
     }),
