@@ -66,6 +66,7 @@
 
 
 // ⇩⇩ Lem缝合包 ⇩⇩ 
+{"key":"drjs_雷蒙影视","name":"雷蒙影视 | 😎雷蒙影视","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙影视.js?type=url&params=./dr_py/json/采集静态.json"},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_RinHome_ZAL","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👹爱看机器人2(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
