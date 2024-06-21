@@ -409,7 +409,7 @@
 {"key":"drjs_哔哩直播[官]","name":"雷蒙影视 | 👺哔哩直播[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/哔哩直播[官].js"},
 {"key":"drjs_斗鱼直播[官]","name":"雷蒙影视 | 👺斗鱼直播[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/斗鱼直播[官].js"},
 {"key":"drjs_虎牙直播[官]","name":"雷蒙影视 | 👺虎牙直播[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/虎牙直播[官].js"},
-{"key":"drjs_我的哔哩传参[官]","name":"雷蒙影视 | 👺我的哔哩传参[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩传参[官].js?type=url&params=https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/XB/Bili1.json"},
+{"key":"drjs_我的哔哩传参[官]","name":"雷蒙影视 | 👺我的哔哩传参[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩传参[官].js?type=url&params=./dr_py/json/Bili1.json"},
 {"key":"drjs_360影视[官]","name":"雷蒙影视 | 👺360影视[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/360影视[官].js"},
 {"key":"drjs_优酷[官]","name":"雷蒙影视 | 👺优酷[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/优酷[官].js"},
 {"key":"drjs_菜狗[官]","name":"雷蒙影视 | 👺菜狗[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/菜狗[官].js"},
