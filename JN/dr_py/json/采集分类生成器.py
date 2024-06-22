@@ -119,7 +119,7 @@ def main(fname='采集'):
             has_name = [ret for ret in results if ret.get("name") == rec_name]
             if has_name:
                 record.update(has_name[-1])
-            new_records.append(record)
+                new_records.append(record)
     pprint(new_records)
     with open(out_file_path, mode='w+', encoding='utf-8') as f:
         f.write(json.dumps(new_records, ensure_ascii=False, indent=2))
