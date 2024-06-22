@@ -368,6 +368,7 @@
 {"key":"drjs_掌心世界","name":"雷蒙影视 | 👺掌心世界(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/掌心世界.js"},
 {"key":"drjs_孜然影视","name":"雷蒙影视 | 👺孜然影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/孜然影视.js"},
 
+{"key":"drjs_分享短视频","name":"雷蒙影视 | 👺分享短视频(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/分享短视频.js"},
 {"key":"drjs_榜一短剧","name":"雷蒙影视 | 👺榜一短剧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/榜一短剧.js"},
 {"key":"drjs_短剧TV网","name":"雷蒙影视 | 👺短剧TV网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/短剧TV网.js"},
 {"key":"drjs_短剧天堂","name":"雷蒙影视 | 👺短剧天堂(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/短剧天堂.js"},
