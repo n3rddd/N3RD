@@ -110,6 +110,7 @@ CCTV13 新聞,video://http://tv.haoqu99.com/1/cctv13.html
 📢广播迷/parse,#genre#
 凤凰卫视中文台,http://www.guangbomi.com/tv/hk/ifeng1.html
 凤凰卫视资讯台,http://www.guangbomi.com/tv/hk/fhzx.html
+重庆新闻频道,http://www.guangbomi.com/tv/cq/cqxw.html
 澳门澳亚卫视,http://www.guangbomi.com/tv/hk/imastv.html
 澳门莲花卫视,http://www.guangbomi.com/tv/hk/lotustv.html
 RTHK31,http://www.guangbomi.com/tv/hk/rhk31.html
@@ -121,6 +122,7 @@ RTHK35,http://www.guangbomi.com/tv/hk/rthk35.html
 
 凤凰卫视中文台,video://http://www.guangbomi.com/tv/hk/ifeng1.html
 凤凰卫视资讯台,video://http://www.guangbomi.com/tv/hk/fhzx.html
+重庆新闻频道,video://http://www.guangbomi.com/tv/cq/cqxw.html
 澳门澳亚卫视,video://http://www.guangbomi.com/tv/hk/imastv.html
 澳门莲花卫视,video://http://www.guangbomi.com/tv/hk/lotustv.html
 RTHK31,video://http://www.guangbomi.com/tv/hk/rhk31.html
