@@ -207,11 +207,11 @@ var rule = {
                 vod_content: rule.update_info.trim(),
                 vod_name: '更新日志',
                 type_name: '更新日志',
-                vod_pic: 'https://resource-cdn.tuxiaobei.com/video/FtWhs2mewX_7nEuE51_k6zvg6awl.png',
+                vod_pic: 'https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png',
                 vod_remarks: `版本:${rule.version}`,
-                vod_play_from: '道长在线',
+                vod_play_from: '雷蒙影视',
                 // vod_play_url: '嗅探播放$https://resource-cdn.tuxiaobei.com/video/10/8f/108fc9d1ac3f69d29a738cdc097c9018.mp4',
-                vod_play_url: '随机小视频$http://api.yujn.cn/api/zzxjj.php',
+                vod_play_url: '雷蒙影视主题曲$https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4',
             };
         } else {
             if (rule.classes) {
