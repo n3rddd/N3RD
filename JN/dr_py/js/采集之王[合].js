@@ -4,10 +4,22 @@
  * 传参 ?type=url&params=../json/采集静态.json
  * [{"name":"暴风资源","url":"https://bfzyapi.com","parse_url":""},{"name":"飞刀资源","url":"http://www.feidaozy.com","parse_url":""},{"name":"黑木耳资源","url":"https://www.heimuer.tv","parse_url":""}]
  */
+globalThis.getRandomItem = function (items) {//从列表随机取出一个元素
+    return items[Math.random() * items.length | 0];
+}
 var rule = {
     title: '采集之王[合]',
     author: '道长',
-    version: '20240621 beta6',
+    version: '20240624 beta9',
+    update_info: `
+20240604:
+1.首页推荐取消硬控等待。增加随机推荐功能。
+2.首页推荐新增更新日志查看功能
+【特别说明】目前只支持标准json格式的采集站(资源站一般都提供xml和json两种接口，目前没有支持xml的想法，没什么必要)
+有些资源站的json接口不是标准的/api.php/provide/vod/,需要自己在采集静态.json中编辑对应的api属性填写比如:/api.php/provide/vod/at/json/
+有些资源站的采集数据是加密后的切片片段，可能需要采集站特定的解析接口，需要自己编辑json里的parse_url属性
+资源站部分大分类下无数据很正常，可以自行编辑json里cate_exclude属性排除掉自己测试过无数据的分类(小程序无法自动识别，只能人工测好哪些分类无数据)
+`,
     host: '',
     homeTid: '', // 首页推荐。一般填写第一个资源站的想要的推荐分类的id.可以空
     homeUrl: '/api.php/provide/vod/?ac=detail&t={{rule.homeTid}}',
@@ -144,22 +156,31 @@ var rule = {
         input = rule.classes;
     }),
     推荐: $js.toString(() => {
+        let update_info = [{
+            vod_name: '更新日志',
+            vod_id: 'update_info',
+            vod_remarks: `版本:${rule.version}`,
+            vod_pic: 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-server/master/app/static/img/logo.png'
+        }];
         VODS = [];
         if (rule.classes) {
-            let _url = urljoin(rule.classes[0].type_id, input);
-            if (rule.classes[0].api) {
-                _url = _url.replace('/api.php/provide/vod/', rule.classes[0].api)
+            let randomClass = getRandomItem(rule.classes);
+            let _url = urljoin(randomClass.type_id, input);
+            if (randomClass.api) {
+                _url = _url.replace('/api.php/provide/vod/', randomClass.api)
             }
             try {
-                let html = request(_url);
+                let html = request(_url, {timeout: rule.timeout});
                 let json = JSON.parse(html);
                 VODS = json.list;
                 VODS.forEach(it => {
-                    it.vod_id = rule.classes[0].type_id + '$' + it.vod_id
+                    it.vod_id = randomClass.type_id + '$' + it.vod_id;
+                    it.vod_remarks = it.vod_remarks + '|' + randomClass.type_name;
                 });
             } catch (e) {
             }
         }
+        VODS = update_info.concat(VODS);
     }),
     一级: $js.toString(() => {
         VODS = [];
@@ -180,19 +201,32 @@ var rule = {
     }),
     // 一级: 'json:list;vod_name;vod_pic;vod_remarks;vod_id;vod_play_from',
     二级: $js.toString(() => {
-        VOD = [];
-        if (rule.classes) {
-            let _url = urljoin(fyclass, input);
-            let current_vod = rule.classes.find(item => item.type_id === fyclass);
-            if (current_vod && current_vod.api) {
-                _url = _url.replace('/api.php/provide/vod/', current_vod.api)
-            }
-            let html = request(_url);
-            let json = JSON.parse(html);
-            let data = json.list;
-            VOD = data[0];
-            if (current_vod && current_vod.type_name) {
-                VOD.vod_play_from = VOD.vod_play_from.split('$$$').map(it => current_vod.type_name + '|' + it).join('$$$')
+        VOD = {};
+        if (orId === 'update_info') {
+            VOD = {
+                vod_content: rule.update_info.trim(),
+                vod_name: '更新日志',
+                type_name: '更新日志',
+                vod_pic: 'https://resource-cdn.tuxiaobei.com/video/FtWhs2mewX_7nEuE51_k6zvg6awl.png',
+                vod_remarks: `版本:${rule.version}`,
+                vod_play_from: '道长在线',
+                // vod_play_url: '嗅探播放$https://resource-cdn.tuxiaobei.com/video/10/8f/108fc9d1ac3f69d29a738cdc097c9018.mp4',
+                vod_play_url: '随机小视频$http://api.yujn.cn/api/zzxjj.php',
+            };
+        } else {
+            if (rule.classes) {
+                let _url = urljoin(fyclass, input);
+                let current_vod = rule.classes.find(item => item.type_id === fyclass);
+                if (current_vod && current_vod.api) {
+                    _url = _url.replace('/api.php/provide/vod/', current_vod.api)
+                }
+                let html = request(_url);
+                let json = JSON.parse(html);
+                let data = json.list;
+                VOD = data[0];
+                if (current_vod && current_vod.type_name) {
+                    VOD.vod_play_from = VOD.vod_play_from.split('$$$').map(it => current_vod.type_name + '|' + it).join('$$$')
+                }
             }
         }
     }),
@@ -228,7 +262,7 @@ var rule = {
                         let reqUrls = urls.map(it => {
                             return {
                                 url: it,
-                                options: {timeout:rule.timeout}
+                                options: {timeout: rule.timeout}
                             }
                         });
                         let rets = batchFetch(reqUrls);
