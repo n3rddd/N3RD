@@ -157,10 +157,10 @@ var rule = {
     }),
     推荐: $js.toString(() => {
         let update_info = [{
-            vod_name: '更新日志',
+            vod_name: '雷蒙资源',
             vod_id: 'update_info',
             vod_remarks: `版本:${rule.version}`,
-            vod_pic: 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-server/master/app/static/img/logo.png'
+            vod_pic: 'https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png'
         }];
         VODS = [];
         if (rule.classes) {
