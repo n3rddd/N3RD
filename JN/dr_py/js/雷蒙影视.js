@@ -225,7 +225,7 @@ var rule = {
                 let data = json.list;
                 VOD = data[0];
                 if (current_vod && current_vod.type_name) {
-                    VOD.vod_play_from = VOD.vod_play_from.split('$$$').map(it => current_vod.type_name + '|' + it).join('$$$')
+                    VOD.vod_play_from = VOD.vod_play_from.split('$$$').map(it => '雷蒙影视 | ' + it).join('$$$')
                 }
             }
         }
