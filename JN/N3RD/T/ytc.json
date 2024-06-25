@@ -14,7 +14,6 @@
 {"type_id":"短剧","type_name":"短剧"},
 {"type_id":"netflix","type_name":"Netflix"},
 {"type_id":"documentary","type_name":"纪录片"},
-{"type_id":"LIST:HDR,Landscape HDR,Walk HDR","type_name":"HDR"},
 {"type_id":"channel","type_name":"频道"}
 ],
 
@@ -211,20 +210,6 @@
 {"n":"Netflix","v":"netflix documentary"},
 {"n":"BBC","v":"bbc documentary"},
 {"n":"华语","v":"纪录片"}
-]
-}
-],
-
-"LIST:HDR,Landscape HDR,Walk HDR":[
-{"key":"tid","name":"風景","value":[
-{"n":"運動","v":"GoPro 女翼裝飛行 極限自行車運動"},
-{"n":"風景","v":"hdr 大自然"},
-{"n":"Links TV頻道主","v":"@linksphotograph Links TV hdr"},
-{"n":"放鬆","v":"hdr 放鬆"},
-{"n":"動物世界","v":"hdr Carnivorous Animals 動物世界"},
-{"n":"深海世界","v":"hdr Invertebrate Fish 深海世界"},
-{"n":"飛禽走獸","v":"hdr Birds of Prey Columbiform Birds Passerine Birds"},
-{"n":"生物世界","v":"hdr Amphibians Reptiles 生物世界"}
 ]
 }
 ],
