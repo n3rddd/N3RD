@@ -264,7 +264,7 @@ function pre() {
 
 let rule = {};
 let vercode = typeof (pdfl) === 'function' ? 'drpy2.1' : 'drpy2';
-const VERSION = vercode + ' 3.9.50beta31 20240617';
+const VERSION = vercode + ' 3.9.50beta32 20240625';
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染 (有能力解决的话尽量解决下，支持对象直接渲染字符串转义,如果加了|safe就不转义)[影魔牛逼，最新的文件发现这问题已经解决了]
  * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来 (这个大毛病需要重点排除一下)
@@ -411,11 +411,11 @@ function window_b64() {
 /**
  es6py扩展
  */
-if (typeof atob != 'function' || typeof btoa != 'function') {
+if (typeof atob !== 'function' || typeof btoa !== 'function') {
     var {atob, btoa} = window_b64();
 }
 
-if (typeof Object.assign != 'function') {
+if (typeof Object.assign !== 'function') {
     Object.assign = function () {
         let target = arguments[0];
         for (let i = 1; i < arguments.length; i++) {
@@ -472,12 +472,12 @@ if (!Array.prototype.includes) {
         enumerable: false
     });
 }
-if (typeof String.prototype.startsWith != 'function') {
+if (typeof String.prototype.startsWith !== 'function') {
     String.prototype.startsWith = function (prefix) {
         return this.slice(0, prefix.length) === prefix;
     };
 }
-if (typeof String.prototype.endsWith != 'function') {
+if (typeof String.prototype.endsWith !== 'function') {
     String.prototype.endsWith = function (suffix) {
         return this.indexOf(suffix, this.length - suffix.length) !== -1;
     };
@@ -497,7 +497,7 @@ Object.defineProperty(Object.prototype, 'myValues', {
     },
     enumerable: false
 });
-if (typeof Object.prototype.values != 'function') {
+if (typeof Object.prototype.values !== 'function') {
     Object.defineProperty(Object.prototype, 'values', {
         value: function (obj) {
             if (obj == null) {
@@ -514,7 +514,7 @@ if (typeof Object.prototype.values != 'function') {
         enumerable: false
     });
 }
-if (typeof Array.prototype.join != 'function') {
+if (typeof Array.prototype.join !== 'function') {
     Object.defineProperty(Array.prototype, 'join', {
         value: function (emoji) {
             // emoji = emoji||',';
@@ -541,7 +541,7 @@ if (typeof Array.prototype.join != 'function') {
         enumerable: false
     });
 }
-if (typeof Array.prototype.toReversed != 'function') {
+if (typeof Array.prototype.toReversed !== 'function') {
     Object.defineProperty(Array.prototype, 'toReversed', {
         value: function () {
             const clonedList = this.slice();
@@ -1041,8 +1041,31 @@ function fixAdM3u8Ai(m3u8_url, headers) {
     let s = m3u8.trim().split('\n').filter(it => it.trim()).join('\n');
     let ss = s.split('\n')
     //找出第一条播放地址
-    let firststr = ss.find(x => !x.startsWith('#'));
+    //let firststr = ss.find(x => !x.startsWith('#'));
+    let firststr = '';
     let maxl = 0;//最大相同字符
+    let kk = 0;
+    let kkk = 2;
+    let secondstr = '';
+    for (let i = 0; i < ss.length; i++) {
+        let s = ss[i];
+        if (!s.startsWith("#")) {
+            if (kk == 0) firststr = s;
+            if (kk == 1) maxl = b(firststr, s);
+            if (kk > 1) {
+                if (maxl > b(firststr, s)) {
+                    if (secondstr.length < 5) secondstr = s;
+                    kkk = kkk + 2;
+                } else {
+                    maxl = b(firststr, s);
+                    kkk++;
+                }
+            }
+            kk++;
+            if (kk >= 20) break;
+        }
+    }
+    if (kkk > 30) firststr = secondstr;
     let firststrlen = firststr.length;
     //log('字符串长度：' + firststrlen);
     let ml = Math.round(ss.length / 2).toString().length;//取数据的长度的位数
