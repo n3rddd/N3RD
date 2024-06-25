@@ -104,9 +104,9 @@
 "wgcf_ss_recursion": false,
 "wgcf_ss_tier": 3,
 "wgcf_ss_enabled": true,
-"youtube_proxy":""
+"youtube_proxy":"proxy",
 "singbox_url":"./sing-box.gz",
-"singbox_subscribe_url":"",
+"singbox_subscribe_url":"https://dj.19860524.xyz/tv",
 "singbox_clash2singbox_url":"./clash2singbox.gz",
 "singbox_template_url":"./singbox.json"
 }
