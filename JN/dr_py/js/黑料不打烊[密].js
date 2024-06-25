@@ -64,6 +64,7 @@ var rule = {
                 mode: CryptoJS.mode.CBC,
                 padding: CryptoJS.pad.Pkcs7
             }).toString(CryptoJS.enc.Base64);
+            // .toString(CryptoJS.enc.Utf8).toTypedArray(CryptoJS.enc.Utf8); //直接转参数3可用的字节流方法
             let img_base64 = 'data:image/' + _type + ';base64,' + encrypted;
             let t3 = new Date().getTime();
             log(`已获取图片${input.url}解密耗时:${t3 - t2}ms`);
