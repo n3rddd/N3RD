@@ -90,7 +90,6 @@
 {"key":"csp_Voflix","name":"雷蒙影视 | 🌀Voflix(SP)","type":"3","api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.me/"},
 {"key":"csp_Bttwoo","name":"雷蒙影视 | ✌两个BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
-{"key":"csp_YingTan","name":"雷蒙影视 | 🎥影探(SP)","type":3,"api":"csp_YingTan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NCat","name":"雷蒙影视 | 😻网飞猫(SP)","type":3,"api":"csp_NCat","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_TvDy","name":"雷蒙影视 | 👼电影天堂(SP)","type":3,"api":"csp_TvDy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QxiTv","name":"雷蒙影视 | 7️⃣7喜影院(SP)","type":3,"api":"csp_QxiTv","searchable":1,"quickSearch":1,"filterable":1},
