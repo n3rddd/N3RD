@@ -240,11 +240,6 @@
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexliyuan_MULTIJAR","name":"雷蒙影视 | 🐮梨园(MULTI)","type":3,"api":"csp_Wexliyuan","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2}},
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexwuxiang_MULTIJAR","name":"雷蒙影视 | 🐮武享(MULTI)","type":3,"api":"csp_Wexwuxiang","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2}},
 
-{"jar":"./N3RD/J/gy.jar","key":"csp_Wexhuaruitv_MULTIJAR","name":"雷蒙影视 | 🐷花蕊(MULTI)","type":3,"api":"csp_Wexhuaruitv","searchable":1,"changeable":1},
-{"jar":"./N3RD/J/gy.jar","key":"csp_Wexjiazitv_MULTIJAR","name":"雷蒙影视 | 🐷甲子(MULTI)","type":3,"api":"csp_Wexjiazitv","searchable":1,"changeable":1},
-{"jar":"./N3RD/J/gy.jar","key":"csp_Wexdiguatv_MULTIJAR","name":"雷蒙影视 | 🐷地瓜(MULTI)","type":3,"api":"csp_Wexdiguatv","searchable":1,"changeable":1},
-{"jar":"./N3RD/J/gy.jar","key":"csp_Wexxpgtv_MULTIJAR","name":"雷蒙影视 | 🐷苹果(MULTI)","type":3,"api":"csp_Wexxpgtv","searchable":1,"changeable":1},
-{"jar":"./N3RD/J/gy.jar","key":"csp_Wexshandian_MULTIJAR","name":"雷蒙影视 | 🐷闪电(MULTI)","type":3,"api":"csp_Wexshandian","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/gy.jar","key":"csp_Juqq_MULTIJAR","name":"雷蒙影视 | 🐷剧圈(MULTI)","type":3,"api":"csp_Juqq","searchable":1,"quickSearch":1,"filterable":1},
 {"jar":"./N3RD/J/gy.jar","key":"csp_AppRZ_MULTIJAR","name":"雷蒙影视 | 🐷忍者(MULTI)","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
 {"jar":"./N3RD/J/gy.jar","key":"csp_SC1080_MULTIJAR","name":"雷蒙影视 | 🐷圣城(MULTI)","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
