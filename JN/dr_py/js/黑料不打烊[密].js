@@ -102,6 +102,8 @@ var rule = {
         if (/loadImg/.test(input)) {
             input = input.split("'")[1];
         }
+        // tim壳子专用图片解密
+        // input = input + '@Option:{"mode":"CBC","inbase64":false,"key":"f5d965df75336270","iv":"97b60394abc2fbe1"}';
         input = getProxyUrl() + '&url=' + input;
     }),
     二级: "*",
