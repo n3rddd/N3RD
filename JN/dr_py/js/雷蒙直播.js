@@ -30,18 +30,43 @@ function convertM3uToNormal(m3u) {
         let currentGroupTitle = '';
         lines.forEach((line) => {
             if (line.startsWith('#EXTINF:')) {
-                const groupTitle = line.split('"')[1].trim();
-                TV = line.split('"')[2].substring(1);
+                line = line.replace(/'/g, '"');
+                let groupTitle = '未知频道';
+                let tvg_name = '';
+                let tvg_logo = '';
+                try {
+                    groupTitle = line.match(/group-title="(.*?)"/)[1].trim();
+                } catch (e) {
+                }
+                try {
+                    tvg_name = line.match(/tvg-name="(.*?)"/)[1].trim();
+                } catch (e) {
+                }
+                try {
+                    tvg_logo = line.match(/tvg-logo="(.*?)"/)[1].trim();
+                } catch (e) {
+                }
+                TV = line.split(',').slice(-1)[0].trim();
                 if (currentGroupTitle !== groupTitle) {
                     currentGroupTitle = groupTitle;
-                    result += `\n${currentGroupTitle},${flag}\n`;
+                    let ret_list = [currentGroupTitle, flag];
+                    // if(tvg_name){
+                    //     ret_list.push(tvg_name);
+                    // }
+                    // if(tvg_logo){
+                    //     ret_list.push(tvg_logo);
+                    // }
+                    result += `\n${ret_list.join(",")}\n`;
                 }
             } else if (line.startsWith('http')) {
                 const splitLine = line.split(',');
                 result += `${TV}\,${splitLine[0]}\n`;
             }
         });
-        return result.trim()
+        // result = result.trim();
+        result = mergeChannels(result);
+        // log(result);
+        return result
     } catch (e) {
         log(`m3u直播转普通直播发生错误:${e.message}`);
         return m3u
@@ -98,6 +123,42 @@ function gen_group_dict(arr, parse) {
     return dict
 }
 
+/**
+ * txt格式直播自动合并频道链接
+ * @param text
+ * @returns {string}
+ */
+function mergeChannels(text) {
+    const lines = text.split('\n');
+    const channelMap = new Map();
+    let currentChannel = ''; // 当前处理的频道
+
+    lines.forEach(line => {
+        // 使用正则表达式匹配频道行，假设频道行包含",#"即可识别为频道行
+        if (/,#/.test(line)) {
+            // 如果是频道名称，作为键值存储，初始化为空数组
+            currentChannel = line;
+            if (!channelMap.has(line)) {
+                channelMap.set(line, []);
+            }
+        } else if (line) { // 忽略空行
+            // 将当前行（链接）添加到当前频道数组中
+            if (currentChannel) {
+                channelMap.get(currentChannel).push(line);
+            }
+        }
+    });
+
+    // 构建结果字符串
+    let result = '';
+    channelMap.forEach((value, key) => {
+        result += key + '\n' + value.join('\n') + '\n\n';
+    });
+
+    return result.trim(); // 移除尾部的多余换行符
+}
+
+globalThis.mergeChannels = mergeChannels;
 globalThis.convertM3uToNormal = convertM3uToNormal;
 globalThis.splitArray = splitArray;
 globalThis.gen_group_dict = gen_group_dict;
@@ -108,8 +169,14 @@ globalThis.__ext = {data_dict: {}};
 var rule = {
     title: '直播转点播[合]',
     author: '道长',
-    version: '20240627 beta3',
+    version: '20240628 beta7',
     update_info: `
+20240628 beta6:
+1.增加范冰冰v6源
+2.修复带图标的m3u源识别
+3.修复m3u8链接带参数转义问题
+4.合并重复的频道名称下的链接
+5.支持相对图片链接
 20240627 beta1:
 1.将原drpy项目的live2cms.js转换成hipy传参源。
 【特别说明】支持m3u和txt的直播
@@ -129,7 +196,8 @@ var rule = {
     play_parse: true,
     // params: 'http://127.0.0.1:5707/files/json/live2cms.json',
     // 下面自定义一些源的配置
-    def_pic: 'https://avatars.githubusercontent.com/u/97389433?s=120&v=4', //默认列表图片
+    // def_pic: 'https://avatars.githubusercontent.com/u/97389433?s=120&v=4', //默认列表图片
+    def_pic: 'https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png', //默认列表图片
     showMode: 'groups',// groups按组分类显示 all全部一条线路展示
     groupDict: {},// 搜索分组字典
     tips: '', //二级提示信息
@@ -137,7 +205,7 @@ var rule = {
         // 初始化保存的数据
         rule.showMode = getItem('showMode', 'groups');
         rule.groupDict = JSON.parse(getItem('groupDict', '{}'));
-        rule.tips = `道长直播转点播js-当前版本${rule.version}`;
+        rule.tips = `雷蒙直播js-当前版本${rule.version}`;
 
         if (typeof (batchFetch) === 'function') {
             // 支持批量请求直接放飞自我。搜索限制最大线程数量16
@@ -155,6 +223,9 @@ var rule = {
             json.forEach(it => {
                 if (it.url && !/^(http|file)/.test(it.url)) {
                     it.url = urljoin(_url, it.url);
+                }
+                if (it.img && !/^(http|file)/.test(it.img)) {
+                    it.img = urljoin(_url, it.img);
                 }
                 let _obj = {
                     type_name: it.name,
@@ -202,6 +273,8 @@ var rule = {
                 html = request(_get_url);
                 if (/#EXTM3U/.test(html)) {
                     html = convertM3uToNormal(html);
+                } else {
+                    html = mergeChannels(html);
                 }
                 __ext.data_dict[_get_url] = html;
             }
@@ -241,6 +314,8 @@ var rule = {
                 html = request(_get_url);
                 if (/#EXTM3U/.test(html)) {
                     html = convertM3uToNormal(html);
+                } else {
+                    html = mergeChannels(html);
                 }
                 __ext.data_dict[_get_url] = html;
             }
@@ -267,9 +342,9 @@ var rule = {
         if (orId === 'update_info') {
             VOD = {
                 vod_content: rule.update_info.trim(),
-                vod_name: '更新日志',
-                type_name: '更新日志',
-                vod_pic: 'https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png',
+                vod_name: '雷蒙影视',
+                type_name: '雷蒙影视',
+                vod_pic: 'https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png',
                 vod_remarks: `版本:${rule.version}`,
                 vod_play_from: '雷蒙影视',
                 // vod_play_url: '嗅探播放$https://resource-cdn.tuxiaobei.com/video/10/8f/108fc9d1ac3f69d29a738cdc097c9018.mp4',
@@ -306,6 +381,8 @@ var rule = {
                         html = request(_get_url);
                         if (/#EXTM3U/.test(html)) {
                             html = convertM3uToNormal(html);
+                        } else {
+                            html = mergeChannels(html);
                         }
                         __ext.data_dict[_get_url] = html;
                     }
@@ -335,9 +412,9 @@ var rule = {
                         let tabs = [];
                         for (let i = 0; i < groups.length; i++) {
                             if (i === 0) {
-                                tabs.push(vod_name + '1');
+                                tabs.push(vod_name + '@1');
                             } else {
-                                tabs.push(` ${i + 1} `);
+                                tabs.push(`@${i + 1}`);
                             }
                         }
                         vod_play_url = groups.map(it => it.join('#')).join('$$$');
@@ -377,6 +454,8 @@ var rule = {
                 html = request(_get_url);
                 if (/#EXTM3U/.test(html)) {
                     html = convertM3uToNormal(html);
+                } else {
+                    html = mergeChannels(html);
                 }
                 __ext.data_dict[_get_url] = html;
             }
@@ -409,9 +488,12 @@ var rule = {
     }),
     lazy: $js.toString(() => {
         if (/\.(m3u8|mp4)/.test(input)) {
+            if (input.includes('?') && typeof (playObj) == 'object' && playObj.url) {
+                input = playObj.url;
+            }
             input = {parse: 0, url: input}
-        } else if (/yangshipin/.test(input)) {
-            input = {parse: 1, url: input, js: '', header: {'User-Agent': PC_UA}, parse_extra: '&is_pc=1'};
+        } else if (/yangshipin|1905\.com/.test(input)) {
+            input = {parse: 1, jx: 0, url: input, js: '', header: {'User-Agent': PC_UA}, parse_extra: '&is_pc=1'};
         } else {
             input
         }
