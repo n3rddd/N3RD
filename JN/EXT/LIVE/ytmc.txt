@@ -1,6 +1,4 @@
-//UPDATED ON 28/06/2024
-
-Top 100 Songs United States, #genre#
+Top 100 Songs United States,#genre#
 Kendrick Lamar - Not Like Us (REACTION), https://www.youtube.com/watch?v=fSMk5o9MWKM
 Shaboozey - A Bar Song (Tipsy) [Official Visualizer], https://www.youtube.com/watch?v=t7bQwwqW-Hc
 Tommy Richman - MILLION DOLLAR BABY (Official Lyric Video) SHOT BY BELVEDERE, https://www.youtube.com/watch?v=bUX8MDNQda4
@@ -51,7 +49,7 @@ Muni Long - Made For Me (Official Music Video), https://www.youtube.com/watch?v=
 KEY-KEY - TENGO UN PLAN (VÃDEO OFICIAL), https://www.youtube.com/watch?v=1SRnPmOgqoY
 Fuerza Regida - TU NAME [Official Video], https://www.youtube.com/watch?v=gIQatHqgNQs
 BossMan Dlow - SportsCenter (Official Video), https://www.youtube.com/watch?v=JCVrvS3xqL4
-Top 100 Music Videos United States, #genre#
+Top 100 Music Videos United States,#genre#
 Shaboozey - A Bar Song (Tipsy) [Official Visualizer], https://www.youtube.com/watch?v=t7bQwwqW-Hc
 Eminem - Houdini [Official Music Video], https://www.youtube.com/watch?v=22tVWwmTie8
 Luis R Conriquez, Neton Vega - Si No Quieres No (Video Oficial), https://www.youtube.com/watch?v=-V-sywKOCwQ
@@ -102,7 +100,7 @@ Morgan Wallen - Cowgirls ft. ERNEST, https://www.youtube.com/watch?v=UpYu9FgcxKo
 Los Chavalitos - No Mastico Culebras (Video Oficial), https://www.youtube.com/watch?v=nwXR0Y4f3_A
 Fridayy - When It Comes To You, https://www.youtube.com/watch?v=WqSPNpSSgGg
 Ariana Grande - the boy is mine (Official Music Video), https://www.youtube.com/watch?v=KwRxeZ9Ro24
-RELEASED, #genre#
+RELEASED,#genre#
 Megan Thee Stallion - Where Them Girls At [Official Audio], https://www.youtube.com/watch?v=uAFKgqMujlg
 Camila Cabello - HOT UPTOWN (ft. Drake)(Official Visualizer), https://www.youtube.com/watch?v=spJR_ynZF0Y
 Imagine Dragons - Wake Up (Official Lyric Video), https://www.youtube.com/watch?v=mpmWioM9UWE
@@ -152,7 +150,7 @@ Keith Urban - WILDSIDE (Official Audio), https://www.youtube.com/watch?v=v_zxPzl
 OKAY (Remix), https://www.youtube.com/watch?v=kyWMBmgnJkM
 Bando Kid, https://www.youtube.com/watch?v=Ilv0ngX8noA
 Outta My Head, https://www.youtube.com/watch?v=TxYOhjXzyKs
-New Releases On Vevo, #genre#
+New Releases On Vevo,#genre#
 Kany GarcÃ­a - Historia Repetida (Live Performance) | Vevo, https://www.youtube.com/watch?v=qazOK15kv6Y
 The Driver Era - Back to You (Live Performance) | Vevo, https://www.youtube.com/watch?v=6UiDVLX8mZ4
 Spice - Round Round (Official Video) ft. Busta Rhymes, https://www.youtube.com/watch?v=_WvLXmULrDc
@@ -203,7 +201,7 @@ ROLE MODEL - Look At That Woman (Official Music Video), https://www.youtube.com/
 Rakim, Kurupt, Masta Killa - BE ILL (Official), https://www.youtube.com/watch?v=oOK7nXcXWdY
 Porches - Itch (Official Video), https://www.youtube.com/watch?v=NG4xw5CTTBg
 Tha Dogg Pound - Imma Dogg (Official Music Video), https://www.youtube.com/watch?v=YXkz1baz5PU
-Vevo 2024 - Vevo Playlist 2024 - New Music Videos, #genre#
+Vevo 2024 - Vevo Playlist 2024 - New Music Videos,#genre#
 Eminem - Houdini [Official Music Video], https://www.youtube.com/watch?v=22tVWwmTie8
 Post Malone - I Had Some Help (feat. Morgan Wallen) (Official Video), https://www.youtube.com/watch?v=4QIZE708gJ4
 Sabrina Carpenter - Espresso (Official Video), https://www.youtube.com/watch?v=eVli-tstM5E
@@ -254,7 +252,7 @@ French Montana, Swae Lee - Wish U Well (Official Music Video) ft. Lojay, Jess Gl
 Miley Cyrus - Used To Be Young (Official Video), https://www.youtube.com/watch?v=IZ3XMOdOdKM
 David Guetta, Anne-Marie, Coi Leray - Baby Donâ€™t Hurt Me (Official Video), https://www.youtube.com/watch?v=k3DBmAlUh1A
 Travis Scott, Bad Bunny, The Weeknd - K-POP (Official Music Video), https://www.youtube.com/watch?v=_kS7F4VpJa0
-Spotify Hits 2024 - Today&#039;s Top Hits - Spotify Playlist 2024, #genre#
+Spotify Hits 2024 - Today&#039;s Top Hits - Spotify Playlist 2024,#genre#
 ILLIT (ì•„ì¼ë¦¿) â€˜Magneticâ€™ Official MV, https://www.youtube.com/watch?v=Vk5-c_v4gMU
 Ariana Grande - we can&#039;t be friends (wait for your love) (official music video), https://www.youtube.com/watch?v=KNtJGQkC-WI
 Hozier - Too Sweet (Official Lyric Video), https://www.youtube.com/watch?v=aezstCBHOPQ
@@ -305,7 +303,7 @@ Xavi - La Diabla (Official Video), https://www.youtube.com/watch?v=HfzbN5ky5Co
 Miley Cyrus - Flowers (Official Video), https://www.youtube.com/watch?v=G7KNmW9a75Y
 Taylor Swift - Is It Over Now? (Taylor&#039;s Version) (From The Vault) (Lyric Video), https://www.youtube.com/watch?v=tNxUxm3-658
 Dua Lipa - Houdini (Official Music Video), https://www.youtube.com/watch?v=suAR1PYFNYA
-Top 50 Spotify 2024 - Spotify Top 50 - Spotify Playlist 2024, #genre#
+Top 50 Spotify 2024 - Spotify Top 50 - Spotify Playlist 2024,#genre#
 Sabrina Carpenter - Espresso (Official Video), https://www.youtube.com/watch?v=eVli-tstM5E
 Hozier - Too Sweet (Official Lyric Video), https://www.youtube.com/watch?v=aezstCBHOPQ
 Ariana Grande - we can&#039;t be friends (wait for your love) (official music video), https://www.youtube.com/watch?v=KNtJGQkC-WI
@@ -356,7 +354,7 @@ Lay Bankz - Ick (Lyrics) &quot;he gave me the ick&quot;, https://www.youtube.com
 cassÃ¶ x RAYE x D-Block Europe â€“ Prada | Car Music, https://www.youtube.com/watch?v=pbrB_8k13eQ
 Loreen - Is It Love, https://www.youtube.com/watch?v=c8fYcKkFBDY
 Doja Cat - Agora Hills (Official Video), https://www.youtube.com/watch?v=0c66ksfigtU
-Billboard Top 50 This Week 2024 &amp; Top Billboard Hot 100 Songs 2024 Hits Playlist, #genre#
+Billboard Top 50 This Week 2024 &amp; Top Billboard Hot 100 Songs 2024 Hits Playlist,#genre#
 Post Malone - I Had Some Help (feat. Morgan Wallen) (Official Video), https://www.youtube.com/watch?v=4QIZE708gJ4
 Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video), https://www.youtube.com/watch?v=q3zqJs7JUCQ
 Tommy Richman - MILLION DOLLAR BABY (Official Lyric Video) SHOT BY BELVEDERE, https://www.youtube.com/watch?v=bUX8MDNQda4
@@ -407,7 +405,7 @@ Kenya Grace - Strangers (Official Lyric Video), https://www.youtube.com/watch?v=
 Usher - Yeah! (Official Video) ft. Lil Jon, Ludacris, https://www.youtube.com/watch?v=GxBSyx85Kp8
 FÃ©a - Shades of Blue (Official Video), https://www.youtube.com/watch?v=i2HeHYaRP5A
 Olivia Rodrigo - get him back! (Official Video), https://www.youtube.com/watch?v=ZsJ-BHohXRI
-KPOP 2024 - K-POP Songs 2024 - KPop Playlist, #genre#
+KPOP 2024 - K-POP Songs 2024 - KPop Playlist,#genre#
 BABYMONSTER - &#039;LIKE THAT&#039; EXCLUSIVE PERFORMANCE VIDEO, https://www.youtube.com/watch?v=M8r3x4Re8-I
 Red Velvet ë ˆë“œë²¨ë²³ &#039;Cosmic&#039; MV, https://www.youtube.com/watch?v=FyG21rXCxlY
 BADVILLAIN - &#039;ì•¼í˜¸(BADTITUDE)&#039; MV, https://www.youtube.com/watch?v=GJzq_xBSDWI
@@ -458,7 +456,7 @@ TXT (íˆ¬ëª¨ë¡œìš°ë°”ì´íˆ¬ê²Œë”), Anitta â€˜Ba
 (ì—¬ìž)ì•„ì´ë“¤((G)I-DLE) - &#039;Super Lady&#039; Official Music Video, https://www.youtube.com/watch?v=6f3RzjXPQwA
 (ì—¬ìž)ì•„ì´ë“¤((G)I-DLE) - &#039;Wife&#039; Official Music Video, https://www.youtube.com/watch?v=baaNwRAhHBo
 VCHA &quot;Girls of the Year&quot; M/V, https://www.youtube.com/watch?v=rBHK8Z8cwmQ
-K-Pop Hits 2024, #genre#
+K-Pop Hits 2024,#genre#
 Xdinary Heroes - Money On My Mind (Official Audio), https://www.youtube.com/watch?v=u4br0fA4ZiU
 NewJeans (ë‰´ì§„ìŠ¤) &#039;Cool With You&#039; Official MV (side A), https://www.youtube.com/watch?v=zsYSSVoQnP4
 SEVENTEEN (ì„¸ë¸í‹´) &#039;ì†ì˜¤ê³µ&#039; Official MV, https://www.youtube.com/watch?v=-GQg25oP0S4
@@ -509,7 +507,7 @@ NewJeans (ë‰´ì§„ìŠ¤) &#039;Super Shy&#039; Official MV, https://www.y
 NCT 127 ì—”ì‹œí‹° 127 &#039;Fact Check (ë¶ˆê°€ì‚¬ì˜; ä¸å¯æ€è­°)&#039; MV, https://www.youtube.com/watch?v=vGuJuW0bDWA
 WHY?, https://www.youtube.com/watch?v=_q6PF3bb9VY
 &amp;TEAM &#039;FIREWORK (Korean ver.)&#039; Official Performance MV, https://www.youtube.com/watch?v=c7Y910enny8
-The Hit List, #genre#
+The Hit List,#genre#
 Benson Boone - Beautiful Things (Official Music Video), https://www.youtube.com/watch?v=Oa_RSwwpPaA
 Post Malone - I Had Some Help (feat. Morgan Wallen) (Official Video), https://www.youtube.com/watch?v=4QIZE708gJ4
 Sabrina Carpenter - Espresso (Official Video), https://www.youtube.com/watch?v=eVli-tstM5E
@@ -559,7 +557,7 @@ Zach Bryan - Pink Skies, https://www.youtube.com/watch?v=fs49xFmmHCo
 Jelly Roll - Save Me (with Lainey Wilson) [Official Audio], https://www.youtube.com/watch?v=7_eXiEbx1e0
 Sophie Ellis-Bextor - Murder On The Dancefloor, https://www.youtube.com/watch?v=hAx6mYeC6pY
 Gracie Abrams - Close To You (Official Visual), https://www.youtube.com/watch?v=PmJuMNGp5YE
-Pop Certified, #genre#
+Pop Certified,#genre#
 Sabrina Carpenter - Espresso (Official Video), https://www.youtube.com/watch?v=eVli-tstM5E
 Billie Eilish - CHIHIRO (Official Music Video), https://www.youtube.com/watch?v=BY_XwvKogC8
 Ariana Grande - the boy is mine (Official Music Video), https://www.youtube.com/watch?v=KwRxeZ9Ro24
@@ -609,7 +607,7 @@ Meghan Trainor, T-Pain - Been Like This (Official Music Video), https://www.yout
 BeyoncÃ©, Miley Cyrus - II MOST WANTED (Official Lyric Video), https://www.youtube.com/watch?v=SyXfJi2KZ-A
 Charlie Puth - Hero (Official Audio), https://www.youtube.com/watch?v=OM5cVB81aT8
 Man In Finance, https://www.youtube.com/watch?v=OMZH0_7EUZg
-Highline: Today&#039;s R&amp;B Hits, #genre#
+Highline: Today&#039;s R&amp;B Hits,#genre#
 Chris Brown - Angel Numbers / Ten Toes (Official Video), https://www.youtube.com/watch?v=wWR0VD6qgt8
 Tommy Richman - MILLION DOLLAR BABY (Official Lyric Video) SHOT BY BELVEDERE, https://www.youtube.com/watch?v=bUX8MDNQda4
 SZA - Saturn, https://www.youtube.com/watch?v=V2G8ESoDXm8
@@ -659,7 +657,7 @@ Miguel - Sure Thing (Official Video), https://www.youtube.com/watch?v=q4GJVOMjCC
 Keyshia Cole - Love (Alt. Version) (Official Music Video), https://www.youtube.com/watch?v=9PBZy9j3H3I
 USHER, H.E.R. - Risk It All (Official Music Video), https://www.youtube.com/watch?v=3xjT-v7U8eE
 Future, Metro Boomin, The Weeknd - All to Myself (Official Audio), https://www.youtube.com/watch?v=jWAXsR9_Gv8
-The Short List, #genre#
+The Short List,#genre#
 Sabrina Carpenter - Please Please Please (Official Video), https://www.youtube.com/watch?v=cF1Na4AIecM
 Shaboozey - A Bar Song (Tipsy) [Official Visualizer], https://www.youtube.com/watch?v=t7bQwwqW-Hc
 Not Like Us, https://www.youtube.com/watch?v=T6eK-2OQtew
@@ -693,7 +691,7 @@ Flo Milli - Never Lose Me (Official Video), https://www.youtube.com/watch?v=z67x
 Daya - Hide Away (Official Video), https://www.youtube.com/watch?v=RwHQfn0s94M
 G-Eazy - Lady Killers II (Christoph Andersson Remix), https://www.youtube.com/watch?v=i9L_Ew4t1xg
 Laila! - Like That! Sped Up (HAPPY BIRTHDAY! Visualizer), https://www.youtube.com/watch?v=USW37C-g1OQ
-Pop Before It Breaks, #genre#
+Pop Before It Breaks,#genre#
 Artemas - i like the way you kiss me (official music video), https://www.youtube.com/watch?v=evJ6gX1lp2o
 Omar Apollo - Done With You (Official Audio), https://www.youtube.com/watch?v=3dzf8E0g0PE
 Gracie Abrams - Close To You (Official Visual), https://www.youtube.com/watch?v=PmJuMNGp5YE
@@ -743,7 +741,7 @@ charlieonnafriday - Warning Shot (Visualizer), https://www.youtube.com/watch?v=v
 Like That (feat. Armani White) [Official Music Video], https://www.youtube.com/watch?v=pq_RO3Q8ZMw
 Sadie Jean - Shut Up About It (Official Lyric Video), https://www.youtube.com/watch?v=0hEf6IuNS1w
 Quinn XCII - Melt (Official Visualizer), https://www.youtube.com/watch?v=F2HMe6iUADg
-Blogged 50, #genre#
+Blogged 50,#genre#
 PinkPantheress, Ice Spice - Boyâ€™s a liar Pt. 2 (Official Video), https://www.youtube.com/watch?v=oftolPu9qp4
 $UICIDEBOY$ x GERM - I DREAM OF CHROME (Lyric Video), https://www.youtube.com/watch?v=ljfLfk1O0KI
 brakence - 5g (Official Audio), https://www.youtube.com/watch?v=V0Zo83Rtcws
@@ -793,7 +791,7 @@ Skinny Pelembe - Like A Heart Won&#039;t Beat (Official Visualiser), https://www
 NNAMDÃ - Touchdown (Official Video), https://www.youtube.com/watch?v=aGu2NQYmHqk
 Barrie - Unholy Appetite (Official Visualizer), https://www.youtube.com/watch?v=hrgMBXtbZIM
 MATVEÃ - MY MIND, https://www.youtube.com/watch?v=PAd3GPx4P5A
-New R&amp;B, #genre#
+New R&amp;B,#genre#
 Normani - Candy Paint (Audio), https://www.youtube.com/watch?v=4MfNWJtgvno
 Tinashe - Nasty (Official Video), https://www.youtube.com/watch?v=jrjESdPsLxE
 Don Toliver - GLOCK [Official Audio], https://www.youtube.com/watch?v=kXuYcsqahcs
@@ -843,7 +841,7 @@ Amaarae - sweeeet (Official Audio), https://www.youtube.com/watch?v=UTdoomcQoFQ
 NE-YO - 2 Million Secrets (Official Music Video), https://www.youtube.com/watch?v=XoDjXe2lomI
 Josh Levi - BIRTHDAY DANCE [Official Music Video], https://www.youtube.com/watch?v=KQTDkKgffnY
 PARTYNEXTDOOR - REAL WOMAN (Official Music Video), https://www.youtube.com/watch?v=sRzosApJaig
-The Hits: &#039;10s, #genre#
+The Hits: &#039;10s,#genre#
 Justin Bieber - Sorry (PURPOSE : The Movement), https://www.youtube.com/watch?v=fRh_vgS2dFE
 The Chainsmokers - Closer (Lyric) ft. Halsey, https://www.youtube.com/watch?v=PT2_F-1esPk
 Bruno Mars - Thatâ€™s What I Like [Official Music Video], https://www.youtube.com/watch?v=PMivT7MJ41M
@@ -893,7 +891,7 @@ Ella Mai - Boo&#039;d Up, https://www.youtube.com/watch?v=6YNZlXfW6Ho
 Maroon 5 - One More Night (Official Music Video), https://www.youtube.com/watch?v=fwK7ggA3-bU
 No Role Modelz, https://www.youtube.com/watch?v=8HBcV0MtAQg
 Rihanna - We Found Love ft. Calvin Harris, https://www.youtube.com/watch?v=tg00YEETFzg
-The Millennial Mixtape, #genre#
+The Millennial Mixtape,#genre#
 50 Cent - Candy Shop (Official Music Video) ft. Olivia, https://www.youtube.com/watch?v=SRcnnId15BA
 TLC - No Scrubs (Official HD Video), https://www.youtube.com/watch?v=FrLequ6dUdM
 Lady Gaga - Bad Romance (Official Music Video), https://www.youtube.com/watch?v=qrO4YZeyl0I
@@ -943,7 +941,7 @@ Coldplay - Fix You (Official Video), https://www.youtube.com/watch?v=k4V3Mo61fJM
 Rihanna - Don&#039;t Stop The Music, https://www.youtube.com/watch?v=yd8jh9QYfEs
 Outkast - Hey Ya! (Official HD Video), https://www.youtube.com/watch?v=PWgvGjAhvIw
 The Notorious B.I.G. - Juicy (Official Video) [4K], https://www.youtube.com/watch?v=_JZom_gVfuw
-Pump-Up Pop, #genre#
+Pump-Up Pop,#genre#
 Myles Smith - Stargazing (Take My Heart Donâ€™t Break It) - Visualiser, https://www.youtube.com/watch?v=9p9EauIOPm8
 Dua Lipa - Don&#039;t Start Now (Official Music Video), https://www.youtube.com/watch?v=oygrmJFKYZY
 Sabrina Carpenter - Espresso (Official Video), https://www.youtube.com/watch?v=eVli-tstM5E
@@ -993,7 +991,7 @@ Calvin Harris, Dua Lipa - One Kiss (Official Video), https://www.youtube.com/wat
 David Guetta - Titanium ft. Sia (Official Video), https://www.youtube.com/watch?v=JRfuAukYTKg
 Ellie Goulding - Burn (Official Video), https://www.youtube.com/watch?v=CGyEd0aKWZE
 Dua Lipa - Break My Heart (Official Video), https://www.youtube.com/watch?v=Nj2U6rhnucI
-R&amp;B Party, #genre#
+R&amp;B Party,#genre#
 Tyla - Water (Official Music Video), https://www.youtube.com/watch?v=XoiOOiuH8iI
 Victoria MonÃ©t - On My Mama (Official Video), https://www.youtube.com/watch?v=KdJ-Qwu3y4Y
 Wizkid - Essence (Official Video) ft. Tems, https://www.youtube.com/watch?v=jipQpjUA_o8
@@ -1043,8 +1041,3 @@ Trey Songz - Chi Chi feat. Chris Brown [Official Music Video], https://www.youtu
 Usher - Bad Habits (Official Video), https://www.youtube.com/watch?v=C_h1lzllyJc
 ChlÃ¶e - Treat Me (Official Video), https://www.youtube.com/watch?v=-OfaMlMcZew
 Wizkid - Bad To Me (Official Video), https://www.youtube.com/watch?v=2mkhevOXVNk
-æœªæ‰¾åˆ°æ’­æ”¾åˆ—è¡¨: 
-æœªæ‰¾åˆ°æ’­æ”¾åˆ—è¡¨: 
-æœªæ‰¾åˆ°æ’­æ”¾åˆ—è¡¨: 
-æœªæ‰¾åˆ°æ’­æ”¾åˆ—è¡¨: 
-æœªæ‰¾åˆ°æ’­æ”¾åˆ—è¡¨: 
