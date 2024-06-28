@@ -412,9 +412,9 @@ var rule = {
                         let tabs = [];
                         for (let i = 0; i < groups.length; i++) {
                             if (i === 0) {
-                                tabs.push(vod_name + '@1');
+                                tabs.push(vod_name + ' | 雷蒙1');
                             } else {
-                                tabs.push(`@${i + 1}`);
+                                tabs.push(` | 雷蒙${i + 1}`);
                             }
                         }
                         vod_play_url = groups.map(it => it.join('#')).join('$$$');
