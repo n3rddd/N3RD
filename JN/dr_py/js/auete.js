@@ -1,8 +1,9 @@
+globalThis.searchphp = '';
 var rule = {
     title: "auete",
-    host: "https://auete.pro",
+    host: "https://auete.pro/",
+    hostJs: 'let html=request(HOST);searchphp=html.match(/form action="(.*?)"/)[1];',
     url: "/fyclassfyfilter/indexfypage.html[/fyclassfyfilter/index.html]",
-    searchUrl: "/vodsearch/**----------fypage---.html",
     searchable: 2,
     quickSearch: 0,
     filterable: 1,
@@ -16,11 +17,9 @@ var rule = {
     class_parse: ".navbar-nav&&li:lt(6);a&&Text;a&&href;.*/(.*?)/index",
     cate_exclude: "发布|影讯",
     play_parse: true,
-    lazy: $js.toString(() => {
-        input = {parse: 1, url: input, js: ''};
-    }),
+    lazy: 'js:eval(unescape(base64Decode("anM6CgkJcGRmaCA9IGpzcC5wZGZoOyBwZGZhID0ganNwLnBkZmE7IHBkID0ganNwLnBkOwoJCWxldCBkb2N1bWVudCA9IHt9OwoJCWxldCBuYXZpZ2F0b3IgPSB7CgkJCXVzZXJBZ2VudDogTU9CSUxFX1VBLAoJCX07CgkJbGV0IGJhc2U2NGRlY29kZSA9IGJhc2U2NERlY29kZTsKCQlsZXQgcG4gPSAnJywgbm93ID0gJycsIG5leHRQYWdlID0gJycsIHByZVBhZ2UgPSAnJywgbmV4dCA9ICcnLCB2aWQgPSAnJywgdmZyb20gPSAnJywgdnBhcnQgPSAnJywgc3JjVXJsID0gJyc7CgkJZXZhbChyZXF1ZXN0KEhPU1QgKyAiL2pzL3BsYXkuanMiKSk7CgkJbGV0IGh0bWwgPSByZXF1ZXN0KGlucHV0KTsKCQlldmFsKHBkZmgoaHRtbCwgIi5tYi0yJiZzY3JpcHQmJkh0bWwiKS5yZXBsYWNlQWxsKCd2YXIgJywnJykpOwoJCWV2YWwocGRmaChodG1sLCAiLm1iLTImJnNjcmlwdCwxJiZIdG1sIikucmVwbGFjZUFsbCgndmFyICcsJycpLnNwbGl0KCJkb2N1bWVudCIpWzBdKTsKCQlsZXQgcGFyc2VIdG1sID0gcmVxdWVzdChIT1NUICsgIi9qcy9wbGF5ZXIvIiArIHBuICsgIi5odG1sIik7CgkJbGV0IHBhcmVudCA9IHsKCQkJbm93OiBub3csCgkJCW5leHRQYWdlOiBuZXh0UGFnZSwKCQkJbmV4dDogbmV4dCwKCQkJdmlkOiB2aWQsCgkJCXZmcm9tOiB2ZnJvbSwKCQkJdnBhcnQ6IHZwYXJ0LAoJCX07CgkJbGV0IHBhcmpzID0gcGRmaChwYXJzZUh0bWwsICJib2R5JiZzY3JpcHQmJkh0bWwiKTsKCQlldmFsKCJzcmNVcmwgPSAnIiArIHBkZmgocGFyanMsICJpZnJhbWUmJnNyYyIpICsgIiciKTsKCQlpZiAoc3JjVXJsLmluZGV4T2YoIj91cmw9IikgPiAtMSB8fCBzcmNVcmwuaW5kZXhPZigiP3VpZD0iKSA+IC0xKSB7CgkJCWlucHV0ID0ge2p4OjAsIHVybDpzcmNVcmwuc3BsaXQoIj0iKVsxXSwgcGFyc2U6MH0KCQl9IGVsc2UgewoJCQlsZXQgcHVybCA9IHNyY1VybC5zcGxpdCgiPSIpWzFdLnNwbGl0KCIsIilbMV07CgkJCWlucHV0ID0ge2p4OjAsIHVybDpwdXJsLCBwYXJzZTowfQoJCX0=")))',
     double: false,
-    推荐: "a.module-poster-item.module-item;.module-poster-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href",
+    推荐: "*",
     一级: ".threadlist&&li;.title&&Text;.pic&&img&&src;.hdtag&&Text;a&&href",
     二级: {
         title: "meta[property]:eq(1)&&content;meta[property]:eq(4)&&content",
@@ -33,6 +32,48 @@ var rule = {
         list_text: "body&&Text",
         list_url: "a&&href"
     },
-    detailUrl: "",
-    搜索: "body .module-item;.module-card-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href;.module-info-item-content&&Text"
+    searchUrl: '/auete2so.php?page=fypage&searchword=**',
+    搜索: `js:
+	let cookie = "";
+	let submit_url = "";
+	let html = "";
+	log("-----------------------------");
+	for (var i = 0; i < 2; i++) {
+		let yzm = HOST + "/include/vdimgck.php";
+		let html = request(yzm, {
+			withHeaders: true,
+			toBase64: true
+		}, true);
+		print(yzm);
+		let json = JSON.parse(html);
+
+		if (!cookie) {
+			let setCk = Object.keys(json).find(it => it.toLowerCase() === "set-cookie");
+			cookie = setCk ? json[setCk].split(";")[0] : "";
+		}
+		console.log("cookie:" + cookie);
+		let img = json.body;
+		html=post('https://api.nn.ci/ocr/b64/text',{body:img});
+
+		html=eval(html.slice(0,3));
+		print(html);
+		submit_url = HOST + searchphp +"?scheckAC=check&page=&searchtype=&order=&tid=&area=&year=&letter=&yuyan=&state=&money=&ver=&jq=" ;
+		fetch_params.headers["Cookie"]=cookie;
+		fetch_params.body ="validate="+ html+"&searchword="+KEY ;
+		html = post(submit_url, fetch_params);
+		if (html.indexOf(KEY)>0) {
+			log("********************");
+			let list = pdfa(html, ".card-body .media");
+			list.forEach(it => {
+				d.push({
+				title: pdfh(it, "a&&Text"),
+				desc: pdfh(it, ".text-grey&&Text"),
+				pic_url: pdfh(it, "a&&data-original"),
+				url: HOST+pdfh(it, "a&&href")
+				})
+			});
+			setResult(d);
+			break;
+		}	
+	}`,
 }
