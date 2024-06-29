@@ -412,6 +412,7 @@
 {"key":"drjs_短剧天堂","name":"雷蒙影视 | 👺短剧天堂(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/短剧天堂.js"},
 {"key":"drjs_短剧在线","name":"雷蒙影视 | 👺短剧在线(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/短剧在线.js"},
 
+{"key":"drjs_路漫漫[漫]","name":"雷蒙影视 | 👺路漫漫[漫](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/路漫漫[漫].js"},
 {"key":"drjs_樱花动漫[漫]","name":"雷蒙影视 | 👺樱花动漫[漫](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/樱花动漫[漫].js"},
 {"key":"drjs_OmoFun[漫]","name":"雷蒙影视 | 👺OmoFun[漫](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/OmoFun[漫].js"},
 {"key":"drjs_MuteFun[漫]","name":"雷蒙影视 | 👺MuteFun[漫](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/MuteFun[漫].js"},
@@ -605,7 +606,6 @@
 {"key":"drjs_曲奇动漫","name":"雷蒙影视 | 👺曲奇动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/曲奇动漫.js"},
 {"key":"drjs_妮可动漫","name":"雷蒙影视 | 👺妮可动漫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/妮可动漫.js"},
 {"key":"drjs_爱弹幕","name":"雷蒙影视 | 👺爱弹幕(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/爱弹幕.js"},
-{"key":"drjs_路漫漫","name":"雷蒙影视 | 👺路漫漫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/路漫漫.js"},
 {"key":"drjs_AnFuns","name":"雷蒙影视 | 👺AnFuns(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/AnFuns.js"},
 
 {"key":"drjs_腾云驾雾","name":"雷蒙影视 | 👺腾云驾雾(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/腾云驾雾.js"},
@@ -655,10 +655,10 @@
 
 // ⇩⇩ HIPY 18+ ⇩⇩ 
 
-{"key":"drjs_ss直播","name":"雷蒙影视 | 👺ss直播(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/ss直播.js"},
 {"key":"drjs_XVIDEOS","name":"雷蒙影视 | 👺XVIDEOS(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/XVIDEOS.js"},
 {"key":"drjs_黑料不打烊","name":"雷蒙影视 | 👺黑料不打烊(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/黑料不打烊.js"},
 {"key":"drjs_黑料不打烊[密]","name":"雷蒙影视 | 👺黑料不打烊[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/黑料不打烊[密].js"},
+{"key":"drjs_36直播[密]","name":"雷蒙影视 | 👺36直播[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/36直播[密].js"},
 {"key":"drjs_飞狗影院[密]","name":"雷蒙影视 | 👺飞狗影院[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/飞狗影院[密].js"},
 {"key":"drjs_小女18[密]","name":"雷蒙影视 | 👺小女18[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/小女18[密].js"},
 {"key":"drjs_恒大影视[密]","name":"雷蒙影视 | 👺恒大影视[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/恒大影视[密].js"},
@@ -675,7 +675,7 @@
 {"key":"drjs_Pornhub[密]","name":"雷蒙影视 | 👺Pornhub[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/Pornhub[密].js"},
 {"key":"drjs_29片库[密]","name":"雷蒙影视 | 👺29片库[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/29片库[密].js"},
 {"key":"drjs_绿色仓库[密]","name":"雷蒙影视 | 👺绿色仓库[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/绿色仓库[密].js"},
-//{"key":"drjs_ss直播","name":"雷蒙影视 | 👺ss直播(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"ext":"./EXT/JS/ss直播.js"},
+{"key":"drjs_ss直播","name":"雷蒙影视 | 👺ss直播(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"ext":"./EXT/JS/ss直播.js"},
 {"key":"drjs_漫小肆[画]","name":"雷蒙影视 | 👺漫小肆[画](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/漫小肆[画].js"},
 {"key":"drjs_第一韩漫[画]","name":"雷蒙影视 | 👺第一韩漫[画](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/第一韩漫[画].js"},
 
