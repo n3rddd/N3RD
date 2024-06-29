@@ -17,7 +17,7 @@
 中天新聞2,https://www.youtube.com/watch?v=WPfPjbOLNfE&ab_channel=%E4%B8%AD%E5%A4%A9%E6%B7%B1%E5%96%89%E5%9A%A8
 中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
 鳳凰資訊,https://www.youtube.com/watch?v=HFib76ySpbU
-CCTV-4,https://www.youtube.com/watch?v=bEZYrBMYNNg
+CCTV-4,https://www.youtube.com/watch?v=twhG7_jvA8g
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc&ab_channel=TVBSNEWS
 TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -85,17 +85,7 @@ THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 THE K-POP 2,https://www.youtube.com/watch?v=jCg2DzrukDo
 
 
-☕好趣網/parse,#genre#
-CCTV1 綜合,http://tv.haoqu99.com/1/cctv1.html
-CCTV13 新聞,http://tv.haoqu99.com/1/cctv13.html
-鳳凰衛視中文台,http://tv.haoqu99.com/4/fhzw.html
-鳳凰衛視資訊臺,http://tv.haoqu99.com/4/fhzx.html
-湖南衛視,http://tv.haoqu99.com/2/hunanweishi.html
-東方衛視,http://tv.haoqu99.com/2/dongfangweishi.html
-浙江衛視,http://tv.haoqu99.com/2/zhejiangweishi.html
-江蘇衛視,http://tv.haoqu99.com/2/jiangsuweishi.html
-重慶衛視,http://tv.haoqu99.com/2/chongqing-weishi.html
-
+☕好趣網,#genre#
 CCTV1 綜合,video://http://tv.haoqu99.com/1/cctv1.html
 CCTV13 新聞,video://http://tv.haoqu99.com/1/cctv13.html
 鳳凰衛視中文台,video://http://tv.haoqu99.com/4/fhzw.html
@@ -107,19 +97,7 @@ CCTV13 新聞,video://http://tv.haoqu99.com/1/cctv13.html
 重慶衛視,video://http://tv.haoqu99.com/2/chongqing-weishi.html
 
 
-📢广播迷/parse,#genre#
-凤凰卫视中文台,http://www.guangbomi.com/tv/hk/ifeng1.html
-凤凰卫视资讯台,http://www.guangbomi.com/tv/hk/fhzx.html
-重庆新闻频道,http://www.guangbomi.com/tv/cq/cqxw.html
-澳门澳亚卫视,http://www.guangbomi.com/tv/hk/imastv.html
-澳门莲花卫视,http://www.guangbomi.com/tv/hk/lotustv.html
-RTHK31,http://www.guangbomi.com/tv/hk/rhk31.html
-RTHK32,http://www.guangbomi.com/tv/hk/rhk32.html
-RTHK33,http://www.guangbomi.com/tv/hk/rthk33.html
-RTHK34,http://www.guangbomi.com/tv/hk/rthk34.html
-RTHK35,http://www.guangbomi.com/tv/hk/rthk35.html
-耀才财经台,http://www.guangbomi.com/tv/hk/bsgroup.html
-
+📢广播迷,#genre#
 凤凰卫视中文台,video://http://www.guangbomi.com/tv/hk/ifeng1.html
 凤凰卫视资讯台,video://http://www.guangbomi.com/tv/hk/fhzx.html
 重庆新闻频道,video://http://www.guangbomi.com/tv/cq/cqxw.html
