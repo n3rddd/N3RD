@@ -49,12 +49,6 @@
     "api": "/inc/api_mac10.php"
   },
   {
-    "name": "豪华资源",
-    "url": "https://hhzyapi.com",
-    "parse_url": "",
-    "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"
-  },
-  {
     "name": "快看资源",
     "url": "https://kuaikan-api.com/",
     "parse_url": "",
@@ -63,12 +57,6 @@
   {
     "name": "极速资源",
     "url": "https://jszyapi.com/",
-    "parse_url": "",
-    "cate_exclude": ""
-  },
-  {
-    "name": "虎牙资源",
-    "url": "https://www.huyaapi.com/",
     "parse_url": "",
     "cate_exclude": ""
   },
@@ -83,6 +71,18 @@
     "url": "https://www.hongniuzy2.com",
     "parse_url": "",
     "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"
+  },
+  {
+    "name": "豪华资源",
+    "url": "https://hhzyapi.com",
+    "parse_url": "",
+    "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"
+  },
+  {
+    "name": "虎牙资源",
+    "url": "https://www.huyaapi.com/",
+    "parse_url": "",
+    "cate_exclude": ""
   },
   {
     "name": "新浪资源",
