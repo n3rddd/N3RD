@@ -57,14 +57,6 @@
     "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&41&54&61&62&63&64&65&66&67&68&69&70&78&79&80&81&83&92&93&94"
   },
   {
-    "name": "豪华资源",
-    "url": "https://hhzyapi.com",
-    "parse_url": "",
-    "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯",
-    "class_name": "H4sIAJIVgWYC/zVPWw6CMBC8Tc/pI6D1w0eCKErCj1ofKBBjokg5DbsLt7Bdy1dnZrezMxS8WuWDVIKCF+hCYKqonluhO0X4zhglF/vg5sjskuIzt6ipTrT0SU4EzM6Nji2iaYFjj7UwNkusqRV8vhbhcImDkKdSuT2cbptSWtQ+ctBr54fVTYDvQcynjEABWzTvO+y1WzCRME578o/+J/StWlkKWOT4qdnhoLrId7L5Z0r1xLRc5D1hE0doWHe7mkOOUgpXXGaWkb5yyOPE1aLkbk78ALNMUSlMAQAA",
-    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&30&31&32&33&34&35&36&37&38"
-  },
-  {
     "name": "快看资源",
     "url": "https://kuaikan-api.com/",
     "parse_url": "",
@@ -81,14 +73,6 @@
     "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38"
   },
   {
-    "name": "虎牙资源",
-    "url": "https://www.huyaapi.com/",
-    "parse_url": "",
-    "cate_exclude": "",
-    "class_name": "H4sIAJMVgWYC/zWOXQ6CQAyEb7Pn9Cciq4liRNRAwpOuRlTUkACynmbbrreQLfjUb6aTdigsrPJAKkFhAfohMFP0WTjje9xjeWdKz27g9sDqnOErd2SaIwUeyamA2cnoxBH5DxxP2IuSNsSeWkH1doTDAAcRb6Xqc+jvTC0d2VsOetPfw+YiwJtAwq9ag0I+YcorxLoPtJUwyf6iq94JejdW1gKWOVYfLqvXdvS0RWzquaD02no/UcDcbf0AAAA=",
-    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&29&30"
-  },
-  {
     "name": "速播资源",
     "url": "https://subocaiji.com",
     "parse_url": "",
@@ -103,6 +87,22 @@
     "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯",
     "class_name": "H4sIAJMVgWYC/y2PXQ6CMBCEb9Nz+hOVaqIYFU0g8qRV1AgSEikUL9Pu1lvorj7Nl5nNZBbXlTOF8K89NjcnlcCm9VILNz1BeyGxJkE5ES5KvjERBgUMR0xq6eqGCPoh9CK+k+qfQrCzWrIXG6sVtcPzDl3JtD2wXBV2cyK3yKHu2Ctzknd65kE6c2bDNbwJf4tte8RwTLY1Kz94+Cq2eiYwpS8+mOVyptYAAAA=",
     "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&21&29&30"
+  },
+  {
+    "name": "豪华资源",
+    "url": "https://hhzyapi.com",
+    "parse_url": "",
+    "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯",
+    "class_name": "H4sIAJIVgWYC/zVPWw6CMBC8Tc/pI6D1w0eCKErCj1ofKBBjokg5DbsLt7Bdy1dnZrezMxS8WuWDVIKCF+hCYKqonluhO0X4zhglF/vg5sjskuIzt6ipTrT0SU4EzM6Nji2iaYFjj7UwNkusqRV8vhbhcImDkKdSuT2cbptSWtQ+ctBr54fVTYDvQcynjEABWzTvO+y1WzCRME578o/+J/StWlkKWOT4qdnhoLrId7L5Z0r1xLRc5D1hE0doWHe7mkOOUgpXXGaWkb5yyOPE1aLkbk78ALNMUSlMAQAA",
+    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&30&31&32&33&34&35&36&37&38"
+  },
+  {
+    "name": "虎牙资源",
+    "url": "https://www.huyaapi.com/",
+    "parse_url": "",
+    "cate_exclude": "",
+    "class_name": "H4sIAJMVgWYC/zWOXQ6CQAyEb7Pn9Cciq4liRNRAwpOuRlTUkACynmbbrreQLfjUb6aTdigsrPJAKkFhAfohMFP0WTjje9xjeWdKz27g9sDqnOErd2SaIwUeyamA2cnoxBH5DxxP2IuSNsSeWkH1doTDAAcRb6Xqc+jvTC0d2VsOetPfw+YiwJtAwq9ag0I+YcorxLoPtJUwyf6iq94JejdW1gKWOVYfLqvXdvS0RWzquaD02no/UcDcbf0AAAA=",
+    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&29&30"
   },
   {
     "name": "新浪资源",
