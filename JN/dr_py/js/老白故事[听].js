@@ -107,7 +107,10 @@ var rule = {
     play_parse: true,
     预处理: $js.toString(() => {
         device = getItem('device', '{}');
-        device = JSON.parse(device);
+        if (typeof device == "string") {
+            device = JSON.parse(device);
+        }
+        // device = JSON.parse(device);
         if (!device.id) {
             device = randDeviceWithId(32);
             device.id = device.id.toLowerCase();
@@ -124,7 +127,8 @@ var rule = {
             // log(content.data);
             var datas = content.data.split('$6c1cef78ae=');
             var json = '';
-            for (const d of datas) {
+            for (let d of datas) {
+                // json += pk.decryptPublic(d, 'utf8').replace(/^\s*\n|\s*$/gm, '');
                 json += pk.decryptPublic(d, 'utf8');
             }
             appData = JSON.parse(json);
@@ -147,19 +151,19 @@ var rule = {
         let datas = content.data;
         let classes = [];
         let filterObj = {};
-        for (const data of datas) {
+        for (let data of datas) {
             let name = data.title.replace('分类', '');
 
             let type = {
                 key: 'type',
                 name: '类型',
             };
-            var values = data.types.reduce((result, t) => {
+            var cvalues = data.types.reduce((result, t) => {
                 result.push({n: t.name, v: t.type_id});
                 return result;
             }, []);
-            type['init'] = values[0]['v'];
-            type['value'] = values;
+            type['init'] = cvalues[0]['v'];
+            type['value'] = cvalues;
             let sort = {
                 key: 'sort',
                 name: '排序',
@@ -192,7 +196,7 @@ var rule = {
         let content = JSON.parse(html);
         let datas = content.data;
         let books = [];
-        for (const book of datas.books) {
+        for (let book of datas.books) {
             books.push({
                 vod_id: book.book_id,
                 vod_name: book.name,
@@ -203,9 +207,9 @@ var rule = {
         VODS = books;
     }),
     二级: $js.toString(() => {
-        const ids = [orId];
-        const books = [];
-        for (const id of ids) {
+        let ids = [orId];
+        let books = [];
+        for (let id of ids) {
             let html = request(appData.json_url + 'cont/' + id + '.json', {headers: rule.headers});
             let content = JSON.parse(html);
             let data = content.data;
@@ -243,25 +247,28 @@ var rule = {
             pid: 0,
             key: KEY,
         };
+        // var params = pk.encrypt(JSON.stringify(data), 'base64').replace(/^\s*\n|\s*$/gm, '');
         var params = pk.encrypt(JSON.stringify(data), 'base64');
+        log('params长度:' + params.length);
         let post_obj = {
             params: params,
             version: appVersion,
         };
-        let post_data = buildUrl('', post_obj).slice(1);
+        let post_data = `params=${params}&version=${appVersion}`;
         // log('post_data:' + post_data);
         log('api_url:' + appData.api_url);
         let headers = JSON.parse(JSON.stringify(rule.headers));
-        headers['Accept'] = 'application/json, text/plain, */*';
+        // headers['Accept'] = 'application/json, text/plain, */*';
         headers['Content-Type'] = 'application/x-www-form-urlencoded';
         let html = post(appData.api_url, {
             headers: headers,
-            body: post_data,
+            // body: post_data,
+            data: post_obj,
         });
         let content = JSON.parse(html);
         var datas = content.data;
         let books = [];
-        for (const book of datas.books) {
+        for (let book of datas.books) {
             books.push({
                 vod_id: book.book_id,
                 vod_name: book.name,
@@ -282,21 +289,26 @@ var rule = {
             aid: info[0],
             pid: info[1],
         };
+        // var params = pk.encrypt(JSON.stringify(data), 'base64').replace(/^\s*\n|\s*$/gm, '');
         var params = pk.encrypt(JSON.stringify(data), 'base64');
         // log('params:' + params);
+        // log([params]);
+        log('params长度:' + params.length);
         let post_obj = {
             params: params,
             version: appVersion,
         };
         let post_data = buildUrl('', post_obj).slice(1);
+        // let post_data = `params=${params}&version=${appVersion}`;
         // log('post_data:' + post_data);
         log('api_url:' + appData.api_url);
         let headers = JSON.parse(JSON.stringify(rule.headers));
-        headers['Accept'] = 'application/json, text/plain, */*';
+        // headers['Accept'] = 'application/json, text/plain, */*';
         headers['Content-Type'] = 'application/x-www-form-urlencoded';
         let html = post(appData.api_url, {
             headers: headers,
-            body: post_data,
+            // body: post_data,
+            data: post_obj,
         });
         let content = JSON.parse(html);
         var datas = content.data;
