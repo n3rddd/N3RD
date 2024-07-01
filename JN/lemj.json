@@ -462,6 +462,7 @@
 {"key":"drjs_奇珍异兽[官]","name":"雷蒙影视 | 👺奇珍异兽[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/奇珍异兽[官].js"},
 {"key":"drjs_腾云驾雾[官]","name":"雷蒙影视 | 👺腾云驾雾[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/腾云驾雾[官].js"},
 
+{"key":"drjs_世纪DJ音乐网[听]","name":"雷蒙影视 | 👺世纪DJ音乐网[听](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/世纪DJ音乐网[听].js"},
 {"key":"drjs_老白故事[听]","name":"雷蒙影视 | 👺老白故事[听](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/老白故事[听].js"},
 {"key":"drjs_KTV歌厅[听]","name":"雷蒙影视 | 👺KTV歌厅[听](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/KTV歌厅[听].js"},
 {"key":"drjs_啊哈DJ[听]","name":"雷蒙影视 | 👺啊哈DJ[听](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/啊哈DJ[听].js"},
