@@ -282,9 +282,11 @@
 {"key":"drjs_看客视频","name":"雷蒙影视 | 👺看客视频(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/看客视频.js"},
 {"key":"drjs_胖虎影视","name":"雷蒙影视 | 👺胖虎影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/胖虎影视.js"},
 {"key":"drjs_爱看hd","name":"雷蒙影视 | 👺爱看hd(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/爱看hd.js"},
+{"key":"drjs_天龙影院","name":"雷蒙影视 | 👺天龙影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/天龙影院.js"},
+{"key":"drjs_飞鱼影视","name":"雷蒙影视 | 👺飞鱼影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/飞鱼影视.js"},
+{"key":"drjs_闪雷电","name":"雷蒙影视 | 👺闪雷电(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/闪雷电.js"},
 {"key":"drjs_人人影视","name":"雷蒙影视 | 👺人人影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/人人影视.js"},
 {"key":"drjs_看了么","name":"雷蒙影视 | 👺看了么(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/看了么.js"},
-
 {"key":"drjs_嘀哩嘀哩","name":"雷蒙影视 | 👺嘀哩嘀哩(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/嘀哩嘀哩.js"},
 {"key":"drjs_饺子影院","name":"雷蒙影视 | 👺饺子影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/饺子影院.js"},
 {"key":"drjs_饭团影视","name":"雷蒙影视 | 👺饭团影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/饭团影视.js"},
