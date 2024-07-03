@@ -10,8 +10,10 @@ globalThis.getRandomItem = function (items) {//从列表随机取出一个元素
 var rule = {
     title: '采集之王[合]',
     author: '道长',
-    version: '20240624 beta9',
+    version: '20240703 beta10',
     update_info: `
+20240703:
+1.采集json支持"searchable": 0,用于搜索时排除这个源
 20240604:
 1.首页推荐取消硬控等待。增加随机推荐功能。
 2.首页推荐新增更新日志查看功能
@@ -84,6 +86,7 @@ var rule = {
                     type_name: it.name,
                     type_id: it.url,
                     parse_url: it.parse_url || '',
+                    searchable: it.searchable !== 0,
                     api: it.api || '',
                     cate_exclude: it.cate_exclude || '',
                     // class_name: it.class_name || '',
@@ -233,9 +236,10 @@ var rule = {
     搜索: $js.toString(() => {
         VODS = [];
         if (rule.classes) {
+            let canSearch = rule.classes.filter(it => it.searchable);
             let page = Number(MY_PAGE);
-            page = (MY_PAGE - 1) % Math.ceil(rule.classes.length / rule.search_limit) + 1;
-            let truePage = Math.ceil(MY_PAGE / Math.ceil(rule.classes.length / rule.search_limit));
+            page = (MY_PAGE - 1) % Math.ceil(canSearch.length / rule.search_limit) + 1;
+            let truePage = Math.ceil(MY_PAGE / Math.ceil(canSearch.length / rule.search_limit));
             if (rule.search_limit) {
                 let start = (page - 1) * rule.search_limit;
                 let end = page * rule.search_limit;
@@ -245,8 +249,8 @@ var rule = {
                 log('end:' + end);
                 log('搜索模式:' + searchMode);
                 // log('t1:' + t1);
-                if (start < rule.classes.length) {
-                    let search_classes = rule.classes.slice(start, end);
+                if (start < canSearch.length) {
+                    let search_classes = canSearch.slice(start, end);
                     let urls = [];
                     search_classes.forEach(it => {
                         let _url = urljoin(it.type_id, input);
