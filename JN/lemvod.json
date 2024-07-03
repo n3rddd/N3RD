@@ -76,6 +76,7 @@
 {"key":"vod_享看","name":"雷蒙影视 | 🚀享看","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://xkanzy10.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_魔都","name":"雷蒙影视 | ️🚀魔都","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影"]},
 {"key":"vod_速播","name":"雷蒙影视 | ️🚀速播","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://subocaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xml_爱酷","name":"雷蒙影视 | 🚀爱酷","type":0,"api":"http://caiji.ikum.cc:8099/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫","国产剧","港台剧","日韩剧","欧美剧","其他剧","儿童","蓝光","哔哩哔哩"]},
 {"key":"xml_海兔","name":"雷蒙影视 | ️🚀海兔","type":0,"api":"https://www.haituu.tv/api.php/provide/vod/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"xml_金鹰","name":"雷蒙影视 | ️🚀金鹰","type":0,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]}
 ],
