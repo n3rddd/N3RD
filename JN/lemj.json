@@ -285,6 +285,8 @@
 {"key":"drjs_天龙影院","name":"雷蒙影视 | 👺天龙影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/天龙影院.js"},
 {"key":"drjs_飞鱼影视","name":"雷蒙影视 | 👺飞鱼影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/飞鱼影视.js"},
 {"key":"drjs_闪雷电","name":"雷蒙影视 | 👺闪雷电(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/闪雷电.js"},
+{"key":"drjs_爱欧乐影院[飞]","name":"雷蒙影视 | 👺爱欧乐影院[飞](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/爱欧乐影院[飞].js"},
+{"key":"drjs_唐人街[飞]","name":"雷蒙影视 | 👺唐人街[飞](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/唐人街[飞].js"},
 {"key":"drjs_人人影视","name":"雷蒙影视 | 👺人人影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/人人影视.js"},
 {"key":"drjs_看了么","name":"雷蒙影视 | 👺看了么(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/看了么.js"},
 {"key":"drjs_嘀哩嘀哩","name":"雷蒙影视 | 👺嘀哩嘀哩(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/嘀哩嘀哩.js"},
