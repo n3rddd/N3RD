@@ -100,7 +100,8 @@
 {"key":"csp_Meijumi","name":"雷蒙优选 | 💿美剧","type":3,"api":"csp_Meijumi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":"./N3RD/T/pg.txt$$$https://www.meijumi.net/$$$null$$$1"},
 {"key":"csp_Moli","name":"雷蒙优选 | 💿HDmoli","type":3,"api":"csp_Moli","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://www.hdmoli.pro/$$$null$$$1$$$./N3RD/T/moli.json"},
 {"key":"csp_Panyq","name":"雷蒙优选 | 💿盘友","type":3,"api":"csp_Panyq","timeout":60,"ext":"./N3RD/T/pg.txt"},
-{"key":"csp_Xpanpan","name":"雷蒙优选 | 💿小盘","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://xpanpan.site$$$null$$$1"}
+{"key":"csp_Xpanpan","name":"雷蒙优选 | 💿小盘","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://xpanpan.site$$$null$$$1"},
+{"key":"csp_PikPakShare","name":"雷蒙影视 | 💿PikPak","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/p.json$$$./N3RD/T/p.json.txt.gz"}
 
 ],
 
