@@ -255,6 +255,7 @@
 
 {"key":"drjs_直播转点播[合]","name":"雷蒙影视 | 👺直播转点播[合](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/直播转点播[合].js?type=url&params=./dr_py/json/live2cms.json"},
 {"key":"drjs_采集之王[合]","name":"雷蒙影视 | 👺采集之王[合](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集之王[合].js?type=url&params=./dr_py/json/采集静态.json"},
+{"key":"drjs_采集之王[合zy]","name":"雷蒙影视 | 👺采集之王[合zy](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集之王[合].js?type=url&params=./dr_py/json/采集[zy]静态.json"},
 {"key":"drjs_采集之王[合密]","name":"雷蒙影视 | 👺采集之王[合密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集之王[合].js?type=url&params=./dr_py/json/采集[密]静态.json"},
 {"key":"drjs_影视大全","name":"雷蒙影视 | 👺影视大全(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影视大全.js"},
 {"key":"drjs_影视大全[密]","name":"雷蒙影视 | 👺影视大全[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影视大全[密].js"},
