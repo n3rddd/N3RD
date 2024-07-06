@@ -18,8 +18,11 @@ globalThis.getRandomItem = function (items) {//从列表随机取出一个元素
 var rule = {
     title: '采集之王[合]',
     author: '道长',
-    version: '20240705 beta16',
+    version: '20240706 beta17',
     update_info: `
+20240706:
+1.静态json数据支持cate_excludes分类名称列表过滤无数据分类
+2.更新采集分类生成器增加过滤筛选模式
 20240705:
 1.支持传参json后面增加$1 这样的额外标识，用于搜索结果精准匹配
 2.支持传参json后面增加$1$1 这样的额外标识，用于强制获取搜索图片。$1$不显示图片。默认是搜索强制有图片的[已实现详情页请求使用批量]
@@ -114,6 +117,7 @@ var rule = {
                     searchable: it.searchable !== 0,
                     api: it.api || '',
                     cate_exclude: it.cate_exclude || '',
+                    cate_excludes: it.cate_excludes || [],
                     // class_name: it.class_name || '',
                     // class_url: it.class_url || '',
                 };
@@ -125,7 +129,9 @@ var rule = {
                     } else {
                         json1 = JSON.parse(request(urljoin(_obj.type_id, _obj.api || rule.classUrl))).class;
                     }
-                    if (_obj.cate_exclude) {
+                    if (_obj.cate_excludes && Array.isArray(_obj.cate_excludes) && _obj.cate_excludes.length > 0) {
+                        json1 = json1.filter(cl => !_obj.cate_excludes.includes(cl.type_name));
+                    } else if (_obj.cate_exclude) {
                         json1 = json1.filter(cl => !new RegExp(_obj.cate_exclude, 'i').test(cl.type_name));
                     }
                     rule.filter[_obj.type_id] = [{
