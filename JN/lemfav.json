@@ -18,7 +18,7 @@
 
 "sites":[
 
-{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"💯雷蒙影视优选线路💯","type":3,"api":"csp_Notice","ext":"雷蒙影视优选线路，极速流畅！【更新时间 2024.06.24】"},
+{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"💯雷蒙影视优选线路💯","type":3,"api":"csp_Notice","ext":"雷蒙影视优选线路，极速流畅！【更新时间 2024.07.07】"},
 {"key":"csp_Market","name":"雷蒙优选 | 🏪商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 {"key":"csp_Config","name":"雷蒙优选 | 📀配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./N3RD/T/pg.txt"},
 
@@ -59,16 +59,16 @@
 {"key":"drjs_爱欧乐影院[飞]","name":"雷蒙优选 | 😎爱欧","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/爱欧乐影院[飞].js"},
 {"key":"drjs_唐人街[飞]","name":"雷蒙优选 | 😎唐人","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/唐人街[飞].js"},
 
-{"jar":"./N3RD/J/lem0624.jar","key":"csp_Jpys","name":"雷蒙影视 | 😍文才","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
-{"jar":"./N3RD/J/lem0624.jar","key":"csp_Kkys","name":"雷蒙优选 | 😍酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1}, 
-{"jar":"./N3RD/J/lem0624.jar","key":"csp_LiteApple","name":"雷蒙优选 | 😍苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-{"jar":"./N3RD/J/lem0624.jar","key":"csp_Kekys","name":"雷蒙优选 | 😍可可","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"jar":"./N3RD/J/lem0624.jar","key":"csp_AppTT_萌米","name":"雷蒙优选 | 😍萌米","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
-{"jar":"./N3RD/J/lem0624.jar","key":"csp_AppTT_热播","name":"雷蒙优选 | 😍热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-{"jar":"./N3RD/J/lem0624.jar","key":"csp_Ddrk","name":"雷蒙优选 | 😍低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"jar":"./N3RD/J/lem0624.jar","key":"csp_Zxzj","name":"雷蒙优选 | 😍在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com/"},
-{"jar":"./N3RD/J/lem0624.jar","key":"csp_NewCz","name":"雷蒙影视 | 😍厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top/"},
-{"jar":"./N3RD/J/lem0624.jar","key":"csp_Nmvod_QJ","name":"雷蒙优选 | 😍柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/relay.php?url="},
+{"jar":"./N3RD/J/lem0707.jar","key":"csp_Jpys","name":"雷蒙影视 | 😍文才","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
+{"jar":"./N3RD/J/lem0707.jar","key":"csp_Kkys","name":"雷蒙优选 | 😍酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1}, 
+{"jar":"./N3RD/J/lem0707.jar","key":"csp_LiteApple","name":"雷蒙优选 | 😍苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"jar":"./N3RD/J/lem0707.jar","key":"csp_Kekys","name":"雷蒙优选 | 😍可可","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"jar":"./N3RD/J/lem0707.jar","key":"csp_AppTT_萌米","name":"雷蒙优选 | 😍萌米","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"jar":"./N3RD/J/lem0707.jar","key":"csp_AppTT_热播","name":"雷蒙优选 | 😍热播","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
+{"jar":"./N3RD/J/lem0707.jar","key":"csp_Ddrk","name":"雷蒙优选 | 😍低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"jar":"./N3RD/J/lem0707.jar","key":"csp_Zxzj","name":"雷蒙优选 | 😍在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com/"},
+{"jar":"./N3RD/J/lem0707.jar","key":"csp_NewCz","name":"雷蒙影视 | 😍厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top/"},
+{"jar":"./N3RD/J/lem0707.jar","key":"csp_Nmvod_QJ","name":"雷蒙优选 | 😍柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/relay.php?url="},
 
 {"key":"csp_机器人","name":"雷蒙优选 | 😍爱看","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.aikanbot.com$$$proxy"},
 {"key":"csp_Olevod","name":"雷蒙优选 | 😍欧乐","type":3,"api":"csp_Olevod","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$null$$$cfg$$$1"},
