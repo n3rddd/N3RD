@@ -24,7 +24,7 @@
 ],
 
 "sites":[
-
+{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"💿雷蒙影视网盘线路💿","type":3,"api":"csp_Notice","ext":"雷蒙影视网盘线路 2024.07.07"},
 {"key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 
 
