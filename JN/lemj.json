@@ -299,6 +299,7 @@
 {"key":"drjs_低端","name":"雷蒙影视 | 👺低端(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/低端.js"},
 {"key":"drjs_北川影视","name":"雷蒙影视 | 👺北川影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/北川影视.js"},
 {"key":"drjs_宇航影视","name":"雷蒙影视 | 👺宇航影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/宇航影视.js"},
+{"key":"drjs_宇航影视[自动]","name":"雷蒙影视 | 👺宇航影视[自动](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/宇航影视[自动].js"},
 {"key":"drjs_小白菜电影","name":"雷蒙影视 | 👺小白菜电影(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/小白菜电影.js"},
 {"key":"drjs_影视工厂","name":"雷蒙影视 | 👺影视工厂(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影视工厂.js"},
 {"key":"drjs_影视工场","name":"雷蒙影视 | 👺影视工场(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影视工场.js"},
