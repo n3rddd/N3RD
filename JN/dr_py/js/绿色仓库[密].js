@@ -1,5 +1,5 @@
 var rule = {
-    title: '绿色仓库',
+    title: '绿色仓库[密]',
     hostJs: $js.toString(() => {
         HOST = base64Decode('aHR0cDovL2hzY2submV0');
         let html = request(HOST);

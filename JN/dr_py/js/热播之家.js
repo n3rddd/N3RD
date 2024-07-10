@@ -21,6 +21,7 @@ var rule = {
     },
     class_parse: '.stui-header__menu li:lt(6);a&&Text;a&&href;.*/(.*?).html',
     play_parse: true,
+    tab_remove: ['蓝光专享1', '夸克4K', '极速有广①', '极速有广②'],
     lazy: '',
     limit: 6,
     推荐: 'ul.stui-vodlist.clearfix;li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',

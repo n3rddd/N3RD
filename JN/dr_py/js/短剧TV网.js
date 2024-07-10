@@ -10,6 +10,7 @@ var rule = {
     searchUrl: '/vodsearch/**----------fypage---.html',
     推荐: 'ul.stui-vodlist.clearfix;li;*;*;*;*',
     double: true,
+    tab_remove:['gsyun','光速m3u8'],
     一级: '.stui-vodlist li;a&&title;img&&src;.pic-text&&Text;a&&href',
     搜索: 'ul.stui-vodlist__media:eq(0),ul.stui-vodlist:eq(0),#searchList li;a&&title;*;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
 }
