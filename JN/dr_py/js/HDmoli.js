@@ -1,12 +1,28 @@
-/**
- * 待补充lazy免嗅探，不然嗅探过程中遇到的这种地址不对 https://www.hdmoli.pro/js/player/videojs/videojs.html?v=1.61&videourl=/play/2203-0-0.html,https://v.damoli.pro/v/movie/Rebel.Moon.Part.Two.mp4,,2203,0,0
- */
 var rule = {
-    模板: '首图',
     title: 'HDmoli',
     host: 'https://www.hdmoli.pro',
     url: '/mlist/indexfyclass-fypage.html',
     searchUrl: '/search.php?page=fypage&searchword=**&searchtype=',
+    searchable: 2,
+    quickSearch: 0,
+    filterable: 0,
+    headers: {
+        'User-Agent': 'MOBILE_UA',
+    },
     class_parse: '.myui-header__menu li;a&&Text;a&&href;index(\\d+)\.html',
-    lazy: ``,
+    play_parse: true,
+    lazy: '',
+    limit: 6,
+    推荐: 'ul.myui-vodlist.clearfix;li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
+    double: true,
+    一级: '.myui-vodlist li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
+    二级: {
+        title: '.myui-content__detail .title&&Text;.myui-content__detail p:eq(-2)&&Text',
+        img: '.myui-content__thumb .lazyload&&data-original',
+        desc: '.myui-content__detail p:eq(0)&&Text;.myui-content__detail p:eq(1)&&Text;.myui-content__detail p:eq(2)&&Text',
+        content: '.content&&Text',
+        tabs: '.nav-tabs:eq(0) li',
+        lists: '.myui-content__list:eq(#id) li',
+    },
+    搜索: '#searchList li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
 }

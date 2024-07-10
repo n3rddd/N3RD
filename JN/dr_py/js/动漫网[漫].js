@@ -6,5 +6,6 @@ var rule = {
     host: 'https://www.dongman8.cc',
     url: '/vodtype/fyclass-fypage.html',
     searchUrl: '/vodsearch/**----------fypage---.html',
+    class_parse: '.stui-header__menu li:gt(0):lt(4);a&&Text;a&&href;.*/(.*?).html',
     搜索: 'ul.stui-vodlist__media:eq(0),ul.stui-vodlist:eq(0),#searchList li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
 }

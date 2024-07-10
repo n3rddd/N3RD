@@ -4,7 +4,7 @@ muban.mxpro.二级.tab_text = 'body--small&&Text';
 var rule = {
 	title:'4K剧院', //原91free
 	模板:'mxpro',
-	host:'https://4k4k.live',
+	host:'https://www.4k4k.live',
 	url:'/vodshow/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
@@ -20,7 +20,7 @@ var rule = {
 		3:{cateId:'3'},
 		4:{cateId:'4'}
 	},
-	class_parse: '.navbar-items&&li:gt(1):lt(7);a&&title;a&&href;.*/(.*?).html',
+	class_parse: '.navbar-items&&li:gt(1):lt(5);a&&title;a&&href;.*/(.*?).html',
 	lazy:`js:
 		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
 		var url = html.url;
