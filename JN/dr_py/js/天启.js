@@ -33,11 +33,11 @@ var rule = {
     二级: {
         title: '.main-wrap&&h2&&Text;p:eq(2)&&Text',
         img: '.main-wrap&&img&&src',
-        desc: ';.main-wrap&&p:eq(4)&&Text;.main-wrap&&p:eq(2)&&Text;.main-wrap&&p&&Text;',
+        desc: ';.main-wrap&&p:eq(5)&&Text;.main-wrap&&p:eq(2)&&Text;.main-wrap&&p&&Text;',
         content: '.main-wrap&&p:eq(6)&&Text',
         tabs: '.bluehd',
         lists: '.bluebd:eq(#id)&&li',
-        tab_text: 'span&&Text',
+        tab_text: 'span--font&&Text',
         list_text: 'body&&Text',
         list_url: 'a&&href',
         list_url_prefix: '',

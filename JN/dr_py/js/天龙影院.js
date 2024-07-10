@@ -15,7 +15,6 @@ var rule = {
     searchable: 1,
     quickSearch: 0,
     filterable: 1,
-
     class_name: '电影&剧集&综艺&动漫',
     class_url: '17&18&20&48',
     filter_def: {
