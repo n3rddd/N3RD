@@ -684,6 +684,7 @@
 
 {"key":"drjs_XVIDEOS","name":"雷蒙影视 | 👺XVIDEOS(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/XVIDEOS.js"},
 {"key":"drjs_黑料不打烊","name":"雷蒙影视 | 👺黑料不打烊(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/黑料不打烊.js"},
+{"key":"drjs_黑料不打烊-z","name":"雷蒙影视 | 👺黑料不打烊-z(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/黑料不打烊-z.js"},
 {"key":"drjs_黑料不打烊[密]","name":"雷蒙影视 | 👺黑料不打烊[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/黑料不打烊[密].js"},
 {"key":"drjs_36直播[密]","name":"雷蒙影视 | 👺36直播[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/36直播[密].js"},
 {"key":"drjs_飞狗影院[密]","name":"雷蒙影视 | 👺飞狗影院[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/飞狗影院[密].js"},
