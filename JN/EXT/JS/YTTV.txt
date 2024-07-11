@@ -82,7 +82,7 @@ YTN,https://www.youtube.com/watch?v=FJfwehhzIhw
 
 🇰🇷K-POP,#genre#
 THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
-THE K-POP 2,https://www.youtube.com/watch?v=jCg2DzrukDo
+THE K-POP 2,https://www.youtube.com/watch?v=28G3W8j9BEg
 
 
 ☕好趣網,#genre#
@@ -109,6 +109,12 @@ RTHK33,video://http://www.guangbomi.com/tv/hk/rthk33.html
 RTHK34,video://http://www.guangbomi.com/tv/hk/rthk34.html
 RTHK35,video://http://www.guangbomi.com/tv/hk/rthk35.html
 耀才财经台,video://http://www.guangbomi.com/tv/hk/bsgroup.html
+
+
+▶YouTube Playlist,#genre#
+RELEASED,https://www.youtube.com/playlist?list=RDCLAK5uy_k5n4srrEB1wgvIjPNTXS9G1ufE9WQxhnA
+NEW RELEASES ON VEVO,https://www.youtube.com/playlist?list=PL9tY0BWXOZFsPMZczEqnyvD-Z5ugOZrm8
+POP BEFORE IT BREAKS,https://www.youtube.com/playlist?list=RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg
 
 
 🇹🇼四季線上,#genre#
