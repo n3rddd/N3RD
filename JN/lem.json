@@ -117,6 +117,8 @@
 {"key":"csp_MGTV_ZAL","name":"雷蒙影视 | 🥭芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ_ZAL","name":"雷蒙影视 | 🐧腾讯视频(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YOUKU_ZAL","name":"雷蒙影视 | 🔻优酷(SP)","type":3,"api":"csp_YOUKU","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppYsV2_路人甲一","name":"雷蒙影视 | 🅰路人甲一(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":" http://dh.li0580.com/api.php/app/"},
+{"key":"csp_AppYsV2_路人甲二","name":"雷蒙影视 | 🅰路人甲二(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":" http://122.228.84.103:5825/api.php/app/"},
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_CZSPP_QJ","name":"雷蒙影视 | 👴厂长资源(备用)","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"https://www.czzy77.com/"},
