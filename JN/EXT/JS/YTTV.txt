@@ -111,6 +111,12 @@ RTHK35,video://http://www.guangbomi.com/tv/hk/rthk35.html
 耀才财经台,video://http://www.guangbomi.com/tv/hk/bsgroup.html
 
 
+▶YouTube Playlist,#genre#
+RELEASED,https://www.youtube.com/playlist?list=RDCLAK5uy_k5n4srrEB1wgvIjPNTXS9G1ufE9WQxhnA
+NEW RELEASES ON VEVO,https://www.youtube.com/playlist?list=PL9tY0BWXOZFsPMZczEqnyvD-Z5ugOZrm8
+POP BEFORE IT BREAKS,https://www.youtube.com/playlist?list=RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg
+
+
 🇹🇼四季線上,#genre#
 parse=1 
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
