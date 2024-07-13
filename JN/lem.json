@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0707.jar;md5;763E1D190BD775056F28315D145A9F26",
+"spider":"./N3RD/J/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1",
 
+//"spider":"./N3RD/J/lem0707.jar;md5;763E1D190BD775056F28315D145A9F26",
 //"spider":"./N3RD/J/lem0624.jar;md5;23D33D43F3DF60283545D7D9FAA5454D",
 //"spider":"./N3RD/J/lem0615.jar;md5;F9F4E1A4AE334D2DFFE20E213BB8C56A",
 //"spider":"./N3RD/J/lem0601.jar;md5;118D1377D8D8A47828F20050B3409F62",
@@ -94,6 +95,7 @@
 {"key":"csp_Voflix","name":"雷蒙影视 | 🌀Voflix(SP)","type":"3","api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.me/"},
 {"key":"csp_Bttwoo","name":"雷蒙影视 | ✌两个BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"雷蒙影视 | 🗻新视觉影院(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6080z.com/"},
+{"key":"csp_PTT","name":"雷蒙影视 | 🎈PTT(SP)","type":3,"api":"csp_PTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NCat","name":"雷蒙影视 | 😻网飞猫(SP)","type":3,"api":"csp_NCat","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_TvDy","name":"雷蒙影视 | 👼电影天堂(SP)","type":3,"api":"csp_TvDy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QxiTv","name":"雷蒙影视 | 7️⃣7喜影院(SP)","type":3,"api":"csp_QxiTv","searchable":1,"quickSearch":1,"filterable":1},
@@ -140,17 +142,6 @@
 {"key":"csp_ShiLiuDY_QJ","name":"雷蒙影视 | 🍇石榴电影(SP)","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
 {"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://pandown.pro/tvbox/mayi.txt"},
 {"key":"csp_Dygang_QJ","name":"雷蒙影视 | 🚢电影港(SP)","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1},
-
-// ⇩⇩ QILE SPIDER ⇩⇩ 
-{"key":"csp_Ayy","name":"雷蒙影视 | ❤爱看(SP)","type":3,"api":"csp_Ayy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Czzy","name":"雷蒙影视 | 👴厂长(SP)","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Freeok","name":"雷蒙影视 | 🆗OK(SP)","type":3,"api":"csp_Freeok","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Hdr4k","name":"雷蒙影视 | 🔗HDR4K(SP)","type":3,"api":"csp_Hdr4k","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nkdyw","name":"雷蒙影视 | 👓耐看(SP)","type":3,"api":"csp_Nkdyw","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Oftens","name":"雷蒙影视 | 🎠往往(SP)","type":3,"api":"csp_Oftens","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Saohuo","name":"雷蒙影视 | 🔥骚火(SP)","type":3,"api":"csp_Saohuo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Tvyb","name":"雷蒙影视 | 🛫云播(SP)","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Hdmoli","name":"雷蒙影视 | 🌼HDMOLI(SP)","type":3,"api":"csp_Hdmoli","searchable":1,"quickSearch":1,"filterable":1},
  
 // ⇩⇩ CM SPIDER ⇩⇩ 
 {"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1},
@@ -166,7 +157,7 @@
 {"key":"csp_CandyMuj_yinfans","name":"雷蒙影视 | 🧲音范丝(SP)","type":3,"api":"csp_CandyMuj_yinfans","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ 网盘搜索 ⇩⇩ 
-{"key":"csp_PanSearch_夸克","name":"雷蒙影视 | 🐺夸搜(夸克APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"./N3RD/T/c.txt","from":"4k|auto|fhd"}},
+{"key":"csp_PanSearch_夸克","name":"雷蒙影视 | 🐺夸搜(夸克APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_MIPanSo","name":"雷蒙影视 | 🐺米搜(夸克APP扫码)","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_YiSo","name":"雷蒙影视 | 😺易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_PanSou","name":"雷蒙影视 | 🐱盘搜(阿里APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
