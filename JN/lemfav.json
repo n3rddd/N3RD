@@ -72,7 +72,10 @@
 {"jar":"./N3RD/J/lem0713.jar","key":"csp_PTT","name":"雷蒙优选 | 😍PTT","type":3,"api":"csp_PTT","searchable":1,"quickSearch":1,"filterable":1},
 {"jar":"./N3RD/J/lem0713.jar","key":"csp_Nmvod_QJ","name":"雷蒙优选 | 😍柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/relay.php?url="},
 {"jar":"./N3RD/J/lem0713.jar","key":"csp_qiao3_QJ","name":"雷蒙优选 | 😍圣城","type":3,"api":"csp_qiao3","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"},
- 
+
+{"jar":"./N3RD/J/wex.jar","key":"csp_WexF4kvm_MULTIJAR","name":"雷蒙优选 | 😍纯享","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1}, 
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wexsaohuo_MULTIJAR","name":"雷蒙优选 | 😍骚火","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1},
+
 {"jar":"./N3RD/J/gy.jar","key":"csp_AppDaMi_MULTIJAR","name":"雷蒙优选 | 😍大米","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":0},
 {"jar":"./N3RD/J/gy.jar","key":"csp_Xinsj_MULTIJAR","name":"雷蒙优选 | 😍视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"jar":"./N3RD/J/gy.jar","key":"csp_AppBr_MULTIJAR","name":"雷蒙优选 | 😍铁剧","type":3,"api":"csp_AppBr","searchable":1,"quickSearch":0,"filterable":0},
