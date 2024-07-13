@@ -33,8 +33,8 @@
   
 {"key":"vod_360","name":"雷蒙优选 | 😊360","type":1,"api":"https://360zy.com/api.php/provide/vod","categories":["国产剧","短片","动画片","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","纪录片","台湾剧","大陆综艺","国产动漫","日韩动漫","西部片"]},
 {"key":"vod_黑木","name":"雷蒙优选 | ️😊黑木","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
-{"key":"vod_飞刀","name":"雷蒙优选 | 😊飞刀","type":1,"api":"http://www.feidaozy.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["国产剧","韩剧","欧美剧","泰剧","纪录片","国产综艺","国产动漫","韩国综艺","日本动漫","动画电影","网络电影","动作片","喜剧片","灾难片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","奇幻片","韩国动漫"]}, 
 {"key":"vod_海外","name":"雷蒙优选 | ️😊海外","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"vod_飞刀","name":"雷蒙优选 | 😊飞刀","type":1,"api":"http://www.feidaozy.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["国产剧","韩剧","欧美剧","泰剧","纪录片","国产综艺","国产动漫","韩国综艺","日本动漫","动画电影","网络电影","动作片","喜剧片","灾难片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","奇幻片","韩国动漫"]}, 
 {"key":"T4_木耳","name":"雷蒙优选 | 😊木耳","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"quickSearch":0,"filterable":0},
  
 {"key":"drjs_荐片[优]","name":"雷蒙优选 | 😎荐片","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/荐片[优].js"},
@@ -71,8 +71,10 @@
 {"jar":"./N3RD/J/lem0713.jar","key":"csp_NewCz","name":"雷蒙优选 | 😍厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top/"},
 {"jar":"./N3RD/J/lem0713.jar","key":"csp_PTT","name":"雷蒙优选 | 😍PTT","type":3,"api":"csp_PTT","searchable":1,"quickSearch":1,"filterable":1},
 {"jar":"./N3RD/J/lem0713.jar","key":"csp_Nmvod_QJ","name":"雷蒙优选 | 😍柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/relay.php?url="},
-{"jar":"./N3RD/J/lem0713.jar","key":"csp_qiao3_QJ","name":"雷蒙优选 | 😍圣城","type":3,"api":"csp_qiao3","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"},
+{"jar":"./N3RD/J/lem0713.jar","key":"csp_qiao3_QJ","name":"雷蒙优选 | 😍酷云","type":3,"api":"csp_qiao3","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"},
 
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wexxiongdiys_MULTIJAR","name":"雷蒙优选 | 😍兄弟","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1},
+{"jar":"./N3RD/J/wex.jar","key":"csp_Wex4Kav_MULTIJAR","name":"雷蒙优选 | 😍急速","type":3,"api":"csp_Wex4Kav","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/wex.jar","key":"csp_WexF4kvm_MULTIJAR","name":"雷蒙优选 | 😍纯享","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1}, 
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexsaohuo_MULTIJAR","name":"雷蒙优选 | 😍骚火","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1},
 
