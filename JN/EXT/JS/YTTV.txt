@@ -15,17 +15,16 @@
 🇹🇼台灣新聞,#genre#
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
 中天新聞2,https://www.youtube.com/watch?v=WPfPjbOLNfE&ab_channel=%E4%B8%AD%E5%A4%A9%E6%B7%B1%E5%96%89%E5%9A%A8
-中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
+中天亞洲台,https://www.youtube.com/watch?v=qN_qW6tmWDs
 鳳凰資訊,https://www.youtube.com/watch?v=HFib76ySpbU
 CCTV-4,https://www.youtube.com/watch?v=twhG7_jvA8g
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc&ab_channel=TVBSNEWS
-TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+TVBSHD 56,https://www.youtube.com/watch?v=o_-hSMgpAzs
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE&ab_channel=%E4%B8%89%E7%AB%8BiNEWS
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
 三立LIVE,https://www.youtube.com/watch?v=FoBfXvlOR6I&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
-東森新闻Live,https://www.youtube.com/watch?v=2dfAzcDf8Zg
-東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
+東森新闻Live,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森財經,https://www.youtube.com/watch?v=LbS-xQ67fos&ab_channel=57%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA&ab_channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E7%B6%B2FormosaTVNewsnetwork
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E&ab_channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9ECH52
@@ -36,7 +35,7 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇財經台,https://www.youtube.com/watch?v=25SE1bbTv9k
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o&ab_channel=%E9%8F%A1%E6%96%B0%E8%81%9E
-TaiwanPlus,https://www.youtube.com/watch?v=26yBmvLekxM
+TaiwanPlus,https://www.youtube.com/watch?v=Smy2zVGK9x0
 
 
 🌍国际新闻,#genre#
