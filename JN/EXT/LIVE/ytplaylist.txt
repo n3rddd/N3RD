@@ -1,3 +1,6 @@
+📺电视直播,#genre#
+电视直播,https://www.youtube.com/playlist?list=PLWLEgnHzuoYy3EEL6as4Qpj-JBS79jKe4
+
 🎵RELEASED,#genre#
 RELEASED,https://www.youtube.com/playlist?list=RDCLAK5uy_k5n4srrEB1wgvIjPNTXS9G1ufE9WQxhnA
 
@@ -15,6 +18,3 @@ Pop Before It Breaks,https://www.youtube.com/playlist?list=RDCLAK5uy_kkkZR6KAV5k
 
 🎞新电视剧,#genre#
 新电视剧,https://www.youtube.com/playlist?list=PLNX85RIpDYK5LvaGKoUsa1QuoG57_hW1W
-
-📺电视直播,#genre#
-电视直播,https://www.youtube.com/playlist?list=PLWLEgnHzuoYy3EEL6as4Qpj-JBS79jKe4
