@@ -122,6 +122,9 @@
 {"key":"csp_YOUKU_ZAL","name":"雷蒙影视 | 🔻优酷(SP)","type":3,"api":"csp_YOUKU","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppYsV2_路人甲一","name":"雷蒙影视 | 🅰路人甲一(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":" http://dh.li0580.com/api.php/app/"},
 {"key":"csp_AppYsV2_路人甲二","name":"雷蒙影视 | 🅰路人甲二(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":" http://122.228.84.103:5825/api.php/app/"},
+{"key":"csp_AppYsV2_影探","name":"雷蒙影视 | 🅰影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":" http://cms-yt.lyyytv.cn/api.php/app/"},
+{"key":"csp_AppYsV2_布蕾","name":"雷蒙影视 | 🅰布蕾(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://buleitv.x3322.net/api.php/app/"},
+{"key":"csp_AppYsV2_追忆","name":"雷蒙影视 | 🅰追忆(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.7.101:1122/api.php/app/"},
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_CZSPP_QJ","name":"雷蒙影视 | 👴厂长资源(备用)","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"https://www.czzy77.com/"},
