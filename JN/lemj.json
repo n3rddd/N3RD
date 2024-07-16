@@ -377,7 +377,6 @@
 {"key":"drjs_西瓜影院","name":"雷蒙影视 | 👺西瓜影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/西瓜影院.js"},
 {"key":"drjs_剧哥哥","name":"雷蒙影视 | 👺剧哥哥(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/剧哥哥.js"},
 {"key":"drjs_策驰影院[自动]","name":"雷蒙影视 | 👺策驰影院[自动](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/策驰影院[自动].js"},
-{"key":"drjs_script直播[飞]","name":"雷蒙影视 | 👺script直播[飞](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/script直播[飞].js"},
 {"key":"drjs_刺猬影视","name":"雷蒙影视 | 👺刺猬影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/刺猬影视.js"},
 {"key":"drjs_七新电影网","name":"雷蒙影视 | 👺七新电影网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/七新电影网.js"},
 {"key":"drjs_皮皮影视","name":"雷蒙影视 | 👺皮皮影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/皮皮影视.js"},
@@ -736,6 +735,7 @@
 {"key":"drjs_29片库[密]","name":"雷蒙影视 | 👺29片库[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/29片库[密].js"},
 {"key":"drjs_绿色仓库[密]","name":"雷蒙影视 | 👺绿色仓库[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/绿色仓库[密].js"},
 {"key":"drjs_ss直播","name":"雷蒙影视 | 👺ss直播(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"ext":"./EXT/JS/ss直播.js"},
+{"key":"drjs_script直播[飞]","name":"雷蒙影视 | 👺script直播[飞](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/script直播[飞].js"},
 {"key":"drjs_漫小肆[画]","name":"雷蒙影视 | 👺漫小肆[画](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/漫小肆[画].js"},
 {"key":"drjs_第一韩漫[画]","name":"雷蒙影视 | 👺第一韩漫[画](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/第一韩漫[画].js"},
 
