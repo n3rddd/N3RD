@@ -298,6 +298,7 @@
 {"key":"drjs_魔都资源[资]","name":"雷蒙影视 | 👺魔都资源[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/魔都资源[资].js"},
 {"key":"drjs_茶语资源[资]","name":"雷蒙影视 | 👺茶语资源[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/茶语资源[资].js"},
 
+{"key":"drjs_南柯电影网","name":"雷蒙影视 | 👺南柯电影网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/南柯电影网.js"},
 {"key":"drjs_全看网[自动]","name":"雷蒙影视 | 👺全看网[自动](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/全看网[自动].js"},
 {"key":"drjs_cally66","name":"雷蒙影视 | 👺cally66(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/cally66.js"},
 {"key":"drjs_骑士影院","name":"雷蒙影视 | 👺骑士影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/骑士影院.js"},
