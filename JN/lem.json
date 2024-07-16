@@ -69,6 +69,7 @@
 {"key":"vod_360资源","name":"雷蒙影视 | 🚀360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","categories":["国产剧","短片","动画片","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","纪录片","台湾剧","大陆综艺","国产动漫","日韩动漫","西部片"]},
 {"key":"vod_木耳资源","name":"雷蒙影视 | ️🚀木耳资源","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
 {"key":"vod_海外资源","name":"雷蒙影视 | ️🚀海外资源","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"vod_华为资源","name":"雷蒙影视 | ️🚀华为资源","type":1,"api":"http://nikanba.live/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_RinHome_ZAL","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👹爱看机器人2(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
@@ -120,11 +121,6 @@
 {"key":"csp_MGTV_ZAL","name":"雷蒙影视 | 🥭芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ_ZAL","name":"雷蒙影视 | 🐧腾讯视频(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YOUKU_ZAL","name":"雷蒙影视 | 🔻优酷(SP)","type":3,"api":"csp_YOUKU","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppYsV2_路人甲一","name":"雷蒙影视 | 🅰路人甲一(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":" http://dh.li0580.com/api.php/app/"},
-{"key":"csp_AppYsV2_路人甲二","name":"雷蒙影视 | 🅰路人甲二(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":" http://122.228.84.103:5825/api.php/app/"},
-{"key":"csp_AppYsV2_影探","name":"雷蒙影视 | 🅰影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":" http://cms-yt.lyyytv.cn/api.php/app/"},
-{"key":"csp_AppYsV2_布蕾","name":"雷蒙影视 | 🅰布蕾(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://buleitv.x3322.net/api.php/app/"},
-{"key":"csp_AppYsV2_追忆","name":"雷蒙影视 | 🅰追忆(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.7.101:1122/api.php/app/"},
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_CZSPP_QJ","name":"雷蒙影视 | 👴厂长资源(备用)","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"https://www.czzy77.com/"},
