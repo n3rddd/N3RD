@@ -2,7 +2,7 @@ var rule = {
     author: '小可乐/240528/第一版',
     title: '胖虎影视',
     host: 'https://www.cdnkan.top',
-    hostJs: 'let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});let src= jsp.pdfh(html,".go:eq(1)&&a&&href");HOST=src',
+    hostJs: 'let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});let src= jsp.pdfh(html,".go:eq(2)&&a&&href");HOST=src',
     headers: {'User-Agent': 'MOBILE_UA'},
     编码: 'utf-8',
     timeout: 5000,

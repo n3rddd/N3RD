@@ -1,81 +1,85 @@
 var rule = {
-author: '小可乐改编自道长/240701/第一版',
-title: 'PTT视频',
-类型: '影视',
-host: 'https://ptt.red',
-hostJs: '',
-headers: {'User-Agent': 'MOBILE_UA'},
-编码: 'utf-8',
-timeout: 5000,
+    类型: '影视',//影视|听书|漫画|小说
+    title: 'PTT[优]',
+    host: 'https://ptt.red',
+    homeUrl: '/zh-cn',
+    url: '/zh-cn/p/fyclassfyfilter',
+    searchUrl: '/zh-cn/q/**?page=fypage',
+    searchable: 2,
+    quickSearch: 0,
+    filterable: 1,
+    filter: 'H4sIAAAAAAAAAO2X32saQRDH/5d76JMQ74d3Z8C/pIRytD6UpimYtBCCYCIGY9qoIbWVSltIqia1UUkQf+TSf8bdPf+Luml0ZtcsBFqf9HH3M+vOznxnvNnRdG316Y72Kr6trWqk0iLv+1pI2/Bex/H6nbf+Nn5nuMG3M/VRus63xwstGbrfPauNyvv3u0+8RNx79vJFzJjyUbVMu02ZR+B8vkV7tzK34Py3c/LFl7nuTA3opx+00pgxcMGgUWO3R7KBDfyq9dANYXDxQ4v0qzMG4CPJdIaDkmxgask1bvE3yKw9IF8PIcjT9WOCPLypssIkyCvPV0wT7s7Vh34FEIpsqUIOakDgxSzbpukMEAgmqxVJbwAERXG3QFMlIFE4k2sy/wIIihzNfh72DxDSsd/05idCIJmx14J7OryW9S+I/xEFAt2112ClIkIWvoudoFeZkYdTN0YWvDionQbNa3TKEBJKetfDgY+qZrJ+TEKNsGFN9LId9xKxuw1ETZmamBoyNTDVZapjGpZpGFE9KlE9iqkrUxdTR6YOprZMbUwjMo1gKseK1x5KBT06Jv08pGK6FlPB9tv0+JecClpJ0VJrcsHmm8RWbN3b3OIXrIU0Yy59kota0QJ50UHMhe7JESpI3Pd4QUIehZ7JEQhAaIbcDVdZCjxBS70vmN7NueldLWqUkZlS0JV6d02l3l1DqXekHOF/n1eJoSwFw1yWwsKVgjWvUjBstahttagdtagdtXLdpXIXTrkR3MX/afAIOleskEbTBeSbNS9FBI+n3S7N5hGCfIwbvHDKRt/2flFEigGLt+plP148Vdv2/1I1y/riZAzRCeopYfa0Iazs/HfQyQFy1LOng+bc/Flwimdt9NmS9kl3D3V4+EF2UiGX3xECRQblAt09REg9zDrWskwWrEySfwAneSZu2xMAAA==',
+    filter_url: '{% if fyclass !="1" %}{{fl.地区}}?page=fypage{% else %}{{fl.类型}}?page=fypage{{fl.地区|safe}}{% endif %}{{fl.年份|safe}}{{fl.排序|safe}}',
+    filter_def: {},
+    headers: {
+        'User-Agent': 'MOBILE_UA',
+    },
+    timeout: 5000,
+    class_parse: '.nav-tabs&&a;a&&Text;a&&href;(\\d+)',
+    cate_exclude: '',
+    play_parse: true,
+    lazy: $js.toString(() => {
+        let html = request(input);
+        let sdata = pdfh(html, '.container-fluid&&script&&Html');
+        // log(sdata);
+        let json = JSON.parse(sdata);
+        if (json.contentUrl) {
+            input = {parse: 0, url: json.contentUrl, js: ''};
+        }
+    }),
+    double: false,
+    推荐: '*',
+    一级: '#videos&&.card;a:eq(-1)&&Text;img&&src;.badge-success&&Text;a:eq(-1)&&href',
+    二级: $js.toString(() => {
+        let html = request(input);
+        let data = html.split('node:')[1].split('},')[0] + '}';
+        data = data.trim();
+        //   log(data);
+        let json = JSON.parse(data);
+        //   log(json);
+        VOD = {};
 
-homeUrl: '/zh-hans',
-url: '/zh-cn/p/fyclassfyfilter',
-filter_url: '{{fl.class}}?page=fypage&{{fl.area}}&{{fl.year}}&{{fl.by}}',
-detailUrl: '',
-searchUrl: '/zh-hans/q/**?page=fypage',
-searchable: 1, 
-quickSearch: 1, 
-filterable: 1, 
-
-class_name: '电影&剧集&综艺&动漫&短剧&体育',
-class_url: '1&3&2&4&66&53',
-filter_def: {},
-
-play_parse: true,
-parse_url: '',
-lazy: `js:
-let kcode = JSON.parse(request(input).match(/json">(.*?)</)[1]);
-if (kcode.contentUrl) {
-    let kurl = kcode.contentUrl;
-    if (/m3u8|mp4/.test(kurl)) {
-        input = { jx: 0, parse: 0, url: kurl };
-    } else {
-        input = { jx: 0, parse: 1, url: kurl };
-    };
-} else {
-    input;
-}
-`,
-
-limit: 9,
-double: false,
-推荐: '*',
-一级: '.embed-responsive;img&&alt;img&&src;.badge-success&&Text;a&&href',
-二级: `js:
-let html = request(input);
-let kcode = html.split('node:')[1].split('},')[0] + '}';
-let json = JSON.parse(kcode.trim());
-VOD = {};
-VOD.vod_id = input;
-VOD.vod_name = json.title;
-VOD.type_name = json.type;
-VOD.vod_pic = urljoin(HOST, json.thumbnail);
-VOD.vod_remarks = json.note;
-VOD.vod_year = json.year;
-VOD.vod_area = json._area;
-VOD.vod_director = json.director;
-VOD.vod_actor = json.actors;
-VOD.vod_content = json.description;
-
-let v_tabs = pdfa(html, '.nav-tabs&&a');
-let v_tab = v_tabs.map(it => pdfh(it, 'a&&title'));
-VOD.vod_play_from = v_tab.join('$$$');
-
-let lists = [];
-let v_tab_urls = v_tabs.map(it => pd(it, 'a&&href', input));   
-let htmls=v_tab_urls.map((it) =>{return request(it, {headers:{"User-Agent":MOBILE_UA}})});   
-htmls.forEach((ht) => {
-    if (ht) {
-        let list0 = pdfa(ht, '.mb-2.fullwidth&&a').map(it => pdfh(it, 'a&&Text') + '$' + pd(it, 'a&&href', input));
-        lists.push(list0);
-    } else {
-        lists.push([]);
-    }
-});
-let playUrls = lists.map(it => it.join('#'));
-VOD.vod_play_url = playUrls.join('$$$')
-`,
-搜索: '*',
-
-filter: 'H4sIAAAAAAAAA+2Y304aQRTG73mMvSaRnYX9Y8KTGNNsLRdNrU3ANiGEBCUYpK2AsVBSkjbRClqEbTQEsWtfhp1d3qI7lXLOTncSL/BGuZzzy8zsfOc7wxxyEUmWVtciOelVKiutShubZiYjRaUt83XKHzr7HVos+eN35uZbP7CWk7ZYuNSdFrss7A+kfPQu6tb2vP54Fl3ZWFGUOXIq3YndBpQA0mj7mwBRYbnyz9ned0QD0qk71zdA9DmhOzVaaAAxYE5l4NrnQOQYTCp/noz3EZLxd9NfPxAigObSzBCc1h2fO/YnJATaa7fnNuoIxfFe7hE6lYJEKg0nN+hYcTix1zn2Bldolv+F6/noPKFmOmWifLYt58P4nvl0TjrT1t4sytZ59vJFEgSYnrboaMBh9M1Vi17fchhOO/165nyxOSxDjmnzO233eI4y3eu4twccB/PQSytkeciD89Fyxqc8j4cr/o8rQWmzKTMN0tLmcNq8uqe0JEbisxhbJfl3jKDCQQVDwkGCocxBGcMYB2MIykYQygaGOgd1DDUOahiqHFQxTHAwgSGnEMsOlv95Fol/cOiMq/+J7xYv6OEFLz5tF2jDmkUzb9LbSf/S22aLR9ajEUlZ1H0YqB92QxjhteMjlIlA3bDLTQ6vCYaU8HJiiIRXCtuLhFcJuy6J8MohS/M/BfOTBzO/4JeBeVVcF7ouNL8RE5rfkIXmR7njHc6Ss3T4o3d4/KEcTlShV3VV6FVdE3qVaEKvEn3p1SfgVVVdWG9WtoNtFgjjdQuBRkYFQd2z396wAkgTNzIaapqqJ94xbtzQM6VoO6Nd5H5Y0D1qO/1vCIELvVaN7rxHSNwZafFlYTyBwkgs7JHuDS/dWhEMlIAcu4N+EMHJ6WhEy1WEDOR+KzBLRf8L2PUgEvSb7AmzfG4/eh9H8n8AiBEtTn4TAAA='
+        VOD.vod_name = json.title;
+        VOD.type_name = json.type;
+        VOD.vod_id = input;
+        VOD.vod_pic = urljoin(input, json.thumbnail);
+        VOD.vod_year = json.year;
+        VOD.vod_area = json._area;
+        VOD.vod_remarks = json.note;
+        VOD.vod_content = json.description;
+        VOD.vod_director = json.director;
+        VOD.vod_actor = json.actors;
+        let v_tabs = pdfa(html, '.nav-tabs&&li');
+        let v_tab_urls = v_tabs.map(it => pd(it, 'a&&href', input));
+        v_tabs = v_tabs.map(it => pdfh(it, 'a&&title'));
+        // log(v_tab_urls);
+        VOD.vod_play_from = v_tabs.join('$$$');
+        let lists = [];
+        let list1 = pdfa(html, '.mb-2.fullwidth&&a').map(it => pdfh(it, 'a&&Text') + '$' + pd(it, 'a&&href', input));
+        // log(list1);
+        lists.push(list1);
+        if (v_tab_urls.length > 1) {
+            let reqUrls = v_tab_urls.slice(1).map(it => {
+                return {
+                    url: it,
+                    options: {
+                        timeout: 5000,
+                        headers: rule.headers
+                    }
+                }
+            });
+            let htmls = batchFetch(reqUrls);
+            htmls.forEach((ht) => {
+                if (ht) {
+                    let list0 = pdfa(ht, '.mb-2.fullwidth&&a').map(it => pdfh(it, 'a&&Text') + '$' + pd(it, 'a&&href', input));
+                    lists.push(list0);
+                } else {
+                    lists.push([]);
+                }
+            });
+        }
+        let playUrls = lists.map(it => it.join('#'));
+        VOD.vod_play_url = playUrls.join('$$$');
+    }),
+    搜索: '*',
 }
