@@ -45,6 +45,7 @@
 {"key":"drjs_酷云影视","name":"雷蒙优选 | 😎酷云","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/酷云影视.js"},
 {"key":"drjs_烧火影视[优]","name":"雷蒙优选 | 😎烧火","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/烧火影视[优].js"},
 {"key":"drjs_LIBVIO[优]","name":"雷蒙优选 | 😎LIB","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/LIBVIO[优].js"},
+{"key":"drjs_4K-AV","name":"雷蒙优选 | 😎4K","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/4K-AV.js"},
 {"key":"drjs_一起看[优]","name":"雷蒙优选 | 😎一起","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/一起看[优].js"},
 {"key":"drjs_可可影视[优]","name":"雷蒙优选 | 😎可可","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/可可影视[优].js"},
 {"key":"drjs_大师兄影视[优]","name":"雷蒙优选 | 😎大师","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/大师兄影视[优].js"},
