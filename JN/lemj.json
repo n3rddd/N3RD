@@ -303,6 +303,7 @@
 {"key":"drjs_魔都资源[资]","name":"雷蒙影视 | 👺魔都资源[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/魔都资源[资].js"},
 {"key":"drjs_茶语资源[资]","name":"雷蒙影视 | 👺茶语资源[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/茶语资源[资].js"},
 
+{"key":"drjs_剧圈圈","name":"雷蒙影视 | 👺剧圈圈(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/剧圈圈.js"},
 {"key":"drjs_美剧之家","name":"雷蒙影视 | 👺美剧之家(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/美剧之家.js"},
 {"key":"drjs_南柯电影网","name":"雷蒙影视 | 👺南柯电影网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/南柯电影网.js"},
 {"key":"drjs_全看网[自动]","name":"雷蒙影视 | 👺全看网[自动](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/全看网[自动].js"},
@@ -435,7 +436,6 @@
 {"key":"drjs_干饭影视","name":"雷蒙影视 | 👺干饭影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/干饭影视.js"},
 {"key":"drjs_海外剧汇","name":"雷蒙影视 | 👺海外剧汇(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/海外剧汇.js"},
 {"key":"drjs_即看影视","name":"雷蒙影视 | 👺即看影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/即看影视.js"},
-{"key":"drjs_剧圈圈","name":"雷蒙影视 | 👺剧圈圈(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/剧圈圈.js"},
 {"key":"drjs_看57","name":"雷蒙影视 | 👺看57(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/看57.js"},
 {"key":"drjs_看看影视","name":"雷蒙影视 | 👺看看影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/看看影视.js"},
 {"key":"drjs_可达影视","name":"雷蒙影视 | 👺可达影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/可达影视.js"},
