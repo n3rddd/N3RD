@@ -1,11 +1,5 @@
 [
   {
-    "name": "业余资源",
-    "url": "https://yyff.540734621.xyz",
-    "parse_url": "",
-    "cate_exclude": ""
-  },
-  {
     "name": "360资源",
     "url": "https://360zy.com",
     "parse_url": "",
@@ -34,6 +28,18 @@
     "url": "https://www.heimuer.tv",
     "parse_url": "",
     "cate_exclude": "^电影$|^电视剧$|^综艺$|^动漫$"
+  },
+  {
+    "name": "海外资源",
+    "url": "https://hw8.live",
+    "parse_url": "",
+    "cate_exclude": ""
+  },
+  {
+    "name": "华为资源",
+    "url": "http://nikanba.live",
+    "parse_url": "",
+    "cate_exclude": ""
   },
   {
     "name": "飞刀资源",
