@@ -31,46 +31,68 @@ var rule = {
     },
     play_parse: true,
     lazy: $js.toString(() => {
+
+
         // 获取 pid 并输出
         let pid = JSON.parse(request(MY_URL).match(/var pid = (\d+);/)[1]);
         //console.log(pid);
+
         // 获取当前时间并输出
         let currentTimeMillis = Date.now();
         //console.log(currentTimeMillis);
+
         let str4 = pid + '-' + currentTimeMillis;
-        console.log(str4);
+        //console.log(str4);
         //通过对str4进行SHA-256哈希，生成前16个字节作为密钥
+
         let md5Hash = CryptoJS.MD5(str4).toString(CryptoJS.enc.Hex);
+
         // 确保哈希值长度为32个字符，并转换为小写
         while (md5Hash.length < 32) {
             md5Hash = '0' + md5Hash;
         }
+
         md5Hash = md5Hash.toLowerCase();
-        //console.log(md5Hash);
+
+//console.log(md5Hash);
         let key = CryptoJS.enc.Utf8.parse(md5Hash.substring(0, 16));
         let encrypted = CryptoJS.AES.encrypt(CryptoJS.enc.Utf8.parse(str4), key, {
             mode: CryptoJS.mode.ECB,
             padding: CryptoJS.pad.Pkcs7
         });
+
+
         let encryptedHex = encrypted.ciphertext.toString(CryptoJS.enc.Hex);
+
         let encryptedString = encryptedHex.toUpperCase();
 //console.log(encryptedString);
+
         let lines = HOST + '/lines?t=' + currentTimeMillis + '&sg=' + encryptedString + '&pid=' + pid;
+
         //console.log(lines);
+
         //let lines = 'https://www.yjys.top/lines?t=1718379627499&sg=66759BAA896EC5E7B26EE88F9994F25F4CBB434C967416CDD51EB25F3EF0D77A&pid=179395';
+
         // 发起请求并获取匹配的 URL
-        //url = request(lines, {}).match(/url3":.*?['"](.*?)['"]/)[1];
         let url = JSON.parse(request(lines)).data.url3;
-        console.log(url);
+        // console.log(url);
         let splitUrl = url.indexOf(',') !== -1 ? url.split(',')[0].trim() : url.trim();
-        let resp = request(splitUrl.replace('www.yjys02.com', 'www.yjys.top'), {withHeaders: true, redirect: false});
-        splitUrl = JSON.parse(resp).location;
-        //splitUrl = 'https://lf3-imcloud-file-sign.bytetos.com/tos-cn-i-4eff6vg6wc/oE0nOACnlCsSaWOeDAAltEIjuAIMbpbgklQfF2?x-expires=1719477165&x-signature=X6kKE%2FhLGYOj0IhO6yvjYIsKLKY%3D';
+        //console.log(splitUrl);
+        //let resp = request(splitUrl.replace('www.yjys02.com','www.yjys.top'), {withHeaders: true, redirect: false});
+        //console.log(resp);
+
+        if (splitUrl.includes('yjys')) {
+            let resp = request(splitUrl, {withHeaders: true, redirect: false});
+            splitUrl = JSON.parse(resp).location;
+            console.log(splitUrl);
+        }
+
         input = {
             jx: 0,
             url: splitUrl,
             parse: 0
         };
+
 
     }),
     limit: 6,
@@ -78,11 +100,11 @@ var rule = {
     推荐: '.row-cards;.card-link;*;img&&data-src;*;*',
     一级: '.row-cards&&.card-link;h3&&Text;img&&src;p&&Text;a&&href',
     二级: {
-        "title": "h2&&Text;.mt-1&&Text",
+        "title": ".col h2&&Text;.mt-1&&Text",
         "img": ".col-md-auto img&&src",
         "desc": ";;;.mb-md-2:eq(3)&&Text;.mb-md-2:eq(1)&&Text",
         "content": "#synopsis .card-body&&Text",
-        "tabs": ".card-header:eq(1) h3",
+        "tabs": ".card-header:eq(2) h3",
         "lists": "#play-list:eq(#id) a"
     },
     搜索: '.row-cards .row-0;.d-inline-block&&title;img&&src;.d-inline-block&&Text;a&&href',

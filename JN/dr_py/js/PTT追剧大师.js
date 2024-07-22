@@ -29,7 +29,8 @@ var rule = {
     }),
     double: false,
     推荐: '*',
-    一级: '#videos&&.card;a:eq(-1)&&Text;img&&src;.badge-success&&Text;a:eq(-1)&&href',
+    //α大佬方案去除推荐页广告
+    一级: '#videos&&.card:not(:has(.badge-success:contains(广告)));a:eq(-1)&&Text;img&&src;.badge-success&&Text;a:eq(-1)&&href',
     二级: $js.toString(() => {
         let html = request(input);
         let data = html.split('node:')[1].split('},')[0] + '}';

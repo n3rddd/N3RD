@@ -22,8 +22,8 @@ var rule = {
     play_parse: true,
     tab_remove: ['蓝光Z', '极速', '极速2'],
     lazy: `js:
-		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
-		var url = html.url;
+		let html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		let url = html.url;
 		if (html.encrypt == '1') {
 			url = unescape(url)
 		} else if (html.encrypt == '2') {
@@ -36,7 +36,7 @@ if (/\\.m3u8/.test(url)) {
             for (let line of lines) {
                 line = line.trim();
                 if (line.endsWith('.m3u8')) {
-                    m3u8Url = new URL(line, url).href;
+                    m3u8Url = urljoin(url,line);//获取嵌套M3U8
                     console.log(m3u8Url);
                     break;
                 }
@@ -47,7 +47,11 @@ if (/\\.m3u8/.test(url)) {
                 parse: 0
             };
     } else {
-			input
+			input = {
+                jx: 0,
+                url: url,
+                parse: 0
+            };
 		}
 	`,
     limit: 6,

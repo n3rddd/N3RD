@@ -12,6 +12,8 @@ var rule = {
     headers: {
         'User-Agent': 'MOBILE_UA',
     },
+    hikerListCol: "text_1",
+    hikerClassListCol: "text_1",
     timeout: 5000,
     class_name: '全部',
     class_url: 'yingshilist',

@@ -132,13 +132,18 @@ var rule = {
         pd = jsp.pd;
         let html = request(input);
         let baseList = pdfa(html, "body&&.result_item_v");
+        log(baseList.length);
         baseList.forEach(function (it) {
             let longText = pdfh(it, ".result_title&&a&&Text");
             let shortText = pdfh(it, ".type&&Text");
             let fromTag = pdfh(it, ".result_source&&Text");
             let score = pdfh(it, ".figure_info&&Text");
             let content = pdfh(it, ".desc_text&&Text");
-            let url = pdfh(it, ".result_title&&a&&href");
+            // let url = pdfh(it, ".result_title&&a&&href");
+            let url = pdfh(it, "div&&r-data");
+            // log(longText);
+            // log(shortText);
+            // log('url:'+url);
             let img = pd(it, ".figure_pic&&src");
             url = "https://node.video.qq.com/x/api/float_vinfo2?cid=" + url.match(/.*\/(.*?)\.html/)[1];
             log(shortText + "|" + url);

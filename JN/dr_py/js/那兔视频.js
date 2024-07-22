@@ -18,7 +18,14 @@ var rule = {
     class_parse: ".navbar-items&&li;a&&Text;a&&href;(\\d+)",
     cate_exclude: "",
     play_parse: true,
-    lazy: `js:input = {parse: 1, url: input, js: ''}`,
+    lazy: $js.toString(() => {
+        let html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+        let url = html.url;
+        let id = input.split('-')[1]
+        let rehtml = request('https://ntsp.cc/addons/dp/player/dp.php?key=0&from=0&id=' + id + '&api=&url=' + url + '&jump=')
+        let reurl = rehtml.match(/[a-zA-z]+:\/\/[^\s]*.m3u8.*/)[0].replace('",', '')
+        input = {parse: 0, url: reurl}
+    }),
     推荐: "body&&.module:eq(0);*;*;*;*;*",
     一级: ".module-item;a&&title;img&&data-original;.module-item-note&&Text;a&&href",
     搜索: "json:list;name;pic;;id"

@@ -17,8 +17,8 @@ var rule = {
     cate_exclude: "豆瓣",
     play_parse: true,
     lazy: $js.toString(() => {
-        let m3u8=/url:'(.*?)'/g.exec(fetch(input))[1];
-        input = { parse: 0, url: m3u8};
+        let m3u8 = /url:'(.*?)'/g.exec(fetch(input))[1];
+        input = {parse: 0, url: m3u8};
     }),
     double: false,
     推荐: "body&&.module:eq(0);*;*;*;*;*",
@@ -34,12 +34,12 @@ var rule = {
             LISTS = [];
             let list = pdfa(html, ".vod-playlist&&option");
             if (list.length == 0) {
-                LISTS.push(["1$" + MY_URL+ "/1"])
+                LISTS.push(["1$" + MY_URL + "/1"])
             } else {
-                list = list.map(it => pdfh(it, 'Text') + "$" + HOST + pdfh(it, 'option&&value'));
+                list = list.map(it => pdfh(it, 'Text') + "$" + pd(it, 'option&&value', MY_URL));
                 LISTS.push(list)
             }
-            log(LISTS)
+            // log(LISTS);
         }),
     },
     搜索: "*"
