@@ -238,7 +238,9 @@
 
 
 // ⇩⇩ T4 ⇩⇩ 
-{"key":"T4_木耳","name":"雷蒙影视 | 4️⃣木耳(T4)","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"T4_黑木","name":"雷蒙影视 | 4️⃣黑木(T4)","type":4,"api":"https://t4.doube.eu.org/heimuer.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_海外","name":"雷蒙影视 | 4️⃣海外(T4)","type":4,"api":"https://t4.doube.eu.org/huaweiba.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_木耳","name":"雷蒙影视 | 4️⃣木耳(T4)","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_央视","name":"雷蒙影视 | 4️⃣央视(T4)","type":4,"api":"https://catbox.n13.club/t9/cntv.php"},
 {"key":"T4_豆瓣","name":"雷蒙影视 | 4️⃣豆瓣(T4)","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
 {"key":"T4_预告","name":"雷蒙影视 | 4️⃣预告(T4)","type":4,"api":"https://catbox.n13.club/t9/yugaopian.php"},
