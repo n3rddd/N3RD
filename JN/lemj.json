@@ -323,6 +323,7 @@
 {"key":"drjs_美剧之家","name":"雷蒙影视 | 👺美剧之家(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/美剧之家.js"},
 {"key":"drjs_家庭影视","name":"雷蒙影视 | 👺家庭影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/家庭影视.js"},
 {"key":"drjs_看呀看","name":"雷蒙影视 | 👺看呀看(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/看呀看.js"},
+{"key":"drjs_GO影视","name":"雷蒙影视 | 👺GO影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/GO影视.js"},
 {"key":"drjs_金牌影院","name":"雷蒙影视 | 👺金牌影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/金牌影院.js"},
 {"key":"drjs_PTT追剧大师","name":"雷蒙影视 | 👺PTT追剧大师(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/PTT追剧大师.js"},
 {"key":"drjs_一支穿云箭","name":"雷蒙影视 | 👺一支穿云箭(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/一支穿云箭.js"},
