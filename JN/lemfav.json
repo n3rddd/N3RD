@@ -42,6 +42,7 @@
 {"key":"drjs_剧圈圈","name":"雷蒙优选 | 😎剧圈","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/剧圈圈.js"},
 {"key":"drjs_那兔视频","name":"雷蒙优选 | 😎那兔","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/那兔视频.js"},
 {"key":"drjs_臭蛋蛋","name":"雷蒙优选 | 😎臭蛋","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/臭蛋蛋.js"}, 
+{"key":"drjs_剧巴巴","name":"雷蒙优选 | 😎剧巴","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/剧巴巴.js"},
 {"key":"drjs_小宝影院","name":"雷蒙优选 | 😎小宝","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/小宝影院.js"},
 {"key":"drjs_文才","name":"雷蒙优选 | 😎文才","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/文才.js"},
 {"key":"drjs_农民影视","name":"雷蒙优选 | 😎农民Ⅰ","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/农民影视.js"},
