@@ -2,7 +2,7 @@ var rule = {
     类型: '影视',
     编码: 'gb18030',
     title: '天启影视',
-    host: 'https://www.tqys.cc/',
+    host: 'https://www.tqys.tv',
     url: 'fyfilter/indexfypage.html[fyfilter/]',
     searchUrl: '/search.asp?page=1&searchword=**&searchtype=-1',
     searchable: 2,
