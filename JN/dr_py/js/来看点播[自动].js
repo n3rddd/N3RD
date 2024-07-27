@@ -1,15 +1,37 @@
 var rule = {
-    模板: '自动',
-    模板修改: $js.toString(() => {
-        muban.自动.二级.tabs = '.module-tab-item.tab-item';
-        muban.自动.二级.tab_text = 'div--small&&Text';
-    }),
-    title: '来看点播[自动]',
-    host: 'https://lkvod.me',
-    url: '/show/fyclass--------fypage---.html',
-    class_parse: '.navbar-items li:gt(1):lt(8);a&&Text;a&&href;/(\\d+).html',
-    searchUrl: '/index.php/rss/index.xml?wd=**',
-    搜索: $js.toString(() => {
+  title: '来看点播',
+  host: 'https://lkvod.me/',
+  url: '/show/fyclass--------fypage---.html',
+  searchUrl: '/index.php/rss/index.xml?wd=**',
+  searchable: 2,
+  quickSearch: 0,
+  filterable: 0,
+  filter: '',
+  filter_url: '',
+  filter_def: {},
+  headers: {
+    'User-Agent': 'MOBILE_UA',
+  },
+  timeout: 5000,
+  class_parse: '.flex.around&&li;a&&Text;a&&href;.*/(.*?).html',
+  cate_exclude: '',
+  play_parse: true,
+  lazy: "js:\n  input = { parse: 1, url: input, js: '' };",
+  double: true,
+  推荐: '*',
+  一级: 'body&&.public-list-box;a&&title;img&&data-src;.public-list-subtitle&&Text;a&&href',
+  二级: {
+    title: 'h3&&Text;.hl-ma0&&Text',
+    img: '.mask-1&&data-src',
+    desc: '.detail-info .slide-info:eq(1)--strong&&Text;.deployment.none.cor5&&span&&Text;.deployment.none.cor5&&span:eq(2)&&Text;.detail-info .slide-info:eq(3)--strong&&Text;.detail-info .slide-info:eq(2)--strong&&Text',
+    content: '#height_limit&&Text',
+    tabs: '.anthology-tab a',
+    lists: '.anthology-list-play:eq(#id)&&li',
+    tab_text: 'body&&Text',
+    list_text: 'body&&Text',
+    list_url: 'a&&href',
+  },
+   搜索: $js.toString(() => {
         let html = request(input);
         let items = pdfa(html, 'rss&&item');
         // log(items);
