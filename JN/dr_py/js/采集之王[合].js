@@ -280,6 +280,7 @@ var rule = {
                 log('end:' + end);
                 log('搜索模式:' + searchMode);
                 log('精准搜索:' + rule.search_match);
+                log('强制获取图片:' + rule.search_pic);
                 // log('t1:' + t1);
                 if (start < canSearch.length) {
                     let search_classes = canSearch.slice(start, end);
@@ -359,7 +360,7 @@ var rule = {
                                 options: {timeout: rule.timeout}
                             }
                         });
-                        let rets2 = batchFetch(reqUrls2);
+                        let rets2 = reqUrls2.length > 0 ? batchFetch(reqUrls2) : [];
                         for (let k = 0; k < results_list.length; k++) {
                             let result_data = results_list[k].data;
                             if (!results_list[k].has_pic) {

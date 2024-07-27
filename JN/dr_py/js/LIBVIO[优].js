@@ -5,7 +5,7 @@ muban.首图2.二级.content = '.detail-content&&Text'
 var rule = {
     title: 'LIBVIO[优]',
     模板: '首图2',
-    host: 'https://www.libvio.app',
+    host: 'https://www.libfabu.com',
     hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a:eq(1)&&href");print(src);HOST=src',
     // url:'/type/fyclass-fypage.html',
     url: '/show/fyclassfyfilter.html',

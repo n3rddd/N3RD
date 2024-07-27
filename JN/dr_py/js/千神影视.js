@@ -23,13 +23,6 @@ var rule = {
     cate_exclude: 'Netflix|今日更新|专题列表|排行榜|热榜|文章',
     play_parse: true,
     lazy: $js.toString(() => {
-        //let html  = request(input);
-        //log(html.slice(0,500));
-        //html = html.match(/r player_.*?=(.*?)</)[1];
-        //log(html.slice(0,500));
-        //html = JSON.parse(html);
-        //log(html);
-
         let html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
         let url = html.url;
         if (html.encrypt == '1') {
@@ -72,7 +65,7 @@ var rule = {
         desc: 'content_detail&&li:eq(1)&&Text;.detail_list&&ul:eq(1)&&li&&a&&Text;.detail_list&&ul:eq(1)&&li&&a:eq(1)&&Text;.detail_list&&ul:eq(1)&&li:eq(2)&&Text;.detail_list&&ul:eq(1)&&li:eq(3)&&Text',
         content: '.content_desc&&span&&Text',
         tabs: '.play_source_tab--i&&a',
-        lists: '.content_playlist:eq(#id)&&li'
+        lists: 'ul.list_scroll:eq(#id)&&li'
     },
     搜索: '*',
 }

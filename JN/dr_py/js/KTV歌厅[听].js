@@ -1,7 +1,14 @@
+globalThis.post2 = function (_url, _data) {
+    // let data = buildUrl(_url,_data).split('?')[1];
+    // return post(_url,{body:encodeURIComponent(data),headers:rule.headers});
+    return post(_url, {data: _data, headers: rule.headers});
+}
 var rule = {
     类型: '听歌',//影视|听书|漫画|小说
     title: 'KTV歌厅[听]',
-    host: 'https://vpsdn.leuse.top',
+    // host: 'https://vpsdn.leuse.top',
+    host: 'https://api.cloudflare.com',
+    root: 'https://api.cloudflare.com/client/v4/accounts/1ecc4a947c5a518427141f4a68c86ea1/d1/database/4f1385ab-f952-404a-870a-e4cfef4bd9fd/query',
     mktvUrl: 'http://txysong.mysoto.cc/songs/',
     url: '/searchmv?table=fyclass&pg=fypage#fyfilter',
     searchUrl: '/searchmv?keywords=**&pg=fypage',
@@ -13,22 +20,35 @@ var rule = {
     filter_url: '{{fl}}',
     headers: {
         'User-Agent': 'MOBILE_UA',
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer LueNrycW-6jks7xBjPqX9mjFq2A2M5Kul6Ig3D8z',
     },
     timeout: 5000,
     class_name: '歌手&曲库',
     class_url: 'singer&song',
     一级: $js.toString(() => {
         let d = [];
-        let _url = input.split('#')[0];
+        // let _url = input.split('#')[0];
+        let _url = rule.root;
+        let params = [];
+        let sql = '';
+        let size = 20;
+        let pg = MY_PAGE;
         if (MY_CATE === 'singer') {
+            sql = 'select name, id from singer where 1=1';
             if (MY_FL.region) {
-                _url += '&where=region_id&keywords=' + MY_FL.region + '&size=21';
+                params.push(MY_FL.region);
+                sql += ' and region_id = ?';
+                // _url += '&where=region_id&keywords=' + MY_FL.region + '&size=21';
             } else if (MY_FL.form) {
-                _url += '&where=form_id&keywords=' + MY_FL.form + '&size=21';
+                params.push(MY_FL.form);
+                sql += ' and form_id = ?';
+                // _url += '&where=form_id&keywords=' + MY_FL.form + '&size=21';
             }
-            let html = request(_url);
+            sql += ` order by id limit ${(pg - 1) * size},${size};`;
+            let html = post2(_url, {params: params, sql: sql});
             let json = JSON.parse(html);
-            d = json.map(item => {
+            d = json.result[0].results.map(item => {
                 let pic = rule.mktvUrl + item.id + '.jpg';
                 return {
                     vod_id: item.name + '@@' + item.name + '@@' + pic,
@@ -38,14 +58,20 @@ var rule = {
                 }
             });
         } else if (MY_CATE === 'song') {
+            sql = 'select number, name from song where 1=1';
             if (MY_FL.lan) {
-                _url += '&where=language_id&keywords=' + MY_FL.lan + '&size=21';
+                params.push(MY_FL.lan);
+                sql += ' and language_id = ?';
+                // _url += '&where=language_id&keywords=' + MY_FL.lan + '&size=21';
             } else if (MY_FL.type) {
-                _url += '&where=type_id&keywords=' + MY_FL.type + '&size=21';
+                params.push(MY_FL.type);
+                sql += ' and type_id = ?';
+                // _url += '&where=type_id&keywords=' + MY_FL.type + '&size=21';
             }
-            let html = request(_url);
+            sql += ` order by number limit ${(pg - 1) * size},${size};`;
+            let html = post2(_url, {params: params, sql: sql});
             let json = JSON.parse(html);
-            d = json.map(item => {
+            d = json.result[0].results.map(item => {
                 return {
                     vod_id: rule.mktvUrl + item.number + '.mkv' + '@@' + item.name + '@@' + '',
                     vod_name: item.name,
@@ -57,6 +83,7 @@ var rule = {
         VODS = d;
     }),
     二级: $js.toString(() => {
+        let _url = rule.root;
         let id = orId.split('@@')[0];
         let name = orId.split('@@')[1];
         if (id.endsWith('.mkv')) {
@@ -75,24 +102,25 @@ var rule = {
         if (id.endsWith('.mkv')) {
             VOD.vod_play_url = '嗅探播放$' + id;
         } else {
-            let data = [];
-            for (let i = 0; i < 2; i++) {
-                let pg = Number(i) + 1;
-                let url = `${rule.host}/searchmv?table=song&where=singer_names&keywords=${id}&size=500&pg=${pg}`;
-                let res = request(url);
-                let json = JSON.parse(res);
-                data = data.concat(json);
-            }
+            let params = [id];
+            let sql = 'select number,name from song where singer_names = ? order by number limit 0,999';
+            let html = post2(_url, {params: params, sql: sql});
+            let json = JSON.parse(html);
+            let data = json.result[0].results;
+
             VOD.vod_play_url = (data.map(item => {
                 return item.name + '$' + rule.mktvUrl + item.number + '.mkv';
             })).join('#');
         }
     }),
     搜索: $js.toString(() => {
+        let _url = rule.root;
+        let wd = KEY;
+        let sql = "select number,name from song where name like '%" + wd + "%' or singer_names like '%" + wd + "%'";
         let d = [];
-        let html = request(input);
+        let html = post2(_url, {sql: sql});
         let json = JSON.parse(html);
-        d = json.map(item => {
+        d = json.result[0].results.map(item => {
             return {
                 vod_id: rule.mktvUrl + item.number + '.mkv' + '@@' + item.name + '@@' + '',
                 vod_name: item.name,
