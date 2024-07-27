@@ -16,7 +16,9 @@
 {"name":"iTV","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 
-"sites":[],
+"sites":[
+
+],
 
 
 "rules": [
