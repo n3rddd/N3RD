@@ -186,8 +186,8 @@ var rule = {
     searchUrl: '#wd=**&pg=#TruePage##page=fypage',
     url: 'fyclass#pg=fypage&t=fyfilter',
     filter_url: '{{fl.show}}',
-    //headers: {'User-Agent': 'MOBILE_UA'},
-    headers: {'User-Agent': 'okhttp/3.15'},
+    headers: {'User-Agent': 'MOBILE_UA'},
+    //headers: {'User-Agent': 'okhttp/3.15'},
     timeout: 5000, // class_name: '电影&电视剧&综艺&动漫',
     limit: 20,
     search_limit: 5, // 搜索限制取前5个，可以注释掉，就不限制搜索
