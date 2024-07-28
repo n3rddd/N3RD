@@ -72,6 +72,7 @@
 {"key":"csp_ThunderShare","name":"雷蒙影视 | 💿迅雷云盘分享(SP)","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/thundershare.txt"},
 {"key":"csp_QuarkShare","name":"雷蒙影视 | 💿夸克云盘分享(SP)","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/quarkshare.txt"},
 {"key":"csp_P115Share","name":"雷蒙影视 | 💿115云盘分享(SP)","type":3,"api":"csp_P115Share","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/115share.txt","style":{"type":"list","ratio":1.1}},
+{"key":"csp_UCShare","name":"雷蒙影视 | 💿UC云盘分享(SP)","type":3,"api":"csp_UCShare","searchable":1,"quickSearch":0,"changeable":0,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/ucshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_PikPakShare","name":"雷蒙影视 | 💿PikPak分享(SP)","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/p.json$$$./N3RD/T/p.json.txt.gz"},
 {"key":"csp_PikPakShare181","name":"雷蒙影视 | 💿PikPak分享 18+[Ⅰ]","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/pa.json$$$./N3RD/T/pa.json.txt.gz"},
 {"key":"csp_PikPakShare182","name":"雷蒙影视 | 💿PikPak分享 18+[Ⅱ]","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/pa1.json$$$./N3RD/T/pa1.json.txt.gz"},
@@ -92,7 +93,7 @@
 {"key":"drjs_libvio_PG","name":"雷蒙影视 | 📀Libvio(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/libvio.js"},
 {"key":"drjs_kkpans_PG","name":"雷蒙影视 | 📀KK网盘(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/kkpans.js"},
 
-{"key":"csp_Wogg","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt$$$https://wogg.888484.xyz/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
+{"key":"csp_Wogg","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt$$$https://www.wogg.net/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_Wobg","name":"雷蒙影视 | 👽玩偶表哥(SP)","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt$$$https://wobge.run.goorm.io$$$cfg$$$1$$$./N3RD/T/wogg.json"},  
 {"key":"csp_Wobg_玩你老哥","name":"雷蒙影视 | 👽玩你老哥(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://tv.yydsys.top/$$$cfg$$$1$$$./N3RD/T/wogg.json"}, 
 {"key":"csp_Wobg_土豆阿里","name":"雷蒙影视 | 👽土豆阿里(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$https://tudou.lvdoui.top$$$cfg$$$1$$$./N3RD/T/wogg.json"},
