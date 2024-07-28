@@ -24,7 +24,7 @@
 {"name":"SLive","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"MVMLive","type":0,"url":"https://cors.isteed.cc/https:/raw.githubusercontent.com/myvmiao/tv/main/e.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"港台节目","type":0,"url":"http://www.stream-link.org/stream-link.m3u","ua":"okhttp/3.15","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"搜集","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"搜集","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"BiliBili直播","type":0,"url":"https://www.goodiptv.club/bililive.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YY轮播","type":0,"url":"https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"斗鱼一起看","type":0,"url":"https://live.freetv.top/douyuyqk.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
