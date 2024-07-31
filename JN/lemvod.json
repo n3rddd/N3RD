@@ -41,8 +41,8 @@
 {"key":"drjs_爱看2","name":"雷蒙影视 | 👺爱看","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"drjs_爱看3","name":"雷蒙影视 | 👹爱看","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot3.js"},
 {"key":"drjs_大全","name":"雷蒙影视 | 🎬大全","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影视大全.js"},
-{"key":"drjs_雷蒙","name":"雷蒙影视 | 😎雷蒙","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=../dr_py/json/雷蒙资源静态.json"},
-{"key":"drjs_直播","name":"雷蒙影视 | 🤠直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=../dr_py/json/live2cms.json"},
+{"key":"drjs_雷蒙","name":"雷蒙影视 | 😎雷蒙","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=../json/雷蒙资源静态.json"},
+{"key":"drjs_直播","name":"雷蒙影视 | 🤠直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=../json/live2cms.json"},
 
 {"key":"vod_360","name":"雷蒙影视 | 🚀360","type":1,"api":"https://360zy.com/api.php/provide/vod","categories":["国产剧","短片","动画片","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","纪录片","台湾剧","大陆综艺","国产动漫","日韩动漫","西部片"]},
 {"key":"vod_黑木","name":"雷蒙影视 | ️🚀黑木","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
