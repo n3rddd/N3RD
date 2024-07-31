@@ -131,6 +131,7 @@
 {"key":"csp_FourKHDR","name":"雷蒙优选 | 💿4KHDR","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/4k.json$$$1"},
 {"key":"csp_Libvio","name":"雷蒙优选 | 💿LIBVIO","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$https://www.libvio.pro$$$cfg"},
 {"key":"csp_Moli","name":"雷蒙优选 | 💿HDmoli","type":3,"api":"csp_Moli","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://www.hdmoli.pro/$$$cfg$$$1$$$./N3RD/T/moli.json"},
+{"key":"csp_P115Share","name":"雷蒙优选 | 💿115(SP)","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/115share.txt","style":{"type":"list","ratio":1.1}},
 {"key":"csp_PikPakShare","name":"雷蒙优选 | 💿PikPak","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/p.json$$$./N3RD/T/p.json.txt.gz"}
 
 ],
