@@ -37,7 +37,7 @@
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_Youtube","name":"雷蒙影视 | ▶YouTube(SP)","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":0,"ext":{"token":"./N3RD/T/pg.txt","json":"./N3RD/T/ytc.json","type":"","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧","proxy":"cfg","codecs":"","danmu":true},"style":{"type":"rect","ratio":1.5}},
 {"key":"drjs_雷蒙直播","name":"雷蒙影视 | 🤠雷蒙直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/live2cms.json"},
-{"key":"drjs_雷蒙资源","name":"雷蒙影视 | 😎雷蒙资源","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/雷蒙资源静态.json$1"},
+{"key":"drjs_雷蒙资源","name":"雷蒙影视 | 😎雷蒙资源","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=http://tv.850930.xyz/雷蒙资源静态.json$1"},
   
 // ⇩⇩ 阿里夸克迅雷UC网盘 ⇩⇩ 
 {"key":"csp_Config","name":"雷蒙影视 | 💿网盘及弹幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./N3RD/T/pg.txt"},
