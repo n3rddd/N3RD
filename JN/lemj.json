@@ -39,8 +39,8 @@
 {"key":"csp_Douban","name":"雷蒙影视规则专线 | 📡我的豆瓣(SP)","jar":"./N3RD/J/pg.jar","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视规则专线 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/豆瓣[官].js"},
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视规则专线 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search3_min.js"},
-{"key":"drjs_雷蒙直播","name":"雷蒙影视 | 🤠雷蒙直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=./dr_py/json/live2cms.json"},
-{"key":"drjs_雷蒙资源","name":"雷蒙影视 | 😎雷蒙资源","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=./dr_py/json/雷蒙资源静态.json"},
+{"key":"drjs_雷蒙直播","name":"雷蒙影视 | 🤠雷蒙直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=../dr_py/json/live2cms.json"},
+{"key":"drjs_雷蒙资源","name":"雷蒙影视 | 😎雷蒙资源","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=../dr_py/json/雷蒙资源静态.json"},
 
 
 // ⇩⇩ JAR挂载 ⇩⇩
@@ -269,7 +269,8 @@
 
 // ⇩⇩ 道长HIPY-JS规则 ⇩⇩ 
 {"key":"drjs_豆瓣[官]","name":"雷蒙影视 | 👺豆瓣[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/豆瓣[官].js"},
-{"key":"drjs_我的哔哩传参[官]","name":"雷蒙影视 | 👺我的哔哩[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩传参[官].js?type=url&params=./dr_py/json/Bili1.json"},
+{"key":"drjs_我的哔哩[官]","name":"雷蒙影视 | 👺我的哔哩[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩[官].js?type=url&params=../dr_py/json/Bili1.json"},
+{"key":"drjs_我的哔哩传参[官]","name":"雷蒙影视 | 👺我的哔哩传参[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩传参[官].js?type=url&params=../dr_py/json/Bili1.json"},
 {"key":"drjs_爱看机器人[虫]","name":"雷蒙影视 | 👺爱看机器人[虫](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/爱看机器人[虫].js"},
 {"key":"drjs_荐片[优]","name":"雷蒙影视 | 👺荐片[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/荐片[优].js"},
 {"key":"drjs_PTT[优]","name":"雷蒙影视 | 👺PTT[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/PTT[优].js"},
@@ -295,10 +296,10 @@
 {"key":"drjs_素白白[优]","name":"雷蒙影视 | 👺素白白[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/素白白[优].js"},
 {"key":"drjs_网飞猫[优]","name":"雷蒙影视 | 👺网飞猫[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/网飞猫[优].js"},
 
-{"key":"drjs_直播转点播[合]","name":"雷蒙影视 | 👺直播转点播[合](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/直播转点播[合].js?type=url&params=./dr_py/json/live2cms.json"},
-{"key":"drjs_采集之王[合]","name":"雷蒙影视 | 👺采集之王[合](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集之王[合].js?type=url&params=./dr_py/json/采集静态.json"},
-{"key":"drjs_采集之王[合zy]","name":"雷蒙影视 | 👺采集之王[合zy](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集之王[合].js?type=url&params=./dr_py/json/采集[zy]静态.json"},
-{"key":"drjs_采集之王[合密]","name":"雷蒙影视 | 👺采集之王[合密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集之王[合].js?type=url&params=./dr_py/json/采集[密]静态.json"},
+{"key":"drjs_直播转点播[合]","name":"雷蒙影视 | 👺直播转点播[合](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/直播转点播[合].js?type=url&params=../dr_py/json/live2cms.json"},
+{"key":"drjs_采集之王[合]","name":"雷蒙影视 | 👺采集之王[合](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集之王[合].js?type=url&params=../dr_py/json/采集静态.json"},
+{"key":"drjs_采集之王[合zy]","name":"雷蒙影视 | 👺采集之王[合zy](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集之王[合].js?type=url&params=../dr_py/json/采集[zy]静态.json"},
+{"key":"drjs_采集之王[合密]","name":"雷蒙影视 | 👺采集之王[合密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集之王[合].js?type=url&params=../dr_py/json/采集[密]静态.json"},
 {"key":"drjs_影视大全","name":"雷蒙影视 | 👺影视大全(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影视大全.js"},
 {"key":"drjs_影视大全[密]","name":"雷蒙影视 | 👺影视大全[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影视大全[密].js"},
 {"key":"drjs_文才[资]","name":"雷蒙影视 | 👺文才[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/文才[资].js"},
