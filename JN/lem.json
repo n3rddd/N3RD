@@ -1,15 +1,12 @@
 {
 
-"spider":"./N3RD/J/lem0801.jar;md5;019F16F22893C656CD0668DAC21F26C0",
+"spider":"./N3RD/J/lem0802.jar;md5;40C61554085B24DF4375B9AB5B8C0B5A",
 
+//"spider":"./N3RD/J/lem0801.jar;md5;019F16F22893C656CD0668DAC21F26C0",
 //"spider":"./N3RD/J/lem0728.jar;md5;F8EC53D7149B810D53325AA0F9696CB2",
 //"spider":"./N3RD/J/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1",
 //"spider":"./N3RD/J/lem0707.jar;md5;763E1D190BD775056F28315D145A9F26",
-//"spider":"./N3RD/J/lem0624.jar;md5;23D33D43F3DF60283545D7D9FAA5454D",
-//"spider":"./N3RD/J/lem0615.jar;md5;F9F4E1A4AE334D2DFFE20E213BB8C56A",
-//"spider":"./N3RD/J/lem0601.jar;md5;118D1377D8D8A47828F20050B3409F62",
-//"spider":"./N3RD/J/lem1211.jar;md5;32423EE6C5039465A0CA2FA3ECFCB864",fongmi阿里多线阿里
-
+ 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
 "wallpaper":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/crimetv.png",
@@ -78,6 +75,7 @@
 {"key":"csp_Jpys","name":"雷蒙影视 | 💮文才(SP)","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Zx4k","name":"雷蒙影视 | 🚝专线(SP)","type":3,"api":"csp_Zx4k","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Cddys","name":"雷蒙影视 | 🥚臭蛋蛋(SP)","type":3,"api":"csp_Cddys","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Appmq","name":"雷蒙影视 | 🍓煤球(SP)","type":3,"api":"csp_Appmq","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_NanGua","name":"雷蒙影视 | 🎃南瓜影视(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Kkys","name":"雷蒙影视 | 💡酷看影视(SP)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"csp_LiteApple","name":"雷蒙影视 | 🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
@@ -181,12 +179,13 @@
 {"key":"csp_CandyMuj_yinfans","name":"雷蒙影视 | 🧲音范丝(SP)","type":3,"api":"csp_CandyMuj_yinfans","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ 网盘搜索 ⇩⇩ 
-{"key":"csp_PanSearch_夸克","name":"雷蒙影视 | 📀夸搜(夸克APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"csp_MIPanSo","name":"雷蒙影视 | 📀米搜(夸克APP扫码)","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"csp_YiSo","name":"雷蒙影视 | 📀易搜(阿里APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"csp_PanSou","name":"雷蒙影视 | 📀盘搜(阿里APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"csp_UpYun","name":"雷蒙影视 | 📀云搜(阿里APP扫码)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"csp_PanSearch","name":"雷蒙影视 | 📀PanSearch(阿里APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"csp_PanTa","name":"雷蒙影视 | 📀盘他(网盘APP扫码)","type":3,"api":"csp_PanTa","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"csp_PanSearch_夸克","name":"雷蒙影视 | 📀夸搜(网盘APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"csp_MIPanSo","name":"雷蒙影视 | 📀米搜(网盘APP扫码)","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"csp_YiSo","name":"雷蒙影视 | 📀易搜(网盘APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"csp_PanSou","name":"雷蒙影视 | 📀盘搜(网盘APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"csp_UpYun","name":"雷蒙影视 | 📀云搜(网盘APP扫码)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"csp_PanSearch","name":"雷蒙影视 | 📀PanSearch(网盘APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./N3RD/T/a.json"},
 {"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt","jar":"./N3RD/J/pg.jar"},
