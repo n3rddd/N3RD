@@ -155,7 +155,7 @@
 {"key":"csp_Bdys_FM","name":"雷蒙影视 | 😹哔嘀(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_FengGo_FM","name":"雷蒙影视 | 🐕疯狗(SP)","type":3,"api":"csp_FengGo","playerType":2},
 {"key":"csp_Nkdy_FM","name":"雷蒙影视 | 🏔耐看(SP)","type":3,"playerType":"2","api":"csp_Nkdy"},
-{"key":"csp_Netfixtv_FM","name":"雷蒙影视 | 💌至臻(SP)","type":3,"api":"csp_Netfixtv","playerType":2,"filterable":1,"ext":""},
+{"key":"csp_Netfixtv_FM","name":"雷蒙影视 | 💌至臻(SP)","type":3,"api":"csp_Netfixtv","playerType":2,"filterable":1,"ext":"http://mpanso.com"},
 {"key":"csp_Vidhub2_FM","name":"雷蒙影视 | 🎼Vid(SP)","type":3,"api":"csp_Vidhub2","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppRZ_FM","name":"雷蒙影视 | 🕵忍者(SP)","type":3,"playerType":2,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
 {"key":"csp_FreeOK_FM","name":"️️雷蒙影视 | 👌OK(SP)","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
