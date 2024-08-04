@@ -194,8 +194,10 @@
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
 {"jar":"./N3RD/J/pg.jar","key":"csp_Star_PG","name":"雷蒙影视 | ⭐星星(SP)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":""},
+{"jar":"./N3RD/J/pg.jar","key":"csp_P115Share","name":"雷蒙影视 | 💿115云盘分享(SP)","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/115share.txt","style":{"type":"list","ratio":1.1}},
+{"jar":"./N3RD/J/pg.jar","key":"csp_Hdhive","name":"雷蒙影视 | 💿影巢(SP)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt$$$cfg$$$1"},
+{"jar":"./N3RD/J/pg.jar","key":"csp_YingSo","name":"雷蒙影视 | 💿影搜(SP)","type":3,"api":"csp_YingSo","timeout":60,"ext":"./N3RD/T/pg.txt"},
 {"jar":"./N3RD/J/pg.jar","key":"csp_FourKHDR","name":"雷蒙影视 | 💿4KHDR(夸克APP扫码)","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/4k.json$$$1"},
-{"jar":"./N3RD/J/pg.jar","key":"csp_XiaoZhang","name":"雷蒙影视 | 💿校长影视(夸克APP扫码)","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$null$$$1"},
 {"jar":"./N3RD/J/pg.jar","key":"csp_TZFile","name":"雷蒙影视 | 💿团长资源(夸克APP扫码)","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"./N3RD/T/pg.txt$$$null$$$1"},
 
 {"jar":"./N3RD/J/wex.jar","key":"csp_Wexconfig_MULTIJAR","name":"雷蒙影视 | 🐮配置中心","type":3,"api":"csp_Wexconfig","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.43}},
