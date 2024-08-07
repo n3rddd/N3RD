@@ -14,7 +14,7 @@
 
 "lives":[
 {"name":"雷蒙影视电视直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"雷蒙影视轻量直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/litelive.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"雷蒙影视轻量直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/litelive.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"雷蒙影视宣传片","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/ctvpv.txt","ua":"okhttp/3.15","logo":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON1.png"},
 {"name":"IPTV","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"看电视呗","type":0,"url":"http://tv.850930.xyz/kdsb.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
