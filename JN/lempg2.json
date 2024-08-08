@@ -57,7 +57,7 @@
 {"key":"csp_UpYun","name":"雷蒙影视 | 💿云搜(SP)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 💿PanSearch(SP)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$cfg$$$proxy"},
 {"key":"csp_YiSo","name":"雷蒙影视 | 💿易搜(SP)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$./N3RD/T/yiso.txt"},
-{"key":"csp_TGYunPan","name":"雷蒙影视 | 💿TG搜索(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$cfg$$$1"},
+{"key":"csp_TGYunPan","name":"雷蒙影视 | 💿TG搜索(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$http://144.126.217.226:8000/$$$wpzyhj,hao115,Aliyundrive_Share_Channel,kuakeyun$$$cfg$$$1"},
 {"key":"csp_Xinshijue","name":"雷蒙影视 | 💿新视觉(SP)","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://6080z.com/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_YingSo","name":"雷蒙影视 | 💿影搜(SP)","type":3,"api":"csp_YingSo","timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt"},
 {"key":"csp_Gaoqing","name":"雷蒙影视 | 💿中国高清网(SP)","type":3,"api":"csp_Gaoqing","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt$$$https://gaoqing.la/$$$cfg$$$1"},
