@@ -335,7 +335,6 @@
 {"key":"drjs_MM短剧网","name":"雷蒙影视 | 👺MM短剧网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/MM短剧网.js"},
 {"key":"drjs_七味网","name":"雷蒙影视 | 👺七味网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/七味网.js"},
 {"key":"drjs_麻雀视频","name":"雷蒙影视 | 👺麻雀视频(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/麻雀视频.js"},
-{"key":"drjs_片多多","name":"雷蒙影视 | 👺片多多(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/片多多.js"},
 {"key":"drjs_永乐视频","name":"雷蒙影视 | 👺永乐视频(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/永乐视频.js"},
 {"key":"drjs_电影驿站","name":"雷蒙影视 | 👺电影驿站(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/电影驿站.js"},
 {"key":"drjs_顶好剧场","name":"雷蒙影视 | 👺顶好剧场(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/顶好剧场.js"},
