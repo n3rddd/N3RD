@@ -1,7 +1,5 @@
 {
 
-"notice": "欢迎使用雷蒙影视",
-
 "spider":"./N3RD/J/lem0802.jar;md5;40C61554085B24DF4375B9AB5B8C0B5A",
 
 //"spider":"./N3RD/J/lem0801.jar;md5;019F16F22893C656CD0668DAC21F26C0",
@@ -12,6 +10,8 @@
 "logo":"./N3RD/W/ICONSGIF.gif",
 
 "wallpaper":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/crimetv.png",
+
+"notice": "欢迎使用雷蒙影视",
 
 "lives":[
 {"name":"雷蒙影视电视直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
