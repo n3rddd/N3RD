@@ -19,7 +19,13 @@
 ],
 
 "sites":[
+{"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search3_min.js"},
+{"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/豆瓣[官].js"},
+{"key":"drjs_雷蒙直播","name":"雷蒙影视 | 🤠雷蒙直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/live2cms.json"},
+{"key":"drjs_雷蒙资源","name":"雷蒙影视 | 😎雷蒙资源","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/雷蒙资源静态.json$1"},
+
 {"key":"csp_ConfigCenter","name":"雷蒙影视 | 💿配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"./zx.json"}},
+{"key":"csp_网盘集合","name":"雷蒙影视 | 💿网盘集合(SP)","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./zx.json","share":"./N3RD/T/网盘集合.json"}},
 {"key":"csp_Wogg","name":"雷蒙影视 | 💿玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"./zx.json","siteUrl":"https://www.wogg.bf/","filter":"./N3RD/T/wogg.json"}},
 {"key":"csp_kongbai_蜡笔","name":"雷蒙影视 | 💿蜡笔(SP)","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"./zx.json","siteUrl":"https://duopan.fun/","filter":"./N3RD/T/wogg.json"}},
 {"key":"csp_Star2","name":"雷蒙影视 | 💿星剧社(SP)","type":3,"api":"csp_Star2","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./zx.json"}},
@@ -27,7 +33,7 @@
 {"key":"csp_PanSearch","name":"雷蒙影视 | 💿盘搜索(SP)","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"./zx.json"}},
 {"key":"csp_TgYunPan1","name":"雷蒙影视 | 💿TG云盘Ⅰ(SP)","type":3,"api":"csp_TgYunPan","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://144.126.217.226:8000","channelUsername":"yunpanshare","commonConfig":"./zx.json"}},
 {"key":"csp_TgYunPan2","name":"雷蒙影视 | 💿TG云盘Ⅱ(SP)","type":3,"api":"csp_TgYunPan","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://144.126.217.226:8000","channelUsername":"guaguale115","commonConfig":"./zx.json"}},
-{"key":"csp_网盘集合","name":"雷蒙影视 | 💿网盘集合(SP)","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./zx.json","share":"./N3RD/T/网盘集合.json"}},
+
 {"key":"csp_Jianpian","name":"雷蒙影视 | 🥇荐片(SP)","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"./N3RD/T/jianpian.json"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./zx.json"}}
 ]
