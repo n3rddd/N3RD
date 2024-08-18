@@ -19,6 +19,8 @@
 ],
 
 "sites":[
+{"jar":"./N3RD/J/market.jar","key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
+
 {"key":"lfjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(LFJS)","type":3,"api":"./EXT/JS/lf_search3_min.js"},
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/豆瓣[官].js"},
 {"key":"drjs_雷蒙直播","name":"雷蒙影视 | 🤠雷蒙直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/live2cms.json"},
