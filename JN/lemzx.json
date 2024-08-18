@@ -1,0 +1,34 @@
+{
+"spider":"./N3RD/J/zx.jar",
+
+"logo":"./N3RD/W/ICONSGIF.gif",
+
+"wallpaper":"hhttps://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/crimetv.png",
+
+"notice": "欢迎使用雷蒙影视",
+
+"lives":[
+{"name":"雷蒙影视电视直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"雷蒙影视轻量直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/litelive.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"雷蒙影视宣传片","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/ctvpv.txt","ua":"okhttp/3.15","logo":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON1.png"},
+{"name":"IPTV","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"看电视呗","type":0,"url":"http://tv.850930.xyz/kdsb2.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YOUTUBE直播","type":0,"url":"https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/YTTV.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YOUTUBE音乐","type":0,"url":"http://yt.850930.xyz","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://5b0988e595225.cdn.sohucs.com/images/20190313/ad9ebfafbec640b7b41b9250156dff39.png"},
+{"name":"YOUTUBE榜单","type":0,"url":"http://yt.850930.xyz/playlist.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://5b0988e595225.cdn.sohucs.com/images/20190313/ad9ebfafbec640b7b41b9250156dff39.png"}
+],
+
+"sites":[
+{"key":"csp_ConfigCenter","name":"雷蒙影视 | 💿配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"./zx.json"}},
+{"key":"csp_Wogg","name":"雷蒙影视 | 💿玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"./zx.json","siteUrl":"https://www.wogg.bf/","filter":"./N3RD/T/wogg.json"}},
+{"key":"csp_kongbai_蜡笔","name":"雷蒙影视 | 💿蜡笔(SP)","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"./zx.json","siteUrl":"https://duopan.fun/","filter":"./N3RD/T/wogg.json"}},
+{"key":"csp_Star2","name":"雷蒙影视 | 💿星剧社(SP)","type":3,"api":"csp_Star2","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./zx.json"}},
+{"key":"csp_YiSo","name":"雷蒙影视 | 💿易搜(SP)","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./zx.json"}},
+{"key":"csp_PanSearch","name":"雷蒙影视 | 💿盘搜索(SP)","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"./zx.json"}},
+{"key":"csp_TgYunPan1","name":"雷蒙影视 | 💿TG云盘Ⅰ(SP)","type":3,"api":"csp_TgYunPan","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://144.126.217.226:8000","channelUsername":"yunpanshare","commonConfig":"./zx.json"}},
+{"key":"csp_TgYunPan2","name":"雷蒙影视 | 💿TG云盘Ⅱ(SP)","type":3,"api":"csp_TgYunPan","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://144.126.217.226:8000","channelUsername":"guaguale115","commonConfig":"./zx.json"}},
+{"key":"csp_网盘集合","name":"雷蒙影视 | 💿网盘集合(SP)","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./zx.json","share":"./N3RD/T/网盘集合.json"}},
+{"key":"csp_Jianpian","name":"雷蒙影视 | 🥇荐片(SP)","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"./N3RD/T/jianpian.json"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./zx.json"}}
+]
+}
