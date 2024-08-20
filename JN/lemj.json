@@ -278,6 +278,15 @@
  
 
 // ⇩⇩ 道长HIPY-JS规则 ⇩⇩ 
+{"key":"drjs_央视合集[央]","name":"雷蒙影视 | 👺央视合集[央](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/央视合集[央].js"},
+{"key":"drjs_央视大全[央]","name":"雷蒙影视 | 👺央视大全[央](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/央视大全[央].js"},
+{"key":"drjs_央视4K1[央]","name":"雷蒙影视 | 👺央视4K1[央](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/央视4K1[央].js"},
+{"key":"drjs_央视4K2[央]","name":"雷蒙影视 | 👺央视4K2[央](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/央视4K2[央].js"},
+{"key":"drjs_央视综合[央]","name":"雷蒙影视 | 👺央视综合[央](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/央视综合[央].js"},
+{"key":"drjs_央视经济[央]","name":"雷蒙影视 | 👺央视经济[央](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/央视经济[央].js"},
+{"key":"drjs_央视新闻[央]","name":"雷蒙影视 | 👺央视新闻[央](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/央视新闻[央].js"},
+{"key":"drjs_央视少儿[央]","name":"雷蒙影视 | 👺央视少儿[央](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/央视少儿[央].js"},
+ 
 {"key":"drjs_豆瓣[官]","name":"雷蒙影视 | 👺豆瓣[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/豆瓣[官].js"},
 {"key":"drjs_我的哔哩[官]","name":"雷蒙影视 | 👺我的哔哩[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩[官].js?type=url&params=../json/Bili1.json"},
 {"key":"drjs_我的哔哩传参[官]","name":"雷蒙影视 | 👺我的哔哩传参[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩传参[官].js?type=url&params=../json/Bili1.json"},
@@ -336,6 +345,12 @@
 {"key":"drjs_剧圈圈","name":"雷蒙影视 | 👺剧圈圈(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/剧圈圈.js"},
 {"key":"drjs_4K-AV","name":"雷蒙影视 | 👺4K-AV(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/4K-AV.js"},
 {"key":"drjs_采集大全","name":"雷蒙影视 | 👺采集大全(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集大全.js"},
+{"key":"drjs_石榴电影","name":"雷蒙影视 | 👺石榴电影(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/石榴电影.js"},
+{"key":"drjs_白嫖者影视","name":"雷蒙影视 | 👺白嫖者影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/白嫖者影视.js"},
+{"key":"drjs_CNN影院","name":"雷蒙影视 | 👺CNN影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/CNN影院.js"},
+{"key":"drjs_看片狂人","name":"雷蒙影视 | 👺看片狂人(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/看片狂人.js"},
+{"key":"drjs_最新4K","name":"雷蒙影视 | 👺最新4K(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/最新4K.js"},
+{"key":"drjs_飞飞影视","name":"雷蒙影视 | 👺飞飞影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/飞飞影视.js"},
 {"key":"drjs_嘀哩","name":"雷蒙影视 | 👺嘀哩(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/嘀哩.js"},
 {"key":"drjs_华乐影院","name":"雷蒙影视 | 👺华乐影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/华乐影院.js"},
 {"key":"drjs_策驰影院","name":"雷蒙影视 | 👺策驰影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/策驰影院.js"},
