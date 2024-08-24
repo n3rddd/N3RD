@@ -182,6 +182,14 @@
 {"key":"csp_PanSou","name":"雷蒙影视 | 📀盘搜(网盘APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 📀PanSearch(网盘APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
+
+// ⇩⇩ 解析 ⇩⇩ 
+{"key":"drjs_优酷[官]","name":"雷蒙影视 | 🔻优酷(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/优酷[官].js"},
+{"key":"drjs_百忙无果[官]","name":"雷蒙影视 | 🥭芒果TV(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/百忙无果[官].js"},
+{"key":"drjs_奇珍异兽[官]","name":"雷蒙影视 | 🥝爱奇艺(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/奇珍异兽[官].js"},
+{"key":"drjs_腾云驾雾[官]","name":"雷蒙影视 | 🐧腾讯视频(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/腾云驾雾[官].js"},
+
+
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./N3RD/T/a.json"},
 {"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt","jar":"./N3RD/J/pg.jar"},
 //{"key":"push_agent","name":"雷蒙影视 | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/t.txt"},
@@ -246,13 +254,6 @@
 {"jar":"./N3RD/J/gy.jar","key":"csp_App摩托_MULTIJAR","name":"雷蒙影视 | 🐷摩托(MULTI)","type":3,"api":"csp_App","searchable":1,"quickSearch":0,"filterable":0,"ext":"j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"},
 {"jar":"./N3RD/J/gy.jar","key":"csp_WebVidHub_MULTIJAR","name":"雷蒙影视 | 🐷VidHub(MULTI)","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
 {"jar":"./N3RD/J/gy.jar","key":"csp_AppXY_MULTIJAR","name":"雷蒙影视 | 🐷星芽(MULTI)","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
-
-
-// ⇩⇩ 解析 ⇩⇩ 
-{"key":"drjs_优酷[官]","name":"雷蒙影视 | 🔻优酷(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/优酷[官].js"},
-{"key":"drjs_百忙无果[官]","name":"雷蒙影视 | 🥭芒果TV(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/百忙无果[官].js"},
-{"key":"drjs_奇珍异兽[官]","name":"雷蒙影视 | 🥝爱奇艺(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/奇珍异兽[官].js"},
-{"key":"drjs_腾云驾雾[官]","name":"雷蒙影视 | 🐧腾讯视频(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/腾云驾雾[官].js"},
 
 
 // ⇩⇩ T4 ⇩⇩ 
