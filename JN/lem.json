@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0817.jar;md5;34F674942AD9A09879631E8E1B844FD6",
-
+"spider":"./N3RD/J/lem0824.jar;md5;7797790B2BF868927338A37EA0EA049A",
+ 
+//"spider":"./N3RD/J/lem0817.jar;md5;34F674942AD9A09879631E8E1B844FD6",
 //"spider":"./N3RD/J/lem0802.jar;md5;40C61554085B24DF4375B9AB5B8C0B5A",
 //"spider":"./N3RD/J/lem0801.jar;md5;019F16F22893C656CD0668DAC21F26C0",
 //"spider":"./N3RD/J/lem0728.jar;md5;F8EC53D7149B810D53325AA0F9696CB2",
@@ -48,7 +49,6 @@
 {"key":"csp_YGP","name":"雷蒙影视 | 🎞预告片(SP)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"drjs_雷蒙资源","name":"雷蒙影视 | 😎雷蒙资源","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=http://tv.850930.xyz/雷蒙资源静态.json$1"},
 {"key":"drjs_雷蒙直播","name":"雷蒙影视 | 🤠雷蒙直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/live2cms.json"},
-{"key":"csp_CCTV_ZAL","name":"雷蒙影视 | ©央视(SP)","type":3,"api":"csp_CCTV","searchable":1,"filterable":0,"changeable":0,"ext":"./EXT/XB/cctv.json"},
 
 
 // ⇩⇩ PGjar加载 ⇩⇩
@@ -58,7 +58,6 @@
 {"jar":"./N3RD/J/pg.jar","key":"csp_Ikanbot_PG","name":"雷蒙影视 | 🤖爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.aikanbot.com/$$$cfg"},
 {"jar":"./N3RD/J/pg.jar","key":"csp_Jianpian_PG","name":"雷蒙影视 | 🥇荐片弹幕版(SP)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./N3RD/T/jianpian.json$$$1"},
 {"jar":"./N3RD/J/pg.jar","key":"csp_Kuaikan_PG","name":"雷蒙影视 | 👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"jar":"./N3RD/J/pg.jar","key":"csp_Olevod_PG","name":"雷蒙影视 | 🍿欧乐影院(SP)","type":3,"api":"csp_Olevod","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$null$$$cfg$$$1"},
 {"jar":"./N3RD/J/pg.jar","key":"vod_量子资源","name":"雷蒙影视 | 🚀量子资源","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"jar":"./N3RD/J/pg.jar","key":"vod_非凡资源","name":"雷蒙影视 | 🚀非凡资源","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"jar":"./N3RD/J/pg.jar","key":"vod_暴风资源","name":"雷蒙影视 | 🚀暴风资源","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://app.bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
@@ -70,7 +69,7 @@
 {"key":"vod_海外资源","name":"雷蒙影视 | ️🚀海外资源","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"vod_华为资源","name":"雷蒙影视 | ️🚀华为资源","type":1,"api":"http://nikanba.live/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
-{"key":"csp_RinHome_ZAL","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Jianpian_FM","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://api2.rinhome.com"},
 {"key":"drjs_爱看机器人2","name":"雷蒙影视 | 👹爱看机器人2(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"drjs_爱看机器人3","name":"雷蒙影视 | 👹爱看机器人3(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot3.js"},
 {"key":"drjs_影视大全","name":"雷蒙影视 | 🎬影视大全(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影视大全.js"},
@@ -78,6 +77,7 @@
 {"key":"drjs_我的哔哩[官]","name":"雷蒙影视 | 🅱我的哔哩(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩[官].js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/Bili1.json"},
 {"key":"csp_Jpys","name":"雷蒙影视 | 💮文才(SP)","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Zx4k","name":"雷蒙影视 | 🚝专线(SP)","type":3,"api":"csp_Zx4k","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Appxd","name":"雷蒙影视 | 💥兄弟(SP)","type":3,"api":"csp_Appxd","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="},
 {"key":"csp_Appmq","name":"雷蒙影视 | 🍓煤球(SP)","type":3,"api":"csp_Appmq","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_NanGua","name":"雷蒙影视 | 🎃南瓜影视(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Kkys","name":"雷蒙影视 | 💡酷看影视(SP)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1}, 
@@ -99,23 +99,15 @@
 {"key":"csp_W55Movie","name":"雷蒙影视 | 5️⃣555电影(SP)","type":3,"api":"csp_W55Movie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DaGongRen","name":"雷蒙影视 | 👤打工人电影(SP)","type":3,"api":"csp_DaGongRen","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_HkTv","name":"雷蒙影视 | 🌥TVB云播(SP)","type":3,"api":"csp_HkTv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Yj1211","name":"雷蒙影视 | 🎙JustLive直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key":"csp_Yj1211","name":"雷蒙影视 | 🎙JustLive直播(SP)","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_Anime1","name":"雷蒙影视 | 🌸Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_Dm84","name":"雷蒙影视 | 🌸动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
-{"key":"csp_Ying","name":"雷蒙影视 | 🌸樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"雷蒙影视 | 🌸异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Djtt","name":"雷蒙影视 | 🌈短剧(SP)","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Kanqiu","name":"雷蒙影视 | ⚽看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
 {"key":"csp_Kugou","name":"雷蒙影视 | 🎵酷狗音乐(SP)","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},
 {"key":"csp_XingYiYing","name":"雷蒙影视 | 🌟星易影(SP)","type":3,"api":"csp_XingYiYing","searchable":1,"quickSearch":1,"filterable":1},
-
-// ⇩⇩ 解析 ⇩⇩ 
 {"key":"csp_SP360","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_IQIYI_ZAL","name":"雷蒙影视 | 🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_MGTV_ZAL","name":"雷蒙影视 | 🥭芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_QQ_ZAL","name":"雷蒙影视 | 🐧腾讯视频(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_YOUKU_ZAL","name":"雷蒙影视 | 🔻优酷(SP)","type":3,"api":"csp_YOUKU","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_CZSPP_QJ","name":"雷蒙影视 | 👴厂长资源(备用)","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="},
@@ -155,6 +147,7 @@
 {"key":"csp_FengGo_FM","name":"雷蒙影视 | 🐕疯狗(SP)","type":3,"api":"csp_FengGo","playerType":2},
 {"key":"csp_Nkdy_FM","name":"雷蒙影视 | 🏔耐看(SP)","type":3,"playerType":"2","api":"csp_Nkdy"},
 {"key":"csp_Netfixtv_FM","name":"雷蒙影视 | 💌至臻(SP)","type":3,"api":"csp_Netfixtv","playerType":2,"filterable":1,"ext":"http://mpanso.com"},
+{"key":"csp_Bttwo_FM","name":"雷蒙影视 | ✌️️比特(SP)","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Vidhub2_FM","name":"雷蒙影视 | 🎼Vid(SP)","type":3,"api":"csp_Vidhub2","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppRZ_FM","name":"雷蒙影视 | 🕵忍者(SP)","type":3,"playerType":2,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
 {"key":"csp_FreeOK_FM","name":"️️雷蒙影视 | 👌OK(SP)","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
@@ -165,6 +158,7 @@
 {"key":"csp_BookTing_FM","name":"雷蒙影视 | 📚听书(SP)","type":3,"playerType":2,"api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
 {"key":"csp_YouShengBook_FM","name":"雷蒙影视 | 📚有声(SP)","type":3,"playerType":2,"api":"csp_YouShengBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
 {"key":"csp_Xifan_FM","name":"雷蒙影视 | 🍚稀饭(SP)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kanqiu_FM","name":"雷蒙影视 | ⚽看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
  
 // ⇩⇩ CM SPIDER ⇩⇩ 
 {"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/freeok.json"},
@@ -181,12 +175,11 @@
 {"key":"csp_CandyMuj_yinfans","name":"雷蒙影视 | 🧲音范丝(SP)","type":3,"api":"csp_CandyMuj_yinfans","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ 网盘搜索 ⇩⇩ 
-{"key":"csp_PanTa","name":"雷蒙影视 | 📀盘他(网盘APP扫码)","type":3,"api":"csp_PanTa","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"csp_KkSs","name":"雷蒙影视 | 📀抠抠(网盘APP扫码)","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_PanSearch_夸克","name":"雷蒙影视 | 📀夸搜(网盘APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_MIPanSo","name":"雷蒙影视 | 📀米搜(网盘APP扫码)","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_YiSo","name":"雷蒙影视 | 📀易搜(网盘APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_PanSou","name":"雷蒙影视 | 📀盘搜(网盘APP扫码)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"csp_UpYun","name":"雷蒙影视 | 📀云搜(网盘APP扫码)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 📀PanSearch(网盘APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./N3RD/T/a.json"},
@@ -195,7 +188,6 @@
 
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
-{"jar":"./N3RD/J/pg.jar","key":"csp_Star_PG","name":"雷蒙影视 | ⭐星星(SP)","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":""},
 {"jar":"./N3RD/J/pg.jar","key":"csp_P115Share","name":"雷蒙影视 | 💿115云盘分享(SP)","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/115share.txt","style":{"type":"list","ratio":1.1}},
 {"jar":"./N3RD/J/pg.jar","key":"csp_Hdhive","name":"雷蒙影视 | 💿影巢(SP)","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.txt$$$https://www.hdhive.online/$$$cfg$$$1"},
 {"jar":"./N3RD/J/pg.jar","key":"csp_YingSo","name":"雷蒙影视 | 💿影搜(SP)","type":3,"api":"csp_YingSo","timeout":60,"ext":"./N3RD/T/pg.txt"},
@@ -254,6 +246,13 @@
 {"jar":"./N3RD/J/gy.jar","key":"csp_App摩托_MULTIJAR","name":"雷蒙影视 | 🐷摩托(MULTI)","type":3,"api":"csp_App","searchable":1,"quickSearch":0,"filterable":0,"ext":"j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"},
 {"jar":"./N3RD/J/gy.jar","key":"csp_WebVidHub_MULTIJAR","name":"雷蒙影视 | 🐷VidHub(MULTI)","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
 {"jar":"./N3RD/J/gy.jar","key":"csp_AppXY_MULTIJAR","name":"雷蒙影视 | 🐷星芽(MULTI)","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
+
+
+// ⇩⇩ 解析 ⇩⇩ 
+{"key":"drjs_优酷[官]","name":"雷蒙影视 | 🔻优酷(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/优酷[官].js"},
+{"key":"drjs_百忙无果[官]","name":"雷蒙影视 | 🥭芒果TV(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/百忙无果[官].js"},
+{"key":"drjs_奇珍异兽[官]","name":"雷蒙影视 | 🥝爱奇艺(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/奇珍异兽[官].js"},
+{"key":"drjs_腾云驾雾[官]","name":"雷蒙影视 | 🐧腾讯视频(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/腾云驾雾[官].js"},
 
 
 // ⇩⇩ T4 ⇩⇩ 
