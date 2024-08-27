@@ -36,8 +36,8 @@
 
 "sites":[
 
-{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"👺雷蒙影视规则专线👺","type":3,"api":"csp_Notice","ext":"雷蒙影视规则专线 2024.08.12"},
-{"jar":"./N3RD/J/pg.jar","key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
+{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"👺雷蒙影视规则专线👺","type":3,"api":"csp_Notice","ext":"雷蒙影视规则专线 2024.08.27"},
+{"jar":"./N3RD/J/market.jar","key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 
 // ⇩⇩ 豆瓣片单 ⇩⇩ 
 {"key":"csp_Douban","name":"雷蒙影视规则专线 | 📡我的豆瓣(SP)","jar":"./N3RD/J/pg.jar","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
