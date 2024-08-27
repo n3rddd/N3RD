@@ -33,6 +33,7 @@
 {"key":"csp_Star2","name":"雷蒙影视 | 💿星剧社(SP)","type":3,"api":"csp_Star2","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./N3RD/T/zx.json"}},
 {"key":"csp_YiSo","name":"雷蒙影视 | 💿易搜(SP)","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./N3RD/T/zx.json"}},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 💿盘搜索(SP)","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"./N3RD/T/zx.json"}},
+{"key":"csp_XiaoZhiTiao","name":"雷蒙影视 | 💿小纸条(SP)","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"ext":{"commonConfig":"./N3RD/T/zx.json"}},
 {"key":"csp_TgYunPanLocal1","name":"雷蒙影视 | 💿TG搜索Ⅰ(SP)","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"yunpanshare","commonConfig":"./N3RD/T/zx.json"}},
 {"key":"csp_TgYunPanLocal2","name":"雷蒙影视 | 💿TG搜索Ⅱ(SP)","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"shareAliyun","commonConfig":"./N3RD/T/zx.json"}},
 {"key":"csp_TgYunPanLocal3","name":"雷蒙影视 | 💿TG搜索Ⅲ(SP)","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"kuakeyun","commonConfig":"./N3RD/T/zx.json"}},
