@@ -212,9 +212,15 @@
 
 
 // ⇩⇩ T4 ⇩⇩ 
-{"key":"T4_黑木","name":"雷蒙影视 | 4️⃣木耳(T4)","type":4,"api":"https://t4.doube.eu.org/del_ads_heimuer.php","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"T4_CNTV","name":"雷蒙影视 |4️⃣CNTV(T4)","type":4,"api":"https://azure.leuse.top/vod/cntv","searchable":0,"filterable":0},
+{"key":"T4_木耳","name":"雷蒙影视 | 4️⃣木耳(T4)","type":4,"api":"https://t4.doube.eu.org/del_ads_heimuer.php","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"T4_黑木","name":"雷蒙影视 | 4️⃣黑木(T4)","type":4,"api":"https://t4.doube.eu.org/heimuer.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_海外","name":"雷蒙影视 | 4️⃣海外(T4)","type":4,"api":"https://t4.doube.eu.org/huaweiba.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_木木","name":"雷蒙影视 | 4️⃣木木(T4)","type":4,"api":"http://zhangqun66.xyz/225.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4_金鹰","name":"雷蒙影视 | 4️⃣金鹰(T4)","type":4,"api":"http://zhangqun66.xyz/jy.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4_华为","name":"雷蒙影视 | 4️⃣华为(T4)","type":4,"api":"http://zhangqun66.xyz/hwb.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4_索尼","name":"雷蒙影视 | 4️⃣索尼(T4)","type":4,"api":"http://zhangqun66.xyz/sn.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4_合集","name":"雷蒙影视 | 4️⃣合集(T4)","type":1,"api":"http://zhangqun66.xyz/cjjh.php","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"T4_感觉","name":"雷蒙影视 | 4️⃣感觉(T4)","type":4,"api":"https://catbox.n13.club/t9/xinganjue.php"},
 {"key":"T4_央视","name":"雷蒙影视 | 4️⃣央视(T4)","type":4,"api":"https://catbox.n13.club/t9/cntv.php"},
 {"key":"T4_豆瓣","name":"雷蒙影视 | 4️⃣豆瓣(T4)","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
