@@ -42,12 +42,6 @@
     "cate_exclude": ""
   },
   {
-    "name": "飞刀资源",
-    "url": "http://www.feidaozy.com",
-    "parse_url": "",
-    "cate_exclude": "^电影$|^电视剧$|^综艺$|^动漫$"
-  },
-  {
     "name": "优质资源",
     "url": "https://api.1080zyku.com",
     "parse_url": "",
@@ -96,6 +90,20 @@
     "parse_url": "",
     "api": "/xinlangapi.php/provide/vod/from/xlm3u8/",
     "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"
+  },
+  {
+    "name": "超级资源",
+    "url": "http://cjvip.free.hr",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": ""
+  },
+  {
+    "name": "追风资源",
+    "url": "http://www.zfsp.cc",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": ""
   },
   {
     "name": "iku喵",
