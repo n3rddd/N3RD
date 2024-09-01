@@ -252,6 +252,15 @@
     "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&20&21&22&23&24"
   },
   {
+    "name": "超级影视",
+    "url": "http://cjvip.free.hr",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "/api.php/provide/vod/?ac=list",
+    "class_name": "H4sIABz802YC/zWQj26CMBDG36ZPsLfYS4lOEBf/kDDmJpFFcJ0OI2S6OKD4Mr1eeYu1tSRN+vvuLnffHYYXYCXB8CKpCz4lWDfSrwhMv0TzrT/OYvQ9AlGs0ppwUorR2BAN4K/WJJylGESmzqc2KyYrXvkmtma8orq7uJ5gURh63XXJ3lBOsZ1r4s0nLl3T2Wm791bTwyNai8lR18DOszNVUHmWNJWncz/Cul4zyCIrsDoAezGGYh/Soq9ZzCTLu4Ert0fV9KfbBsJ5VrupTCbTMa/fePtBcH+Tv1PIZrz2SOfNMExwt5HlgcinQJw3YphjFBCcF7xOuxGD65DA6qae3bC/p/FnxX3jXpiT3MU/k1CZPo4BAAA=",
+    "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&19&20&21&22&23&25&26&27&28&29&30&31&32&33&34&35&36&37&38&39&40&41"
+  },
+  {
     "name": "iku喵",
     "url": "http://caiji.ikum.cc:8099",
     "parse_url": "",
