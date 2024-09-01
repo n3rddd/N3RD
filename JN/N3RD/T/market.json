@@ -50,7 +50,7 @@
 
 {"name":"雷蒙推荐",
 "list":[
-{"name":"OurTV","url":"https://cors.isteed.cc/https://github.com/andandroidor/ourtv/releases/download/3.2.3/OurTV_3.2.3_android_tv.apk","version":"3.2.3 20240827","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/COVER1.png"},
+{"name":"OurTV","url":"https://cors.isteed.cc/https://github.com/andandroidor/ourtv/releases/download/3.2.5/OurTV_3.2.5_android_tv.apk","version":"3.2.5 20240831","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/COVER1.png"},
 
 {"name":"FongMi影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk","version":"JAVA v8a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
 {"name":"FongMi影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk","version":"JAVA v7a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
@@ -64,7 +64,12 @@
 {"name":"OK影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk","version":"PYTHON v8a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
 {"name":"OK影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk","version":"PYTHON v7a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
 {"name":"OK影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk","version":"BETA v8a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
-{"name":"OK影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk","version":"BETA v7a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"}
+{"name":"OK影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk","version":"BETA v7a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
+
+{"name":"影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-arm64_v8a.apk","version":"JAVA v8a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
+{"name":"影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-armeabi_v7a.apk","version":"JAVA v7a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
+{"name":"影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-python-arm64_v8a.apk","version":"PYTHON v8a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
+{"name":"影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-python-armeabi_v7a.apk","version":"PYTHON v7a","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"}
 
 ]
 },
