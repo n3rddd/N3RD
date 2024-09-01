@@ -1,0 +1,27 @@
+var rule = {
+    title: '[影]韩迷TV',
+    host: 'https://www.hmtv8.cc/',
+    url: '/fyclass/page/fypage',
+    searchUrl: '/page/fypage?s=**',
+    searchable: 2,
+    headers: {
+        'User-Agent': 'MOBILE_UA',
+    },
+    timeout: 5000,
+    class_name: '韩剧&韩综&韩影',
+    class_url: 'hanju&zongyi&dianying',
+    play_parse: true,
+    lazy: "js:\n  input = { parse: 1, url: input, js: '' };",
+    double: true,
+    推荐: '*',
+    一级: '.m-movies .u-movie;h2&&Text;.thumb&&data-original;.zhuangtai&&Text;a&&href;.tags&&Text',
+    二级: {
+        title: '.item-title&&Text',
+        img: '.video_img img&&src',
+        desc: '/',
+        content: '.jianjie&&Text',
+        tabs: 'h4.ctitle',
+        lists: '#video_list_li:eq(#id)&&a',
+    },
+    搜索: '.m-movies .u-movie;h2&&Text;.thumb&&data-original;.zhuangtai&&Text;a&&href;.tags&&Text',
+}
