@@ -261,6 +261,18 @@
     "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&19&20&21&22&23&25&26&27&28&29&30&31&32&33&34&35&36&37&38&39&40&41"
   },
   {
+    "name": "追风资源",
+    "url": "http://www.zfsp.cc",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAAYA1GYC/x3OwQqCQBSF4bc5z1mEg+OiDMSCBlzVZE2ohFDq1Mt479W3yGl5/m9zJGvJN5CsnawibUHJlYc7pB8m3YU1egPKTTCJG95E4HXKqxxi9/TusUCIklTibyAVkakxFyWdPPhV0a4GOyufLcbhIqkCH85sHDiv59Lxc+H4OHYaUjz+B74Rpe4H4ulpN5gAAAA=",
+    "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&20&21&22&23&24&25",
+    "cate_excludes": [
+      "必听"
+    ]
+  },
+  {
     "name": "iku喵",
     "url": "http://caiji.ikum.cc:8099",
     "parse_url": "",
