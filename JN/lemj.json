@@ -348,6 +348,7 @@
 {"key":"drjs_剧圈圈","name":"雷蒙影视 | 👺剧圈圈(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/剧圈圈.js"},
 {"key":"drjs_4K-AV","name":"雷蒙影视 | 👺4K-AV(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/4K-AV.js"},
 {"key":"drjs_采集大全","name":"雷蒙影视 | 👺采集大全(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集大全.js"},
+{"key":"drjs_韩迷TV","name":"雷蒙影视 | 👺韩迷TV(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/韩迷TV.js"},
 {"key":"drjs_电影兔","name":"雷蒙影视 | 👺电影兔(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/电影兔.js"},
 {"key":"drjs_达达兔","name":"雷蒙影视 | 👺达达兔(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/达达兔.js"},
 {"key":"drjs_功夫熊猫","name":"雷蒙影视 | 👺功夫熊猫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/功夫熊猫.js"},
