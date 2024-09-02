@@ -297,6 +297,7 @@
 {"key":"drjs_爱看机器人[虫]","name":"雷蒙影视 | 👺爱看机器人[虫](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/爱看机器人[虫].js"},
 {"key":"drjs_荐片[优]","name":"雷蒙影视 | 👺荐片[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/荐片[优].js"},
 {"key":"drjs_PTT[优]","name":"雷蒙影视 | 👺PTT[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/PTT[优].js"},
+{"key":"drjs_腾讯4k[优]","name":"雷蒙影视 | 👺腾讯4k[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/腾讯4k[优].js"},
 {"key":"drjs_LIBVIO[优]","name":"雷蒙影视 | 👺LIBVIO[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/LIBVIO[优].js"},
 {"key":"drjs_rarbt[优]","name":"雷蒙影视 | 👺rarbt[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/rarbt[优].js"},
 {"key":"drjs_片多多[优]","name":"雷蒙影视 | 👺片多多[优](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/片多多[优].js"},
