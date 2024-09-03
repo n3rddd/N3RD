@@ -277,6 +277,15 @@
     ]
   },
   {
+    "name": "淘片资源",
+    "url": "https://taopianapi.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "/cjapi/mc/vod/json.html",
+    "class_name": "H4sIADb91mYC/2WQSQ6CMBSGb+OWKzpEtCxUDKIoiRuwDiRCjFFRPA3vVW5htS20umu//FMLzhYfBwvPF4h8+F5a7P54kVwycanZPK7WO8W884vaQKgF4xRvT36qdQllz9GP93rkuj8vnlJYFZoXIloFttSB3PfNk/sk464ypybj+zBM1DvqDr5ZdTS9QmqwahN8VhpM1phe8V2CQZFZOFyUOWFkoACjLtzuGoB40AAVI17VxIA9rYKd7nK2zDNi/JDrTUVZhHrzMMNeXwPYmWDb10HPwe5SzyD0x9JNmO/qofkeihkHbzgO+6MwAgAA",
+    "class_url": "16515072&16449536&16384000&16318464&16252928&16187392&16121856&16056320&15990784&15925248&15859712&15794176&15728640&15663104&15597568&15532032&15400960&15335424&15269888&15204352&15138816&15073280&15007744&14942208&14876672&14811136&14614528&14548992&8388608&1179648"
+  },
+  {
     "name": "iku喵",
     "url": "http://caiji.ikum.cc:8099",
     "parse_url": "",
