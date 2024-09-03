@@ -297,6 +297,7 @@
 {"key":"vod_魔都","name":"雷蒙影视 | ️🚀魔都","type":1,"api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_速播","name":"雷蒙影视 | ️🚀速播","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_优酷","name":"雷蒙影视 | ️🚀优酷","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"vod_卧龙","name":"雷蒙影视 | ️🚀卧龙","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_OK","name":"雷蒙影视 | ️🚀OK","type":1,"api":"https://api.okzy.org/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_金鹰","name":"雷蒙影视 | ️🚀金鹰","type":0,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]}
 
