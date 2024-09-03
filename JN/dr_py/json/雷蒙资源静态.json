@@ -305,6 +305,20 @@
     ]
   },
   {
+    "name": "金鹰资源",
+    "url": "https://jyzyapi.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAJwM12YC/zWOXQ6CQAyEb7Pn9Cciq4liRNRAwpOuRlTUkACynmbbrreQLfjUb6aTdigsrPJAKkFhAfohMFP0WTjje9xjeWdKz27g9sDqnOErd2SaIwUeyamA2cnoxBH5DxxP2IuSNsSeWkH1doTDAAcRb6Xqc+jvTC0d2VsOetPfw+YiwJtAwq9ag0I+YcorxLoPtJUwyf6iq94JejdW1gKWOVYfLqvXdvS0RWzquaD02no/UcDcbf0AAAA=",
+    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&29&30",
+    "cate_excludes": [
+      "电视剧",
+      "电影",
+      "动漫"
+    ]
+  },
+  {
     "name": "iku喵",
     "url": "http://caiji.ikum.cc:8099",
     "parse_url": "",
