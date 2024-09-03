@@ -357,6 +357,126 @@
     ]
   },
   {
+    "name": "百度资源",
+    "url": "https://api.apibdzy.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAE0T12YC/zVP7W7CMAx8mzzn1vGVTgKqla4TSEgTLMAQLaBMkDZ9msRO32KNm/67O9t3Z0yl1VeGqXRiYrlgWNWOK2bjA9S/zNQ/uJwgn3rB6A2hbNMteoSzK7yNCYnEPiuP4HUJLxntcRGmMMuN4qTtRPtFOfAooLl71G6PJHzuKV+drF6RZ1ygPoVsTCvsq9pFCc+GLs4Cm7lHdvxnqoy0e0kC5YRfOucuYyCPonMYCDkML6+1USI83t8MpA8KJDpjlvhabSShXIRaRn+46Obk2qh35uTIXQrWjwKBfA75NpD2e2ST+B8HkFGOfQEAAA==",
+    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&36&37&38&39",
+    "cate_excludes": [
+      "电影",
+      "电视剧",
+      "综艺",
+      "邵氏电影",
+      "资讯",
+      "电影资讯",
+      "明星资讯",
+      "预告"
+    ]
+  },
+  {
+    "name": "索尼资源",
+    "url": "https://suoniapi.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAFwU12YC/z1RbXaCMBC8TU7QW/RSip/oq8orxVp56hNoaqtFq1gFopfJZsMtGhLor93Z3czuTNBNgB0IuomkXbApwSyXdkpg8CHyrzJw5qPdI+D5ql1m2D+IVkdn1IFrVmaiORENT8/ZtOqK/itPbV2bM57Skl1sKd5GZVYsN7owjXS4xGWA8V6jow6YfgJ70VTJL4SenghpMetWR6rHiqYGimK8r4HeU2sx640i86YG5px/regaNZqqnjG7K5C74B54/kY4e5bWj0zmPB0SjL9x0iLyfCxDsW6DM9BEXizjFDpDokxWBksayPikHGTC6+FyVyri+TtOutVOfrExNeaoo01HRnfhXeuxaST8bQX4JRQNKuMbrCwC3Rn6S2ztZH9BHh7RfKzwbQhqKRAdi7UjmkP1hcrrJ8m26hRjfCiDDs9m/LYicD3xLMDNXZ4HRLYdcVoIa4ueQ3C0V52ixeBikcJKxH5s9vwBtOQp10cCAAA=",
+    "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&23&25&26&27&28&29&30&31&39&44&45&47&48&49&50&51&52&53&54&55&56&57&58&59&60&61&62&63&64&65&66&67&68&69&70",
+    "cate_excludes": [
+      "电影",
+      "电视剧",
+      "综艺",
+      "动漫",
+      "体育赛事",
+      "斯诺克",
+      "两性课堂"
+    ]
+  },
+  {
+    "name": "最大资源",
+    "url": "http://zuidazy.me",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAFsU12YC/z1RbXaCMBC8TU7QW/RSip/oq8orxVp56hNoaqtFq1gFopfJZsMtGhLor93Z3czuTNBNgB0IuomkXbApwSyXdkpg8CHyrzJw5qPdI+D5ql1m2D+IVkdn1IFrVmaiORENT8/ZtOqK/itPbV2bM57Skl1sKd5GZVYsN7owjXS4xGWA8V6jow6YfgJ70VTJL4SenghpMetWR6rHiqYGimK8r4HeU2sx640i86YG5px/regaNZqqnjG7K5C74B54/kY4e5bWj0zmPB0SjL9x0iLyfCxDsW6DM9BEXizjFDpDokxWBksayPikHGTC6+FyVyri+TtOutVOfrExNeaoo01HRnfhXeuxaST8bQX4JRQNKuMbrCwC3Rn6S2ztZH9BHh7RfKzwbQhqKRAdi7UjmkP1hcrrJ8m26hRjfCiDDs9m/LYicD3xLMDNXZ4HRLYdcVoIa4ueQ3C0V52ixeBikcJKxH5s9vwBtOQp10cCAAA=",
+    "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&23&25&26&27&28&29&30&31&39&44&45&47&48&49&50&51&52&53&54&55&56&57&58&59&60&61&62&63&64&65&66&67&68&69&70",
+    "cate_excludes": [
+      "电影",
+      "电视剧",
+      "综艺",
+      "动漫",
+      "体育赛事",
+      "斯诺克",
+      "伦理",
+      "两性课堂"
+    ]
+  },
+  {
+    "name": "无尽资源",
+    "url": "https://api.wujinapi.cc",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAFsU12YC/zVRWVbCQBC8zZxTwxp8CnliFI2AEhzUaIIQhSxwmeklt3Ayk/xVdVe/7qqmaQrlVvB5TvkXuFJQXrCbCRhtsPgUnHb5O66ZKgNyBwL8QKtqRMMtdnoGSQ+OeY3wcoIXvtG5suni8EFlrqk9lSqT9ZLqbYaHuEYwTvB4MotPN1pgar0IvJGAcI/PL0IVbzTpmz3ZB5R3NaoW740W79cYRAalfxD6Zj6U1azfGNECrW6JXjpOWhJJvbP1a2+zru1MS4ysJU5EvmfMjDY0NaZpFFP5YWrrQRNE5aSYjMmGi7ukPkuVt+z8cPqksitB8TdNOkK3WfZZrjjeC1qYD9gj24XWVUOKKUy3qngU/Lurx6vXrk7KpGyG1MGlTDbx2OAEr8/oHxti42qIOoR4ITk+wdIR0J9RsKDOFw/nAgMXVu0JsN5Vrx5eXumP639dcxnR0ITPXQ/3c5uJgONe5St6P/Ov/t045FVP5TN1Wgq6SXSn6pRwcP4BxMt0fHACAAA=",
+    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38&39&40&41&42&43&44&45&46&47&48&49&50&51&52&53&54&55&56&57&58&59",
+    "cate_excludes": [
+      "电影",
+      "连续剧",
+      "综艺",
+      "动漫",
+      "资讯",
+      "公告",
+      "头条",
+      "伦理片",
+      "体育赛事",
+      "短剧",
+      "两性课堂"
+    ]
+  },
+  {
+    "name": "天空资源",
+    "url": "http://api.tiankongapi.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAFsU12YC/zVQW3LCMAy8jc/JYygknSllCqGUTPkoYAphEqCB4uD0Mrbk3KK2Yn95V9autMJpqeWJodhrOcNoyMzfJ1ZHHXEGGcf6xaFmu4Df3CEd75RMXR+OTtAfEOITfa8cgu4rdBKHbK//hdG7EhHVktSWCcU7nJIC4xzlnmpLqQSnaatvS/w0eBwYVg8TCabXvFk8eeL2GReBzDdWFAitHTTjAu41ebX+raMVQJoF0ub0pLzpdRLIpfCbWIF7kK5l+JfJf5jeDH1u7NbNR01pexkmE8ozuKqKbqHkm+mdTblU4pnhyt32H73g+qZ2AQAA",
+    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38&39&40&41&42&44"
+  },
+  {
+    "name": "优酷资源",
+    "url": "https://api.ukuapi.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAFsU12YC/zWP3Q6CMAyF32bPqVHRcYGSIJBoQmKC8xcwhESB8TRbO95COufV+dqenLYYNVq+GEaNEZ7mgmHXG94y7V+gv5MoeUS+Zjo+TmMi3LxgsbIkQv3piGC+g1lsfVy4KWxS1XLbO0jVCkqHdwlDbSnJrTwEDgHRbyP+7tHbCj4Dtcfsan11RWKKSss9Zar+jDuPyDRLU5QM4mpMOleMp6UOfVdMgdNzf1saQJq5ArOnXZ2v3R/olyhvE30Bu+ncCxgBAAA=",
+    "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&20&21&22&23&24&25&26&27&28&30&31&32&33&34",
+    "cate_excludes": [
+      "电影",
+      "电视剧",
+      "资讯",
+      "新闻资讯",
+      "预告资讯",
+      "影视资讯",
+      "明星资讯",
+      "短剧"
+    ]
+  },
+  {
+    "name": "魔都资源",
+    "url": "https://www.moduzy.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAFsU12YC/zWQW27CMBBFd5N18lABR4iABKFABB8NmEeAQEULCU43k5mJd1F74nz53DsPjS+sVJlJ8Pf4Pnk43+rNoRGJpGLUiOcVgtSJ+qHpA9TN0/0hzY6u4rzqb035GYT0KH9XIrMTpYpI9D0II+NbosENux9McgKv3BK2x9gKuU9IV8XBZ5kJpq6PnSVXLz+QnZmCuPriPhj1ILhzXyehcMKb/SupI1O70MvCUnVJQc3Y29Qr6gjMtXq3sB+1ZGJYKUsuBkMmAHwV7M23GCVMj1+IQ6bv1E1ALPWi535eB9cIzrcRvNgJc4oZ/QdeIxHTjQEAAA==",
+    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38",
+    "cate_excludes": [
+      "电影",
+      "连续剧",
+      "灾难片"
+    ]
+  },
+  {
     "name": "iku喵",
     "url": "http://caiji.ikum.cc:8099",
     "parse_url": "",
