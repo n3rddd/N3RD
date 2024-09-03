@@ -286,6 +286,25 @@
     "class_url": "16515072&16449536&16384000&16318464&16252928&16187392&16121856&16056320&15990784&15925248&15859712&15794176&15728640&15663104&15597568&15532032&15400960&15335424&15269888&15204352&15138816&15073280&15007744&14942208&14876672&14811136&14614528&14548992&8388608&1179648"
   },
   {
+    "name": "OK资源",
+    "url": "https://api.okzy.org",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAAMM12YC/z1RbXaCMBC8TU7QW/RSip/oq8orxVp56hNoaqtFq1gFopfJZsMtGhLor93Z3czuTNBNgB0IuomkXbApwSyXdkpg8CHyrzJw5qPdI+D5ql1m2D+IVkdn1IFrVmaiORENT8/ZtOqK/itPbV2bM57Skl1sKd5GZVYsN7owjXS4xGWA8V6jow6YfgJ70VTJL4SenghpMetWR6rHiqYGimK8r4HeU2sx640i86YG5px/regaNZqqnjG7K5C74B54/kY4e5bWj0zmPB0SjL9x0iLyfCxDsW6DM9BEXizjFDpDokxWBksayPikHGTC6+FyVyri+TtOutVOfrExNeaoo01HRnfhXeuxaST8bQX4JRQNKuMbrCwC3Rn6S2ztZH9BHh7RfKzwbQhqKRAdi7UjmkP1hcrrJ8m26hRjfCiDDs9m/LYicD3xLMDNXZ4HRLYdcVoIa4ueQ3C0V52ixeBikcJKxH5s9vwBtOQp10cCAAA=",
+    "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&23&25&26&27&28&29&30&31&39&44&45&47&48&49&50&51&52&53&54&55&56&57&58&59&60&61&62&63&64&65&66&67&68&69&70",
+    "cate_excludes": [
+      "电影",
+      "电视剧",
+      "综艺",
+      "动漫",
+      "体育赛事",
+      "斯诺克",
+      "伦理",
+      "两性课堂"
+    ]
+  },
+  {
     "name": "iku喵",
     "url": "http://caiji.ikum.cc:8099",
     "parse_url": "",
