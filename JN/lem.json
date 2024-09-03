@@ -264,6 +264,10 @@
  
  
 // ⇩⇩ 采集 ⇩⇩ 
+{"key":"vod_NMSDS","name":"雷蒙影视 | 🚀NMSDS","type":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id24","playUrl":"json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="},
+{"key":"vod_SBSDS","name":"雷蒙影视 | 🚀SBSDS","type":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id25","playUrl":"json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="},
+{"key":"vod_DMSDS","name":"雷蒙影视 | 🚀DMSDS","type":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id26","playUrl":"json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="},
+{"key":"vod_WPSDS","name":"雷蒙影视 | 🚀WPSDS","type":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id27","playUrl":"json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="},
 {"key":"vod_优质","name":"雷蒙影视 | 🚀优质","type":1,"jar":"./N3RD/J/pg.jar","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
 {"key":"vod_乐视","name":"雷蒙影视 | ️🚀乐视","type":1,"jar":"./N3RD/J/pg.jar","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://leshiapi.com/api.php/provide/vod/","categories":["国产剧","香港剧","台湾剧","韩国剧","泰国剧","日剧","欧美剧","海外剧","短剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫","卡通动漫","伦理片","韩国伦理","日本伦理","其他伦理","纪录片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","电影","连续剧","动漫","综艺","电影解说","体育赛事","港台三级","反转爽剧","女频恋爱","古装仙侠","年代穿越","脑洞悬疑","现代都市"]},
 {"key":"vod_超级","name":"雷蒙影视 | 🚀超级","type":1,"api":"http://cjvip.free.hr/api.php/provide/vod/?ac=list","searchable":1,"filterable":1,"changeable":1},
@@ -369,7 +373,7 @@
 
 //PGY
 {"name":"666专线","url":"http://122.228.85.203:7979/api/?key=e5ef7605633990b8d99ee1bfae196786&url=","type":"1"},
-{"name":"QQ专线","url":"http://122.228.85.203:6789/api/?key=2b1654027ff6d809cefbc6001166d35a&url=","type":"1"},
+{"name":"YY专线","url":"http://122.228.85.203:6789/api/?key=de7ed0ead4328fe74ade88bd922e3f4f&url=","type":"1"},
 {"name":"XGJ专线","url":"http://43.248.100.147:1122/bba/xgjjson.php?url=","flag":["BBA"],"header":{"User-Agent":"Dalvik/2.1.0"},"type":"1"},
 {"name":"XMY专线","url":"http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=","flag":["NBY"],"header":{"User-Agent":"Dalvik/2.1.0"},"type":"1"},
 {"name":"LX专线","url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","flag":["LXTX"],"header":{"User-Agent":"Dalvik/2.1.0"},"type":"1"},
