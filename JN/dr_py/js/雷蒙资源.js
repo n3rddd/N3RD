@@ -49,7 +49,7 @@ var rule = {
     headers: {'User-Agent': 'MOBILE_UA'},
     timeout: 5000, // class_name: '电影&电视剧&综艺&动漫',
     limit: 20,
-    search_limit: 20, // 搜索限制取前5个，可以注释掉，就不限制搜索
+    search_limit: 50, // 搜索限制取前5个，可以注释掉，就不限制搜索
     searchable: 1,//是否启用全局搜索,
     quickSearch: 0,//是否启用快速搜索,
     filterable: 1,//是否启用分类筛选,
