@@ -264,17 +264,6 @@
  
  
 // ⇩⇩ 采集 ⇩⇩ 
-{"key":"vod_素白","name":"雷蒙影视 | 🚀素白","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":" http://43.242.202.173:3636/lib/%E7%B4%A0%E7%99%BD.php?key=624181815","playUrl":"json:http://43.242.202.173:3636/json.php/?key=624181815&url=","categories":[]},
-{"key":"vod_三六","name":"雷蒙影视 | 🚀三六","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/api.php?key=624181815&id=id11","playUrl":"json:http://43.242.202.173:3636/json.php/?key=624181815&url=","categories":[]},
-{"key":"vod_农民","name":"雷蒙影视 | 🚀农民","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/lib/农民jx.php?key=624181815","playUrl":"json:http://43.242.202.173:3636/json.php/?key=624181815&url=","categories":[]},
-{"key":"vod_糯米","name":"雷蒙影视 | 🚀糯米","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/lib/农民.php?key=624181815","categories":[]},
-{"key":"vod_金牌","name":"雷蒙影视 | 🚀金牌","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/lib/金牌.php?key=624181815"},
-{"key":"vod_急速","name":"雷蒙影视 | 🚀急速","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/api.php?key=624181815&id=id20","playUrl":"json:http://43.242.202.173:3636/json.php/?key=624181815&url=","categories":[]},
-{"key":"vod_牛牛","name":"雷蒙影视 | 🚀牛牛","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/api.php?key=624181815&id=id7","playUrl":"json:http://43.242.202.173:3636/json.php/?key=624181815&url=","categories":[]},
-{"key":"vod_量量","name":"雷蒙影视 | 🚀量量","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/api.php?key=624181815&id=id8","playUrl":"json:http://43.242.202.173:3636/json.php/?key=624181815&url=","categories":[]},
-{"key":"vod_欧欧","name":"雷蒙影视 | 🚀欧欧","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/api.php?key=624181815&id=id6","playUrl":"json:http://43.242.202.173:3636/json.php/?key=624181815&url=","categories":[]},
-{"key":"vod_STK","name":"雷蒙影视 | 🚀STK","type":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:3636/api.php?key=624181815&id=id18","playUrl":"json:http://43.242.202.173:3636/json.php/?key=624181815&url=","timeout":15,"searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"vod_优质","name":"雷蒙影视 | 🚀优质","type":1,"jar":"./N3RD/J/pg.jar","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
 {"key":"vod_超级","name":"雷蒙影视 | 🚀超级","type":1,"api":"http://cjvip.free.hr/api.php/provide/vod/?ac=list","searchable":1,"filterable":1,"changeable":1},
 {"key":"vod_追风","name":"雷蒙影视 | 🚀追风","type":1,"api":"http://www.zfsp.cc/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10},
