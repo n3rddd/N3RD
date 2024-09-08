@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0907.jar;md5;F77A478F6D74B504DFB2B8D0DDEA4A69",
+"spider":"./N3RD/J/lem0908.jar;md5;353164E2BA7BC852184CF55A76F03406",
 
+//"spider":"./N3RD/J/lem0907.jar;md5;F77A478F6D74B504DFB2B8D0DDEA4A69",
 //"spider":"./N3RD/J/lem0827.jar;md5;08ADF938B73282B222E3B9BD8F5B560D",
 //"spider":"./N3RD/J/lem0824.jar;md5;7797790B2BF868927338A37EA0EA049A",
 //"spider":"./N3RD/J/lem0817.jar;md5;34F674942AD9A09879631E8E1B844FD6",
@@ -130,9 +131,10 @@
 
 // ⇩⇩ FM SPIDER ⇩⇩ 
 {"key":"csp_Jiaozi_FM","name":"雷蒙影视 | 🌎饺子(SP)","type":3,"api":"csp_Jiaozi","playerType":2},
+{"key":"csp_Quanwk_FM","name":"雷蒙影视 | 🗺️️全网(SP)","type":3,"api":"csp_Quanwk","ext":"https://fm666.qkw1.cc"},
+{"key":"csp_Yhys_FM","name":"雷蒙影视 | 🚢宇航(SP)","type":3,"api":"csp_Yhys","playerType":2},
 {"key":"csp_SuBaiBai_FM","name":"雷蒙影视 | 🏳️素白(SP)","type":3,"api":"csp_SuBaiBai"},
 {"key":"csp_Nongm_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Nongm"},
-{"key":"csp_Quanwk_FM","name":"雷蒙影视 | 🗺️️全网(SP)","type":3,"api":"csp_Quanwk"},
 {"key":"csp_Kanke_FM","name":"雷蒙影视 | 👀看客(SP)","type":3,"api":"csp_Kanke","playerType":2},
 {"key":"csp_Ikan_FM","name":"雷蒙影视 | 💕爱看(SP)","type":3,"api":"csp_Ikan","playerType":2},
 {"key":"csp_Gz360_FM","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"api":"csp_Gz360","playerType":2},
