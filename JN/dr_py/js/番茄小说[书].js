@@ -240,7 +240,8 @@ var rule = {
         for (let it of json.data.search_book_data_list) {
             d.push({
                 title: decodeText(it.book_name, 1),
-                url: rule.config.api + "/novel/book/directory/list/v1?book_id=" + it.book_id,
+                //url: rule.config.api + "/novel/book/directory/list/v1?book_id=" + it.book_id,
+                url: "https://fanqienovel.com/page/" + it.book_id,
                 desc: decodeText(it.author, 1),
                 content: decodeText(it.book_abstract, 1),
                 pic_url: it.thumb_url
