@@ -1,1 +1,453 @@
-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
+
+
+var rule = {
+    title: '瓜子',
+    host: 'https://api.8utdtcq.com',
+    url: '/App/IndexList/indexList',
+    //   homeUrl: 'http://124.222.116.5/homedata/home.json',
+    searchUrl: '/App/Index/findMoreVod#**',
+    searchable: 2,
+    quickSearch: 1,
+    filterable: 1,
+    class_name: '电视剧&电影&动漫&综艺&短剧',
+    class_url: '2&1&4&3&64',
+    filter:'H4sIAAAAAAAAA+2a7U4aQRSG/3sVht/bZHf5WnorjWlo4YfphwlqE2NMtGoLWIsmFbRi2qYqoBgxtVVR8GZ2duUuOmchfuDuDHI2xJhD4hGYyTzv7hlm57yZ6aFh/gpogefDL5y38Jq+fuc0vklO8eZAPJWMB5S7Te/j75JebR/ibyeTd8Z1H/9mMBiJLZZb8+WusW7GhC5q4F7jzP3+Qsh2qbXxSQjpdMGSWrsb1umhkNTpgr6mXM06a4qvqd0FS7KqJbv5VUgyLxfsRsHKHyos+9NauuR3U2HNE7bZUKyFHP/E0hXF+rPmfOEMp/A/+HS1dOT827m0cwd2ZgOvtrBjFatCtZ0u6Fz/qHDp4ly3u2BJ5mmRLRfM+ndxupdrrL6rWPkaTwLb+sVveA3ubatStbZ2+B2GAdDTbvGfeZ4X62h3uU+6883I9adbCtxXoqlkPOW1Erm1PeKVSFf1kBDhdPCBEpRRgn5QdBlF94OiySiaHxRVRvEj+1pMQuEdfKAYMorhByUqo0T9oERklAiaoqnPtDA7O5aRwgoPIQhBCDoEDQJ+aqgq55vnvyUSVJXjVGCqQFdBhwqKVNCmRiBEIRgQ8HMp1ossLRZTFR40CDqEIIQQhDCECIQoBAMCXpbRmywDZBkgywBZBsgyQJYBsgyQZYAsA2QZeFnW5rFVqIhT6ONzcXzylddj0aXpET8VWbZsNop25rOIE0Zn52PVzq9KKHoMfTH5IsuUJJgIlmKnj6z5RQkliqaUVtnZuYRioBMzt2LN5iUUfF4yJfkd01T0xaTXzXpGhtF8+MnY32SZCeKnWX2PNdZkvxn0TbPnmq3vTdnVoCeanT20G3uyn6ZLbvpeocdSE55LtEtbf2u0fX7BVtLCNTrxcjSBf7wVZ3lxKeHEE4mJUX6FPsDs+QMJbPz1WAqPau2vs7TYHvJGeU0N591Ie0z+1H80fluxxr7UyW8jv438Nk8S+W2D8NugghOnk/y2Lgr5bQ+kkN9GfpurBPLbHiKL/LaB+W2bDbNeYpmS0D7Q/dk3yzBBfzbNMkzInx2zDIM3EJ19rAyD9lzam1gZBu3tWX9P2HZehsGbe86mWIZBu3vXu3ChteOC6XsxIGsHAXs61k6IrJ0uCFk7niSydtxJZO146CBrxxNC1g5ZO0IKWTvdFLJ2bkkga4esnYFaO+bpAVTC2bJ1sS8854A/g9I2KuQk9DGU4Y71Ike5eEl9J4tKbwTs6ZTeQSq9uyBUenuSqPR2J1Hp7aGDSm9PCJXeVHoLKVR6d1Oo9L4lgUpvKr0He6rC2Rfziu4qI9yl6+iDFXCqIlfrgYQ+W8H3f3xj1gPJp+MVPZBcTlj0PSuoxkfAnkCNPzTzH+StPxCsRAAA',
+    // limit: 6,
+    //double: false,
+    play_parse: true,
+    lazy: $js.toString(() => {
+        let d = [];
+        //console.log("wangzhi==="+input)
+        var vod_id = input.split("/")[0];
+        var vurl_id = input.split("/")[1];
+        var resolution=input.split("?")[1]
+        function Encrypt(plainText) {
+            let key = CryptoJS.enc.Utf8.parse("mvXBSW7ekreItNsT");
+            let iv = CryptoJS.enc.Utf8.parse("2U3IrJL8szAKp0Fj");
+            // 将文本加密为 AES/CBC/PKCS5Padding 格式
+            let encrypted = CryptoJS.AES.encrypt(plainText, key, {
+                iv: iv,
+                mode: CryptoJS.mode.CBC,
+                padding: CryptoJS.pad.Pkcs7
+            });
+
+            // 获取加密结果并转为 Hex 格式
+            let encryptedHex = encrypted.ciphertext.toString(CryptoJS.enc.Hex);
+            return encryptedHex.toUpperCase(); // 返回大写 Hex 格式
+        }
+        function Decrypt(word, key, iv) {
+            let encryptedHexStr = CryptoJS.enc.Hex.parse(word);
+
+            // 使用AES/CBC/PKCS5Padding模式进行解密
+            let decrypt = CryptoJS.AES.decrypt({
+                ciphertext: encryptedHexStr
+            }, key, {
+                iv: iv,
+                mode: CryptoJS.mode.CBC, // 使用CBC模式
+                padding: CryptoJS.pad.Pkcs7 // 使用PKCS#7填充
+            });
+
+            // 将解密后的数据转换为原始文本
+            let decryptedStr = decrypt.toString(CryptoJS.enc.Utf8);
+
+            // 返回解密后的文本
+            return decryptedStr;
+        }
+        var timestamp = new Date().getTime() / 1000; //log(timestamp)
+        var t = timestamp.toString().split('.')[0]; //log(t)
+        var request_key = JSON.stringify({
+            "domain_type": "8",
+            "vod_id": vod_id,
+            "type": "play",
+            "resolution": resolution,
+            "vurl_id": vurl_id
+        }); //log(request_key)
+        var request_key2 = Encrypt(request_key); //log(request_key2)
+        var signature = 'token_id=,token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79,phone_type=1,request_key=' + request_key2 + ',app_id=1,time=' + t + ',keys=ZH8gpdp9bxjuG2NK97sol3o7Uiz+9eVEaVMlE2Fk3j7EResM3YHnECZUH7BONNTjpy7RVNi/YimGuNYriC7Cmswv4PNYiFYzw9QhlqZKwNfCM6IUpFZ0T4rZx8G78zkv2tNVbfYC4qNQedGi07nWZ33dlSuVxROVfY5JxOWHMI0=*&zvdvdvddbfikkkumtmdwqppp?|4Y!s!2br'; //log(signature)
+        var signature2 = md5(signature); //log(signature2)
+        var body = 'token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79&token_id=&phone_type=1&time=' + t + '&phone_model=xiaomi-22021211rc&keys=ZH8gpdp9bxjuG2NK97sol3o7Uiz%2B9eVEaVMlE2Fk3j7EResM3YHnECZUH7BONNTjpy7RVNi%2FYimGuNYriC7Cmswv4PNYiFYzw9QhlqZKwNfCM6IUpFZ0T4rZx8G78zkv2tNVbfYC4qNQedGi07nWZ33dlSuVxROVfY5JxOWHMI0%3D&request_key=' + request_key2 + '&signature=' + signature2 + '&app_id=1&ad_version=1'; //log(body)
+
+        var html = fetch('https://api.8utdtcq.com/App/Resource/VurlDetail/showOne', {
+            headers: {
+                'Cache-Control': 'no-cache',
+                'Version': '2406025',
+                'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
+                'Ver': '1.9.2',
+                'Referer': 'https://api.8utdtcq.com',
+                'X-Customer-Client-Ip': '127.0.0.1',
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Host': 'api.8utdtcq.com',
+                'Connection': 'Keep-Alive',
+                //'Accept-Encoding': 'gzip',
+                'User-Agent': 'okhttp/3.12.0'
+            },
+            body: body,
+            method: 'POST',           
+            rejectCoding: true
+        }); //log(html)
+
+        var data = JSON.parse(html).data;
+        // //console.log("dddddd====="+JSON.stringify(data))
+        var response_key = data.response_key; //log(response_key)
+        var keys = data.keys; //log(keys)
+
+        var bodykey = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGAe6hKrWLi1zQmjTT1ozbE4QdFeJGNxubxld6GrFGximxfMsMB6BpJhpcTouAqywAFppiKetUBBbXwYsYU1wNr648XVmPmCMCy4rY8vdliFnbMUj086DU6Z+/oXBdWU3/b1G0DN3E9wULRSwcKZT3wj/cCI1vsCm3gj2R5SqkA9Y0CAwEAAQKBgAJH+4CxV0/zBVcLiBCHvSANm0l7HetybTh/j2p0Y1sTXro4ALwAaCTUeqdBjWiLSo9lNwDHFyq8zX90+gNxa7c5EqcWV9FmlVXr8VhfBzcZo1nXeNdXFT7tQ2yah/odtdcx+vRMSGJd1t/5k5bDd9wAvYdIDblMAg+wiKKZ5KcdAkEA1cCakEN4NexkF5tHPRrR6XOY/XHfkqXxEhMqmNbB9U34saTJnLWIHC8IXys6Qmzz30TtzCjuOqKRRy+FMM4TdwJBAJQZFPjsGC+RqcG5UvVMiMPhnwe/bXEehShK86yJK/g/UiKrO87h3aEu5gcJqBygTq3BBBoH2md3pr/W+hUMWBsCQQChfhTIrdDinKi6lRxrdBnn0Ohjg2cwuqK5zzU9p/N+S9x7Ck8wUI53DKm8jUJE8WAG7WLj/oCOWEh+ic6NIwTdAkEAj0X8nhx6AXsgCYRql1klbqtVmL8+95KZK7PnLWG/IfjQUy3pPGoSaZ7fdquG8bq8oyf5+dzjE/oTXcByS+6XRQJAP/5ciy1bL3NhUhsaOVy55MHXnPjdcTX0FaLi+ybXZIfIQ2P4rb19mVq1feMbCXhz+L1rG8oat5lYKfpe8k83ZA=="; //log(bodykey)
+        var bodykeyiv = JSON.parse(RSA.decode(keys, bodykey)); //log(bodykeyiv)
+        var key = CryptoJS.enc.Utf8.parse(bodykeyiv.key); //log(key)
+        var iv = CryptoJS.enc.Utf8.parse(bodykeyiv.iv); //log(iv)
+        var html2 = Decrypt(response_key, key, iv); //log(html2)
+        var url = JSON.parse(html2).url; //log(url)
+        input = {
+            url: url,
+            parse: 0,
+            header: rule.headers
+        }
+        setResult(d)
+    }),
+    //   推荐: $js.toString(() => {
+    //     let d = [];
+    //     let data = JSON.parse(request(input))
+    //     data.forEach(item => {
+    //       item.datas.forEach(it => {
+    //         let id = `http://114.132.55.23/bl/mb/api.php/provide/vod/?ac=videolist&wd=${it.title}&`;
+    //         d.push({
+    //           url: id,
+    //           title: it.title,
+    //           img: it.pic,
+    //           desc: it.acr,
+    //         })
+    //       });
+    //     });
+    //     setResult(d)
+    //   }),
+    一级: $js.toString(() => {
+        let d = [];
+        function Encrypt(plainText) {
+            let key = CryptoJS.enc.Utf8.parse("mvXBSW7ekreItNsT");
+            let iv = CryptoJS.enc.Utf8.parse("2U3IrJL8szAKp0Fj");
+            // 将文本加密为 AES/CBC/PKCS5Padding 格式
+            let encrypted = CryptoJS.AES.encrypt(plainText, key, {
+                iv: iv,
+                mode: CryptoJS.mode.CBC,
+                padding: CryptoJS.pad.Pkcs7
+            });
+
+            // 获取加密结果并转为 Hex 格式
+            let encryptedHex = encrypted.ciphertext.toString(CryptoJS.enc.Hex);
+            return encryptedHex.toUpperCase(); // 返回大写 Hex 格式
+        }
+        function Decrypt(word, key, iv) {
+            let encryptedHexStr = CryptoJS.enc.Hex.parse(word);
+
+            // 使用AES/CBC/PKCS5Padding模式进行解密
+            let decrypt = CryptoJS.AES.decrypt({
+                ciphertext: encryptedHexStr
+            }, key, {
+                iv: iv,
+                mode: CryptoJS.mode.CBC, // 使用CBC模式
+                padding: CryptoJS.pad.Pkcs7 // 使用PKCS#7填充
+            });
+
+            // 将解密后的数据转换为原始文本
+            let decryptedStr = decrypt.toString(CryptoJS.enc.Utf8);
+
+            // 返回解密后的文本
+            return decryptedStr;
+        }
+        function getbody3(key, t) {
+            var signature = 'token_id=,token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79,phone_type=1,request_key=' + key + ',app_id=1,time=' + t + ',keys=qDpotE2bedimK3QGqlyV5ieXXC3EhaPLQ+IOJyHnHflCj5w/7ESK7FgywMvrgjxbx0GklEFLI4+JshgySe633OIRstuktwdiCy3CT+fLSpuxBJDIlfXQDaeH3ig1wiB0JsZ601XHiFweGMu4tZfnSpHg3OnoL6nz/uurUif2OK4=*&zvdvdvddbfikkkumtmdwqppp?|4Y!s!2br'; //log(signature)
+            var signature2 = md5(signature).toUpperCase(); //log(signature2)
+            var body = 'token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79&token_id=&phone_type=1&time=' + t + '&phone_model=xiaomi-22021211rc&keys=qDpotE2bedimK3QGqlyV5ieXXC3EhaPLQ%2BIOJyHnHflCj5w%2F7ESK7FgywMvrgjxbx0GklEFLI4%2BJshgySe633OIRstuktwdiCy3CT%2BfLSpuxBJDIlfXQDaeH3ig1wiB0JsZ601XHiFweGMu4tZfnSpHg3OnoL6nz%2FuurUif2OK4%3D&request_key=' + key + '&signature=' + signature2 + '&app_id=1&ad_version=1';
+            return body
+        }
+        const bodykey = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGAe6hKrWLi1zQmjTT1ozbE4QdFeJGNxubxld6GrFGximxfMsMB6BpJhpcTouAqywAFppiKetUBBbXwYsYU1wNr648XVmPmCMCy4rY8vdliFnbMUj086DU6Z+/oXBdWU3/b1G0DN3E9wULRSwcKZT3wj/cCI1vsCm3gj2R5SqkA9Y0CAwEAAQKBgAJH+4CxV0/zBVcLiBCHvSANm0l7HetybTh/j2p0Y1sTXro4ALwAaCTUeqdBjWiLSo9lNwDHFyq8zX90+gNxa7c5EqcWV9FmlVXr8VhfBzcZo1nXeNdXFT7tQ2yah/odtdcx+vRMSGJd1t/5k5bDd9wAvYdIDblMAg+wiKKZ5KcdAkEA1cCakEN4NexkF5tHPRrR6XOY/XHfkqXxEhMqmNbB9U34saTJnLWIHC8IXys6Qmzz30TtzCjuOqKRRy+FMM4TdwJBAJQZFPjsGC+RqcG5UvVMiMPhnwe/bXEehShK86yJK/g/UiKrO87h3aEu5gcJqBygTq3BBBoH2md3pr/W+hUMWBsCQQChfhTIrdDinKi6lRxrdBnn0Ohjg2cwuqK5zzU9p/N+S9x7Ck8wUI53DKm8jUJE8WAG7WLj/oCOWEh+ic6NIwTdAkEAj0X8nhx6AXsgCYRql1klbqtVmL8+95KZK7PnLWG/IfjQUy3pPGoSaZ7fdquG8bq8oyf5+dzjE/oTXcByS+6XRQJAP/5ciy1bL3NhUhsaOVy55MHXnPjdcTX0FaLi+ybXZIfIQ2P4rb19mVq1feMbCXhz+L1rG8oat5lYKfpe8k83ZA==";
+        function gethtml(u, body, headers) {
+            var hd = fetch(u, {
+                headers: headers,
+                body: body,
+                method: 'POST',
+                rejectCoding: true
+            });
+            var banner = JSON.parse(hd).data;
+            var response_key = banner.response_key; //log()
+            var keys = banner.keys; //log(keys)
+            var bodykeyiv = JSON.parse(RSA.decode(keys, bodykey));
+            var key = CryptoJS.enc.Utf8.parse(bodykeyiv.key);
+            var iv = CryptoJS.enc.Utf8.parse(bodykeyiv.iv);
+            var html = Decrypt(response_key, key, iv);
+            return html
+        }
+        function hqsub(MY_CATE) {
+            var subs = ["5", "12", "30", "22", ""]
+            var tids = ["1", "2", "4", "3", "64"]
+            let index = tids.indexOf(MY_CATE);
+            if (index !== -1) {
+                return subs[index];
+            }
+            return ""; // 或者根据需要返回其他值
+        }
+        var headers = {
+            'Cache-Control': 'no-cache',
+            'Version': '2406025',
+            'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
+            'Ver': '1.9.2',
+            'Referer': 'https://api.8utdtcq.com',
+            'X-Customer-Client-Ip': '127.0.0.1',
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'Host': 'api.8utdtcq.com',
+            'Connection': 'Keep-Alive',
+            //'Accept-Encoding': 'gzip',
+            'User-Agent': 'okhttp/3.12.0'
+        }
+        var tid = MY_CATE;
+        var sub = hqsub(MY_CATE)
+        var timestamp = new Date().getTime() / 1000;
+        var t = timestamp.toString().split('.')[0];
+        var request_key = JSON.stringify({ "area": (MY_FL.area || 0).toString(), "sub": (MY_FL.sub || sub).toString(), "year": (MY_FL.year || 0).toString(), "pageSize": "30", "sort": (MY_FL.sort || "d_id").toString(), "page": MY_PAGE, "tid": tid });
+        var request_key2 = Encrypt(request_key);
+        var body = getbody3(request_key2, t)
+        var html2 = gethtml("https://api.8utdtcq.com/App/IndexList/indexList", body, headers)
+        //console.log("tttttlieb=="+html2)
+        var list = JSON.parse(html2).list; //log(list)
+        list.forEach(data => {
+            d.push({
+                title: data.vod_name,
+                desc: data.vod_continu == 0 ? '电影' : '更新至'+data.vod_continu+'集',
+                year: data.vod_scroe,
+                img: data.vod_pic,
+                url: `${data.vod_id}/${data.vod_continu}`,
+            })
+        })
+        setResult(d)
+    }),
+    二级: $js.toString(() => {
+        // var d = [];
+        function Encrypt(plainText) {
+            let key = CryptoJS.enc.Utf8.parse("mvXBSW7ekreItNsT");
+            let iv = CryptoJS.enc.Utf8.parse("2U3IrJL8szAKp0Fj");
+            // 将文本加密为 AES/CBC/PKCS5Padding 格式
+            let encrypted = CryptoJS.AES.encrypt(plainText, key, {
+                iv: iv,
+                mode: CryptoJS.mode.CBC,
+                padding: CryptoJS.pad.Pkcs7
+            });
+
+            // 获取加密结果并转为 Hex 格式
+            let encryptedHex = encrypted.ciphertext.toString(CryptoJS.enc.Hex);
+            return encryptedHex.toUpperCase(); // 返回大写 Hex 格式
+        }
+        function Decrypt(word, key, iv) {
+            let encryptedHexStr = CryptoJS.enc.Hex.parse(word);
+
+            // 使用AES/CBC/PKCS5Padding模式进行解密
+            let decrypt = CryptoJS.AES.decrypt({
+                ciphertext: encryptedHexStr
+            }, key, {
+                iv: iv,
+                mode: CryptoJS.mode.CBC, // 使用CBC模式
+                padding: CryptoJS.pad.Pkcs7 // 使用PKCS#7填充
+            });
+
+            // 将解密后的数据转换为原始文本
+            let decryptedStr = decrypt.toString(CryptoJS.enc.Utf8);
+
+            // 返回解密后的文本
+            return decryptedStr;
+        }
+        function getbody2(key, t) {
+            var signature = 'token_id=,token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79,phone_type=1,request_key=' + key + ',app_id=1,time=' + t + ',keys=Qmxi5ciWXbQzkr7o+SUNiUuQxQEf8/AVyUWY4T/BGhcXBIUz4nOyHBGf9A4KbM0iKF3yp9M7WAY0rrs5PzdTAOB45plcS2zZ0wUibcXuGJ29VVGRWKGwE9zu2vLwhfgjTaaDpXo4rby+7GxXTktzJmxvneOUdYeHi+PZsThlvPI=*&zvdvdvddbfikkkumtmdwqppp?|4Y!s!2br'; //log(signature)
+            var signature2 = md5(signature); //log(signature2)
+            var body = 'token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79&token_id=&phone_type=1&time=' + t + '&phone_model=xiaomi-22021211rc&keys=Qmxi5ciWXbQzkr7o%2BSUNiUuQxQEf8%2FAVyUWY4T%2FBGhcXBIUz4nOyHBGf9A4KbM0iKF3yp9M7WAY0rrs5PzdTAOB45plcS2zZ0wUibcXuGJ29VVGRWKGwE9zu2vLwhfgjTaaDpXo4rby%2B7GxXTktzJmxvneOUdYeHi%2BPZsThlvPI%3D&request_key=' + key + '&signature=' + signature2 + '&app_id=1&ad_version=1'; //log(body)
+            return body
+        }
+        const bodykey = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGAe6hKrWLi1zQmjTT1ozbE4QdFeJGNxubxld6GrFGximxfMsMB6BpJhpcTouAqywAFppiKetUBBbXwYsYU1wNr648XVmPmCMCy4rY8vdliFnbMUj086DU6Z+/oXBdWU3/b1G0DN3E9wULRSwcKZT3wj/cCI1vsCm3gj2R5SqkA9Y0CAwEAAQKBgAJH+4CxV0/zBVcLiBCHvSANm0l7HetybTh/j2p0Y1sTXro4ALwAaCTUeqdBjWiLSo9lNwDHFyq8zX90+gNxa7c5EqcWV9FmlVXr8VhfBzcZo1nXeNdXFT7tQ2yah/odtdcx+vRMSGJd1t/5k5bDd9wAvYdIDblMAg+wiKKZ5KcdAkEA1cCakEN4NexkF5tHPRrR6XOY/XHfkqXxEhMqmNbB9U34saTJnLWIHC8IXys6Qmzz30TtzCjuOqKRRy+FMM4TdwJBAJQZFPjsGC+RqcG5UvVMiMPhnwe/bXEehShK86yJK/g/UiKrO87h3aEu5gcJqBygTq3BBBoH2md3pr/W+hUMWBsCQQChfhTIrdDinKi6lRxrdBnn0Ohjg2cwuqK5zzU9p/N+S9x7Ck8wUI53DKm8jUJE8WAG7WLj/oCOWEh+ic6NIwTdAkEAj0X8nhx6AXsgCYRql1klbqtVmL8+95KZK7PnLWG/IfjQUy3pPGoSaZ7fdquG8bq8oyf5+dzjE/oTXcByS+6XRQJAP/5ciy1bL3NhUhsaOVy55MHXnPjdcTX0FaLi+ybXZIfIQ2P4rb19mVq1feMbCXhz+L1rG8oat5lYKfpe8k83ZA==";
+        function gethtml(u, body, headers) {
+            var hd = fetch(u, {
+                headers: headers,
+                body: body,
+                method: 'POST',
+                rejectCoding: true
+            });
+            var banner = JSON.parse(hd).data;
+            var response_key = banner.response_key; //log()
+            var keys = banner.keys; //log(keys)
+            var bodykeyiv = JSON.parse(RSA.decode(keys, bodykey));
+            var key = CryptoJS.enc.Utf8.parse(bodykeyiv.key);
+            var iv = CryptoJS.enc.Utf8.parse(bodykeyiv.iv);
+            var html = Decrypt(response_key, key, iv);
+            return html
+        }
+        const headers = {
+            'Cache-Control': 'no-cache',
+            'Version': '2406025',
+            'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
+            'Ver': '1.9.2',
+            'Referer': 'https://api.8utdtcq.com',
+            'X-Customer-Client-Ip': '127.0.0.1',
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'Host': 'api.8utdtcq.com',
+            'Connection': 'Keep-Alive',
+            //'Accept-Encoding': 'gzip',
+            'User-Agent': 'okhttp/3.12.0'
+        }
+        // var MY_URL = MY_URL.split("##")[1]; //log(MY_URL)
+        input = input.replace('https://api.8utdtcq.com/', '');
+        //console.log("input----===="+input)
+
+        // var vod_continu = input.split("/")[1]; //log(vod_id)
+        var vod_id = input.split("/")[0];
+        //console.log("vod----===="+vod_id)
+        var timestamp = new Date().getTime() / 1000;
+        var t = timestamp.toString().split('.')[0];
+        var request_key = JSON.stringify({
+            "token_id": "393668",
+            "vod_id": vod_id,
+            "mobile_time": t,
+            "token": "1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79"
+        });
+        var request_key2 = Encrypt(request_key);
+        var body = getbody2(request_key2, t)
+        var html = gethtml("https://api.8utdtcq.com/App/IndexPlay/playInfo", body, headers)
+        var data2 = JSON.parse(html).vodInfo; //console.log("hwudwudg-===="+JSON.stringify(data2))
+        var request_key3 = JSON.stringify({
+            "vurl_cloud_id": "2",
+            "vod_d_id": vod_id
+        }); //log(request_key3)
+        var request_key4 = Encrypt(request_key3); //log(request_key4)
+        var body2 = getbody2(request_key4, t)
+
+        var html3 = gethtml("https://api.8utdtcq.com/App/Resource/Vurl/show", body2, headers); //log(html3)
+
+        var list = JSON.parse(html3).list;
+        let nnnmm = [];
+        list.forEach(item => {
+            // 获取play对象的所有值
+            const playParams = Object.values(item.play);
+            let lastParam = null;
+
+            // 从数组的最后一个元素开始，向前查找，直到找到一个非空的param值
+            for (let i = playParams.length - 1; i >= 0; i--) {
+                if (playParams[i].param) {
+                    lastParam = playParams[i].param;
+                    break;
+                }
+            }
+
+            // 使用正则表达式匹配vurl_id
+            const vurlIdMatch = lastParam.match(/vurl_id=(\d+)/);
+            const resolution=lastParam.match(/resolution=(\d+)/);
+            // 如果匹配成功，将title和vurl_id组合后push到result数组
+            if (vurlIdMatch) {
+                nnnmm.push(`${item.title}$${vod_id}/${vurlIdMatch[1]}?${resolution[1]}`);
+            }
+        });
+        VOD = {
+            title: data2.vod_name,
+            type: data2.videoTag.toString(),
+            desc: data2.vod_use_content,
+            vod_actor: data2.vod_actor,
+            vod_area: data2.vod_area,
+            vod_director: data2.vod_director,
+            img: data2.vod_pic,
+            vod_play_from: '雷蒙影视',
+            vod_play_url: nnnmm.join('#')
+        }
+    }),
+    搜索: $js.toString(() => {
+        let d = [];
+        function Encrypt(plainText) {
+            let key = CryptoJS.enc.Utf8.parse("mvXBSW7ekreItNsT");
+            let iv = CryptoJS.enc.Utf8.parse("2U3IrJL8szAKp0Fj");
+            // 将文本加密为 AES/CBC/PKCS5Padding 格式
+            let encrypted = CryptoJS.AES.encrypt(plainText, key, {
+                iv: iv,
+                mode: CryptoJS.mode.CBC,
+                padding: CryptoJS.pad.Pkcs7
+            });
+
+            // 获取加密结果并转为 Hex 格式
+            let encryptedHex = encrypted.ciphertext.toString(CryptoJS.enc.Hex);
+            return encryptedHex.toUpperCase(); // 返回大写 Hex 格式
+        }
+        function Decrypt(word, key, iv) {
+            let encryptedHexStr = CryptoJS.enc.Hex.parse(word);
+
+            // 使用AES/CBC/PKCS5Padding模式进行解密
+            let decrypt = CryptoJS.AES.decrypt({
+                ciphertext: encryptedHexStr
+            }, key, {
+                iv: iv,
+                mode: CryptoJS.mode.CBC, // 使用CBC模式
+                padding: CryptoJS.pad.Pkcs7 // 使用PKCS#7填充
+            });
+
+            // 将解密后的数据转换为原始文本
+            let decryptedStr = decrypt.toString(CryptoJS.enc.Utf8);
+
+            // 返回解密后的文本
+            return decryptedStr;
+        }
+        function getbody3(key, t) {
+            var signature = 'token_id=,token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79,phone_type=1,request_key=' + key + ',app_id=1,time=' + t + ',keys=qDpotE2bedimK3QGqlyV5ieXXC3EhaPLQ+IOJyHnHflCj5w/7ESK7FgywMvrgjxbx0GklEFLI4+JshgySe633OIRstuktwdiCy3CT+fLSpuxBJDIlfXQDaeH3ig1wiB0JsZ601XHiFweGMu4tZfnSpHg3OnoL6nz/uurUif2OK4=*&zvdvdvddbfikkkumtmdwqppp?|4Y!s!2br'; //log(signature)
+            var signature2 = md5(signature); //log(signature2)
+            var body = 'token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79&token_id=&phone_type=1&time=' + t + '&phone_model=xiaomi-22021211rc&keys=qDpotE2bedimK3QGqlyV5ieXXC3EhaPLQ%2BIOJyHnHflCj5w%2F7ESK7FgywMvrgjxbx0GklEFLI4%2BJshgySe633OIRstuktwdiCy3CT%2BfLSpuxBJDIlfXQDaeH3ig1wiB0JsZ601XHiFweGMu4tZfnSpHg3OnoL6nz%2FuurUif2OK4%3D&request_key=' + key + '&signature=' + signature2 + '&app_id=1&ad_version=1';
+            return body
+        }
+        const bodykey = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGAe6hKrWLi1zQmjTT1ozbE4QdFeJGNxubxld6GrFGximxfMsMB6BpJhpcTouAqywAFppiKetUBBbXwYsYU1wNr648XVmPmCMCy4rY8vdliFnbMUj086DU6Z+/oXBdWU3/b1G0DN3E9wULRSwcKZT3wj/cCI1vsCm3gj2R5SqkA9Y0CAwEAAQKBgAJH+4CxV0/zBVcLiBCHvSANm0l7HetybTh/j2p0Y1sTXro4ALwAaCTUeqdBjWiLSo9lNwDHFyq8zX90+gNxa7c5EqcWV9FmlVXr8VhfBzcZo1nXeNdXFT7tQ2yah/odtdcx+vRMSGJd1t/5k5bDd9wAvYdIDblMAg+wiKKZ5KcdAkEA1cCakEN4NexkF5tHPRrR6XOY/XHfkqXxEhMqmNbB9U34saTJnLWIHC8IXys6Qmzz30TtzCjuOqKRRy+FMM4TdwJBAJQZFPjsGC+RqcG5UvVMiMPhnwe/bXEehShK86yJK/g/UiKrO87h3aEu5gcJqBygTq3BBBoH2md3pr/W+hUMWBsCQQChfhTIrdDinKi6lRxrdBnn0Ohjg2cwuqK5zzU9p/N+S9x7Ck8wUI53DKm8jUJE8WAG7WLj/oCOWEh+ic6NIwTdAkEAj0X8nhx6AXsgCYRql1klbqtVmL8+95KZK7PnLWG/IfjQUy3pPGoSaZ7fdquG8bq8oyf5+dzjE/oTXcByS+6XRQJAP/5ciy1bL3NhUhsaOVy55MHXnPjdcTX0FaLi+ybXZIfIQ2P4rb19mVq1feMbCXhz+L1rG8oat5lYKfpe8k83ZA==";
+        function gethtml(u, body, headers) {
+            var hd = fetch(u, {
+                headers: headers,
+                body: body,
+                method: 'POST',
+                rejectCoding: true
+            });
+            var banner = JSON.parse(hd).data;
+            var response_key = banner.response_key; //log()
+            //console.log("response_key=="+response_key)
+            var keys = banner.keys; //log(keys)
+            var bodykeyiv = JSON.parse(RSA.decode(keys, bodykey));
+            //console.log("rsaxxxx=="+JSON.stringify(bodykeyiv))
+            var key = CryptoJS.enc.Utf8.parse(bodykeyiv.key);
+            var iv = CryptoJS.enc.Utf8.parse(bodykeyiv.iv);
+            var html = Decrypt(response_key, key, iv);
+            //console.log("nskjsnwkjdnejd===qqxxxq="+JSON.stringify(html))
+            return html
+        }
+        var timestamp = new Date().getTime() / 1000;
+        var t = timestamp.toString().split('.')[0];
+        var url = input.split("#")[0];//url
+        var request_key11 = input.split("#")[1]
+
+        var request_key = JSON.stringify({ "keywords": request_key11, "order_val": "1" })
+        //console.log("nskjsnwkjdnejd===qqxxxq=tttt"+request_key)
+        var request_key2 = Encrypt(request_key);
+        var body = getbody3(request_key2, t)
+        var headers = {
+            'Cache-Control': 'no-cache',
+            'Version': '2406025',
+            'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
+            'Ver': '1.9.2',
+            'Referer': 'https://api.8utdtcq.com',
+            'X-Customer-Client-Ip': '127.0.0.1',
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'Host': 'api.8utdtcq.com',
+            'Connection': 'Keep-Alive',
+            'User-Agent': 'okhttp/3.12.0'
+        }
+        var html = gethtml(url, body, headers)
+        //console.log("nskjsnwkjdnejd===="+html)
+
+        var list = JSON.parse(html).list; //log(list)
+        //console.log("nskjsnwkjdnejd===qqqqq="+list)
+        list.forEach(data => {
+            d.push({
+                title: data.vod_name,
+                desc: data.vod_continu == 0 ? '电影' : '更新至'+data.vod_continu+'集',
+                content: data.vod_addtime,
+                img: data.vod_pic,
+                url: `${data.vod_id}/${data.vod_continu}`,
+            })
+        })
+        setResult(d)
+    }),
+}
