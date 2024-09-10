@@ -131,7 +131,7 @@
 
 // ⇩⇩ FM SPIDER ⇩⇩ 
 {"key":"csp_Jiaozi_FM","name":"雷蒙影视 | 🌎饺子(SP)","type":3,"api":"csp_Jiaozi","playerType":2},
-{"key":"csp_Quanwk_FM","name":"雷蒙影视 | 🗺️️全网(SP)","type":3,"api":"csp_Quanwk","ext":"https://fm666.qkw1.cc"},
+{"key":"csp_Quanwk_FM","name":"雷蒙影视 | 🗺️️全网(SP)","type":3,"api":"csp_Quanwk","ext":"https://888.qkw2.cc"},
 {"key":"csp_Yhys_FM","name":"雷蒙影视 | 🚢宇航(SP)","type":3,"api":"csp_Yhys","playerType":2},
 {"key":"csp_SuBaiBai_FM","name":"雷蒙影视 | 🏳️素白(SP)","type":3,"api":"csp_SuBaiBai"},
 {"key":"csp_Nongm_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Nongm"},
@@ -383,8 +383,8 @@
 
 //XIAOMI
 {"name":"4K解析","type":1,"url":"http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
-{"name":"何必","type":1,"url":"http://www.mpanso.com/小姐姐/何必呢.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
-{"name":"1080解析","type":1,"url":"https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"反弹","type":1,"url":"http://www.mpanso.com/小姐姐/反弹.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"1080解析","type":1,"url":"https://cdn.suxun.site/api/?key=Vmo3WNsFRY20yOfGZy&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
 
 //QJ
 {"name":"巧技","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
