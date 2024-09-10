@@ -46,7 +46,7 @@
 
 //HIPY 
 {"key":"drjs_荐片[优]","name":"雷蒙优选 | 👺荐片","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/荐片[优].js"},
-{"key":"drjs_瓜子影视","name":"雷蒙优选 | 👺瓜子","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/瓜子影视.js"},
+{"key":"drjs_瓜子影视","name":"雷蒙优选 | 👺瓜子","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/瓜子影视.js"},{"key":"drjs_瓜子影视","name":"雷蒙优选 | 👺瓜子","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/瓜子影视.js"},
 {"key":"drjs_4K-AV","name":"雷蒙优选 | 👺4K","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/4K-AV.js"},
 {"key":"drjs_臭蛋蛋","name":"雷蒙优选 | 👺臭蛋","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/臭蛋蛋.js"}, 
 {"key":"drjs_文才","name":"雷蒙优选 | 👺文才","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/文才.js"},
