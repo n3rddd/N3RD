@@ -18,7 +18,7 @@
 
 "sites":[
 
-{"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/notice.jar","key":"csp_Notice","name":"💯雷蒙影视优选线路 特别版💯","type":3,"api":"csp_Notice","ext":"雷蒙影视优选线路特别版，极速流畅！【更新时间 2024.09.08】"},
+{"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/notice.jar","key":"csp_Notice","name":"💯雷蒙影视优选线路 特别版💯","type":3,"api":"csp_Notice","ext":"雷蒙影视优选线路特别版，极速流畅！【更新时间 2024.09.10】"},
 {"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar","key":"csp_Market","name":"雷蒙优选 | 🏪商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/market.json"},
 {"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar","key":"csp_Config","name":"雷蒙优选 | 💿配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pg.txt"},
 
