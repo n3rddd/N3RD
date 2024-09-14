@@ -148,7 +148,7 @@
 {"key":"csp_Xdys_FM","name":"雷蒙影视 | 👯兄弟(SP)","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dadag_FM","name":"雷蒙影视 | 🐢达龟(SP)","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Keke_FM","name":"雷蒙影视 | 😝可可(SP)","type":3,"playerType":2,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xb6v_FM","name":"雷蒙影视 | 🐤┃6V(SP)","type":3,"api":"csp_Xb6v","playerType":"2"},
+{"key":"csp_Xb6v_FM","name":"雷蒙影视 | 🐤6V(SP)","type":3,"api":"csp_Xb6v","playerType":"2"},
 {"key":"csp_BookTing_FM","name":"雷蒙影视 | 📚听书(SP)","type":3,"playerType":2,"api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
 {"key":"csp_YouShengBook_FM","name":"雷蒙影视 | 📚有声(SP)","type":3,"playerType":2,"api":"csp_YouShengBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
 {"key":"csp_Xifan_FM","name":"雷蒙影视 | 🍚稀饭(SP)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1},
