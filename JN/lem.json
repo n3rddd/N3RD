@@ -185,6 +185,8 @@
 {"key":"csp_AppYsV2_六六六","name":"雷蒙影视 | 🅰六六六(APP)","playerType":1,"type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.85.203:1000/api.php/app/"},
 {"key":"csp_AppYsV2_丘丘影视","name":"雷蒙影视 | 🅰丘丘影视(APP)","playerType":1,"type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.173.115.204:2211/api.php/app/"},
 {"key":"csp_AppYsV2_君君","name":"雷蒙影视 | 🅰君君(APP)","type":3,"changeable":0,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.85.203:1000/api.php/app/"},
+{"key":"csp_AppYsV2_追剧猫","name":"雷蒙影视 | 🅰追剧猫(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jingxiang.lingutv.cn/api.php/app/"},
+{"key":"csp_AppYsV2_酷影视","name":"雷蒙影视 | 🅰酷影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
 
 {"key":"csp_AList","name":"雷蒙影视 | 📜AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./N3RD/T/a.json"},
