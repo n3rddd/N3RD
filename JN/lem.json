@@ -181,10 +181,9 @@
 {"key":"drjs_百忙无果[官]","name":"雷蒙影视 | 🥭芒果TV(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/百忙无果[官].js"},
 {"key":"drjs_奇珍异兽[官]","name":"雷蒙影视 | 🥝爱奇艺(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/奇珍异兽[官].js"},
 {"key":"drjs_腾云驾雾[官]","name":"雷蒙影视 | 🐧腾讯视频(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/腾云驾雾[官].js"},
-{"key":"csp_AppYsV2_新感觉","name":"雷蒙影视 | 🅰新感觉(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.100.147:9891/api.php/app/"},
-{"key":"csp_AppYsV2_六六六","name":"雷蒙影视 | 🅰六六六(APP)","playerType":1,"type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.85.203:1000/api.php/app/"},
-{"key":"csp_AppYsV2_丘丘影视","name":"雷蒙影视 | 🅰丘丘影视(APP)","playerType":1,"type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.173.115.204:2211/api.php/app/"},
 {"key":"csp_AppYsV2_君君","name":"雷蒙影视 | 🅰君君(APP)","type":3,"changeable":0,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.85.203:1000/api.php/app/"},
+{"key":"csp_AppYsV2_新感觉","name":"雷蒙影视 | 🅰新感觉(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.100.147:9891/api.php/app/"},
+{"key":"csp_AppYsV2_丘丘影视","name":"雷蒙影视 | 🅰丘丘影视(APP)","playerType":1,"type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.173.115.204:2211/api.php/app/"},
 {"key":"csp_AppYsV2_追剧猫","name":"雷蒙影视 | 🅰追剧猫(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jingxiang.lingutv.cn/api.php/app/"},
 {"key":"csp_AppYsV2_酷影视","name":"雷蒙影视 | 🅰酷影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
