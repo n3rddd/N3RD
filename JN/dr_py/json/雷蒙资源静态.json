@@ -477,6 +477,41 @@
     ]
   },
   {
+    "name": "黑墙资源",
+    "url": "https://blackwallvideo.online",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAHJM5mYC/z2Q/U6DMBTF36bP6VhgQKIMs6EMkhlldihzTMNUWPFl6L3tWwz64V89v5zbcz9w1XB2IjzcDyzHYEF4kvOATgr9E8xdpWjMfzvl7hZWBdS44D8ObSA+as7WBMMjsjdwKkxiArMl3CQwD8HZEO7dy7TEWS83/dQPVx3q5tJpoI7g8Dr0T4S756FLjDM+gnpjK8IzNrR0UvBz5FGtVEWxv1PqYSe3papT35UK93B5J7ygMvUMjHWQVxZ0kAGdZaD55kVi4TOV2dqm6XgNuD2oRtGtYBX6DJLpQF/yOTYOln/iHP6XFeLFNaAPZJ2lLzPPgt7fBHQXEbRmBwN6bAtqbAvqCvaPzlFwBSq2ftrlAQAA",
+    "class_url": "100&101&102&103&104&105&106&107&108&109&110&111&112&113&200&201&202&203&204&205&300&301&302&303&304&305&306&307&400&401&402&403&404&405&406&407&500&501&502&503&504&505",
+    "cate_excludes": [
+      "其他电影",
+      "合集短剧"
+    ]
+  },
+  {
+    "name": "刺桐资源",
+    "url": "http://pg.cttv.vip",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAHJM5mYC/3s+ZevTvRvVnk/Z+mJ529PO5WrPd+950blL7WnXimd7Vqu9WLfh6d6pzzvbQSqACl8sX/xi/Ra15/PXAtUCAANT18E8AAAA",
+    "class_url": "1&2&6&7&20&21&22"
+  },
+  {
+    "name": "皇冠资源",
+    "url": "https://hong.hgyx.vip",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAHJM5mYC/zPJfrp344vlbc8729VMoOynncvVnu/e86JzF0ioa8WzPavVns3e8nTJrBdbW57tmqD2bEbfsxnz1Z7vWvV071SgTgBFYOWqRQAAAA==",
+    "class_url": "1&2&3&4&52&53&57",
+    "cate_excludes": [
+      "更多资源",
+      "明星"
+    ]
+  },
+  {
     "name": "iku喵",
     "url": "http://caiji.ikum.cc:8099",
     "parse_url": "",
