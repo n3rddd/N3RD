@@ -1,4 +1,4 @@
-{
+[
   
 {"name":"雷蒙影视 | 🚀360","type":1,"api":"https://360zy.com/api.php/provide/vod"},
 {"name":"雷蒙影视 | ️🚀木耳","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
@@ -33,4 +33,4 @@
 {"name":"雷蒙影视 | ️🚀皇冠","type":1,"api":"https://hong.hgyx.vip/api.php/provide/vod"},
 {"name":"雷蒙影视 | ️🚀OK","type":1,"api":"https://api.okzy.org/api.php/provide/vod/"}
 
-}
+]
