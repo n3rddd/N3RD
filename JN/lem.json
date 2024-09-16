@@ -1,14 +1,10 @@
 {
 
-"spider":"./N3RD/J/lem0914.jar;md5;2CA36E46E27AA132827222BE2BB8CD62",
+"spider":"./N3RD/J/lem0916.jar;md5;A68A2842AE36EDCA82986B6A30818674",
 
+//"spider":"./N3RD/J/lem0914.jar;md5;2CA36E46E27AA132827222BE2BB8CD62",
 //"spider":"./N3RD/J/lem0908.jar;md5;353164E2BA7BC852184CF55A76F03406",
 //"spider":"./N3RD/J/lem0907.jar;md5;F77A478F6D74B504DFB2B8D0DDEA4A69",
-//"spider":"./N3RD/J/lem0827.jar;md5;08ADF938B73282B222E3B9BD8F5B560D",
-//"spider":"./N3RD/J/lem0824.jar;md5;7797790B2BF868927338A37EA0EA049A",
-//"spider":"./N3RD/J/lem0817.jar;md5;34F674942AD9A09879631E8E1B844FD6",
-//"spider":"./N3RD/J/lem0802.jar;md5;40C61554085B24DF4375B9AB5B8C0B5A",
-//"spider":"./N3RD/J/lem0801.jar;md5;019F16F22893C656CD0668DAC21F26C0",
  
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -71,6 +67,7 @@
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_Jianpian_FM","name":"雷蒙影视 | 🏆荐片(SP)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://api2.rinhome.com"},
 {"key":"drjs_爱看机器人","name":"雷蒙影视 | 🤖爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
+{"key":"csp_Ikanbot","name":"雷蒙影视 | 🤖爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"filterable":1,"ext":"{\"box\":\"TVBox\",\"danmu\":false}"},
 {"key":"drjs_影视大全","name":"雷蒙影视 | 🎬影视大全(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/影视大全.js"},
 {"key":"csp_Bili","name":"雷蒙影视 | 🅱哔哩哔哩(SP)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./EXT/XB/Bili1.json"},
 {"key":"drjs_我的哔哩[官]","name":"雷蒙影视 | 🅱我的哔哩(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩[官].js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/Bili1.json"},
@@ -95,7 +92,7 @@
 {"key":"csp_NCat","name":"雷蒙影视 | 😻网飞猫(SP)","type":3,"api":"csp_NCat","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_TvDy","name":"雷蒙影视 | 👼电影天堂(SP)","type":3,"api":"csp_TvDy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QxiTv","name":"雷蒙影视 | 7️⃣7喜影院(SP)","type":3,"api":"csp_QxiTv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_W55Movie","name":"雷蒙影视 | 5️⃣555电影(SP)","type":3,"api":"csp_W55Movie","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_W55Movie","name":"雷蒙影视 | 5️⃣555电影(SP)","type":3,"api":"csp_W55Movie","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jlghjy.com/"},
 {"key":"csp_DaGongRen","name":"雷蒙影视 | 👤打工人电影(SP)","type":3,"api":"csp_DaGongRen","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_HkTv","name":"雷蒙影视 | 🌥TVB云播(SP)","type":3,"api":"csp_HkTv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"雷蒙影视 | 🎙JustLive直播(SP)","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
