@@ -29,7 +29,7 @@
 
 // ⇩⇩ 爬虫 ⇩⇩ 
 {"key":"csp_Jianpian","name":"雷蒙影视 | 🥇荐片(SP)","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"./N3RD/T/jianpian.json"},
-{"key":"csp_Youtube","name":"雷蒙影视 | ▶YouTube(SP)","type":3,"api":"csp_Youtube","searchable":1,"changeable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"./N3RD/T/ytc.json","cookie":""}},
+{"key":"csp_Youtube","name":"雷蒙影视 | ▶YouTube(SP)","type":3,"api":"csp_Youtube","searchable":1,"changeable":1,"style":{"type":"rect","ratio":1.433},"ext":{"commonConfig":"./N3RD/T/zx.json","json":"./N3RD/T/ytc.json","cookie":""}},
 {"key":"csp_Bili","name":"雷蒙影视 | 🅱哔哩哔哩(SP)","type":3,"api":"csp_Bili","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"./EXT/XB/Bili1.json","cookie":"qwewqddasdasd"}},
 
 // ⇩⇩ 网盘 ⇩⇩ 
@@ -39,13 +39,9 @@
 {"key":"csp_kongbai_蜡笔","name":"雷蒙影视 | 💿蜡笔(SP)","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"./N3RD/T/zx.json","siteUrl":"https://duopan.fun/","filter":"./N3RD/T/wogg.json"}},
 {"key":"csp_Star2","name":"雷蒙影视 | 💿星剧社(SP)","type":3,"api":"csp_Star2","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./N3RD/T/zx.json"}},
 {"key":"csp_YiSo","name":"雷蒙影视 | 💿易搜(SP)","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./N3RD/T/zx.json"}},
-{"key":"csp_PanSearch","name":"雷蒙影视 | 💿盘搜索(SP)","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"./N3RD/T/zx.json"}},
+{"key":"csp_PanSearch","name":"雷蒙影视 | 💿盘搜索(SP)","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"cookie":"","commonConfig":"./N3RD/T/zx.json"}},
 {"key":"csp_XiaoZhiTiao","name":"雷蒙影视 | 💿小纸条(SP)","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"ext":{"commonConfig":"./N3RD/T/zx.json"}},
-{"key":"csp_TgYunPanLocal1","name":"雷蒙影视 | 💿TG搜索Ⅰ(SP)","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"yunpanshare","commonConfig":"./N3RD/T/zx.json"}},
-{"key":"csp_TgYunPanLocal2","name":"雷蒙影视 | 💿TG搜索Ⅱ(SP)","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"shareAliyun","commonConfig":"./N3RD/T/zx.json"}},
-{"key":"csp_TgYunPanLocal3","name":"雷蒙影视 | 💿TG搜索Ⅲ(SP)","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"kuakeyun","commonConfig":"./N3RD/T/zx.json"}},
-{"key":"csp_TgYunPanLocal4","name":"雷蒙影视 | 💿TG搜索Ⅳ(SP)","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"qixingzhenren","commonConfig":"./N3RD/T/zx.json"}},
-{"key":"csp_TgYunPanLocal5","name":"雷蒙影视 | 💿TG搜索Ⅴ(SP)","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"guaguale115","commonConfig":"./N3RD/T/zx.json"}},
+{"key":"csp_TgYunPanLocal","name":"雷蒙影视 | 💿TG搜索(SP)","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"./N3RD/T/zx.json"}},
 
 // ⇩⇩ 推送 ⇩⇩ 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./N3RD/T/zx.json"}}
