@@ -1,7 +1,8 @@
 {
 
-"spider":"./N3RD/J/lem0916.jar;md5;A68A2842AE36EDCA82986B6A30818674",
+"spider":"./N3RD/J/lem0926.jar;md5;A877639150A28BD33D41D5385EB364DF",
 
+//"spider":"./N3RD/J/lem0916.jar;md5;A68A2842AE36EDCA82986B6A30818674", 
 //"spider":"./N3RD/J/lem0914.jar;md5;2CA36E46E27AA132827222BE2BB8CD62",
 //"spider":"./N3RD/J/lem0908.jar;md5;353164E2BA7BC852184CF55A76F03406",
 //"spider":"./N3RD/J/lem0907.jar;md5;F77A478F6D74B504DFB2B8D0DDEA4A69",
@@ -76,16 +77,17 @@
 {"key":"csp_Jpys","name":"雷蒙影视 | 💮文才(SP)","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Nmyswv","name":"雷蒙影视 | 🍓糯米(SP)","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_LiteApple","name":"雷蒙影视 | 🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_NewCz","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys.pro/"},
-{"key":"csp_AppTT_热播","name":"雷蒙影视 | 👀热播(APP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"csp_AppTT_萌米","name":"雷蒙影视 | 👀萌米(APP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"csp_AppTT_欢视","name":"雷蒙影视 | 👀欢视(APP)","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+{"key":"csp_AppTT_热播","name":"雷蒙影视 | 👀热播(APP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"csp_NanGua","name":"雷蒙影视 | 🎃南瓜影视(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Yh007","name":"雷蒙影视 | 🌸樱花(SP)","type":3,"api":"csp_Yh007","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Kekys","name":"雷蒙影视 | 👻可可(SP)","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_YCyz","name":"雷蒙影视 | ☀原创(SP)","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Zxzj","name":"雷蒙影视 | 📹在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"csp_Ddrk","name":"雷蒙影视 | 🤿低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_Bttwoo","name":"雷蒙影视 | 🍄比特(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_NewCz","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy77.com/"},
+{"key":"csp_YCyz","name":"雷蒙影视 | ☀原创(SP)","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Auete","name":"雷蒙影视 | 🎀Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"}, 
 {"key":"csp_PTT","name":"雷蒙影视 | 🎈PTT(SP)","type":3,"api":"csp_PTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NCat","name":"雷蒙影视 | 😻网飞猫(SP)","type":3,"api":"csp_NCat","searchable":1,"quickSearch":1,"filterable":1},
@@ -171,6 +173,7 @@
 {"key":"csp_PanSearch_夸克","name":"雷蒙影视 | 📀夸搜(网盘APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_YiSo","name":"雷蒙影视 | 📀易搜(网盘APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 📀PanSearch(网盘APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"drjs_盘他","name":"雷蒙影视 | 📀盘他(网盘APP扫码)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/盘他.js","searchable":1,"quickSearch":1,"changeable":0},
 
 
 // ⇩⇩ 解析 ⇩⇩ 
