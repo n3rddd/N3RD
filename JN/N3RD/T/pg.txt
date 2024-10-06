@@ -117,4 +117,10 @@
 "pan115_auto_delete":true,
 "pan115_delete_code":"",
 "pan_order":"ali|quark|uc|115|yd|thunder|pikpak"
+"tgsearch_url":"./tgsearch",
+"tgsearch_api_id":"",
+"tgsearch_api_hash":"",
+"tgsearch_api_session":"",
+"tgsearch_api_proxy":"proxy",
+"tgsearch_api_url":"http://tg.seczh.com/"
 }
