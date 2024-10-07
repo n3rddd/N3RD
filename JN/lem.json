@@ -194,10 +194,6 @@
 
 
 // ⇩⇩ MULTIJAR ⇩⇩ 
-{"jar":"./N3RD/J/pg.jar","key":"csp_Hdh","name":"雷蒙影视 | 💿影巢(SP)","type":3,"api":"csp_Hdh","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://hdhive.online$$$cfg$$$1$$$./N3RD/T/hdhive.txt"},
-{"jar":"./N3RD/J/pg.jar","key":"csp_YingSo","name":"雷蒙影视 | 💿影搜(SP)","type":3,"api":"csp_YingSo","timeout":60,"ext":"./N3RD/T/pg.txt"},
-{"jar":"./N3RD/J/pg.jar","key":"csp_FourKHDR","name":"雷蒙影视 | 💿4KHDR(夸克APP扫码)","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$./N3RD/T/4k.json$$$1"},
-
 {"jar":"./N3RD/J/gy.jar","key":"csp_WexNmys_MULTIJAR","name":"雷蒙影视 | 🐷农民(MULTI)","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/gy.jar","key":"csp_Wexsaohuo_MULTIJAR","name":"雷蒙影视 | 🐷骚火(MULTI)","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1},
 {"jar":"./N3RD/J/gy.jar","key":"csp_SC1080_MULTIJAR","name":"雷蒙影视 | 🐷酷云(MULTI)","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
