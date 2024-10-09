@@ -356,6 +356,8 @@
 {"key":"drjs_采集搜索","name":"雷蒙影视 | 👺采集搜索(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/采集搜索.js"},
 {"key":"drjs_技术派","name":"雷蒙影视 | 👺技术派(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/技术派.js"},
 {"key":"drjs_瓜子影视","name":"雷蒙影视 | 👺瓜子影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/瓜子影视.js"},
+{"key":"drjs_素白白","name":"雷蒙影视 | 👺素白白(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/素白白.js"},
+{"key":"drjs_南瓜影视","name":"雷蒙影视 | 👺南瓜影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/南瓜影视.js"},
 {"key":"drjs_蓝光影院","name":"雷蒙影视 | 👺蓝光影院(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/蓝光影院.js"},
 {"key":"drjs_蓝光影视","name":"雷蒙影视 | 👺蓝光影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/蓝光影视.js"},
 {"key":"drjs_天天美剧","name":"雷蒙影视 | 👺天天美剧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/天天美剧.js"},
