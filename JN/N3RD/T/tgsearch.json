@@ -1,13 +1,41 @@
 {
-	"recommend":"名称",
+	"recommend":"电影",
 	"class":[
 		{
-			"type_id":"名称",
-			"type_name":"名称"
+			"type_id":"电影",
+			"type_name":"电影"
 		},
 		{
-			"type_id":"片名",
-			"type_name":"片名"
+			"type_id":"电视剧",
+			"type_name":"电视剧"
+		},
+		{
+			"type_id":"综艺",
+			"type_name":"综艺"
+		},
+		{
+			"type_id":"纪录片",
+			"type_name":"纪录片"
+		},
+		{
+			"type_id":"最新",
+			"type_name":"最新"
+		},
+		{
+			"type_id":"恐怖",
+			"type_name":"恐怖"
+		},
+		{
+			"type_id":"惊悚",
+			"type_name":"惊悚"
+		},
+		{
+			"type_id":"喜剧",
+			"type_name":"喜剧"
+		},
+		{
+			"type_id":"科幻",
+			"type_name":"科幻"
 		},
 		{
 			"type_id":"115.com",
