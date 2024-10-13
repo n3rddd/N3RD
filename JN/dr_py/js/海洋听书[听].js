@@ -2,9 +2,9 @@ var rule = {
     类型: '听书',
     title: '海洋听书',
     编码: 'gb18030',
-    host: 'http://m.ychy.cc',
+    host: 'http://m.ychy.org/',
     homeUrl: '/best.html',
-    url: '/list/fyclass_fypage.html',
+    url: '/list/fyclass-fypage.html',
     searchUrl: '/search.asp?page=fypage&searchword=**&searchtype=-1',
     searchable: 2,
     quickSearch: 0,
@@ -14,7 +14,21 @@ var rule = {
     class_name: '网络玄幻&恐怖悬疑&评书下载&儿童读物&相声戏曲&传统武侠&都市言情&历史军事&人物传记&广播剧&百家讲坛&有声文学&探险盗墓&职场商战',
     class_url: '52&17&3&4&7&12&13&15&16&18&32&41&45&81',
     play_parse: true,
-    lazy: '',
+    /*
+    sniffer: 1,
+    isVideo: `js: if (/\\.(m4a|mp3)/.test(input)) {input = true} else {input = false}`,
+    */
+    play_parse: true,
+    
+    lazy: `js:
+      let html = request(input);
+      let u = html.match(/var u ='(.*?)'/)[0].replace("var u =",'').replace(/'/g,'').split('&');
+      let m_id = html.match(/var play_vid='(.*?)'/)[0].replace('var play_vid=','').replace(/'/g,'');
+      let js = 'uData='+u[0]+'&utype='+u[2]+'&ujishu='+u[1]+'&m_id='+m_id;
+      let m_play = post('http://m.ychy.org/inc/ys_wdmcsoft_key.asp',{headers:rule.headers,body:js});
+      input = {url:m_play.m_url};
+    `,
+    
     limit: 6,
     double: true,
     推荐: '*',
@@ -52,7 +66,7 @@ var rule = {
                 title: pdfh(it, 'h4&&Text'),
                 desc: pdfh(it, '.update&&Text'),
                 pic_url: pd(it, 'img&&orgsrc'),
-                url: 'http://m.ychy.com/book/' + pdfh(it, '.bookbox&&bookid') + '.html'
+                url: 'http://m.ychy.org/book/' + pdfh(it, '.bookbox&&bookid') + '.html'
             })
         });
         setResult(d);
