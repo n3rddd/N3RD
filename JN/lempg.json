@@ -55,6 +55,7 @@
 {"key":"csp_Wobg_至臻视觉","name":"雷蒙影视 | 💿至臻视觉(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://mihdr.top/$$$cfg$$$1$$$./N3RD/T/wogg.json$$$XIAOMI"},
 {"key":"csp_Wobg_奥秘影视","name":"雷蒙影视 | 💿奥秘影视(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://vip.omii.top/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_Wobg_云星网盘","name":"雷蒙影视 | 💿云星网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://4k.4u4.cn$$$cfg$$$1$$$./N3RD/T/wogg.json"},
+{"key":"csp_Wobg_欧歌分享","name":"雷蒙影视 | 💿欧歌分享(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.txt$$$https://woog.nxog.top/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_Hdh","name":"雷蒙影视 | 💿影巢(SP)","type":3,"api":"csp_Hdh","quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":"./N3RD/T/pg.txt$$$https://hdhive.online$$$cfg$$$1$$$./N3RD/T/hdhive.txt"},
 {"key":"csp_UpYun","name":"雷蒙影视 | 💿云搜(SP)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/pg.txt"},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 💿PanSearch(SP)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"./N3RD/T/pg.txt$$$cfg$$$proxy"},
