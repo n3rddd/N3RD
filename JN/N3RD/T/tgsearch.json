@@ -1,6 +1,10 @@
 {
 	"recommend":"电影",
 	"class":[
+		 {
+                        "type_id": "LIST:,视频|视频,video|video,mp4|mp4",
+                        "type_name": "群组视频"
+                },
 		{
 			"type_id":"电影",
 			"type_name":"电影"
