@@ -180,7 +180,7 @@
 {"key":"drjs_奇珍异兽[官]","name":"雷蒙影视 | 🥝爱奇艺(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/奇珍异兽[官].js"},
 {"key":"drjs_腾云驾雾[官]","name":"雷蒙影视 | 🐧腾讯视频(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/腾云驾雾[官].js"},
  
-{"key":"AppYs_瓜子","name":"雷蒙影视 | 🅰瓜子(APP)","type":3,"searchable":1,"quickSearch":1,"api":"./CATJS/js/appys.js","ext":{"host":"http://110.42.37.106:7788/api.php/app/","*":["http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url=",""]}},
+{"key":"AppYs_瓜子","name":"雷蒙影视 | 🅰瓜子(APP)","type":3,"searchable":1,"quickSearch":1,"api":"./CATJS/js/appys.js","ext":{"host":"http://110.42.37.106:7788/api.php/app/","*":["http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url=",""]}},
 {"key":"AppYs_君君","name":"雷蒙影视 | 🅰君君(APP)","type":3,"searchable":1,"quickSearch":1,"api":"./CATJS/js/appys.js","ext":{"host":"http://122.228.85.203:1000/api.php/app/","*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="]}},
 
 
