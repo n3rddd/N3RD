@@ -43,7 +43,7 @@
 "pikpak_flags":"4kz",
 "pikpak_thread_limit":2,
 "pikpak_vip_thread_limit":2,
-"pikpak_proxy":"",
+"pikpak_proxy":"proxy",
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
 "wgcf_key":"",
