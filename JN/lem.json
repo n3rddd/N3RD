@@ -54,6 +54,7 @@
 {"key":"csp_YGP","name":"雷蒙影视 | 🎞预告片(SP)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"drjs_雷蒙资源","name":"雷蒙影视 | 😎雷蒙资源","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=http://tv.850930.xyz/雷蒙资源静态.json$1"},
 {"key":"drjs_雷蒙直播","name":"雷蒙影视 | 🤠雷蒙直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/live2cms.json"},
+{"key":"lfjs_电视直播","name":"雷蒙影视 | 📺电视直播","type":3,"searchable":0,"quickSearch":1,"filterable":1,"changeable":1,"api":"./dr_py/js/lf_live10_min-output.js","ext":"./dr_py/json/lf_live.json"},
 
 
 // ⇩⇩ PGjar加载 ⇩⇩
