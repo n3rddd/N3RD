@@ -208,7 +208,10 @@
 
 // ⇩⇩ T4 ⇩⇩ 
 {"key":"T4_CNTV","name":"雷蒙影视 |4️⃣CNTV(T4)","type":4,"api":"https://azure.leuse.top/vod/cntv","searchable":0,"filterable":0},
-{"key":"T4_黑木","name":"雷蒙影视 | 4️⃣黑木(T4)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_黑木","name":"雷蒙影视 | 4️⃣黑木(T4)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_海外","name":"雷蒙影视 | 4️⃣海外(T4)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webhuaweiba","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},{
+{"key":"T4_比特","name":"雷蒙影视 | 4️⃣比特(T4)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=bttwoo","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
+{"key":"T4_欧乐","name":"雷蒙影视 | 4️⃣欧乐(T4)","type":4,"api":"https://py.doube.eu.org/api?site=OleVod","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 {"key":"T4_木木","name":"雷蒙影视 | 4️⃣木木(T4)","type":4,"api":"http://zhangqun66.xyz/225.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_金鹰","name":"雷蒙影视 | 4️⃣金鹰(T4)","type":4,"api":"http://zhangqun66.xyz/jy.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_华为","name":"雷蒙影视 | 4️⃣华为(T4)","type":4,"api":"http://zhangqun66.xyz/hwb.php","searchable":1,"quickSearch":1,"filterable":0},
