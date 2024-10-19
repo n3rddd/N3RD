@@ -4,17 +4,17 @@
 相对路径说明
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
-#feiyang.allinone
+#AllinOne
 http://127.0.0.1:35455/tv.m3u
-#feiyang.tptv
+#TPTV
 http://127.0.0.1:35455/tptv.m3u
-#feiyang.bililive
+#哔哩直播
 http://127.0.0.1:35455/bililive.m3u
-#feiyang.huyayqk
+#虎牙一起看
 http://127.0.0.1:35455/huyayqk.m3u
-#feiyang.douyuyqk
+#斗鱼一起看
 http://127.0.0.1:35455/douyuyqk.m3u
-#feiyang.yylunbo
+#YY轮播
 http://127.0.0.1:35455/yylunbo.m3u
 
 
