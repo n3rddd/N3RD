@@ -135,7 +135,6 @@
 {"key":"csp_Jiaozi_FM","name":"雷蒙影视 | 🌎饺子(SP)","type":3,"api":"csp_Jiaozi","playerType":2},
 {"key":"csp_SaoHuo_FM","name":"雷蒙影视 | 🔥骚火(SP)","type":3,"api":"csp_SaoHuo","playerType":2},
 {"key":"csp_Gz360_FM","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"api":"csp_Gz360","playerType":2},
-{"key":"csp_FengGo_FM","name":"雷蒙影视 | 🐕疯狗(SP)","type":3,"api":"csp_FengGo","playerType":2},
 {"key":"csp_Duopan_FM","name":"雷蒙影视 | 💌至臻(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":"http://mpanso.com"},
 {"key":"csp_Bttwo_FM","name":"雷蒙影视 | ✌️️比特(SP)","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp_FM","name":"雷蒙影视 | 🏭厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top/"},
