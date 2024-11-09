@@ -138,7 +138,7 @@
 // ⇩⇩ FM SPIDER ⇩⇩ 
 {"key":"csp_SuBaiBai_FM","name":"雷蒙影视 | 🏳️素白(SP)","type":3,"api":"csp_SuBaiBai","ext":"http://subaibai.com"},
 {"key":"csp_Jpyy_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpyy"},
-{"key":"csp_AppRZ","name":"雷蒙影视 | 🕵️┃忍者(SP)","type":3,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
+{"key":"csp_AppRZ","name":"雷蒙影视 | 🕵️忍者(SP)","type":3,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
 {"key":"csp_Duopan_FM","name":"雷蒙影视 | 💌至臻(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":"http://mpanso.com"},
 {"key":"csp_Nkdy_FM","name":"雷蒙影视 | 🏔️耐看(SP)","type":3,"api":"csp_Nkdy"},
 {"key":"csp_Kanke_FM","name":"雷蒙影视 | 🛳️看客(SP)","type":3,"api":"csp_Kanke"},
