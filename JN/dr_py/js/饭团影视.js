@@ -1,7 +1,7 @@
 var rule = {
     模板: 'vfed',
     title: '饭团影视',
-    host: 'https://www.sjz42.net',
+    host: 'https://fantuansjz.com/',
     url: '/sjvodshow/fyclass--------fypage---.html',
     searchUrl: '/sjvodsearch/**----------fypage---.html',
     class_parse: '.fed-navs-left&&a;a&&Text;a&&href;/sjvodtype/(.*?).html',

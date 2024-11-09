@@ -19,6 +19,7 @@ var rule = {
         if (jx == '') {
             jx = config.parse
         }
+        jx = jx.replace('///', '//');
         log('jx:' + jx);
         let p = 'url=' + url;
         let video = JSON.parse(request(jx.replace('?url=', 'API.php'), {
@@ -29,10 +30,12 @@ var rule = {
             method: 'POST'
         })).url;
         log(video);
-        input = {
-            jx: 0,
-            url: video,
-            parse: 0
+        if (video) {
+            input = {
+                jx: 0,
+                url: video,
+                parse: 0
+            }
         }
     }),
 }

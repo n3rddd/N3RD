@@ -8,4 +8,5 @@ var rule = {
     url: '/index.php/vod/show/id/fyclass/page/fypage.html',
     searchUrl: '/index.php/vod/search/page/fypage/wd/**.html',
     class_parse: '.navbar-items li:gt(0):lt(8);a&&Text;a&&href;/(\\d+).html',
+	
 }

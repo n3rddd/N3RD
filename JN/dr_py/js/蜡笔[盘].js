@@ -1,20 +1,21 @@
-Object.assign(muban.mxone5.二级, {
-    desc: '.video-info-items:eq(3)&&Text;.tag-link:eq(2)&&Text;.tag-link:eq(3)&&Text;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text',
+Object.assign(muban.mxone5.二级,{
+   desc: '.video-info-items:eq(3)&&Text;.tag-link:eq(2)&&Text;.tag-link:eq(3)&&Text;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text',
     content: '.sqjj_a--span&&Text',
     lists: '.module-row-one:eq(#id)&&a.module-row-text',
-    list_text: 'h4&&Text',
-    list_url: 'a&&data-clipboard-text',
-    list_url_prefix: 'push://'
+    list_text:'h4&&Text',
+    list_url:'a&&data-clipboard-text',
+    list_url_prefix:'push://'
 });
 var rule = {
     title: '蜡笔[盘]',
     模板: 'mxone5',
-    host: 'http://duopan.fun',
+    host: 'http://labipan.com',
     url: '/index.php/vod/show/id/fyclass/page/fypage.html',
-    filter_url: '{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
+    filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
     searchUrl: '/index.php/vod/search.html?wd=**',
-    filter: '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',
+    filter:'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',
     class_parse: '.grid-box&&ul&&li;a&&Text;a&&href;.*/(.*?).html',
     cate_exclude: '网址|专题|全部影片',
-    一级: '.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
+    搜索: '.module-search-item;.video-serial&&title;*;.video-serial&&Text;.video-serial&&href',
+    一级: '.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href'
 }

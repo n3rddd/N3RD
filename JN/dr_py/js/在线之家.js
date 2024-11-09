@@ -1,78 +1,57 @@
+muban.首图2.二级.desc = '.data:eq(3)&&Text;;;.data:eq(1)&&Text;.data:eq(2)&&Text';
 var rule = {
-author: '小可乐/2408/第一版',
-title: '在线之家',
-类型: '影视',
-//host: 'https://www.zxzja.com',
-host: 'https://www.zxzj.site',
-hostJs: 'js: HOST = pdfh(request(HOST), "ul:eq(0)&&a:eq(0)&&href")',
-headers: {'User-Agent': 'MOBILE_UA'},
-编码: 'utf-8',
-timeout: 5000,
-
-homeUrl: '/',
-url: '/vodshow/fyfilter.html',
-filter_url: '{{fl.cateId}}-{{fl.area}}-{{fl.by}}--{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
-detailUrl: '',
-searchUrl: '/vodsearch/**----------fypage---.html',
-searchable: 1, 
-quickSearch: 1, 
-filterable: 1, 
-
-class_name: '电影&剧集(美剧)&动漫',
-class_url: '1&2&6',
-filter_def: {
-1: {cateId: '1'},
-2: {cateId: '2'},
-6: {cateId: '6'}
-},
-
-tab_remove: ['迅雷网盘', '百度网盘'],
-play_parse: true,
-lazy: `js:
-let kcode = JSON.parse(request(input).match(/var player_.*?=(.*?)</)[1]);
-let kurl = kcode.url;
-if (/quark/.test(kurl)) {
-    let type = 'quark';
-    let confirm = '';
-    input = getProxyUrl().replace('js',type)+'&type=push'+confirm+'&url='+encodeURIComponent(kurl)
-} else {
-    input = { parse: 1, url: input, header: {'User-Agent': 'MOBILE_UA', 'Referer': 'HOST'} }
-} 
-`,
-
-limit: 9,
-double: false,
-推荐: '*',
-一级: '.lazyload;a&&title;a&&data-original;.text-right&&Text;a&&href',
-二级: `js: 
-let khtml = request(input);
-let kdetail = pdfh(khtml, '.stui-content__detail');
-VOD = {};
-VOD.vod_id = input;
-VOD.vod_name = pdfh(kdetail, 'h1&&Text');
-VOD.vod_pic = pdfh(khtml, '.pic&&img&&data-original');
-VOD.type_name = kdetail.match(/类型：(.*?)\\//)[1];
-VOD.vod_remarks = pdfh(kdetail, '.data:eq(-1)&&Text');
-VOD.vod_year = kdetail.match(/年份：(.*?)</)[1];
-VOD.vod_area = kdetail.match(/地区：(.*?)\\//)[1];
-VOD.vod_director = kdetail.match(/导演：(.*?)</)[1];
-VOD.vod_actor = kdetail.match(/主演：(.*?)</)[1];
-VOD.vod_content = pdfh(kdetail, '.detail-content&&Text');
-
-let ktabs = [];
-pdfa(khtml,'.stui-vodlist__head:has(span) h3').map((it) => ktabs.push(pdfh(it, 'body&&Text')) );
-VOD.vod_play_from = ktabs.join('$$$');
-
-let klists = [];
-let plists = pdfa(khtml, '.stui-content__playlist');
-plists.forEach((pl) => {
-    let plist = pdfa(pl, 'a').map((it) => { return pdfh(it, 'a&&Text') + '$' + pd(it, 'a&&href', input) });
-    plist = plist.join('#');
-    klists.push(plist)
-});
-VOD.vod_play_url = klists.join('$$$')
-`,
-搜索: '*',
-
-filter: 'H4sIAAAAAAAAA+2XXU8TQRSG7/sz9romM8UCcsf39/c3hIsVN0rEmpRq0jRNTCgGgtDEKE1TojdAMQFb1KCWtPyZ7rb9F27dM+ecDUmtil7t3b7P2WnnPTO772zMp0mtY9kX0x4bUa1D08OGrvm1kP7EsJV5mDdfFWz9XF9/ZoPlmBaq463T2uZpHdtCi/uBHmVr6ZdAQaha7SRtfctBDQSOS+at7yU1zhGqZp1lK6V9qIHA33z/wcwU1W86Aseljq3DMzXOEVj7nKdxIHAue3mzcKLm4ghVK18nKsWUdaBskMbRW5flqwM12hHxlbgfu7uuhx5Sd6u58+rpiya7W929sO8HCoJ1gmogWCeoBoI68ZbVHMG6xGt5XjNLX6kGwt1BVkaNd2SKrOwIVat8OqIaCNZ/qoHA7hxfV5LnlZ006xFH6CqRtHemuc365UJsJc2Pm7SSdeFayaihh2klrdRlLfWlyZUMiMBdYD8vGW8h3sJ5gHiAc0lcci6IC8blPeT2JePtxNs5byPexnkr8VbOg8SDnJNfyf1K8iu5X0l+Jfcrya/kfiX5ldyvIL+C+xXkV3C/gvwK7leQX8H9CvIruF9BfgX3K8iv4H4F+RXcryC/gvsV5Ne+dL9hjEjEYDvTPE9Zub0md2YngE4kXUC6kHQD6UbSA6QHSS+QXiR9QPqQ9APpRzIAZADJIJBBJENAhpAMAxlGMgJkBMkokFEkY0DGkIwDGUcyAWQCySSQSSRTQKaQTAOZRjIDZAbJLJBZJHNA5pDMA5lHsgBkAckikEUkS0CWkIg76iGoX7n2yv0oe4PtvzYLyRv7hF5stois2bfi27hQsPJvoPJoLbJB7+JcwtxW54CN1adho/63vhW/Twvwo8aqHjEGH9AUKhdX5rvdG1OwI9/cyaoN70p/xPQw2QlHmJ69eswjDrrb8BdHnls9nvyHg0KjwP/tQ4QXh14cenHoxaEXh9ofxmHrbX15Z4rlgko3EA2jpon4+pffso2+ABt9rzaKtl/O14soL6K8iPIiyouopiPKF/8BdG+NSh8WAAA='
+    title: '在线之家',
+    模板: '首图2',
+    // host:'https://www.zxzj.site',
+    host: 'https://www.zxzja.com',
+    url: '/vodshow/fyclassfyfilter.html',
+    filterable: 1,//是否启用分类筛选,
+    filter_url: '-{{fl.area}}-{{fl.by}}-{{fl.class}}-----fypage---{{fl.year}}',
+    filter: 'H4sIAAAAAAAAA+2Y32vaUBTH/5c8+2BitV3/ldGHrARW1nWg3UCK0FbtrHQ2LUXrdHOFVe1QTGkpM5L2n0luzH+xxHvPuRe2hTB8KOy+5fM995x77o9zAndPUZX1l3vKG6OorCub23qhoKSUHf2tEaJ3PCDlasgf9O33xmLcTiRXh0F5GMkhKKUUU5vdcDxTGYDNr92yQBzARg5Mst9kNgYYsz50nS7EpIAxB2fedAYxKaAfJs4B56tduvYxzEcBbPNx3zv5wWwMcL76xHfAxkDI07+Y8TwjQNv1R54nA7QdnQftG7BRKG1EVnoeet7QhePoWt6JnfQ4vg+C9hGEpgC2oN8mPyfMxgD9Ti0yfQQ/Crh1o4H/2ICto4Axezdex4GYFNCvdU26I/CjgLY7i/sxwFw+WZ7dh1wogM19qvhOizRhGZzRu/rgzuBiMRA3t2joeWFzp/fuzEm4uVpaW2Ha4lPQM1zPiLrGdU3UVa6rop7melrQ1Reoh5+Cvsb1NVFf5fqqqOe4nhP1LNezos7Xq4rrVfl6VXG9Kl+vKq5X5esNP8XjeFXkh0Ea5559+tthkNZD0LpnAXa3wqF4G2ybWBfM8nprt8BLelLxalAHhc13eSOadSOlaMvqezG95l97YlzfI4cjv3kGBUMhUS+N6UOkXCeHn8GPQpK+F9eDg96dOzWxISxAlqYszQSlmZGlKUtTluZzLM0VWZqyNGVpPsfSzAqlKa/Cf30Vckvq0uFIUulhh1tAki7ml8fzq32wUcCYjaFvQtIM0GZ+9UfYpSlg9/vTWwlshPll3oA3HQYY89uV1xlDTAqJ/hhdm9QuwY8CzvdkhqNhPgroF/O+5FnhNsEhM1jWe0/HcW38aVLAlOLeX2LedOQPR3aZv3aZ0i+/mY/pOxYAAA==',
+    // tab_exclude: '夸克网盘|迅雷云盘|百度网盘',
+    tab_remove: ['夸克网盘', '迅雷云盘', '百度网盘'],
+    // 搜索:muban.首图2.搜索1,
+    搜索: 'ul.stui-vodlist&&li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+    headers: {
+        'User-Agent': 'MOBILE_UA',
+        // 'Referer': HOST,
+    },
+    lazy: `js:
+		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		var url = html.url;
+		var from = html.from;
+		if (html.encrypt == '1') {
+			url = unescape(url)
+		} else if (html.encrypt == '2') {
+			url = unescape(base64Decode(url))
+		}
+		if (/m3u8|mp4/.test(url)) {
+			input = url
+		} else if (/line3|line4|line5/.test(from)) {
+			var ifrwy = request(url, {
+                headers: {
+					'User-Agent': MOBILE_UA,
+					'Referer': HOST,
+					'sec-fetch-mode': 'navigate',
+					'sec-fetch-site': 'cross-site',
+					'sec-fetch-dest': 'iframe',
+					'upgrade-insecure-requests': 1,
+                }
+			});
+			let resultv2 = ifrwy.match(/var result_v2 = {(.*?)};/)[1];
+			let data = JSON.parse('{' + resultv2 + '}').data;
+			let code = data.split('').reverse();
+			let temp = '';
+			for (let i = 0x0; i < code.length; i = i + 0x2) {
+				temp += String.fromCharCode(parseInt(code[i] + code[i + 0x1], 0x10))
+			}
+			input = {
+				jx: 0,
+				url: temp.substring(0x0, (temp.length - 0x7) / 0x2) + temp.substring((temp.length - 0x7) / 0x2 + 0x7),
+				parse: 0
+			}
+		} else{
+			input
+		}
+	`,
 }

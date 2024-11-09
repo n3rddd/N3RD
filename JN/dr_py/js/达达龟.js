@@ -1,4 +1,4 @@
-muban.首图2.二级.desc = 'p.data:eq(-1)&&Text;;;p.data:eq(-2)&&Text;p.data:eq(-3)&&Text';
+
 var rule = {
     title:'达达龟',
     模板:'首图2',
@@ -33,4 +33,13 @@ var rule = {
         });
         setResult(d);
     }),
+    二级: {
+      title: '.stui-content__detail .title&&Text;.stui-content__detail p:eq(3)&&Text',
+      img: '.lazyload&&data-original||data-src||src',
+      desc: '.module-info-item:eq(-2)&&Text;.stui-content__detail p:eq(2)&&Text;.stui-content__detail p:eq(0)&&Text;.module-info-item:eq(2)&&Text;.module-info-item:eq(1)&&Text',
+      content: '.detail&&Text',
+      tabs:'.stui-vodlist__head h3',
+      lists:'.stui-content__playlist:eq(#id)&&li'
+    },
+    
 }

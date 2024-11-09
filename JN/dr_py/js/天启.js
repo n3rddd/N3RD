@@ -17,7 +17,7 @@ var rule = {
         4: {tag: 'zony'},
     },
     headers: {
-        'User-Agent': 'MOBILE_UA',
+        'User-Agent': 'PC_UA',
     },
     timeout: 5000,
     class_name: '电影&电视剧&动漫&综艺',

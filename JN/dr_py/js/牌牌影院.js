@@ -8,7 +8,7 @@ var rule = {
     searchable: 2,
     quickSearch: 0,
     headers: {
-        'User-Agent': 'MOBILE_UA',
+        'User-Agent': 'ISO_UA',
     },
     url: '/index.php/api/vod#type=fyclassfyfilter&page=fypage',
     detailUrl: '/voddetail/fyid.html',
@@ -25,22 +25,22 @@ var rule = {
         lists: '.anthology-list-box:eq(#id) li',
     },
     搜索: '.search-box;.thumb-txt&&Text;.lazy&&data-original;.public-list-prb&&Text;a&&href;.thumb-blurb&&Text',
-    lazy: $js.toString(() => {
-        let html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
-        let url = html.url;
-        if (html.encrypt == '1') {
-            url = unescape(url)
-        } else if (html.encrypt == '2') {
-            url = unescape(base64Decode(url))
-        }
-        if (/\.m3u8/.test(url)) {
+		lazy: $js.toString(() => {
+		let html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		let url = html.url;
+		if (html.encrypt == '1') {
+			url = unescape(url)
+		} else if (html.encrypt == '2') {
+			url = unescape(base64Decode(url))
+		}
+if (/\.m3u8/.test(url)) {
             let body = request(url);
             let lines = body.split('\n');
             let m3u8Url = null;
             for (let line of lines) {
                 line = line.trim();
                 if (line.endsWith('.m3u8')) {
-                    m3u8Url = urljoin(url, line);
+                    m3u8Url = urljoin(url,line);
                     console.log(m3u8Url);
                     break;
                 }
@@ -50,12 +50,12 @@ var rule = {
                 url: m3u8Url || url,
                 parse: 0
             };
-        } else {
-            input = {
+    } else {
+			input = {
                 jx: tellIsJx(url),
                 url: url,
                 parse: 0
             };
-        }
-    }),
+		}
+	}),
 }
