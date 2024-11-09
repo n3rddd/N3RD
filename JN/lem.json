@@ -138,6 +138,7 @@
 // ⇩⇩ FM SPIDER ⇩⇩ 
 {"key":"csp_SuBaiBai_FM","name":"雷蒙影视 | 🏳️素白(SP)","type":3,"api":"csp_SuBaiBai","ext":"http://subaibai.com"},
 {"key":"csp_Jpyy_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpyy"},
+{"key":"csp_AppRZ","name":"雷蒙影视 | 🕵️┃忍者(SP)","type":3,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
 {"key":"csp_Duopan_FM","name":"雷蒙影视 | 💌至臻(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":"http://mpanso.com"},
 {"key":"csp_Nkdy_FM","name":"雷蒙影视 | 🏔️耐看(SP)","type":3,"api":"csp_Nkdy"},
 {"key":"csp_Kanke_FM","name":"雷蒙影视 | 🛳️看客(SP)","type":3,"api":"csp_Kanke"},
@@ -151,9 +152,10 @@
 {"key":"csp_Keke_FM","name":"雷蒙影视 | 😝可可(SP)","type":3,"playerType":2,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kkys02.com"},
 {"key":"csp_Xb6v_FM","name":"雷蒙影视 | 🐤6V(SP)","type":3,"api":"csp_Xb6v","playerType":"2"},
 {"key":"csp_BookTing_FM","name":"雷蒙影视 | 📚听书(SP)","type":3,"playerType":2,"api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
-{"key":"csp_YouShengBook_FM","name":"雷蒙影视 | 📚有声(SP)","type":3,"playerType":2,"api":"csp_YouShengBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
+{"key":"csp_LaoBaiBook_FM","name":"雷蒙影视 | 📚老白(SP)","type":3,"playerType":2,"api":"csp_LaoBaiBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
 {"key":"csp_Xifan_FM","name":"雷蒙影视 | 🍚稀饭(SP)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kugou_FM","name":"雷蒙影视 | 🐾酷狗(SP)","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
+{"key":"csp_Kanqiu_FM","name":"雷蒙影视 | ⚾看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
  
 // ⇩⇩ CM SPIDER ⇩⇩ 
 {"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/freeok.json"},
