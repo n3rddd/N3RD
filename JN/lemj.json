@@ -35,7 +35,7 @@
 
 "sites":[
 
-{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"👺雷蒙影视规则专线👺","type":3,"api":"csp_Notice","ext":"雷蒙影视规则专线 2024.08.27"},
+{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"👺雷蒙影视规则专线👺","type":3,"api":"csp_Notice","ext":"雷蒙影视规则专线 2024.11.10"},
 {"jar":"./N3RD/J/market.jar","key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 
 // ⇩⇩ 豆瓣片单 ⇩⇩ 
@@ -733,8 +733,8 @@
 {"key":"drjs_爱看短剧[盘]","name":"雷蒙影视 | 👺爱看短剧[盘](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/爱看短剧[盘].js"},
 {"key":"drjs_至臻[盘]","name":"雷蒙影视 | 👺至臻[盘](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/至臻[盘].js"},
 {"key":"drjs_盘搜","name":"雷蒙影视 | 👺盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/盘搜.js"},
-{"key":"drjs_夸克分享[合]","name":"雷蒙影视 | 👺夸克分享[合](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/夸克分享[合].js"}, 
-{"key":"drjs_夸克分享2[合]","name":"雷蒙影视 | 👺夸克分享2[合](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/夸克分享2[合].js"},
+{"key":"drjs_夸克分享[合]","name":"雷蒙影视 | 👺夸克分享[合](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/夸克分享[合].js","ext":"./dr_py/js/夸克分享[合].js?type=url&params=https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/夸克分享.json"}, 
+{"key":"drjs_夸克分享2[合]","name":"雷蒙影视 | 👺夸克分享2[合](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/夸克分享2[合].js","ext":"./dr_py/js/夸克分享2[合].js?type=url&params=https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/夸克分享.json"},
 
 {"key":"drjs_哔哩直播[官]","name":"雷蒙影视 | 👺哔哩直播[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/哔哩直播[官].js"},
 {"key":"drjs_斗鱼直播[官]","name":"雷蒙影视 | 👺斗鱼直播[官](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/斗鱼直播[官].js"},
