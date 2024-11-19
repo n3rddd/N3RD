@@ -132,6 +132,7 @@
 {"key":"csp_Dygang_QJ","name":"雷蒙影视 | 🚢电影港(SP)","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ FM SPIDER ⇩⇩ 
+{"key":"csp_Config_FM","name":"雷蒙影视 | 🐼配置(SP)","type":3,"api":"csp_Config","playerType":2},
 {"key":"csp_SuBaiBai_FM","name":"雷蒙影视 | 🏳️素白(SP)","type":3,"api":"csp_SuBaiBai","ext":"http://subaibai.com"},
 {"key":"csp_Jpyy_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpyy"},
 {"key":"csp_Nongm_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn"},
