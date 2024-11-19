@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1117.jar;md5;71E8E7E61C01B043A4B0993016BD3B26",
+"spider":"./N3RD/J/lem1119.jar;md5;BA5E7BA72AC62DA2123637B59BE6B49F",
 
+//"spider":"./N3RD/J/lem1117.jar;md5;71E8E7E61C01B043A4B0993016BD3B26",
 //"spider":"./N3RD/J/lem1115.jar;md5;FB3B26E89EC6BC876E55844CC9752BDD",
 //"spider":"./N3RD/J/lem1114.jar;md5;BE7CFD61ADBEDD1F56F26BB38AEDEAFD",
 //"spider":"./N3RD/J/lem1109.jar;md5;8CA0EE34E26569A0EE371F0BD898816A",
@@ -135,7 +136,8 @@
 {"key":"csp_Jpyy_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpyy"},
 {"key":"csp_Nongm_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn"},
 {"key":"csp_AppRZ","name":"雷蒙影视 | 🕵️忍者(SP)","type":3,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
-{"key":"csp_Duopan_FM","name":"雷蒙影视 | 💌至臻(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":"http://mpanso.com"},
+{"key":"csp_Duopan至臻_FM","name":"雷蒙影视 | 💌至臻(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://xiaomiai.site"],"url_key":"Netfixtv","token":"http://ystvs.cn:63/json/token.txt","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":450,"threads":10}}},
+{"key":"csp_DuopanUC_FM","name":"雷蒙影视 | 💌UC(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.mucpan.cc","http://ucmi.fun","http://www.ucmi.fun"],"url_key":"FeiMaoUC"}},
 {"key":"csp_Nkdy_FM","name":"雷蒙影视 | 🏔️耐看(SP)","type":3,"api":"csp_Nkdy"},
 {"key":"csp_Kanke_FM","name":"雷蒙影视 | 🛳️看客(SP)","type":3,"api":"csp_Kanke"},
 {"key":"csp_Dadag_FM","name":"雷蒙影视 | 🐢️达龟(SP)","type":3,"api":"csp_Dadag"},
