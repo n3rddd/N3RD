@@ -132,13 +132,10 @@
 {"key":"csp_Dygang_QJ","name":"雷蒙影视 | 🚢电影港(SP)","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ FM SPIDER ⇩⇩ 
-{"key":"csp_Config_FM","name":"雷蒙影视 | 🐼配置(SP)","type":3,"api":"csp_Config","playerType":2},
 {"key":"csp_SuBaiBai_FM","name":"雷蒙影视 | 🏳️素白(SP)","type":3,"api":"csp_SuBaiBai","ext":"http://subaibai.com"},
 {"key":"csp_Jpyy_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpyy"},
 {"key":"csp_Nongm_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn"},
 {"key":"csp_AppRZ","name":"雷蒙影视 | 🕵️忍者(SP)","type":3,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
-{"key":"csp_Duopan至臻_FM","name":"雷蒙影视 | 💌至臻(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://xiaomiai.site"],"url_key":"Netfixtv","token":"http://ystvs.cn:63/json/token.txt","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":450,"threads":10}}},
-{"key":"csp_DuopanUC_FM","name":"雷蒙影视 | 💌UC(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.mucpan.cc","http://ucmi.fun","http://www.ucmi.fun"],"url_key":"FeiMaoUC"}},
 {"key":"csp_Nkdy_FM","name":"雷蒙影视 | 🏔️耐看(SP)","type":3,"api":"csp_Nkdy"},
 {"key":"csp_Kanke_FM","name":"雷蒙影视 | 🛳️看客(SP)","type":3,"api":"csp_Kanke"},
 {"key":"csp_Dadag_FM","name":"雷蒙影视 | 🐢️达龟(SP)","type":3,"api":"csp_Dadag"},
@@ -158,6 +155,11 @@
 {"key":"csp_Xifan_FM","name":"雷蒙影视 | 🍚稀饭(SP)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kugou_FM","name":"雷蒙影视 | 🐾酷狗(SP)","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
 {"key":"csp_Kanqiu_FM","name":"雷蒙影视 | ⚾看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
+
+{"key":"csp_Config_FM","name":"雷蒙影视 | 🐼配置(SP)","type":3,"api":"csp_Config","playerType":2},
+{"key":"csp_Duopan蜡笔_FM","name":"雷蒙影视 | 🐼蜡笔(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://duopan.fun","http://labipan.com","http://feimaoai.site","https://mihdr.top"],"url_key":"Duopan"}},
+{"key":"csp_Duopan至臻_FM","name":"雷蒙影视 | 🐼至臻(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://xiaomiai.site"],"url_key":"Netfixtv","token":"http://ystvs.cn:63/json/token.txt","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":450,"threads":10}}},
+{"key":"csp_DuopanUC_FM","name":"雷蒙影视 | 🐼UC(SP)","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.mucpan.cc","http://ucmi.fun","http://www.ucmi.fun"],"url_key":"FeiMaoUC"}},
  
 // ⇩⇩ CM SPIDER ⇩⇩ 
 {"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/freeok.json"},
