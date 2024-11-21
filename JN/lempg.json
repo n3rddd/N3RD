@@ -28,7 +28,7 @@
 ],
 
 "sites":[
-{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"💿雷蒙影视网盘专线💿","type":3,"api":"csp_Notice","ext":"雷蒙影视网盘专线 2024.08.27"},
+{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"💿雷蒙影视网盘专线💿","type":3,"api":"csp_Notice","ext":"雷蒙影视网盘专线 2024.11.21"},
 {"jar":"./N3RD/J/market.jar","key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 
 
@@ -55,6 +55,7 @@
 {"key":"csp_Wobg","name":"雷蒙影视 | 💿玩偶表哥(SP)","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/pg.json$$$http://wobgg.run-us-west2.goorm.io/$$$cfg$$$1$$$./N3RD/T/wogg.json$$$WOBG"},  
 {"key":"csp_Wobg_木偶哥哥","name":"雷蒙影视 | 💿木偶哥哥(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$http://mogg.top$$$cfg$$$1$$$./N3RD/T/wogg.json$$$MOGG"},
 {"key":"csp_Wobg_小米UC","name":"雷蒙影视 | 💿小米UC(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$http://www.mucpan.cc/$$$cfg$$$1$$$./N3RD/T/wogg.json$$$MOGG"},
+{"key":"csp_Wobg_龙龙玩偶","name":"雷蒙影视 | 💿龙龙玩偶(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$http://wanou.xn--yi7aa.top:3108/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_Wobg_六趣网盘","name":"雷蒙影视 | 💿六趣网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$https://wpcms.xn--9hq.icu/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_Wobg_玩你老哥","name":"雷蒙影视 | 💿玩你老哥(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$https://tv.yydsys.top/$$$cfg$$$1$$$./N3RD/T/wogg.json$$$WNLG"}, 
 {"key":"csp_Wobg_土豆阿里","name":"雷蒙影视 | 💿土豆阿里(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.json$$$https://yunpan.yunpay.cc/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
