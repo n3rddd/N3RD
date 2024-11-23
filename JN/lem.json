@@ -103,7 +103,6 @@
 {"key":"csp_Ysj","name":"雷蒙影视 | 🐾异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"雷蒙影视 | 🐾Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_SixV","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},
-{"key":"csp_XingYiYing","name":"雷蒙影视 | 🌟星易影(SP)","type":3,"api":"csp_XingYiYing","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kanqiu926","name":"雷蒙影视 | ⚽926看球(SP)","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"csp_Sir88","name":"雷蒙影视 | ⚽88看球(SP)","type":3,"api":"csp_Sir88","searchable":0,"changeable":0,"style":{"type":"list"}},
