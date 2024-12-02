@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1130.jar;md5;C3D3840E4091BC9E78A0D9D40DDEB937",
+"spider":"./N3RD/J/lem1202.jar;md5;CA10B7B47B6EE0915BBE92177800E405",
 
+//"spider":"./N3RD/J/lem1130.jar;md5;C3D3840E4091BC9E78A0D9D40DDEB937",
 //"spider":"./N3RD/J/lem1126.jar;md5;AE56B47C4EF7DCF448036F7D49320C02",
 //"spider":"./N3RD/J/lem1125.jar;md5;19C7C8DCFE9B121C238D99B4C81E0BEB",
 //"spider":"./N3RD/J/lem1121.jar;md5;2BA6A41480AD232165B78140D339FB1E",
@@ -109,15 +110,15 @@
 {"key":"csp_NanGuaQJ","name":"雷蒙影视 | 🍪南瓜(SP)","type":3,"api":"csp_NanGuaQJ","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_TTian_天天_QJ","name":"雷蒙影视 | ✈天天(SP)","type":3,"api":"csp_TTian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"baHR0cDovL29wLnlzZHFqcy5jbg=="},
 {"key":"csp_TTian_热播_QJ","name":"雷蒙影视 | ♨热播(SP)","type":3,"api":"csp_TTian","playerType":1,"ext":"caHR0cDovL3YucmJvdHYuY24="},
-{"key":"csp_TTian_追剧_QJ","name":"雷蒙影视 | ✈追剧(SP)","type":3,"api":"csp_TTian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"daHR0cDovL2FwaS5remp0di5jb20="},
-{"key":"csp_Muou_QJ","name":"雷蒙影视 | 🌧雨夜(SP)","type":3,"api":"csp_Muou","playerType":1,"ext":"caHR0cDovL2FwcC55aXlpNTIxLnRvcC8="},
-{"key":"csp_Xdai_乐观_QJ","name":"雷蒙影视 | 🛰乐观(SP)","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"},
-{"key":"csp_Xdai_客星_QJ","name":"雷蒙影视 | ⭐客星(SP)","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="},
-{"key":"csp_Xdai_人人_QJ","name":"雷蒙影视 | 👨‍👩‍👧‍👦人人(SP)","type":3,"api":"csp_Xdai","playerType":2,"ext":"caHR0cDovL3JlbnJlbi5jdXBmb3gxLmNjOjc3ODh8MzFjOTNjN2JjMjExZDczNHwzMWM5M2M3YmMyMTFkNzM0"},
+{"key":"csp_TTian_追剧_QJ","name":"雷蒙影视 | ✈追剧(SP)","type":3,"api":"csp_TTian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"daHR0cDovL3YubGt1eXMuY24="},
+{"key":"csp_JpysQJ","name":"雷蒙影视 | 🥇️剧评(SP)","type":3,"api":"csp_JpysQJ","playerType":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
+{"key":"csp_Muou_雨夜_QJ","name":"雷蒙影视 | 🌧雨夜(SP)","type":3,"api":"csp_Muou","playerType":1,"ext":"caHR0cDovL2FwcC55aXlpNTIxLnRvcC8="},
+{"key":"csp_Muou_星河_QJ","name":"雷蒙影视 | 🌃星河(SP)","type":3,"api":"csp_Muou","playerType":1,"ext":"caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzLw=="},
+{"key":"csp_Xdai_现代_QJ","name":"雷蒙影视 | 🛰现代(SP)","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXx4ZHlzLnZpcHhkeXMudmlwfHhkeXMudmlweGR5cy52aXA="},
 {"key":"csp_Xdai_雨滴_QJ","name":"雷蒙影视 | 💧雨滴(SP)","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"},
 {"key":"csp_Xdai_优质_QJ","name":"雷蒙影视 | 🌈优质(SP)","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"},
+{"key":"csp_Xdai_客星_QJ","name":"雷蒙影视 | ⭐客星(SP)","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="},
 {"key":"csp_Frong_木叶_QJ","name":"雷蒙影视 | 🍃木叶(SP)","type":3,"api":"csp_Frong","playerType":2,"ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},
-{"key":"csp_Frong_繁荣_QJ","name":"雷蒙影视 | 🌳繁荣(SP)","type":3,"api":"csp_Frong","playerType":2,"ext":"FMy4wLjJ8aHR0cHM6Ly92aXAuMTIzcGFuLmNuLzE4MjY0MTAxNjkvZG9uZ3RhaS8xLnR4dHw0MmY3YTIwOXwyNXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"},
 {"key":"csp_Slys_QJ","name":"雷蒙影视 | ☄雷电(SP)","type":3,"api":"csp_Slys","playerType":2,"ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
 {"key":"csp_Nmvod_QJ","name":"雷蒙影视 | 🍋柠檬(SP)","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
 {"key":"csp_AI1_QJ","name":"雷蒙影视 | ️💻AI1(SP)","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ=="},
@@ -403,6 +404,7 @@
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
 ],
 "ads":[
+"43.248.128.138",
 "static-mozai.4gtv.tv",
 "s3t3d2y8.afcdn.net",
 "mozai.4gtv.tv",
