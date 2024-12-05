@@ -174,8 +174,9 @@
 {"key":"csp_UuSs","name":"雷蒙影视 | 📀优汐(网盘APP扫码)","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_PanSso","name":"雷蒙影视 | 📀盘他(网盘APP扫码)","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_YpanSo","name":"雷蒙影视 | 📀盘她(网盘APP扫码)","type":3,"api":"csp_YpanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"csp_xzso","name":"雷蒙影视 | 📀盘它(网盘APP扫码)","type":3,"api":"csp_xzso","searchable": 1,"quickSearch": 1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"csp_xzso","name":"雷蒙影视 | 📀盘它(网盘APP扫码)","type":3,"api":"csp_xzso","searchable": 1,"quickSearch": 1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_MIPanSo","name":"雷蒙影视 | 📀米搜(网盘APP扫码)","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"csp_PanSearch","name":"雷蒙影视 | 📀夸搜(网盘APP扫码)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_Aliso","name":"雷蒙影视 | 📀盘搜(网盘APP扫码)","type":3,"api":"csp_Aliso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_YiSo","name":"雷蒙影视 | 📀易搜(网盘APP扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
