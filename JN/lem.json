@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1205.jar;md5;C0493B72ACAF37769D3779644FDBABF0",
+"spider":"./N3RD/J/lem1208.jar;md5;3E68F18FC646242AB1AD3B886322D26A",
 
+//"spider":"./N3RD/J/lem1205.jar;md5;C0493B72ACAF37769D3779644FDBABF0",
 //"spider":"./N3RD/J/lem1202.jar;md5;CA10B7B47B6EE0915BBE92177800E405",
 //"spider":"./N3RD/J/lem1130.jar;md5;C3D3840E4091BC9E78A0D9D40DDEB937",
 //"spider":"./N3RD/J/lem1126.jar;md5;AE56B47C4EF7DCF448036F7D49320C02",
@@ -138,7 +139,6 @@
 {"key":"csp_AppRZ","name":"雷蒙影视 | 🕵️忍者(SP)","type":3,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
 {"key":"csp_Nkdy_FM","name":"雷蒙影视 | 🏔️耐看(SP)","type":3,"api":"csp_Nkdy"},
 {"key":"csp_Kanke_FM","name":"雷蒙影视 | 🛳️看客(SP)","type":3,"api":"csp_Kanke"},
-{"key":"csp_Dadag_FM","name":"雷蒙影视 | 🐢️达龟(SP)","type":3,"api":"csp_Dadag"},
 {"key":"csp_Qiyou_FM","name":"雷蒙影视 | 🥝奇优(SP)","type":3,"api":"csp_Qiyou","ext":"http://www.dyxz2.com/"},
 {"key":"csp_Fantuan_FM","name":"雷蒙影视 | 🍙饭团(SP)","type":3,"api":"csp_Fantuan","click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip"},
 {"key":"csp_Quanwk_FM","name":"雷蒙影视 | 👁‍🗨全看(SP)","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
@@ -148,7 +148,6 @@
 {"key":"csp_Gz360_FM","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"api":"csp_Gz360","playerType":2},
 {"key":"csp_Czsapp_FM","name":"雷蒙影视 | 🏭厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
 {"key":"csp_Keke_FM","name":"雷蒙影视 | 😝可可(SP)","type":3,"playerType":2,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kkys02.com"},
-{"key":"csp_Xb6v_FM","name":"雷蒙影视 | 🐤6V(SP)","type":3,"api":"csp_Xb6v","playerType":"2"},
 {"key":"csp_BookTing_FM","name":"雷蒙影视 | 📚听书(SP)","type":3,"playerType":2,"api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
 {"key":"csp_LaoBaiBook_FM","name":"雷蒙影视 | 📚老白(SP)","type":3,"playerType":2,"api":"csp_LaoBaiBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
 {"key":"csp_Xifan_FM","name":"雷蒙影视 | 🍚稀饭(SP)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1},
