@@ -6,6 +6,7 @@
   "pwdRb115": "",
   "goServerUrl": "http://127.0.0.1:9966",
   "ydAuth": "",
+  "tyAuth": "",
   "proxy": "http://127.0.0.1:1072",
   "tgPic": "false"
 }
