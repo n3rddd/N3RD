@@ -1,5 +1,11 @@
 [
   {
+    "share_index": "个人网盘",
+    "share_name": "115盘",
+    "share_id": "self",
+    "share_type":"115"
+  },
+  {
     "share_index": "115&uc&夸克",
     "share_name": "115-电影大包，21t",
     "share_id": "swz8hp033xj",
