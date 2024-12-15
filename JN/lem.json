@@ -1,5 +1,5 @@
 {
-"spider":"./N3RD/J/lem1215.jar;md5;583BC333D807F4D75B9ACFFD58908BB1",
+"spider":"./N3RD/J/lem1215.jar;md5;40DE83892967AC95675E4749C843DE75",
 
 //"spider":"./N3RD/J/lem1209.jar;md5;6CA80617D27341F746836BCC939C4329",
 //"spider":"./N3RD/J/lem1208.jar;md5;3E68F18FC646242AB1AD3B886322D26A",
@@ -90,6 +90,7 @@
 {"key":"csp_Ddrk","name":"雷蒙影视 | ⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Kekys","name":"雷蒙影视 | 👻可可(SP)","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Auete","name":"雷蒙影视 | 🎀Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.com/"}, 
+{"key":"csp_Uvod","name":"雷蒙影视 | 💎优视频(SP)","type":3,"api":"csp_Uvod","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_PTT","name":"雷蒙影视 | 🎈PTT(SP)","type":3,"api":"csp_PTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NCat","name":"雷蒙影视 | 😻网飞猫(SP)","type":3,"api":"csp_NCat","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_TvDy","name":"雷蒙影视 | 👼电影天堂(SP)","type":3,"api":"csp_TvDy","searchable":1,"quickSearch":1,"filterable":1},
