@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1218.jar;md5;BAC2BA7FA1582DCB68C1CC2C35C80AE5",
+"spider":"./N3RD/J/lem1220.jar;md5;B78936E469FEF5A851B04899E3F73C7C",
 
+//"spider":"./N3RD/J/lem1218.jar;md5;BAC2BA7FA1582DCB68C1CC2C35C80AE5",
 //"spider":"./N3RD/J/lem1215.jar;md5;40DE83892967AC95675E4749C843DE75",
 //"spider":"./N3RD/J/lem1209.jar;md5;6CA80617D27341F746836BCC939C4329",
 //"spider":"./N3RD/J/lem1208.jar;md5;3E68F18FC646242AB1AD3B886322D26A",
@@ -150,7 +151,6 @@
 {"key":"csp_SaoHuo_FM","name":"雷蒙影视 | 🔥骚火(SP)","type":3,"api":"csp_SaoHuo","playerType":2},
 {"key":"csp_Gz360_FM","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"api":"csp_Gz360","playerType":2},
 {"key":"csp_Czsapp_FM","name":"雷蒙影视 | 🏭厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
-{"key":"csp_Keke_FM","name":"雷蒙影视 | 😝可可(SP)","type":3,"playerType":2,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kkys02.com"},
 {"key":"csp_BookTing_FM","name":"雷蒙影视 | 📚听书(SP)","type":3,"playerType":2,"api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
 {"key":"csp_LaoBaiBook_FM","name":"雷蒙影视 | 📚老白(SP)","type":3,"playerType":2,"api":"csp_LaoBaiBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
 {"key":"csp_Xifan_FM","name":"雷蒙影视 | 🍚稀饭(SP)","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1},
@@ -170,6 +170,10 @@
 {"key":"csp_CandyMuj_nkvod","name":"雷蒙影视 | 🔱耐看点播(SP)","type":3,"api":"csp_CandyMuj_nkvod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_yzzy","name":"雷蒙影视 | 💯优质资源(SP)","type":3,"api":"csp_CandyMuj_yzzy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_yinfans","name":"雷蒙影视 | 🧲音范丝(SP)","type":3,"api":"csp_CandyMuj_yinfans","searchable":1,"quickSearch":1,"filterable":1},
+
+// ⇩⇩ APP ⇩⇩
+{"key":"csp_AppYsV2_皮皮虾","name":"雷蒙影视 | 🅰皮皮虾(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://38.55.250.149:1314/api.php/app/"},
+{"key":"csp_AppYsV2_HG影视","name":"雷蒙影视 | 🅰HG影视(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cs.hgyx.vip/api2/api.php/app/"},
 
 // ⇩⇩ 网盘搜索 ⇩⇩ 
 {"key":"csp_KkSs","name":"雷蒙影视 | 📀抠抠(网盘APP扫码)","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
