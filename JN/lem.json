@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1220.jar;md5;B78936E469FEF5A851B04899E3F73C7C",
+"spider":"./N3RD/J/lem1221.jar;md5;9DF41C66F068EF964806B0B1DA26B3D4",
 
+//"spider":"./N3RD/J/lem1220.jar;md5;B78936E469FEF5A851B04899E3F73C7C",
 //"spider":"./N3RD/J/lem1218.jar;md5;BAC2BA7FA1582DCB68C1CC2C35C80AE5",
 //"spider":"./N3RD/J/lem1215.jar;md5;40DE83892967AC95675E4749C843DE75",
 //"spider":"./N3RD/J/lem1209.jar;md5;6CA80617D27341F746836BCC939C4329",
@@ -88,7 +89,7 @@
 {"key":"csp_NanGua","name":"雷蒙影视 | 🎃南瓜影视(SP)","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_AppTT_热播","name":"雷蒙影视 | 🧿热播(APP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"csp_AppTT_萌米","name":"雷蒙影视 | 🧿萌米(APP)","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
-{"key":"csp_AppTT_欢视","name":"雷蒙影视 | 🧿欢视(APP)","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+{"key":"csp_AppTT_欢视","name":"雷蒙影视 | 🧿欢视(APP)","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
 {"key":"csp_Ddrk","name":"雷蒙影视 | ⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Kekys","name":"雷蒙影视 | 👻可可(SP)","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Auete","name":"雷蒙影视 | 🎀Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.com/"}, 
@@ -101,7 +102,6 @@
 {"key":"csp_DaGongRen","name":"雷蒙影视 | 👤打工人电影(SP)","type":3,"api":"csp_DaGongRen","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_HkTv","name":"雷蒙影视 | 🌥TVB云播(SP)","type":3,"api":"csp_HkTv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XuanFeng","name":"雷蒙影视 | 🌀旋风影视(SP)","type":3,"api":"csp_XuanFeng","searchable":1,"changeable":1,"ext":{}},
-{"key":"csp_Djtt","name":"雷蒙影视 | 🌈短剧(SP)","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Dm84","name":"雷蒙影视 | 🐾动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_Ysj","name":"雷蒙影视 | 🐾异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"雷蒙影视 | 🐾Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
