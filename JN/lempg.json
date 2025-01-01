@@ -69,6 +69,7 @@
 {"key":"csp_Wobg_奥秘影视","name":"雷蒙影视 | 💿奥秘影视(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$https://vip.omii.top/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_Wobg_土豆阿里","name":"雷蒙影视 | 💿土豆阿里(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.json$$$https://yunpan.yunpay.cc/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_Wobg_云星网盘","name":"雷蒙影视 | 💿云星网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$https://4k.4u4.cn$$$cfg$$$1$$$./N3RD/T/wogg.json"},
+{"key":"csp_Guanying","name":"雷蒙影视 | 💿观影(SP)","type":3,"api":"csp_Guanying","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$https://www.gyg.la$$$cfg$$$1$$$./N3RD/T/guanying.txt"},
 {"key":"csp_Hdh","name":"雷蒙影视 | 💿影巢(SP)","type":3,"api":"csp_Hdh","quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":"./N3RD/T/pg.json$$$https://hdhive.online$$$cfg$$$1$$$./N3RD/T/hdhive.txt"},
 {"key":"csp_UpYun","name":"雷蒙影视 | 💿云搜(SP)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/pg.json"},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 💿PanSearch(SP)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"./N3RD/T/pg.json$$$cfg$$$proxy"},
