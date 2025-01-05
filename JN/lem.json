@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0102.jar;md5;2530E72DF8439FEE48C4336793277DB9",
+"spider":"./N3RD/J/lem0105.jar;md5;A94B7E584D0E27CF84F449D8566E2373",
 
+//"spider":"./N3RD/J/lem0102.jar;md5;2530E72DF8439FEE48C4336793277DB9",
 //"spider":"./N3RD/J/lem1230.jar;md5;E35FFED75A57EA1A24D8ADD14F8E5EB2",
 //"spider":"./N3RD/J/lem1224.jar;md5;661BC919DCD70B287A94930F38A46622",
 //"spider":"./N3RD/J/lem1221.jar;md5;9DF41C66F068EF964806B0B1DA26B3D4",
@@ -76,6 +77,7 @@
 {"key":"csp_Libvio","name":"雷蒙影视 | 🎉Libvio(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_Jpys","name":"雷蒙影视 | 💮文才(SP)","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Nmyswv","name":"雷蒙影视 | 🍓糯米(SP)","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Sbaibai","name":"雷蒙影视 | 🐭素白白(SP)","type":3,"api":"csp_Sbaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Zxzj","name":"雷蒙影视 | 📹在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"csp_Bttoo","name":"雷蒙影视 | 🍄两个BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_LiteApple","name":"雷蒙影视 | 🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
@@ -135,17 +137,18 @@
 {"key":"csp_Dygang_QJ","name":"雷蒙影视 | 🚢电影港(SP)","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ FM SPIDER ⇩⇩ 
-{"key":"csp_Lggys_FM","name":"雷蒙影视 | 🏮攻阁(SP)","type":3,"api":"csp_Lggys"},
 {"key":"csp_SuBaiBai_FM","name":"雷蒙影视 | 🏳️素白(SP)","type":3,"api":"csp_SuBaiBai","ext":"http://subaibai.com"},
 {"key":"csp_Jpyy_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpyy"},
 {"key":"csp_Nongm_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn"},
 {"key":"csp_Xlys_FM","name":"雷蒙影视 | 📯修罗(SP)","type":3,"api":"csp_Xlys"},
 {"key":"csp_AppRZ_FM","name":"雷蒙影视 | 🕵️忍者(SP)","type":3,"api":"csp_AppRZ","ext":"http://rzys.xyz/"},
+{"key":"csp_Lkdy_FM","name":"雷蒙影视 | 🏔️来看(SP)","type":3,"api":"csp_Lkdy"},
+{"key":"csp_Lggys_FM","name":"雷蒙影视 | 💗️攻阁(SP)","type":3,"api":"csp_Lggys"},
+{"key":"csp_Tvyb_FM","name":"雷蒙影视 | ☁︎云播(SP)","type":3,"api":"csp_Tvyb"},
 {"key":"csp_Kanke_FM","name":"雷蒙影视 | 🛳️看客(SP)","type":3,"api":"csp_Kanke"},
 {"key":"csp_Qiyou_FM","name":"雷蒙影视 | 🥝奇优(SP)","type":3,"api":"csp_Qiyou","ext":"http://www.dyxz2.com/"},
 {"key":"csp_Fantuan_FM","name":"雷蒙影视 | 🍙饭团(SP)","type":3,"api":"csp_Fantuan","click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip"},
 {"key":"csp_Quanwk_FM","name":"雷蒙影视 | 👁‍🗨全看(SP)","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
-{"key":"csp_Tvyb_FM","name":"雷蒙影视 | ☁︎云播(SP)","type":3,"api":"csp_Tvyb","playerType":2,"ext":"http://www.tvyun01.com/"},
 {"key":"csp_Jiaozi_FM","name":"雷蒙影视 | 🌎饺子(SP)","type":3,"api":"csp_Jiaozi","playerType":2},
 {"key":"csp_SaoHuo_FM","name":"雷蒙影视 | 🔥骚火(SP)","type":3,"api":"csp_SaoHuo","playerType":2},
 {"key":"csp_Gz360_FM","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"api":"csp_Gz360","playerType":2},
