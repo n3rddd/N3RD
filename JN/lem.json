@@ -1,5 +1,5 @@
 {
-"spider":"./N3RD/J/lem0111.jar;md5;62763369296E3B9AA7A9B3183D859A62",
+"spider":"./N3RD/J/lem0111.jar;md5;A8E0B9CDD49C215B89CCE40ABC2E9B8A",
 
 //"spider":"./N3RD/J/lem0109.jar;md5;A0AFF712FA5B6B575E4F91D9E9B119F6",
 //"spider":"./N3RD/J/lem0107.jar;md5;7244E0B8CD771CF3C25BCC0DE24C6C2C",
@@ -117,8 +117,8 @@
 {"key":"csp_JpysQJ","name":"雷蒙影视 | 🥇️剧评(SP)","type":3,"api":"csp_JpysQJ","playerType":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
 {"key":"csp_Shark_QJ","name":"雷蒙影视 | 🌴木头(SP)","type":3,"api":"csp_Shark","playerType":1,"ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="},
 {"key":"csp_Drama_QJ","name":"雷蒙影视 | 🍟世纪(SP)","type":3,"api":"csp_Drama","playerType":2,"ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="},
+{"key":"csp_Muou_永夜_QJ","name":"雷蒙影视 | 🌙永夜(SP)","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"},
 {"key":"csp_Muou_星河_QJ","name":"雷蒙影视 | 💫星河(SP)","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="},
-{"key":"csp_Muou_屋子_QJ","name":"雷蒙影视 | 🌍屋子(SP)","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL21vLmFwcC4zM2xvdmUuY2585bCP5Li45LuUfDQuMS43"},
 {"key":"csp_Xdai_荣荣_QJ","name":"雷蒙影视 | 👪荣荣(SP)","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="},
 {"key":"csp_Xdai_雨滴_QJ","name":"雷蒙影视 | 💧雨滴(SP)","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="},
 {"key":"csp_Xdai_现代_QJ","name":"雷蒙影视 | 🛰现代(SP)","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"},
