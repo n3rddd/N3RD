@@ -6,7 +6,7 @@
 // @author       Luomo
 // @match        https://m.yfsp.tv/*
 // @require      https://cdn.jsdelivr.net/gh/CatVodSpider-GM/Spiders-Lib@main/lib/browser-extension-url-match-1.2.0.min.js
-// @require      https://cdn.jsdelivr.net/gh/CatVodSpider-GM/Spiders-Lib@main/lib/ajaxhook-3.0.3.min.js
+// @require      https://cdn.jsdelivr.net/npm/ajax-hook@3.0.3/dist/ajaxhook.umd.min.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        unsafeWindow
@@ -166,38 +166,34 @@ console.log(JSON.stringify(GM_info));
                 let episodeKey = "";
                 hookResult.playdata.data.list.forEach((item) => {
                     if (mediaUrl === "" && item.mediaUrl !== "") {
-                        mediaUrl = `@{base64Decoder:${btoa(item.mediaUrl)}}`;
+                        mediaUrl = item.mediaUrl;
                         episodeKey = item.episodeKey;
                     }
                 })
-                let vodPlayUrls = [];
+                let media = [];
                 if (videodetails.videoType !== 0) {
                     if (typeof hookResult.videochoosegather !== "undefined") {
                         hookResult.videochoosegather.data.list.forEach((item) => {
                             if (videodetails.episodeTitle === item.episodeTitle) {
-                                vodPlayUrls.push({
+                                media.push({
                                     name: item.episodeTitle,
-                                    value: {
-                                        type: "finalUrl",
-                                        data: {
-                                            "header": {
-                                                "User-Agent": window.navigator.userAgent,
-                                                "Referer": window.location.href
-                                            },
-                                            "url": mediaUrl
-                                        }
+                                    type: "finalUrl",
+                                    ext: {
+                                        "header": {
+                                            "User-Agent": window.navigator.userAgent,
+                                            "Referer": window.location.href
+                                        },
+                                        "url": mediaUrl
                                     }
                                 });
                             } else {
-                                vodPlayUrls.push({
+                                media.push({
                                     name: item.episodeTitle,
-                                    value: {
-                                        type: "webview",
-                                        data: {
-                                            replace: {
-                                                mediaKey: item.mediaKey,
-                                                episodeKey: item.episodeKey
-                                            }
+                                    type: "webview",
+                                    ext: {
+                                        replace: {
+                                            mediaKey: item.mediaKey,
+                                            episodeKey: item.episodeKey
                                         }
                                     }
                                 })
@@ -208,17 +204,15 @@ console.log(JSON.stringify(GM_info));
                         return;
                     }
                 } else {
-                    vodPlayUrls.push({
+                    media.push({
                         name: videodetails.episodeTitle,
-                        value: {
-                            type: "finalUrl",
-                            data: {
-                                "header": {
-                                    "User-Agent": window.navigator.userAgent,
-                                    "Referer": window.location.href
-                                },
-                                "url": mediaUrl
-                            }
+                        type: "finalUrl",
+                        ext: {
+                            "header": {
+                                "User-Agent": window.navigator.userAgent,
+                                "Referer": window.location.href
+                            },
+                            "url": mediaUrl
                         }
                     })
                 }
@@ -233,10 +227,8 @@ console.log(JSON.stringify(GM_info));
                     vod_content: videodetails.introduce,
                     vod_play_data: [{
                         from: "爱壹帆",
-                        url: vodPlayUrls
-                    }],
-                    vod_play_from: "爱壹帆",
-                    vod_play_url: vodPlayUrls.join("#"),
+                        media: media
+                    }]
                 };
             },
             playerContent: function (flag, id, vipFlags) {
@@ -248,7 +240,7 @@ console.log(JSON.stringify(GM_info));
                 })
                 return {
                     type: "finalUrl",
-                    data: {
+                    ext: {
                         "header": {
                             "User-Agent": window.navigator.userAgent,
                             "Referer": window.location.href

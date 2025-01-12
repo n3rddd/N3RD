@@ -5,9 +5,9 @@
 // @description  gaze GMSpider
 // @author       Luomo
 // @match        https://gaze.run/*
-// @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.slim.min.js
-// @require      https://cdn.jsdelivr.net/gh/CatVodSpider-GM/Spiders-Lib@main/lib/ajaxhook-3.0.3.min.js
-// @require      https://unpkg.com/blob-util/dist/blob-util.min.js
+// @require      https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js
+// @require      https://cdn.jsdelivr.net/npm/ajax-hook@3.0.3/dist/ajaxhook.umd.min.js
+// @require      https://cdn.jsdelivr.net/npm/blob-util@2.0.2/dist/blob-util.min.js
 // @grant        unsafeWindow
 // @run-at       document-end
 // ==/UserScript==
@@ -140,7 +140,7 @@ console.log(JSON.stringify(GM_info));
                     fileData = fileData.replaceAll('Â ', "");
                     playData = {
                         type: "file",
-                        data: {
+                        ext: {
                             header: {
                                 "User-Agent": window.navigator.userAgent,
                                 "Referer": window.location.href
@@ -151,13 +151,9 @@ console.log(JSON.stringify(GM_info));
                 });
             } else {
                 playData = {
-                    type: "match",
-                    data: {
-                        url: src
-                    }
+                    type: "match"
                 }
             }
-            console.log(playData);
             return playData;
         }
 
@@ -227,43 +223,30 @@ console.log(JSON.stringify(GM_info));
                 return listVideos(result);
             },
             detailContent: function (ids) {
-                console.log(ids);
-                return new Promise(function (resolve) {
-                    _gotSrc = resolve;
-                }).then(async (playerSrc) => {
-                    console.log("playerSrc", playerSrc)
-                    let playUrl = [];
-                    let playValue = await getPlay(playerSrc.src);
-                    playUrl.push({
-                        name: $("#btngroup .playbtn").first().text().trim(),
-                        value: playValue
-                    })
-                    $("#btngroup .playbtn:gt(0)").each(function () {
-                        playUrl.push({
-                            name: $(this).text().trim(),
-                            value: {
-                                type: "webview",
-                                data: {
-                                    replace: {
-                                        mcid: unsafeWindow.mcid,
-                                        path: $(this).data("path")
-                                    }
-                                }
+                let media = [];
+                $("#btngroup .playbtn").each(function () {
+                    media.push({
+                        name: $(this).text().trim(),
+                        type: "webview",
+                        ext: {
+                            replace: {
+                                mcid: unsafeWindow.mcid,
+                                path: $(this).data("path")
                             }
-                        })
+                        }
                     })
-                    return {
-                        vod_id: ids[0],
-                        vod_name: $(".d-flex .grade:first").text().trim(),
-                        vod_pic: $(".d-flex .pimgs").attr("src"),
-                        vod_remarks: $(".d-flex .grade:eq(1)").text().trim(),
-                        vod_content: $(".d-flex p").text().trim(),
-                        vod_play_data: [{
-                            from: "注视影视",
-                            url: playUrl
-                        }]
-                    };
-                });
+                })
+                return {
+                    vod_id: ids[0],
+                    vod_name: $(".d-flex .grade:first").text().trim(),
+                    vod_pic: $(".d-flex .pimgs").attr("src"),
+                    vod_remarks: $(".d-flex .grade:eq(1)").text().trim(),
+                    vod_content: $(".d-flex p").text().trim(),
+                    vod_play_data: [{
+                        from: "注视影视",
+                        media: media
+                    }]
+                };
             },
             playerContent: function (flag, id, vipFlags) {
                 console.log(flag, id, unsafeWindow.mid);

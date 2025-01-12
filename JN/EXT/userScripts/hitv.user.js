@@ -6,7 +6,7 @@
 // @author       Luomo
 // @match        https://www.upfuhn.com/*
 // @require      https://cdn.jsdelivr.net/gh/CatVodSpider-GM/Spiders-Lib@main/lib/browser-extension-url-match-1.2.0.min.js
-// @require      https://scriptcat.org/lib/637/1.4.3/ajaxHooker.js
+// @require      https://cdn.jsdelivr.net/gh/CatVodSpider-GM/SFW-Spiders@main/Spiders-Lib/ajaxHooker-1.4.3.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        unsafeWindow
@@ -20,28 +20,43 @@ console.log(JSON.stringify(GM_info));
         GMSpiderArgs.fName = args.shift();
         GMSpiderArgs.fArgs = args;
     } else {
+        // GMSpiderArgs.fName = "homeContent";
+        // GMSpiderArgs.fArgs = [true];
         GMSpiderArgs.fName = "searchContent";
-        GMSpiderArgs.fArgs = [true];
-        // GMSpiderArgs.fName = "categoryContent";
-        // GMSpiderArgs.fArgs = ["82", 2, true, {tag: "动作", y: "2024", o: "1", a: "大陆"}];
+        GMSpiderArgs.fArgs = ["82", 2, true, {tag: "动作", y: "2024", o: "1", a: "大陆"}];
     }
     Object.freeze(GMSpiderArgs);
     let hookConfigs = {
-        "homeContent": [{
-            matcher: matchPattern("https://*/v1/report_channel_data").assertValid(),
-            onResponseHook: function (response) {
-                Array.from(document.querySelectorAll(".left-wrap .tab-box:nth-child(2) .swiper-slide span"))
-                    .find(el => el.textContent === "全部").dispatchEvent(new Event("click"));
+        "homeContent": [
+            {
+                matcher: matchPattern("https://*/*/meta/*.json").assertValid(),
+                onResponseHook: function (response) {
+                    let executed = false;
+                    unsafeWindow.useNuxtApp().hook('link:prefetch', () => {
+                        if (!executed) {
+                            Array.from(document.querySelectorAll(".left-wrap .tab-box:nth-child(2) .swiper-slide span")).find(el => el.textContent === "全部").dispatchEvent(new Event("click"));
+                        }
+                        executed = true;
+                    });
+                }
+            },
+            {
+                dataKey: "ys_video_sites", matcher: matchPattern("https://*/v1/ys_video_sites?*").assertValid()
             }
-        }, {
-            dataKey: "ys_video_sites", matcher: matchPattern("https://*/v1/ys_video_sites?*").assertValid()
-        }], "categoryContent": [{
-            matcher: matchPattern("https://*/v1/report_channel_data").assertValid(),
+        ],
+        "categoryContent": [{
+            matcher: matchPattern("https://*/*/meta/*.json").assertValid(),
             onResponseHook: function (response) {
                 const extend = GMSpiderArgs.fArgs[3];
                 let tag = extend?.tag ?? "全部"
-                Array.from(document.querySelectorAll(".left-wrap .tab-box:nth-child(2) .swiper-slide span"))
-                    .find(el => el.textContent === tag).dispatchEvent(new Event("click"));
+                let executed = false;
+                unsafeWindow.useNuxtApp().hook('link:prefetch', () => {
+                    if (!executed) {
+                        Array.from(document.querySelectorAll(".left-wrap .tab-box:nth-child(2) .swiper-slide span"))
+                            .find(el => el.textContent === tag).dispatchEvent(new Event("click"));
+                    }
+                    executed = true;
+                });
             }
         }, {
             dataKey: "ys_video_sites",
@@ -63,10 +78,12 @@ console.log(JSON.stringify(GM_info));
             }
         }],
         "detailContent": [{
-            dataKey: "meta", matcher: matchPattern("https://*/v1/report_channel_data").assertValid()
+            dataKey: "meta",
+            matcher: matchPattern("https://*/*/meta/*.json").assertValid(),
         }],
         "searchContent": [{
-            dataKey: "meta", matcher: matchPattern("https://*/v1/report_channel_data").assertValid()
+            dataKey: "meta",
+            matcher: matchPattern("https://*/*/meta/*.json").assertValid(),
         }],
     };
     const GmSpider = (function () {
@@ -87,6 +104,8 @@ console.log(JSON.stringify(GM_info));
         };
         return {
             homeContent: function (filter) {
+                //清理cookie
+                document.cookie.split(";").forEach(function(c) { document.cookie = c.replace(/^ +/, "").replace(/=.*/, "=;expires=" + new Date().toUTCString() + ";path=/"); });
                 let result = {
                     class: [{type_id: "85", type_name: "短剧"}, {type_id: "81", type_name: "电影"}, {
                         type_id: "82",
@@ -145,35 +164,39 @@ console.log(JSON.stringify(GM_info));
             }, detailContent: function (ids) {
                 let playUrl = [];
                 let vod = {};
-                const formatData = JSON.parse(document.getElementById("__NUXT_DATA__").innerHTML);
-                formatData.forEach((data) => {
-                    if (typeof (vod?.vod_id) == "undefined" && typeof (data?.video_desc) === "number") {
+                const nuxtData = JSON.parse(JSON.stringify(unsafeWindow.__NUXT__.data));
+                for (const [key, value] of Object.entries(nuxtData)) {
+                    if (typeof (value.data?.ys_video_site) != "undefined") {
+                        value.data.data.forEach((item) => {
+                            playUrl.push({
+                                name: item.series_num,
+                                type: "finalUrl",
+                                ext: {
+                                    header: {
+                                        "User-Agent": window.navigator.userAgent,
+                                        "Referer": window.location.href
+                                    },
+                                    url: item.video_url
+                                }
+                            })
+                        })
+                        const ysVideoSite = value.data.ys_video_site;
                         vod = {
-                            vod_id: formatData[data.video_site_id],
-                            vod_name: formatData[data.video_name],
-                            vod_content: formatData[data.video_desc],
-                            vod_year: formatData[data.years],
-                            vod_area: formatData[data.area],
-                            vod_actor: formatData[data.main_actor],
-                            type_name: formatData[data.tag],
+                            vod_id: ysVideoSite.video_site_id,
+                            vod_name: ysVideoSite.video_name,
+                            vod_content: ysVideoSite.video_desc,
+                            vod_year: ysVideoSite.years,
+                            vod_area: ysVideoSite.area,
+                            vod_actor: ysVideoSite.main_actor,
+                            type_name: ysVideoSite.tag,
                             vod_play_data: [{
-                                from: "Hi视频", url: playUrl
+                                from: "Hi视频",
+                                media: playUrl
                             }]
                         };
+
                     }
-                    if (typeof (data?.series_num) === "number") {
-                        playUrl.push({
-                            name: formatData[data.series_num],
-                            value: {
-                                type: "finalUrl", data: {
-                                    header: {
-                                        "User-Agent": window.navigator.userAgent, "Referer": window.location.href
-                                    }, url: formatData[data.video_url]
-                                }
-                            }
-                        })
-                    }
-                })
+                }
                 return vod;
             }, searchContent: function (key, quick, pg) {
                 const result = {
@@ -181,30 +204,30 @@ console.log(JSON.stringify(GM_info));
                     page: pg,
                     pagecount: 1
                 };
-                const formatData = JSON.parse(document.getElementById("__NUXT_DATA__").innerHTML);
-                console.log(formatData);
-                formatData.forEach((data) => {
-                    if (typeof (data?.first_video_series) === "number") {
-                        let firstVideo = formatData[data.first_video_series];
-                        result.list.push({
-                            vod_id: formatData[firstVideo.video_site_id],
-                            vod_name: formatData[firstVideo.video_name],
-                            vod_pic: formatData[firstVideo.video_vertical_url],
-                            vod_remarks: formatData[firstVideo.tag],
-                            vod_year: formatData[firstVideo.years]
-                        })
-                        formatData[data.video_sites].forEach((videoIndex) => {
-                            let video = formatData[videoIndex];
+                const nuxtData = JSON.parse(JSON.stringify(unsafeWindow.__NUXT__.data));
+                for (const [key, value] of Object.entries(nuxtData)) {
+                    if (typeof (value.data?.first_video_series) != "undefined") {
+                        if (value.data.first_video_series != null) {
+                            const firstVideo = value.data.first_video_series
                             result.list.push({
-                                vod_id: formatData[video.video_site_id],
-                                vod_name: formatData[video.video_name],
-                                vod_pic: formatData[video.video_vertical_url],
-                                vod_remarks: formatData[video.tag],
-                                vod_year: formatData[video.years]
+                                vod_id: firstVideo.video_site_id,
+                                vod_name: firstVideo.video_name,
+                                vod_pic: firstVideo.video_vertical_url,
+                                vod_remarks: firstVideo.tag,
+                                vod_year: firstVideo.years
+                            })
+                        }
+                        value.data.video_sites.forEach((video) => {
+                            result.list.push({
+                                vod_id: video.video_site_id,
+                                vod_name: video.video_name,
+                                vod_pic: video.video_vertical_url,
+                                vod_remarks: video.tag,
+                                vod_year: video.years
                             })
                         })
                     }
-                })
+                }
                 return result;
             }
         };
@@ -214,7 +237,7 @@ console.log(JSON.stringify(GM_info));
     let hookResult = {};
     ajaxHooker.hook(request => {
         hookConfigs[GMSpiderArgs.fName].forEach((hookConfig) => {
-            if (typeof hookConfig.onRequestHook === "function" && hookConfig.matcher.match(request.url)) {
+            if (typeof hookConfig.onRequestHook === "function" && hookConfig.matcher.match(request.url.startsWith("http") ? request.url : unsafeWindow.window.location.origin + request.url)) {
                 hookConfig.onRequestHook(request);
             }
         });
@@ -226,7 +249,7 @@ console.log(JSON.stringify(GM_info));
                         dataTodoCount++;
                     }
                 }
-                if (hookConfig.matcher.match(request.url)) {
+                if (hookConfig.matcher.match(request.url.startsWith("http") ? request.url : unsafeWindow.window.location.origin + request.url)) {
                     request.response = res => {
                         if (typeof hookConfig.onResponseHook === "function") {
                             hookConfig.onResponseHook(res);
