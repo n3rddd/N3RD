@@ -97,7 +97,6 @@
 {"key":"csp_PTT","name":"雷蒙影视 | 🎈PTT(SP)","type":3,"api":"csp_PTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NCat","name":"雷蒙影视 | 😻网飞猫(SP)","type":3,"api":"csp_NCat","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_TvDy","name":"雷蒙影视 | 👼电影天堂(SP)","type":3,"api":"csp_TvDy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_QxiTv","name":"雷蒙影视 | 7️⃣7喜影院(SP)","type":3,"api":"csp_QxiTv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_W55Movie","name":"雷蒙影视 | 5️⃣555电影(SP)","type":3,"api":"csp_W55Movie","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w55xy.com/"},
 {"key":"csp_DaGongRen","name":"雷蒙影视 | 👤打工人电影(SP)","type":3,"api":"csp_DaGongRen","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_HkTv","name":"雷蒙影视 | 🌥TVB云播(SP)","type":3,"api":"csp_HkTv","searchable":1,"quickSearch":1,"filterable":1},
