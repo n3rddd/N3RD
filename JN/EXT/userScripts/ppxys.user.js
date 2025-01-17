@@ -18,29 +18,23 @@ console.log(JSON.stringify(GM_info));
         GMSpiderArgs.fArgs = args;
     } else {
         GMSpiderArgs.fName = "detailContent";
-        GMSpiderArgs.fArgs = [1, 109];
+        GMSpiderArgs.fArgs = [true];
     }
     Object.freeze(GMSpiderArgs);
     const GmSpider = MacCmsGMSpider({
         configPicUserAgent: false,
-        pageCountStyle: ".stui-page__item li.hidden-xs:last:not(.active)",
         homeContent: {
             category: {
-                select: ".stui-header__menu li",
-                slice: [1, 7]
+                select: ".navbar-item",
+                slice: [1, 4]
             }
         },
         detailContent: {
             customFunction: function (ids) {
-                let items = {};
-                $(".stui-content__detail .data").each(function () {
-                    const item = $(this).text().trim().split("：");
-                    items[item[0]] = item[1];
-                });
                 let vodPlayData = [];
-                $(".stui-content__playlist:first").each(function (i) {
+                $(".player-list").each(function (i) {
                     let media = [];
-                    $(".stui-content__playlist:first a").each(function () {
+                    $(this).find(".module-play-list .module-play-list-link").each(function () {
                         media.push({
                             name: $(this).text().trim(),
                             type: "webview",
@@ -52,50 +46,38 @@ console.log(JSON.stringify(GM_info));
                         });
                     })
                     vodPlayData.push({
-                        from: "在线之家",
+                        from: $(this).find(".module-tab-item").children().remove().end().text().trim(),
                         media: media
                     })
                 })
 
                 return vod = {
                     vod_id: ids[0],
-                    vod_name: $(".stui-content__detail .title").text().trim(),
-                    vod_pic: $(".stui-content__thumb img").data("original"),
-                    vod_remarks: items?.["更新"] || "",
-                    vod_director: items?.["导演"] || "",
-                    vod_actor: items?.["主演"] || "",
-                    vod_content: $(".stui-content__thumb .detail-content").text().trim(),
+                    vod_name: $(".module-player-side .module-info-heading h1").text().trim(),
+                    type_name: $(".module-player-side .module-info-tag-link a").map(function () {
+                        return $(this).attr("title");
+                    }).get().join(" "),
                     vod_play_data: vodPlayData
                 };
             }
         },
-        getVodList: function () {
-            let vodList = [];
-            $("a.stui-vodlist__thumb").each(function () {
-                vodList.push({
-                    vod_id: $(this).attr("href"),
-                    vod_name: $(this).attr("title"),
-                    vod_pic: $(this).data("original"),
-                    vod_remarks: $(this).find(".pic-text").text().trim()
-                })
-            });
-            return vodList;
-        },
         getCategoryFilter: function () {
             const filters = [];
-            $("#screenbox .clearfix:gt(0)").each(function () {
+            $(".module-class-item").each(function (i) {
                 const filter = {
                     key: "",
-                    name: $(this).find("li:first").text().trim(),
+                    name: $(this).find(".module-item-title").text().trim(),
                     value: []
                 }
-                $(this).find("a").each(function () {
-                    const params = $(this).attr("href").split(/[/.]/).at(2).split("-").slice(1);
-                    filter.key = "index" + params.findIndex((element) => element.length > 0)
-                    filter.value.push({
-                        n: $(this).text().trim(),
-                        v: params.find((element) => element.length > 0) || ""
-                    })
+                $(this).find(".module-item-box a").each(function () {
+                    const params = $(this).attr("href").split(/[/.]/);
+                    if (params.length > 4) {
+                        filter.key = "index" + i;
+                        filter.value.push({
+                            n: $(this).text().trim(),
+                            v: `/${params[3]}/${params[4]}`
+                        })
+                    }
                 })
                 filters.push(filter);
             })
@@ -104,7 +86,6 @@ console.log(JSON.stringify(GM_info));
     });
     $(document).ready(function () {
         const result = GmSpider[GMSpiderArgs.fName](...GMSpiderArgs.fArgs);
-        console.log(JSON.stringify(result));
         if (typeof GmSpiderInject !== 'undefined') {
             GmSpiderInject.SetSpiderResult(JSON.stringify(result));
         }

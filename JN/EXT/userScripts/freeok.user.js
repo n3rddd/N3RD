@@ -6,7 +6,7 @@
 // @author       Luomo
 // @match        *://*/*
 // @require      https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js
-// @require      https://cdn.jsdelivr.net/gh/CatVodSpider-GM/SFW-Spiders@main/Spiders-Lib/maccms10.js
+// @require      https://cdn.jsdelivr.net/gh/CatVodSpider-GM/SFW-Spiders@main/Spiders-Lib/maccms-1.0.2.js
 // @grant        unsafeWindow
 // ==/UserScript==
 console.log(JSON.stringify(GM_info));
