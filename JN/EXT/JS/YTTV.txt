@@ -17,7 +17,7 @@
 中天新聞2,https://www.youtube.com/watch?v=DM_PEM8GrIg
 中天亞洲台,https://www.youtube.com/watch?v=qN_qW6tmWDs
 鳳凰資訊,https://www.youtube.com/watch?v=HFib76ySpbU
-CCTV-4,https://www.youtube.com/watch?v=twhG7_jvA8g
+CCTV-4,https://www.youtube.com/watch?v=SdzewdkJa-o
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc&ab_channel=TVBSNEWS
 TVBSHD 56,https://www.youtube.com/watch?v=o_-hSMgpAzs
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -25,7 +25,8 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立NEWS+,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立LIVE,https://www.youtube.com/watch?v=hGJkDZDchYI
 東森新闻Live,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
+東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
+東森財經新聞,https://www.youtube.com/watch?v=AEBeWMM1atA
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA&ab_channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E7%B6%B2FormosaTVNewsnetwork
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E&ab_channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9ECH52
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM&ab_channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9EHD%E7%9B%B4%E6%92%AD%E9%A0%BB%E9%81%93%EF%BD%9CTaiwanCTVnewsHDLive
