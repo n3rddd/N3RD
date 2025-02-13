@@ -100,7 +100,7 @@
 {"key":"csp_HkTv","name":"雷蒙影视 | 🌥TVB云播(SP)","type":3,"api":"csp_HkTv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XuanFeng","name":"雷蒙影视 | 🌀旋风影视(SP)","type":3,"api":"csp_XuanFeng","searchable":1,"changeable":1,"ext":{}},
 {"key":"csp_AppXY","name":"雷蒙影视 | ⭐星芽短剧(SP)","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Living","name":"雷蒙影视 | 🍋柠檬直播(SP)","type":3,"api":"csp_Living","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Living","name":"雷蒙影视 | 🍋柠檬直播(SP)","type":3,"api":"csp_Living","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lemonlive.pages.dev"},
 {"key":"csp_Dm84","name":"雷蒙影视 | 🐾动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_Ysj","name":"雷蒙影视 | 🐾异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"雷蒙影视 | 🐾Anime1动画线上看(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
