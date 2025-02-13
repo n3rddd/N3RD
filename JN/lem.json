@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0210.jar;md5;8684343EBB897D1F525AE20B31B6A8CB",
+"spider":"./N3RD/J/lem0213.jar;md5;FD50F3B14C0758CD5BDC547ECD2F81B4",
 
+//"spider":"./N3RD/J/lem0210.jar;md5;8684343EBB897D1F525AE20B31B6A8CB",
 //"spider":"./N3RD/J/lem0209.jar;md5;E13BB8027E585A99FA1F2721965A8D56",
 //"spider":"./N3RD/J/lem0203.jar;md5;DE8795E3F239B8DB12FB50FE12866B7D",
  
@@ -143,6 +144,8 @@
 {"key":"csp_Dygang_QJ","name":"雷蒙影视 | 🚢电影港(SP)","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ FM SPIDER ⇩⇩ 
+{"key":"csp_AppNG_FM","name":"雷蒙影视 | 🎃南瓜(SP)","type":3,"api":"csp_AppNG"},
+{"key":"csp_Siren_FM","name":"雷蒙影视 | 🎩私人(SP)","type":3,"api":"csp_Siren"},
 {"key":"csp_SuBaiBai_FM","name":"雷蒙影视 | 🏳️素白(SP)","type":3,"api":"csp_SuBaiBai","ext":"http://subaibai.com"},
 {"key":"csp_Jpyy_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpyy"},
 {"key":"csp_Nongm_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn"},
