@@ -186,7 +186,7 @@
 
 // ⇩⇩ 网盘搜索 ⇩⇩ 
 {"key":"csp_KkSs","name":"雷蒙影视 | 📀抠抠(网盘APP扫码)","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"csp_UuSs","name":"雷蒙影视 | 📀优汐(网盘APP扫码)","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"pturl":"http://91muou.icu/|http://54271.fun/|http://tv.muouso.fun/"}},
+{"key":"csp_UuSs","name":"雷蒙影视 | 📀优汐(网盘APP扫码)","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","pturl":"http://91muou.icu/|http://54271.fun/|http://tv.muouso.fun/"}},
 {"key":"csp_PanSso","name":"雷蒙影视 | 📀盘他(网盘APP扫码)","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_YpanSo","name":"雷蒙影视 | 📀盘她(网盘APP扫码)","type":3,"api":"csp_YpanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_xzso","name":"雷蒙影视 | 📀盘它(网盘APP扫码)","type":3,"api":"csp_xzso","searchable": 1,"quickSearch": 1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
