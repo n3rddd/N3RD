@@ -215,6 +215,31 @@
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
 ],
 
+"proxy":[
+"raw.githubusercontent.com",
+"googlevideo.com",
+"cdn.v82u1l.com",
+"cdn.iz8qkg.com",
+"cdn.kin6c1.com",
+"c.biggggg.com",
+"c.olddddd.com",
+"haiwaikan.com",
+"www.histar.tv",
+"youtube.com",
+"uhibo.com",
+".*boku.*",
+".*nivod.*",
+".*ulivetv.*"
+],
+
+"hosts":[
+"cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+"cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+"cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+"cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+"cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+],
+
 "rules":[
 {"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
   
