@@ -20,6 +20,8 @@
 "uc_is_vip":false,
 "uc_vip_thread_limit":10,
 "uc_flags":"4kz|auto",
+"uc_thread_limit_night":"19-23=10",
+"uc_vip_thread_limit_night":"19-23=10",
 "thunder_thread_limit":2,
 "thunder_is_vip":false,
 "thunder_vip_thread_limit":2,
@@ -59,7 +61,7 @@
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":false,
-"libxl_url":"./libxl_thunder_sdk.so",
+"libxl_url":"./libxlsdk.tar.xz",
 "youtube_proxy":"proxy",
 "singbox_url":"./sing-box.tar.xz",
 "singbox_subscribe_url":"",
@@ -75,7 +77,7 @@
 "pan115_speed_limit_mobile":10485760,
 "pan115_auto_delete":true,
 "pan115_delete_code":"",
-"pan_order":"ali|quark|uc|115|yd|thunder|pikpak",
+"pan_order":"ali|quark|uc|123|115|yd|thunder|pikpak",
 "tgsearch_url":"./tgsearch.tar.xz",
 "tgsearch_api_id":"",
 "tgsearch_api_hash":"",
@@ -84,5 +86,8 @@
 "tgsearch_api_proxy":"proxy",
 "tgsearch_api_url":"http://127.0.0.1:10199/",
 "tgsearch_media_url":"http://127.0.0.1:10199/",
-"allinone_url":"./allinone.tar.xz"
+"allinone_url":"./allinone.tar.xz",
+"pan123_username":"",
+"pan123_password":"",
+"pan123_flags":"4kz"
 }
