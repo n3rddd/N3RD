@@ -221,6 +221,38 @@
 {"jar":"./N3RD/J/gm.jar","key":"csp_GM_番茄影视","name":"雷蒙影视 | 🐵番茄影视(SCRIPT)","type":3,"searchable":1,"changeable":1,"quickSearch":0,"style":{"type":"rect","ratio":0.71},"api":"csp_GM","ext":{"userScript":"./EXT/userScripts/yirenmeng.user.js","debug":false,"webViewSettings":{"blockNetworkImage":true,"blockList":["https://hm.baidu.com/*"]},"playUrlMatch":["*://*/*.m3u8*"],"spider":{"homeContent":{"loadUrl":"https://www.yirenmeng.com/"},"categoryContent":{"loadUrl":"https://www.yirenmeng.com/vodshow/${tid}-${index0:-}-${index1:-}-${index2:-}-${index3:-}-${index4:-}-${index5:-}-${index6:-}-${pg:-1}-${index8:-}-${index9:-}-${index10:-}.html"},"detailContent":{"loadUrl":"https://www.yirenmeng.com${id}"},"playerContent":{"loadUrl":"https://www.yirenmeng.com${playUrl}"},"searchContent":{"loadUrl":"https://www.yirenmeng.com/vodsearch/${key}----------${pg:-1}---.html"}}}}, 
 
 
+// ⇩⇩ PY ⇩⇩
+{"key":"py_CliCli动漫APP","name":"雷蒙影视 | 🌀CliCli动漫APP(PY)","type":3,"api":"./PY/app/CliCli动漫APP.py"},
+{"key":"py_hitvAPP","name":"雷蒙影视 | 🌀hitvAPP(PY)","type":3,"api":"./PY/app/hitvAPP.py"},
+{"key":"py_MiFunAPP","name":"雷蒙影视 | 🌀MiFunAPP(PY)","type":3,"api":"./PY/app/MiFunAPP.py"},
+{"key":"py_爱瓜TVAPP","name":"雷蒙影视 | 🌀爱瓜TVAPP(PY)","type":3,"api":"./PY/app/爱瓜TVAPP.py"},
+{"key":"py_边缘影视APP","name":"雷蒙影视 | 🌀边缘影视APP(PY)","type":3,"api":"./PY/app/边缘影视APP.py"},
+{"key":"py_光速APP","name":"雷蒙影视 | 🌀光速APP(PY)","type":3,"api":"./PY/app/光速APP.py"},
+{"key":"py_火车太顺APP","name":"雷蒙影视 | 🌀火车太顺APP(PY)","type":3,"api":"./PY/app/火车太顺APP.py"},
+{"key":"py_剧多短剧APP","name":"雷蒙影视 | 🌀剧多短剧APP(PY)","type":3,"api":"./PY/app/剧多短剧APP.py"},
+{"key":"py_恋鱼影视APP","name":"雷蒙影视 | 🌀恋鱼影视APP(PY)","type":3,"api":"./PY/app/恋鱼影视APP.py"},
+{"key":"py_美帕APP","name":"雷蒙影视 | 🌀美帕APP(PY)","type":3,"api":"./PY/app/美帕APP.py"},
+{"key":"py_魔方影视APP","name":"雷蒙影视 | 🌀魔方影视APP(PY)","type":3,"api":"./PY/app/魔方影视APP.py"},
+{"key":"py_胖虎APP","name":"雷蒙影视 | 🌀胖虎APP(PY)","type":3,"api":"./PY/app/胖虎APP.py"},
+{"key":"py_皮皮虾APP","name":"雷蒙影视 | 🌀皮皮虾APP(PY)","type":3,"api":"./PY/app/皮皮虾APP.py"},
+{"key":"py_若惜追剧APP","name":"雷蒙影视 | 🌀若惜追剧APP(PY)","type":3,"api":"./PY/app/若惜追剧APP.py"},
+{"key":"py_三号动漫APP","name":"雷蒙影视 | 🌀三号动漫APP(PY)","type":3,"api":"./PY/app/三号动漫APP.py"},
+{"key":"py_视觉APP","name":"雷蒙影视 | 🌀视觉APP(PY)","type":3,"api":"./PY/app/视觉APP.py"},
+{"key":"py_哇哇APP","name":"雷蒙影视 | 🌀哇哇APP(PY)","type":3,"api":"./PY/app/哇哇APP.py"},
+{"key":"py_小苹果APP","name":"雷蒙影视 | 🌀小苹果APP(PY)","type":3,"api":"./PY/app/小苹果APP.py"},
+{"key":"py_悠悠APP","name":"雷蒙影视 | 🌀悠悠APP(PY)","type":3,"api":"./PY/app/悠悠APP.py"},
+{"key":"py_云端APP","name":"雷蒙影视 | 🌀云端APP(PY)","type":3,"api":"./PY/app/云端APP.py"},
+{"key":"py_云速影视APP","name":"雷蒙影视 | 🌀云速影视APP(PY)","type":3,"api":"./PY/app/云速影视APP.py"},
+{"key":"py_LIVES","name":"雷蒙影视 | 🌀LIVES(PY)","type":3,"api":"./PY/html/LIVES.py"},
+{"key":"py_LREEOK","name":"雷蒙影视 | 🌀LREEOK(PY)","type":3,"api":"./PY/html/LREEOK.py"},
+{"key":"py_好帅短剧","name":"雷蒙影视 | 🌀好帅短剧(PY)","type":3,"api":"./PY/html/好帅短剧.py"},
+{"key":"py_红果网页","name":"雷蒙影视 | 🌀红果网页(PY)","type":3,"api":"./PY/html/红果网页.py"},
+{"key":"py_金牌","name":"雷蒙影视 | 🌀金牌(PY)","type":3,"api":"./PY/html/金牌.py"},
+{"key":"py_绝对影视","name":"雷蒙影视 | 🌀绝对影视(PY)","type":3,"api":"./PY/html/绝对影视.py"},
+{"key":"py_甜圈短剧","name":"雷蒙影视 | 🌀甜圈短剧(PY)","type":3,"api":"./PY/html/甜圈短剧.py"},
+{"key":"py_旺旺","name":"雷蒙影视 | 🌀旺旺(PY)","type":3,"api":"./PY/html/旺旺.py"},
+
+
 // ⇩⇩ T4 ⇩⇩ 
 {"key":"T4_CNTV","name":"雷蒙影视 |4️⃣CNTV(T4)","type":4,"api":"https://azure.leuse.top/vod/cntv","searchable":0,"filterable":0},
 {"key":"T4_黑木","name":"雷蒙影视 | 4️⃣黑木(T4)","type":4,"api":"https://spider.doube.eu.org/spider?site=HeiMuEr","searchable":1,"quickSearch":1,"filterable":1},
