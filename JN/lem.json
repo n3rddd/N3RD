@@ -1,14 +1,7 @@
 {
-"spider":"./N3RD/J/lem0403.jar;md5;4A4E64083135511647C39AA96AD7B17D",
+"spider":"./N3RD/J/lem0408.jar;md5;615D6A30406BDCD71B5C8253924DF16B",
 
-//"spider":"./N3RD/J/lem0318.jar;md5;626CD9F34AD3D3899BB2DE54B1BC0A25",
-//"spider":"./N3RD/J/lem0317.jar;md5;6D32171E0E0C95EBC900765E37F337ED",
-//"spider":"./N3RD/J/lem0315.jar;md5;9172252DE1D60F6729F6EE11C59CB4C2",
-//"spider":"./N3RD/J/lem0305.jar;md5;326F5D8B84B7AAE605131BF00E96053B",
-//"spider":"./N3RD/J/lem0304.jar;md5;CF83BC30188487EDA5C1B97380F60717",
-//"spider":"./N3RD/J/lem0303.jar;md5;8916C1E4890F4BC4E9C65E39D78AF121",
-//"spider":"./N3RD/J/lem0302.jar;md5;454728A2A4F3838162AA04CE145E5A01",
-//"spider":"./N3RD/J/lem0301.jar;md5;DDCAA413B7D3A09EC98CE78697E018DC",
+//"spider":"./N3RD/J/lem0403.jar;md5;4A4E64083135511647C39AA96AD7B17D",
  
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -90,7 +83,6 @@
 {"key":"csp_DdrkGuard","name":"雷蒙影视 | ⏮️低端影视(SP)","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_AppTTGuard_萌米","name":"雷蒙影视 | 👀萌米(SP)","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENEIVq+dC1p/Y9uWjuA=="},
 {"key":"csp_AppSxGuard_水星","name":"雷蒙影视 | 🍊水星(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"},
-{"key":"csp_AppSxGuard_星空","name":"雷蒙影视 | 🌞星空(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprGv+T3+2qcnI67lW1iKsuzUE0beEMA/nE2s7EhOq5X1M8s5yK9aPYa5Fgv9l9CG+gdBtq3uqM="},
 {"key":"csp_AppTTGuard_热播","name":"雷蒙影视 | 📺热播(SP)","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 {"key":"csp_AppTTGuard_欢视","name":"雷蒙影视 | 👓欢视(SP)","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
 {"key":"csp_JpysGuard","name":"雷蒙影视 | 💮文才(SP)","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"changeable":1},
