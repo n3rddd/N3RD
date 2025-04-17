@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0416.jar;md5;8F3BEE8D1268141C55C4748A28C124D6",
+"spider":"./N3RD/J/lem0417.jar;md5;952E50D88DAA809BAE7E6F6E1F1195C7",
 
+//"spider":"./N3RD/J/lem0416.jar;md5;8F3BEE8D1268141C55C4748A28C124D6",
 //"spider":"./N3RD/J/lem0413.jar;md5;A869B57493F031E55C4E3140E47C3D4B",
 //"spider":"./N3RD/J/lem0412.jar;md5;BC936CDB2B9DB7E3283316AFC5125164",
 //"spider":"./N3RD/J/lem0409.jar;md5;2E6D6982F8307E9DD33941E326F46CE6",
@@ -147,15 +148,14 @@
 {"key":"csp_Auete_QJ","name":"雷蒙影视 | 🛰Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
 
 // ⇩⇩ FM SPIDER ⇩⇩ 
-{"key":"csp_Lgyy_FM","name":"雷蒙影视 | ✨️️流光(SP)","type":3,"api":"csp_Lgyy"},
 {"key":"csp_Jpys_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpys"},
 {"key":"csp_Wwys_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Wwys","ext":"https://wwgz.cn"},
+{"key":"csp_KmeiJu_FM","name":"雷蒙影视 | 🍐鸭梨(SP)","type":3,"api":"csp_KmeiJu"},
 {"key":"csp_Siren_FM","name":"雷蒙影视 | 🎩私人(SP)","type":3,"api":"csp_Siren"},
 {"key":"csp_Lkdy_FM","name":"雷蒙影视 | 🏔️来看(SP)","type":3,"api":"csp_Lkdy"},
 {"key":"csp_Tvyb_FM","name":"雷蒙影视 | ☁︎云播(SP)","type":3,"api":"csp_Tvyb"},
-{"key":"csp_Kanke_FM","name":"雷蒙影视 | 🛳️看客(SP)","type":3,"api":"csp_Kanke","ext":"http://www.guaziys.com"},
 {"key":"csp_Qiyou_FM","name":"雷蒙影视 | 🥝奇优(SP)","type":3,"api":"csp_Qiyou","ext":"http://www.dyxz2.com/"},
-{"key":"csp_Fantuan_FM","name":"雷蒙影视 | 🍙饭团(SP)","type":3,"api":"csp_Fantuan","click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip"},
+{"key":"csp_Apphip_FM","name":"雷蒙影视 | 🌼嗨皮(SP)","type":3,"api":"csp_Apphip"},
 {"key":"csp_Quanwk_FM","name":"雷蒙影视 | 👁‍🗨全看(SP)","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
 {"key":"csp_Jiaozi_FM","name":"雷蒙影视 | 🌎饺子(SP)","type":3,"api":"csp_Jiaozi","playerType":2},
 {"key":"csp_SaoHuo_FM","name":"雷蒙影视 | 🔥骚火(SP)","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
@@ -164,7 +164,9 @@
 {"key":"csp_Czsapp_FM","name":"雷蒙影视 | 🏭厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
 {"key":"csp_AppXYFM","name":"雷蒙影视 | 🎀️星牙(SP)","type":3,"api":"csp_AppXYFM"},
 {"key":"csp_TingBook_FM","name":"雷蒙影视 | 📚听书(SP)","type":3,"playerType":"2","api":"csp_TingBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
+{"key":"csp_Dm84_FM","name":"雷蒙影视 | 🤣巴士(SP)","type":3,"playerType":"2","api":"csp_Dm84"},
 {"key":"csp_Kugou_FM","name":"雷蒙影视 | 🐾酷狗(SP)","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
+{"key":"csp_Kanqiu_FM","name":"雷蒙影视 | ⚾看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
 
 // ⇩⇩ CM SPIDER ⇩⇩ 
 {"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/freeok.json"},
