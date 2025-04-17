@@ -155,7 +155,6 @@
 {"key":"csp_Lkdy_FM","name":"雷蒙影视 | 🏔️来看(SP)","type":3,"api":"csp_Lkdy"},
 {"key":"csp_Tvyb_FM","name":"雷蒙影视 | ☁︎云播(SP)","type":3,"api":"csp_Tvyb"},
 {"key":"csp_Qiyou_FM","name":"雷蒙影视 | 🥝奇优(SP)","type":3,"api":"csp_Qiyou","ext":"http://www.dyxz2.com/"},
-{"key":"csp_Apphip_FM","name":"雷蒙影视 | 🌼嗨皮(SP)","type":3,"api":"csp_Apphip"},
 {"key":"csp_Quanwk_FM","name":"雷蒙影视 | 👁‍🗨全看(SP)","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
 {"key":"csp_Jiaozi_FM","name":"雷蒙影视 | 🌎饺子(SP)","type":3,"api":"csp_Jiaozi","playerType":2},
 {"key":"csp_SaoHuo_FM","name":"雷蒙影视 | 🔥骚火(SP)","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
@@ -164,7 +163,6 @@
 {"key":"csp_Czsapp_FM","name":"雷蒙影视 | 🏭厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
 {"key":"csp_AppXYFM","name":"雷蒙影视 | 🎀️星牙(SP)","type":3,"api":"csp_AppXYFM"},
 {"key":"csp_TingBook_FM","name":"雷蒙影视 | 📚听书(SP)","type":3,"playerType":"2","api":"csp_TingBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
-{"key":"csp_Dm84_FM","name":"雷蒙影视 | 🤣巴士(SP)","type":3,"playerType":"2","api":"csp_Dm84"},
 {"key":"csp_Kugou_FM","name":"雷蒙影视 | 🐾酷狗(SP)","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
 {"key":"csp_Kanqiu_FM","name":"雷蒙影视 | ⚾看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
 
