@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0420.jar;md5;29214A023FF816384BBDBC3C6CEB63DA",
+"spider":"./N3RD/J/lem0422.jar;md5;2DE9C359AC87EB827057BA0E06CE28F6",
 
+//"spider":"./N3RD/J/lem0420.jar;md5;29214A023FF816384BBDBC3C6CEB63DA",
 //"spider":"./N3RD/J/lem0419.jar;md5;B54DF2BC3C146ADE928378097E35DFDE",
 //"spider":"./N3RD/J/lem0417.jar;md5;952E50D88DAA809BAE7E6F6E1F1195C7",
 //"spider":"./N3RD/J/lem0416.jar;md5;8F3BEE8D1268141C55C4748A28C124D6",
@@ -148,11 +149,13 @@
 {"key":"csp_Jpys_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpys"},
 {"key":"csp_Wwys_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Wwys","ext":"https://wwgz.cn"},
 {"key":"csp_KmeiJu_FM","name":"雷蒙影视 | 🍐鸭梨(SP)","type":3,"api":"csp_KmeiJu"},
+{"key":"csp_FourK_FM","name":"雷蒙影视 | 🐿️绝对(SP)","type":3,"api":"csp_FourK","ext":"https://www.4kvm.tv"},
 {"key":"csp_Siren_FM","name":"雷蒙影视 | 🎩私人(SP)","type":3,"api":"csp_Siren"},
 {"key":"csp_Lkdy_FM","name":"雷蒙影视 | 🏔️来看(SP)","type":3,"api":"csp_Lkdy"},
 {"key":"csp_Tvyb_FM","name":"雷蒙影视 | ☁︎云播(SP)","type":3,"api":"csp_Tvyb"},
 {"key":"csp_Qiyou_FM","name":"雷蒙影视 | 🥝奇优(SP)","type":3,"api":"csp_Qiyou","ext":"http://www.dyxz2.com/"},
 {"key":"csp_Quanwk_FM","name":"雷蒙影视 | 👁‍🗨全看(SP)","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
+{"key":"csp_Lggys_FM","name":"雷蒙影视 | 🤣攻阁(SP)","type":3,"playerType":"2","api":"csp_Lggys"},
 {"key":"csp_Jiaozi_FM","name":"雷蒙影视 | 🌎饺子(SP)","type":3,"api":"csp_Jiaozi","playerType":2},
 {"key":"csp_SaoHuo_FM","name":"雷蒙影视 | 🔥骚火(SP)","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 {"key":"csp_Gz360_FM","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"api":"csp_Gz360","playerType":2},
