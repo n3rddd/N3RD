@@ -1,14 +1,10 @@
 {
-"spider":"./N3RD/J/lem0424.jar;md5;1CC94EF611CF9FE1FBEC787370E7C3D2",
+"spider":"./N3RD/J/lem0426.jar;md5;03BCFACF4D8F0147487285C2A77731C1",
 
+//"spider":"./N3RD/J/lem0424.jar;md5;1CC94EF611CF9FE1FBEC787370E7C3D2",
 //"spider":"./N3RD/J/lem0423.jar;md5;28A3A640694E3C63BD861F7D98A8D2CB",
 //"spider":"./N3RD/J/lem0422.jar;md5;2DE9C359AC87EB827057BA0E06CE28F6",
 //"spider":"./N3RD/J/lem0420.jar;md5;29214A023FF816384BBDBC3C6CEB63DA",
-//"spider":"./N3RD/J/lem0419.jar;md5;B54DF2BC3C146ADE928378097E35DFDE",
-//"spider":"./N3RD/J/lem0417.jar;md5;952E50D88DAA809BAE7E6F6E1F1195C7",
-//"spider":"./N3RD/J/lem0416.jar;md5;8F3BEE8D1268141C55C4748A28C124D6",
-//"spider":"./N3RD/J/lem0413.jar;md5;A869B57493F031E55C4E3140E47C3D4B",
-//"spider":"./N3RD/J/lem0412.jar;md5;BC936CDB2B9DB7E3283316AFC5125164",
  
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -78,11 +74,12 @@
 {"key":"drjs_我的哔哩[官]","name":"雷蒙影视 | 🅱我的哔哩(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩[官].js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/Bili1.json"},
 {"key":"csp_AllliveGuard","name":"雷蒙影视 | 📽️一直播(SP)","type":3,"api":"csp_AllliveGuard","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_WoGGGuard","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
+{"key":"csp_SbaibaiGuard","name":"雷蒙影视 | 🐟素白白(SP)","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_YCyzGuard","name":"雷蒙影视 | ☀原创(SP)","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_LiteAppleGuard","name":"雷蒙影视 | 🍎小苹果(SP)","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_NmyswvGuard","name":"雷蒙影视 | 🍓糯米(SP)","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_SbaibaiGuard","name":"雷蒙影视 | 🐟素白白(SP)","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_JpysGuard","name":"雷蒙影视 | 💮文才(SP)","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_AppSxGuard_溢彩","name":"雷蒙影视 | 💡溢彩(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TfN183v1zIyaYDoDAIaLw5L8Dp8+v88LrEL3dBzrmWbdMBX0WNm7HtkQuw0AIzUurGBVyPqCKzDmbriATuukhctJlsLo8KxCw=="},
 {"key":"csp_LibvioGuard","name":"雷蒙影视 | 🎉Libvio(SP)","type":3,"api":"csp_LibvioGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_ZxzjGuard","name":"雷蒙影视 | 📹在线之家(SP)","type":3,"api":"csp_ZxzjGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"csp_NewCzGuard","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -91,6 +88,7 @@
 {"key":"csp_AppTTGuard_萌米","name":"雷蒙影视 | 👀萌米(SP)","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENEIVq+dC1p/Y9uWjuA=="},
 {"key":"csp_AppTTGuard_热播","name":"雷蒙影视 | 📺热播(SP)","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 {"key":"csp_AppSxGuard_水星","name":"雷蒙影视 | 🍊水星(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"},
+{"key":"csp_AppSxGuard_即看","name":"雷蒙影视 | 🐻即看(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":0,"changeable":0,"ext":"rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU="},
 {"key":"csp_AppTTGuard_欢视","name":"雷蒙影视 | 👓欢视(SP)","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
 {"key":"csp_AueteGuard","name":"雷蒙影视 | 🏝奥特(SP)","type": 3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
 {"key":"csp_JPJGuard","name":"雷蒙影视 | 🐭荐片(SP)","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
