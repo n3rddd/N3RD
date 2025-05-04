@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0430.jar;md5;CE3B4EDA4494A74A704F12159BCBB47F",
+"spider":"./N3RD/J/lem0504.jar;md5;FC15BB8CA3DE797CEEC443B315440D58",
 
+//"spider":"./N3RD/J/lem0430.jar;md5;CE3B4EDA4494A74A704F12159BCBB47F",
 //"spider":"./N3RD/J/lem0426.jar;md5;03BCFACF4D8F0147487285C2A77731C1",
 //"spider":"./N3RD/J/lem0424.jar;md5;1CC94EF611CF9FE1FBEC787370E7C3D2",
 //"spider":"./N3RD/J/lem0423.jar;md5;28A3A640694E3C63BD861F7D98A8D2CB",
@@ -245,7 +246,9 @@
 {"key":"py_悠悠","name":"雷蒙影视 | 🧿悠悠(PY)","type":3,"api":"./PY/app/悠悠APP.py"},
 {"key":"py_云端","name":"雷蒙影视 | 🧿云端(PY)","type":3,"api":"./PY/app/云端APP.py"},
 {"key":"py_云速","name":"雷蒙影视 | 🧿云速(PY)","type":3,"api":"./PY/app/云速影视APP.py"},
+{"key":"py_LREEOK","name":"雷蒙影视 | 🧿LREEOK(PY)","type":3,"api":"./PY/html/LREEOK.py"},
 {"key":"py_4KAV","name":"雷蒙影视 | 🧿4KAV(PY)","type":3,"api":"./PY/html/4KAV.py"},
+{"key":"py_柯南","name":"雷蒙影视 | 🧿柯南(PY)","type":3,"api":"./PY/html/柯南影视.py"},
 {"key":"py_骚火","name":"雷蒙影视 | 🧿骚火(PY)","type":3,"api":"./PY/html/骚火电影.py"},
 {"key":"py_剧粑","name":"雷蒙影视 | 🧿剧粑(PY)","type":3,"api":"./PY/html/剧粑粑.py"},
 {"key":"py_小红","name":"雷蒙影视 | 🧿小红(PY)","type":3,"api":"./PY/html/小红影视.py"},
@@ -258,7 +261,6 @@
 {"key":"py_甜圈","name":"雷蒙影视 | 🧿甜圈(PY)","type":3,"api":"./PY/html/甜圈短剧.py"},
 {"key":"py_嗷呜","name":"雷蒙影视 | 🧿嗷呜(PY)","type":3,"api":"./PY/html/嗷呜动漫.py"},
 {"key":"py_柠檬","name":"雷蒙影视 | 🧿柠檬(PY)","type":3,"api":"./PY/html/LIVES.py"},
-{"key":"py_LREEOK","name":"雷蒙影视 | 🧿LREEOK(PY)","type":3,"api":"./PY/html/LREEOK.py"},
 
 
 // ⇩⇩ T4 ⇩⇩ 
