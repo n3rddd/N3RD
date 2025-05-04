@@ -29,7 +29,7 @@ class Spider(Spider):
         'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="134", "Google Chrome";v="134"',
         'sec-ch-ua-platform': '"macOS"',
         'sec-fetch-dest': 'document',
-        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
+        'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.8 Mobile/15E148 Safari/604.1'
     }
 
     host = "https://4k-av.com"
@@ -61,9 +61,10 @@ class Spider(Spider):
         return result
 
     def detailContent(self, ids):
-        data=self.getpq(ids[0])
-        v=data('#videoinfo')
+        data = self.getpq(ids[0])
+        v = data('#videoinfo')
         vod = {
+            'vod_name': data('#tophead h1').text().split(' ')[0],
             'type_name': v('#MainContent_tags.tags a').text(),
             'vod_year': v('#MainContent_videodetail.videodetail a').text(),
             'vod_remarks': v('#MainContent_titleh12 h2').text(),
@@ -71,14 +72,15 @@ class Spider(Spider):
             'vod_play_from': '4KAV',
             'vod_play_url': ''
         }
-        vlist=data('#rtlist li')
+        vlist = data('#rtlist li')
+        jn = f"{vod['vod_name']}_" if 'EP0' in vlist.eq(0)('span').text() else ''
         if vlist:
-            c=[f"{i('span').text()}${i('a').attr('href')}" for i in list(vlist.items())[1:]]
-            c.insert(0,f"{vlist.eq(0)('span').text()}${ids[0]}")
+            c = [f"{jn}{i('span').text()}${i('a').attr('href')}" for i in list(vlist.items())[1:]]
+            c.insert(0, f"{jn}{vlist.eq(0)('span').text()}${ids[0]}")
             vod['vod_play_url'] = '#'.join(c)
         else:
-            vod['vod_play_url'] = f"{data('#tophead h1').text()}${ids[0]}"
-        return {'list':[vod]}
+            vod['vod_play_url'] = f"{vod['vod_name']}${ids[0]}"
+        return {'list': [vod]}
 
     def searchContent(self, key, quick, pg="1"):
         data=self.getpq(f"/s?k={key}")
@@ -95,7 +97,7 @@ class Spider(Spider):
             'origin': self.host,
             'referer': f'{self.host}/',
             'sec-ch-ua-platform': '"macOS"',
-            'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
+            'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.8 Mobile/15E148 Safari/604.1',
         }
         return  {'parse': p, 'url': url, 'header': headers}
 
