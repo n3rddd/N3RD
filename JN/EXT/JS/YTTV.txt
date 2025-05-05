@@ -16,7 +16,7 @@
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞2,https://www.youtube.com/watch?v=DM_PEM8GrIg
 中天亞洲台,https://www.youtube.com/watch?v=qN_qW6tmWDs
-鳳凰資訊,https://www.youtube.com/watch?v=HFib76ySpbU
+鳳凰資訊,https://www.youtube.com/watch?v=BLaQVW5oUGU
 CCTV-4,https://www.youtube.com/watch?v=SdzewdkJa-o
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc&ab_channel=TVBSNEWS
 TVBSHD 56,https://www.youtube.com/watch?v=o_-hSMgpAzs
