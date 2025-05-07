@@ -77,6 +77,11 @@
 {"key":"vod_卧龙","name":"雷蒙影视 | ️🚀卧龙","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_金鹰","name":"雷蒙影视 | ️🚀金鹰","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://jyzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_爱酷","name":"雷蒙影视 | 🚀爱酷","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"http://caiji.ikum.cc:8099/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"vod_天堂","name":"雷蒙影视 | ️🚀天堂","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"http://caiji.dyttzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"vod_茅台","name":"雷蒙影视 | ️🚀茅台","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"vod_无线","name":"雷蒙影视 | ️🚀无线","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://api.wuxianzy.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"vod_魔爪","name":"雷蒙影视 | ️🚀魔爪","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://mozhuazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"vod_如意","name":"雷蒙影视 | ️🚀如意","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://cj.rycjapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_OK","name":"雷蒙影视 | ️🚀OK","type":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://api.okzy.org/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
 ],
 
