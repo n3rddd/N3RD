@@ -529,6 +529,22 @@
     ]
   },
   {
+    "name": "茅台资源",
+    "url": "https://caiji.maotaizy.cc",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "",
+    "class_name": "H4sIAKh7G2gC/zVR7XKCMBB8mzyNP/pICqJiR4UpxfoxtTNawZYK1MEqEH2Z5C68RfOBv+52s8nuXTAoOM2JuL9j9cPdiGBVC7dEd0j4OIb6m2D5xelrSzC6Vh2OcrAdzYVreUtzkc+vleqg50E31Kdu1Opg9MZKV3MryspIWTX7BVxS1UES4W2quc1BFeONJhycMnlJ6+afsE60YJbB9aa54o/vQs3tomYxMAMoqXzrAaTNLHsAbfYAdcCDnNXLRy4zdGvUApOuBcbOAFbv0Rvo+cKsmVei6ItjShh9EdavKFasfCa4UXuV2bgTE0yP6NlEnE+qIPVVgTAVacmdZ9J56pBmOMFgA5kvAxE83MV5jNOMVVs580TQBEd6FSLuytVCtxLbHjGCxqb8YknZTmwdVi3Y7YOAlWDoox2Jvk/AHoO11J+lN9vG5XHOrp6Z4B/uGfSEEAIAAA==",
+    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38&39&40&41&42&43&44&45&46&47&48&49&50&51&52",
+    "cate_excludes": [
+      "演唱会",
+      "新闻资讯",
+      "LPL",
+      "电影资讯",
+      "娱乐新闻"
+    ]
+  },
+  {
     "name": "无线资源",
     "url": "https://api.wuxianzy.net",
     "parse_url": "",
