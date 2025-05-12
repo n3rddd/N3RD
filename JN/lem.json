@@ -221,6 +221,7 @@
 {"key":"py_CliCli","name":"雷蒙影视 | 🧿CliCli(PY)","type":3,"api":"./PY/app/CliCli动漫APP.py"},
 {"key":"py_HiTV","name":"雷蒙影视 | 🧿HiTV(PY)","type":3,"api":"./PY/app/hitvAPP.py"},
 {"key":"py_MiFun","name":"雷蒙影视 | 🧿MiFun(PY)","type":3,"api":"./PY/app/MiFunAPP.py"},
+{"key":"py_海马","name":"雷蒙影视 | 🧿海马(PY)","type":3,"api":"./PY/app/海马影视APP.py"},
 {"key":"py_奇迹","name":"雷蒙影视 | 🧿奇迹(PY)","type":3,"api":"./PY/app/奇迹APP.py"},
 {"key":"py_零度","name":"雷蒙影视 | 🧿零度(PY)","type":3,"api":"./PY/app/零度影视APP.py"},
 {"key":"py_外剧","name":"雷蒙影视 | 🧿外剧(PY)","type":3,"api":"./PY/app/国外剧APP.py"},
