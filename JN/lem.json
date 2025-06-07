@@ -1,12 +1,9 @@
 {
-"spider":"./N3RD/J/lem0604.jar;md5;41E3C79F3FB8B146D5A34BC6782FFB44",
+"spider":"./N3RD/J/lem0607.jar;md5;A76C1743E05595835E40C68F9E3E39CA",
 
+//"spider":"./N3RD/J/lem0604.jar;md5;41E3C79F3FB8B146D5A34BC6782FFB44",
 //"spider":"./N3RD/J/lem0601.jar;md5;1E26F9B1DD9684009A0770ACB51DD929",
-//"spider":"./N3RD/J/lem0529.jar;md5;4C70DBC45DBC42D01D18EF0E24DAE8BB",
-//"spider":"./N3RD/J/lem0525.jar;md5;620AC6ACA644509E17D3EE64F8A704C8",
-//"spider":"./N3RD/J/lem0518.jar;md5;64841D1B9D6F479918CF9FD20AAFF6CE",
-//"spider":"./N3RD/J/lem0517.jar;md5;9D8CE31EDD5E8C2CA3BC0C6F6AD95132",
- 
+
 "logo":"./N3RD/W/ICONSGIF.gif",
 
 "wallpaper":"https://pic.850930.xyz/",
@@ -21,6 +18,7 @@
 {"name":"国内直播[今日回看]","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/null/http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"国内直播[昨日回看]","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/null/http://epg.51zmt.top:8000/api/diyp/?ch={name}&date=DATE1SUB","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"看电视呗","type":0,"url":"http://tv.850930.xyz/kdsb.txt","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"WEB直播","type":0,"url":"./EXT/LIVE/web.txt","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"搜集","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"MyTV","type":0,"url":"https://tv.iill.top/m3u/MyTV","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"主播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
