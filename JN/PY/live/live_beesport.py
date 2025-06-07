@@ -5,6 +5,8 @@
 import sys
 import requests
 import base64
+import os
+import time
 sys.path.append('..')
 from base.spider import Spider
 
@@ -14,6 +16,10 @@ class Spider(Spider):
         return "BeeSport"
 
     def init(self, extend):
+        self.ext_time = 120
+        self.cache_path = '/storage/emulated/0/TV/cache_BeeSport'
+        if not os.path.exists(self.cache_path):
+            os.mkdir(self.cache_path, 0o755)
         pass
 
     def getDependence(self):
@@ -75,6 +81,9 @@ class Spider(Spider):
 
     def fun_beesport(self, params):
         pid = params['pid']
+        cache_play_url = self.cache_get(pid)
+        if cache_play_url != 'False':
+            return [302, "text/plain", None, {'Location': cache_play_url}]
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
             'Accept': 'application/json, text/plain, */*',
@@ -91,12 +100,16 @@ class Spider(Spider):
         try:
             response = requests.post('https://beesport.net/authorize-channel', headers=headers, json=json_data)
             url = response.json()['channels'][0]
+            self.cache_set(pid, url)
             return [302, "text/plain", None, {'Location': url}]
         except Exception as e:
             return [302, "text/plain", None, {'Location': 'https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4'}]
 
     def destroy(self):
-
+        files_and_dirs = os.listdir(self.cache_path)
+        if len(files_and_dirs) > 0:
+            for file in files_and_dirs:
+                os.remove(os.path.join(self.cache_path, file))
         return '正在Destroy'
 
     def b64encode(self, data):
@@ -105,5 +118,27 @@ class Spider(Spider):
     def b64decode(self, data):
         return base64.b64decode(data.encode('utf-8')).decode('utf-8')
 
+
+    def cache_get(self, key):
+        t = time.time()
+        path = self.cache_getkey(key)
+        if not os.path.exists(path):
+            return 'False'
+        if t - os.path.getmtime(path) > self.ext_time:
+            return 'False'
+        with open(path, 'r', encoding='utf-8') as f:
+            data = f.read()
+        return data
+
+    def cache_set(self, key, data):
+        path = self.cache_getkey(key)
+        with open(path, 'w', encoding='utf-8') as f:
+            f.write(data)
+        return True
+
+    def cache_getkey(self, key):
+        return self.cache_path + '/' + key + '.txt'
+
 if __name__ == '__main__':
     pass
+
