@@ -155,7 +155,7 @@ var rule = {
 		let kjson = rule.getkjson(durl, dbody);
 		let kvod = kjson.vod;
 		let ktabs = kjson.vod_play_list.map((it) => {
-			return `👶${it.player_info.show}`
+			return `雷蒙影视 | ${it.player_info.show}`
 		});
 		let kurls = kjson.vod_play_list.map((item) => {
 			let kurl = item.urls.map((it) => {
