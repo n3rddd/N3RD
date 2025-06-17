@@ -461,6 +461,9 @@
 {"key":"drjs_魔都资源[资]","name":"雷蒙影视 | 👺魔都资源[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/魔都资源[资].js"},
 {"key":"drjs_茶语资源[资]","name":"雷蒙影视 | 👺茶语资源[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/茶语资源[资].js"},
 
+{"key":"drjs_剧咖","name":"雷蒙影视 | 👺剧咖(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://get.xiaoqi0.cn$jukayingshi66666$jukayingshi66666"},
+{"key":"drjs_晚枫","name":"雷蒙影视 | 👺晚枫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://111.180.202.216:999$fjhndgbjidfhgjsd$fjhndgbjidfhgjsd"},
+{"key":"drjs_诺映","name":"雷蒙影视 | 👺诺映(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://www.noad.top$708FA298F0855840$708FA298F0855840"},
 {"key":"drjs_麻花","name":"雷蒙影视 | 👺麻花(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://49.235.114.19:130$q7gj4f9br3fls6nh$q7gj4f9br3fls6nh"},
 {"key":"drjs_海豚","name":"雷蒙影视 | 👺海豚(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://appcms.htsp4k.top$7CYQQzwchRQpHCOj$7CYQQzwchRQpHCOj"},
 {"key":"drjs_晓晓","name":"雷蒙影视 | 👺晓晓(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://ys.ewo.asia$Z0qTnwyLAJCtuIkI$Z0qTnwyLAJCtuIkI"},
