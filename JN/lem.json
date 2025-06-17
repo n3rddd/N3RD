@@ -113,7 +113,10 @@
 {"key":"csp_kanqiu926Guard","name":"雷蒙影视 | ⚽926看球(SP)","type":3,"api":"csp_kanqiu926Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"csp_Sir88Guard","name":"雷蒙影视 | ⚽88看球(SP)","type":3,"api":"csp_Sir88Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"csp_KanqiuGuard","name":"雷蒙影视 | ⚽看球(SP)","type":3,"api":"csp_KanqiuGuard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"csp_AppYsV2_影探","name":"雷蒙影视 | 🕵️‍♂️影探(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.lygdyy.cn/api.php/app/"},
+{"key":"csp_AppYsV2_顾我","name":"雷蒙影视 | 🅰顾我(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://121.62.21.14:520/api.php/app/"},
+{"key":"csp_AppYsV2_起点","name":"雷蒙影视 | 🅰起点(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://172.83.156.150:1010/api.php/app/"},
+{"key":"csp_AppYsV2_好感","name":"雷蒙影视 | 🅰好感(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cs.hgyx.vip/api2/api.php/app/"},
+{"key":"csp_AppYsV2_QD4K","name":"雷蒙影视 | 🅰蝴蝴(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://172.83.156.150:1010/api.php/app/"},
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_TTian_天天_QJ","name":"雷蒙影视 | ⛅天天(SP)","type":3,"api":"csp_TTian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg09397919456493i0h44j8681highi4"},
