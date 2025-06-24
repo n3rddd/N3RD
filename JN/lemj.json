@@ -461,6 +461,7 @@
 {"key":"drjs_魔都资源[资]","name":"雷蒙影视 | 👺魔都资源[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/魔都资源[资].js"},
 {"key":"drjs_茶语资源[资]","name":"雷蒙影视 | 👺茶语资源[资](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/茶语资源[资].js"},
 
+{"key":"drjs_魔方","name":"雷蒙影视 | 👺魔方(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"},
 {"key":"drjs_桃子","name":"雷蒙影视 | 👺桃子(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://appcms.tzys.xyz$KL6vlZkw6WL5x90U$KL6vlZkw6WL5x90U"},
 {"key":"drjs_剧咖","name":"雷蒙影视 | 👺剧咖(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://get.xiaoqi0.cn$jukayingshi66666$jukayingshi66666"},
 {"key":"drjs_晚枫","name":"雷蒙影视 | 👺晚枫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://111.180.202.216:999$fjhndgbjidfhgjsd$fjhndgbjidfhgjsd"},
