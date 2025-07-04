@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0702.jar;md5;892CBB97AF5669DFB114418ED9BE362E",
+"spider":"./N3RD/J/lem0704.jar;md5;CC360C9DDA5FE05A87067BB6FC52DAD3",
 
+//"spider":"./N3RD/J/lem0702.jar;md5;892CBB97AF5669DFB114418ED9BE362E",
 //"spider":"./N3RD/J/lem0628.jar;md5;81E5E5DCD9A770EC70C1474D8AC78EAC",
 //"spider":"./N3RD/J/lem0627.jar;md5;7E29158B8DA716210E4AD3906F90F7E1",
 //"spider":"./N3RD/J/lem0618.jar;md5;E16C336EBA68C49628997944A1CCB20D",
@@ -69,6 +70,7 @@
 {"key":"vod_海外资源","name":"雷蒙影视 | ️🚀海外资源","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"vod_华为资源","name":"雷蒙影视 | ️🚀华为资源","type":1,"api":"http://nikanba.live/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
+{"key":"csp_Jianpian_FM","name":"雷蒙影视 | 🏆荐片(SP)","api":"csp_Jianpian","type":3,"playerType":"2"},
 {"key":"csp_IkanBot","name":"雷蒙影视 | 🤖爱看机器人(SP)","type":3,"api":"csp_IkanBot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_爱看机器人","name":"雷蒙影视 | 🤖爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"csp_BiliGuard","name":"雷蒙影视 | 🅱哔哩哔哩(SP)","type":3,"api":"csp_BiliGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":{"json":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/XB/Bili1.json"}},
