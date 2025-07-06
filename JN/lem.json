@@ -260,6 +260,7 @@
 {"key":"py_云速","name":"雷蒙影视 | 🧿云速(PY)","type":3,"api":"./PY/app/云速影视APP.py"},
 {"key":"py_LREEOK","name":"雷蒙影视 | 🧿LREEOK(PY)","type":3,"api":"./PY/html/LREEOK.py"},
 {"key":"py_4KAV","name":"雷蒙影视 | 🧿4KAV(PY)","type":3,"api":"./PY/html/4KAV.py"},
+{"key":"py_NUNFLIX","name":"雷蒙影视 | 🧿Nunflix(PY)","type":3,"api":"./PY/html/NUNFLIX.py"},
 {"key":"py_荐片","name":"雷蒙影视 | 🧿荐片(PY)","type":3,"api":"./PY/html/荐片.py"},
 {"key":"py_柯南","name":"雷蒙影视 | 🧿柯南(PY)","type":3,"api":"./PY/html/柯南影视.py"},
 {"key":"py_骚火","name":"雷蒙影视 | 🧿骚火(PY)","type":3,"api":"./PY/html/骚火电影.py"},
