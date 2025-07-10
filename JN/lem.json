@@ -233,7 +233,7 @@
 {"key":"py_CliCli","name":"雷蒙影视 | 🧿CliCli(PY)","type":3,"api":"./PY/app/CliCli动漫APP.py"},
 {"key":"py_HiTV","name":"雷蒙影视 | 🧿HiTV(PY)","type":3,"api":"./PY/app/hitvAPP.py"},
 {"key":"py_MiFun","name":"雷蒙影视 | 🧿MiFun(PY)","type":3,"api":"./PY/app/MiFunAPP.py"},
-{"key":"py_咖妃","name":"雷蒙影视 | 🧿咖妃(PY)","type":3,"api":"./PY/app/get4.py","ext":{"host":"http://149.88.64.161/","api":"/api.php/getappapi","datakey":"123456789ABCDEFG","dataiv":"123456789ABCDEFG"}},
+{"key":"py_在看","name":"雷蒙影视 | 🧿在看(PY)","type":3,"api":"./PY/app/get4.py","ext":{"host":"http://149.88.64.161/","api":"/api.php/getappapi","datakey":"123456789ABCDEFG","dataiv":"123456789ABCDEFG"}},
 {"key":"py_咖啡","name":"雷蒙影视 | 🧿咖啡(PY)","type":3,"api":"./PY/app/get3.py","ext":{"host":"https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt","api":"/api.php/qijiappapi","datakey":"qwertyuiopqwertt","dataiv":"qwertyuiopqwertt"}},
 {"key":"py_热播","name":"雷蒙影视 | 🧿热播(PY)","type":3,"api":"./PY/app/热播APP.py"},
 {"key":"py_海马","name":"雷蒙影视 | 🧿海马(PY)","type":3,"api":"./PY/app/海马影视APP.py"},
