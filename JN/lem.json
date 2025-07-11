@@ -1,12 +1,8 @@
 {
-"spider":"./N3RD/J/lem0704.jar;md5;CC360C9DDA5FE05A87067BB6FC52DAD3",
+"spider":"./N3RD/J/lem0711.jar;md5;FD78EE4F6FB86D11CB59B0C0C904A5F0",
 
+//"spider":"./N3RD/J/lem0704.jar;md5;CC360C9DDA5FE05A87067BB6FC52DAD3",
 //"spider":"./N3RD/J/lem0702.jar;md5;892CBB97AF5669DFB114418ED9BE362E",
-//"spider":"./N3RD/J/lem0628.jar;md5;81E5E5DCD9A770EC70C1474D8AC78EAC",
-//"spider":"./N3RD/J/lem0627.jar;md5;7E29158B8DA716210E4AD3906F90F7E1",
-//"spider":"./N3RD/J/lem0618.jar;md5;E16C336EBA68C49628997944A1CCB20D",
-//"spider":"./N3RD/J/lem0615.jar;md5;A7BA937737CAD19A4FCD5E2D8DB6F001",
-//"spider":"./N3RD/J/lem0611.jar;md5;023EA5272F1838C42984CB033AE56C43",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -122,6 +118,8 @@
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
 {"key":"csp_TTian_天天_QJ","name":"雷蒙影视 | ⛅天天(SP)","type":3,"api":"csp_TTian","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg09397919456493i0h44j8681highi4"},
+{"key":"csp_NanGua_QJ","name":"雷蒙影视 | 🎃南瓜(SP)","type":3,"api":"csp_NanGua","playerType":2,"ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
+{"key":"csp_Hmys_QJ","name":"雷蒙影视 | 🎐拾光(SP)","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://dy.jmzp.net.cn"},
 {"key":"csp_Bdys01_QJ","name":"雷蒙影视 | 🔊修罗(SP)","type":3,"api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
 {"key":"csp_TTian_热播_QJ","name":"雷蒙影视 | ♨热播(SP)","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"csp_TTian_追剧_QJ","name":"雷蒙影视 | ✈追剧(SP)","type":3,"api":"csp_TTian","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l2681i6g94li291li"},
@@ -138,7 +136,7 @@
 {"key":"csp_Xdai_永夜_QJ","name":"雷蒙影视 | 🌙永夜(SP)","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i7942503g9gj0hj4li286k8h1j913j490266k53510hk6kh1h151g0382419ih40485880116ggj5i1j04jllg9304142il9k9jkg2ghl36k4399g6115k2gk9297kg23752g"},
 {"key":"csp_Muou_趣看_QJ","name":"雷蒙影视 | 🥽趣看(SP)","type":3,"api":"csp_Muou","playerType":2,"ext":"7lj763gg402i7942463j9j9jg1499j87l9g9i413il8gqiaoji20g7g4919j3g019296lk9351hh3k5gg38lj0754il3jg"},
 {"key":"csp_Shark_专业_QJ","name":"雷蒙影视 | 👔专业(SP)","type":3,"api":"csp_Shark","playerType":1,"ext":"7lj763gg0939795i007gi487k212jhjig3lh9g079jj16g774k401gk0kg135l190i8k45hh94418hj52301kiijg3h248lhk265774gk5hiiil0238439k06kg95541k6l6i3g3kk6l3g60875g245491l4"},
-{"key":"csp_Xdai_星河_QJ","name":"雷蒙影视 | 💫星河(SP)","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg09397919493ki4i0g6559i93k2h88449i39973395h4014khl0185509558245g3840295j3624ihl85l5gi1ik4g6317106k2gk9hlg71ji6il169gk1j44l9g193g7gk713k2hil136h"},
+{"key":"csp_Xdai_星河_QJ","name":"雷蒙影视 | 💫星河(SP)","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i794247239g9jk10kjl82l3g6845ki2i66j7906194lg6g8460h5k548i51l8805497807509g597kgk419l4l461675gl5g5ikkk329i28lg60h15541k9l3i3h1l266357j8j5625409hl8543522k5"},
 {"key":"csp_Xdai_时常_QJ","name":"雷蒙影视 | 🏛时常(SP)","type":3,"api":"csp_Xdai","playerType":1,"ext":"7lj763gg402i79425i3l85i6h14i9ijiljqiaojihhj910il877129534l1ik9l1184k401g9g54gk8j5i9097751kh28kh9j12ji8i541446kghk19hg576j46gg538l41l0kkkklj6hk72gjj3li45h3h492747k8g976kk5h43i69h6"},
 {"key":"csp_Xdai_鲨鱼_QJ","name":"雷蒙影视 | 🦈鲨鱼(SP)","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i7942463j9j9jh7498j9gl6k6i952i1953g7373163lg7jh4k7k5638i70hk2ih038l82693ikgg7g2jk41i2g8432508h1k19gk077j76j"},
 {"key":"csp_Shark_雨滴_QJ","name":"雷蒙影视 | 💧雨滴(SP)","type":3,"api":"csp_Shark","playerType":1,"ext":"7lj763gg402i794247239g9jk10kjl82l3g6845ki2i66j7906194lg6g8460h5k548i51l8824hjj902309g182l7kl0hk3l4776346lihki7kl3kj425kl3jk31j0kggkhj0g7l5632376984k395496k449626gh0k66l26k7j6h49j9331h9701k106i"},
