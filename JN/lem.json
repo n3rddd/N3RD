@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0711.jar;md5;4B8B07EDD7C71D7B699A45292949B338",
+"spider":"./N3RD/J/lem0712.jar;md5;A0D0865ED4584D92CEDB0213CE5B786A",
 
+//"spider":"./N3RD/J/lem0711.jar;md5;4B8B07EDD7C71D7B699A45292949B338",
 //"spider":"./N3RD/J/lem0704.jar;md5;CC360C9DDA5FE05A87067BB6FC52DAD3",
 //"spider":"./N3RD/J/lem0702.jar;md5;892CBB97AF5669DFB114418ED9BE362E",
 
@@ -328,13 +329,11 @@
  
  
 // ⇩⇩ 采集 ⇩⇩ 
-{"key":"vod_小慧","name":"雷蒙影视 | 🚀小慧","type":1,"api":"http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list","playUrl":"json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_黑木","name":"雷蒙影视 | 🚀黑木","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod","playUrl":"json:https://4tvbox.ggff.net/hme.php?url=","header":{"User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"},"searchable":1,"changeable":1,"categories":["国产剧","港剧","欧美剧","台剧","韩剧","日剧","泰剧","国产综艺","欧美综艺","韩国综艺","日本综艺","日本动漫","国产动漫","欧美动漫","动画电影","冒险片","剧情片","动作片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","同性片","经典片"]},
 {"key":"vod_木木","name":"雷蒙影视 | 🚀木木","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod","playUrl":"json:https://tvbox.linkpc.net/api/kill_ads?url=","header":{"User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"},"searchable":1,"changeable":1,"categories":["国产剧","港剧","欧美剧","台剧","韩剧","日剧","泰剧","国产综艺","欧美综艺","韩国综艺","日本综艺","日本动漫","国产动漫","欧美动漫","动画电影","冒险片","剧情片","动作片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","同性片","经典片"]},
 {"key":"vod_优质","name":"雷蒙影视 | 🚀优质","type":1,"jar":"./N3RD/J/pg.jar","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
 {"key":"vod_飞速","name":"雷蒙影视 | ️🚀飞速","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"vod_光速","name":"雷蒙影视 | 🚀光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
-{"key":"vod_快车","name":"雷蒙影视 | ️🚀快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","动画片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
 {"key":"vod_豪华","name":"雷蒙影视 | ️🚀豪华","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
 {"key":"vod_快看","name":"雷蒙影视 | ️🚀快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod","categories":["网络电影","动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","国产动漫","日本动漫","国产剧","韩国剧","港台剧","欧美剧","国产综艺","港台综艺"]},
 {"key":"vod_极速","name":"雷蒙影视 | ️🚀极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
@@ -358,7 +357,6 @@
 {"key":"vod_魔爪","name":"雷蒙影视 | ️🚀魔爪","type":1,"api":"https://mozhuazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_如意","name":"雷蒙影视 | ️🚀如意","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"vod_蜂巢","name":"雷蒙影视 | ️🚀蜂巢","type":1,"api":"https://api.fczy888.me/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"vod_OK","name":"雷蒙影视 | ️🚀OK","type":1,"api":"https://api.okzy.org/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_金鹰","name":"雷蒙影视 | ️🚀金鹰","type":0,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]}
 
  
