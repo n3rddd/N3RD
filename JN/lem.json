@@ -211,7 +211,7 @@
 
 // ⇩⇩ PY ⇩⇩
 {"key":"py_咖啡_APP","name":"雷蒙影视 | 🧿咖啡(PY)","type":3,"api":"./PY/app/get3.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt","api":"/api.php/qijiappapi","datakey":"qwertyuiopqwertt","dataiv":"qwertyuiopqwertt"}},
-{"key":"py_在看_APP","name":"雷蒙影视 | 🧿在看(PY)","type":3,"api":"./PY/app/get4.py","ext":{"host":"http://149.88.64.161/","api":"/api.php/getappapi","datakey":"123456789ABCDEFG","dataiv":"123456789ABCDEFG"}},
+{"key":"py_在看_APP","name":"雷蒙影视 | 🧿在看(PY)","type":3,"api":"./PY/app/get4.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://149.88.64.161/","api":"/api.php/getappapi","datakey":"123456789ABCDEFG","dataiv":"123456789ABCDEFG"}},
 {"key":"py_麻花_APP","name":"雷蒙影视 | 🧿麻花(PY)","type":3,"api":"./PY/app/get4.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://apicoss-alimama-com-1307821617.file.myqcloud.com/Uploadsget","api":"/api.php/getappapi","datakey":"q7gj4f9br3fls6nh","dataiv":"q7gj4f9br3fls6nh"}},
 {"key":"py_豆丁_APP","name":"雷蒙影视 | 🧿豆丁(PY)","type":3,"api":"./PY/app/get4.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://vip.123pan.cn/1848451100/zl/xfdd.txt","api":"/api.php/getappapi","datakey":"xasdasdqwertyuio","dataiv":"xasdasdqwertyuio"}},
 {"key":"py_灵虎_APP","name":"雷蒙影视 | 🧿灵虎(PY)","type":3,"api":"./PY/app/get4.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://bind.315999.xyz/89.txt","api":"/api.php/getappapi","datakey":"#getapp@TMD@2025","dataiv":"#getapp@TMD@2025"}},
