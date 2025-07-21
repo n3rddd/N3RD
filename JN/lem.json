@@ -292,6 +292,7 @@
 {"key":"py_金牌","name":"雷蒙影视 | 🧿金牌(PY)","type":3,"api":"./PY/html/金牌.py","ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
 {"key":"py_旺旺","name":"雷蒙影视 | 🧿旺旺(PY)","type":3,"api":"./PY/html/旺旺.py"},
 {"key":"py_绝对","name":"雷蒙影视 | 🧿绝对(PY)","type":3,"api":"./PY/html/绝对影视.py"},
+{"key":"py_河马","name":"雷蒙影视 | 🧿河马(PY)","type":3,"api":"./PY/html/河马短剧.py"},
 {"key":"py_偷乐","name":"雷蒙影视 | 🧿偷乐(PY)","type":3,"api":"./PY/html/偷乐短剧.py"},
 {"key":"py_好帅","name":"雷蒙影视 | 🧿好帅(PY)","type":3,"api":"./PY/html/好帅短剧.py"},
 {"key":"py_红果","name":"雷蒙影视 | 🧿红果(PY)","type":3,"api":"./PY/html/红果网页.py"},
