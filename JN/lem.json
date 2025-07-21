@@ -1,12 +1,11 @@
 {
-"spider":"./N3RD/J/lem0719.jar;md5;A5E641E169F53B4BD34A1C6A463CF31E",
+"spider":"./N3RD/J/lem0721.jar;md5;BCE09983C2B93ACB9C9FC28110772AB5",
 
+//"spider":"./N3RD/J/lem0719.jar;md5;A5E641E169F53B4BD34A1C6A463CF31E",
 //"spider":"./N3RD/J/lem0718.jar;md5;A331D127115942E0347E59AB8E94A6C0",
 //"spider":"./N3RD/J/lem0717.jar;md5;6B0AB91BA79E264C16C403E8F10BD1AD",
 //"spider":"./N3RD/J/lem0712.jar;md5;A0D0865ED4584D92CEDB0213CE5B786A",
 //"spider":"./N3RD/J/lem0711.jar;md5;4B8B07EDD7C71D7B699A45292949B338",
-//"spider":"./N3RD/J/lem0704.jar;md5;CC360C9DDA5FE05A87067BB6FC52DAD3",
-//"spider":"./N3RD/J/lem0702.jar;md5;892CBB97AF5669DFB114418ED9BE362E",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -114,7 +113,7 @@
 {"key":"csp_Anime1Guard","name":"雷蒙影视 | 🐾Anime1动画线上看(SP)","api":"csp_Anime1Guard","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_YHDM","name":"雷蒙影视 | 🐾樱花动漫(SP)","api":"csp_YHDM","timeout":15,"type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_SP360","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_kanqiu926Guard","name":"雷蒙影视 | ⚽926看球(SP)","type":3,"api":"csp_kanqiu926Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
+{"key":"csp_kanqiu926Guard","name":"雷蒙影视 | ⚽926看球(SP)","type":3,"api":"csp_kanqiu926Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUa4uUHi9iMsef1+C/R"},
 {"key":"csp_Sir88Guard","name":"雷蒙影视 | ⚽88看球(SP)","type":3,"api":"csp_Sir88Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"csp_KanqiuGuard","name":"雷蒙影视 | ⚽看球(SP)","type":3,"api":"csp_KanqiuGuard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"csp_AppYsV2_臻彩","name":"雷蒙影视 | 🅰臻彩(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmszcsj.lfytv.cn/api.php/app/"},
