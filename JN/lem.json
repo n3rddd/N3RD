@@ -265,7 +265,7 @@
 {"key":"py_派对_APP","name":"雷蒙影视 | 🧿派对(PY)","type":3,"api":"./PY/app/get4.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://qjappcms.acg.party","api":"/api.php/getappapi","datakey":"AmtMYFCJDPoTlK7z","dataiv":"AmtMYFCJDPoTlK7z"}},
 {"key":"py_丫丫_APP","name":"雷蒙影视 | 🧿丫丫(PY)","type":3,"api":"./PY/app/get4.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://tv.yy-fun.cc","api":"/api.php/getappapi","datakey":"qkxnwkfjwpcnwycl","dataiv":"qkxnwkfjwpcnwycl"}},
 {"key":"py_黑猫_APP","name":"雷蒙影视 | 🧿黑猫(PY)","type":3,"api":"./PY/app/get4.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://dm.xxdm123.top:9991","api":"/api.php/getappapi","datakey":"0fe3b5781782c621","dataiv":"0fe3b5781782c621"}},
-{"key":"py_猪猪_APP","name":"雷蒙影视 | 🧿猪猪(PY)","type":3,"api":"./PY/app/APPV2.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"api":"http://dmmax.juxiafan.com/icciu_api.php/v1.vod","datasignkey":"6QQNUsP3PkD2ajJCPCY8","apisignkey":"lvdoutv-1.0.0"}},
+{"key":"py_猪猪_APP","name":"雷蒙影视 | 🧿猪猪(PY)","type":3,"api":"./PY/app/AppV2.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"api":"http://dmmax.juxiafan.com/icciu_api.php/v1.vod","datasignkey":"6QQNUsP3PkD2ajJCPCY8","apisignkey":"lvdoutv-1.0.0"}},
 
 {"key":"py_CliCli","name":"雷蒙影视 | 🧿CliCli(PY)","type":3,"api":"./PY/app/CliCli动漫APP.py"},
 {"key":"py_HiTV","name":"雷蒙影视 | 🧿HiTV(PY)","type":3,"api":"./PY/app/hitvAPP.py"},
