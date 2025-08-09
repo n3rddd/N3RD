@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256",
+"spider":"./N3RD/J/lem0808.jar;md5;62B0A223C600077B9F089F4887681802",
 
+//"spider":"./N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256",
 //"spider":"./N3RD/J/lem0726.jar;md5;86BD74E0F91B17CD582E9EB4DCD1FDDC",
 //"spider":"./N3RD/J/lem0721.jar;md5;BCE09983C2B93ACB9C9FC28110772AB5",
 
@@ -16,7 +17,6 @@
 {"name":"雷蒙影视宣传片","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/ctvpv.txt","ua":"okhttp/3.15","logo":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON1.png"},
 {"name":"看电视呗","type":0,"url":"http://tv.850930.xyz/kdsb.txt","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPTV","type":0,"url":"https://sub.ottiptv.cc/iptv.m3u","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"FeiYang牧场","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u","ua":"","epg":"http://epg.112114.xyz/?ch={name}&date=DATE1SUB","logo":"https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"国内直播[合并版]","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/null/http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"国内直播[今日回看]","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/null/http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"国内直播[昨日回看]","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/null/http://epg.51zmt.top:8000/api/diyp/?ch={name}&date=DATE1SUB","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
@@ -168,6 +168,8 @@
 {"key":"csp_AppGet_蔬菜_FM","name":"雷蒙影视 | 🥦蔬菜(SP)","type":3,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","dataKey":"huohushipingetap","siteApi":"get","version":"140"}},
 {"key":"csp_AppGet_黑猫_FM","name":"雷蒙影视 | 🐼黑猫(SP)","type":3,"api":"csp_AppGet","ext":{"url":"https://dm.xxdm123.top:9991","dataKey":"0fe3b5781782c621","siteApi":"get","version":"203"}},
 {"key":"csp_AppGet_优优_FM","name":"雷蒙影视 | 💯优优(SP)","type":3,"api":"csp_AppGet","ext":{"url":"https://apiapplbys.lbys.app:5678","dataKey":"apiapplbyskey168","siteApi":"get","version":"107"}},
+{"key":"csp_AppGet_兔子_FM","name":"雷蒙影视 | 🐇兔子(SP)","type":3,"api":"csp_AppGet","ext":{"url":"http://211.154.24.56:5211","dataKey":"685bf108bc47b67d","siteApi":"get","version":"521"}},
+{"key":"csp_AppGet_永永_FM","name":"雷蒙影视 | ♾️永永(SP)","type":3,"api":"csp_AppGet","ext":{"url":"https://app.lkdyw.cn/","dataKey":"e65144389e9361b5","siteApi":"get","version":""}},
 {"key":"csp_Jpys_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpys"},
 {"key":"csp_Wwys_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Wwys","ext":"https://wwgz.cn"},
 {"key":"csp_KmeiJu_FM","name":"雷蒙影视 | 🍐鸭梨(SP)","type":3,"api":"csp_KmeiJu"},
@@ -230,10 +232,8 @@
 {"key":"py_光影_APP","name":"雷蒙影视 | 🧿光影(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://www.guangyingmi.com","api":"/api.php/getappapi","datakey":"230fnsodfsdhfon2","dataiv":"230fnsodfsdhfon2"}},
 {"key":"py_火猫_APP","name":"雷蒙影视 | 🧿火猫(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://cunchu8.obs.cn-north-4.myhuaweicloud.com/03.txt","api":"/api.php/getappapi","datakey":"J6AIORKJ3PQOJKM9","dataiv":"J6AIORKJ3PQOJKM9"}},
 {"key":"py_若雪_APP","name":"雷蒙影视 | 🧿若雪(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://appcms.rx4k.top","api":"/api.php/qijiappapi","datakey":"ZX10ysTYZWtIJCTU","dataiv":"ZX10ysTYZWtIJCTU"}},
-{"key":"py_哔滴_APP","name":"雷蒙影视 | 🧿哔滴(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json","api":"/api.php/qijiappapi","datakey":"5ae8ee4bb95ea0ce","dataiv":"5ae8ee4bb95ea0ce"}},
 {"key":"py_丫丫_APP","name":"雷蒙影视 | 🧿丫丫(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://tv.yy-fun.cc","api":"/api.php/getappapi","datakey":"qkxnwkfjwpcnwycl","dataiv":"qkxnwkfjwpcnwycl"}},
 {"key":"py_爱看_APP","name":"雷蒙影视 | 🧿爱看(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://154.37.220.65","api":"/api.php/getappapi","datakey":"uI1TkPJC8B46AyN3","dataiv":"uI1TkPJC8B46AyN3"}},
-{"key":"py_稀饭_APP","name":"雷蒙影视 | 🧿稀饭(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://app.xifanys.com","api":"/api.php/getappapi","datakey":"HM6Ly9yeS4ya3dvL","dataiv":"HM6Ly9yeS4ya3dvL"}},
 {"key":"py_蓝光_APP","name":"雷蒙影视 | 🧿蓝光(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://122.228.193.2:9654","api":"/api.php/getappapi","datakey":"ca94b06ca3c7d80e","dataiv":"ca94b06ca3c7d80e"}},
 {"key":"py_豆丁_APP","name":"雷蒙影视 | 🧿豆丁(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://vip.123pan.cn/1848451100/zl/xfdd.txt","api":"/api.php/getappapi","datakey":"xasdasdqwertyuio","dataiv":"xasdasdqwertyuio"}},
 {"key":"py_蓝鹰_APP","name":"雷蒙影视 | 🧿蓝鹰(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","api":"/api.php/qijiappapi","datakey":"ca94b06ca359d80e","dataiv":"ca94b06ca359d80e"}},
