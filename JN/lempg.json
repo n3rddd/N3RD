@@ -121,6 +121,7 @@
 {"key":"csp_MiaoSou","name":"雷蒙影视 | 💿秒搜(SP)","type":3,"api":"csp_MiaoSou","searchable":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.json"},
 {"key":"csp_PikaSo","name":"雷蒙影视 | 💿皮卡搜(SP)","type":3,"api":"csp_PikaSo","searchable":1,"changeable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$https://www.pikaso.top/$$$cfg"},
 {"key":"csp_Qianfan","name":"雷蒙影视 | 💿千帆(SP)","type":3,"api":"csp_Qianfan","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.json$$$https://pan.qianfan.app$$$cfg$$$./N3RD/T/qf.txt"},
+{"key":"csp_Libvio","name":"雷蒙影视 | 💿LIBVIO(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./N3RD/T/pg.json$$$https://www.libvio.mov$$$cfg"},
 {"key":"csp_Meijumi","name":"雷蒙影视 | 💿美剧迷(SP)","type":3,"api":"csp_Meijumi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":"./N3RD/T/pg.json$$$https://www.meijumi.net/$$$cfg$$$1"},
 {"key":"csp_Moli","name":"雷蒙影视 | 💿HDmoli(SP)","type":3,"api":"csp_Moli","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$https://www.hdmoli.pro/$$$cfg$$$1$$$./N3RD/T/moli.json"},
 {"key":"csp_Panyq","name":"雷蒙影视 | 💿盘友圈(SP)","type":3,"api":"csp_Panyq","timeout":60,"ext":"./N3RD/T/pg.json$$$null$$$cfg"},
