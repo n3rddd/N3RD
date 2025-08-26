@@ -25,7 +25,9 @@ class Spider(Spider):
     def destroy(self):
         pass
 
-    host='https://api.ubj83.com'
+    #host='https://api.ubj83.com'
+    #host='https://4icnx7.qyjzlh.com'
+    host='https://ij1men.slsw6.com'
 
     headers={
         'User-Agent': 'Mozilla/5.0 (Linux; Android 11; M2012K10C Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36;webank/h5face;webank/1.0;netType:NETWORK_WIFI;appVersion:416;packageName:com.jp3.xg3',
@@ -96,9 +98,11 @@ class Spider(Spider):
     def homeVideoContent(self):
         pass
     def categoryContent(self, tid, pg, filter, extend):
-        params={**{'fcate_pid': tid, 'page': pg}, **extend}
-        path= '/api/crumb/shortList' if tid=='67' else '/api/crumb/list'
-        data=self.fetch(f"{self.host}{path}",params=params,headers=self.headers).json()
+        
+        params={**{'category_id': tid,  'page': pg}, **extend}
+        path= '/api/crumb/shortList' if tid=='67' else '/api/crumb/list' 
+        #data=self.fetch(f"{self.host}{path}",params=params,headers=self.headers).json()
+        data=self.fetch(f"{self.host}{path}"+'&area=0&year=0&type=0&sort=0',params=params,headers=self.headers).json()
         result = {}
         result['list'] = self.build_cl(data['data'],tid)
         result['page'] = pg
