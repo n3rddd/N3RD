@@ -68,7 +68,7 @@
 {"key":"vod_木耳资源","name":"雷蒙影视 | ️🚀木耳资源","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
 {"key":"vod_海外资源","name":"雷蒙影视 | ️🚀海外资源","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"vod_华为资源","name":"雷蒙影视 | ️🚀华为资源","type":1,"api":"http://nikanba.live/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-{"key":"csp_Jianpian_FM","name":"雷蒙影视 | 🏆荐片(SP)","api":"csp_Jianpian","type":3,"playerType":"2"},
+{"key":"csp_Jianpian_FM","name":"雷蒙影视 | 🏆荐片(SP)","api":"csp_Jianpian","type":3,"playerType":"2","ext":"https://ka1dfj.slsw6.com"},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_Gz360_FM","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"api":"csp_Gz360","playerType":2},
 {"key":"drjs_瓜子","name":"雷蒙影视 | 🍉瓜子(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/瓜子影视.js"},
