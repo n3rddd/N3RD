@@ -32,7 +32,7 @@
 ],
 
 "sites":[
-{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"💿雷蒙影视网盘专线💿","type":3,"api":"csp_Notice","ext":"雷蒙影视网盘专线 2024.11.21"},
+{"jar":"./N3RD/J/notice.jar","key":"csp_Notice","name":"💿雷蒙影视网盘专线💿","type":3,"api":"csp_Notice","ext":"雷蒙影视网盘专线 2025.08.31"},
 {"jar":"./N3RD/J/market.jar","key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 
 
@@ -86,7 +86,7 @@
 {"key":"csp_Wobg_云星网盘","name":"雷蒙影视 | 💿云星网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$https://4k.4u4.cn$$$cfg$$$1$$$./N3RD/T/wogg.json"},
 {"key":"csp_Guanying","name":"雷蒙影视 | 💿观影(SP)","type":3,"api":"csp_Guanying","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$https://www.gying.net$$$cfg$$$1$$$./N3RD/T/guanying.txt$$$GUANYING"},
 {"key":"csp_FourKFM","name":"雷蒙影视 | 💿4K影库(SP)","type":3,"api":"csp_FourKFM","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$http://4kfm.com/$$$cfg$$$1$$$./N3RD/T/4kfm.txt$$$4KFM"},
-{"key":"csp_Hdh","name":"雷蒙影视 | 💿影巢(SP)","type":3,"api":"csp_Hdh","quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":"./N3RD/T/pg.json$$$https://hdhive.online$$$cfg$$$1$$$./N3RD/T/hdhive.txt"},
+{"key":"csp_Hdh","name":"雷蒙影视 | 💿影巢(SP)","type":3,"api":"csp_Hdh","quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":"./N3RD/T/pg.json$$$https://hdhive.com$$$cfg$$$1$$$./N3RD/T/hdhive.txt"},
 {"key":"csp_UpYun","name":"雷蒙影视 | 💿云搜(SP)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/pg.json"},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 💿PanSearch(SP)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"./N3RD/T/pg.json$$$null$$$cfg"},
 {"key":"csp_YiSo","name":"雷蒙影视 | 💿易搜(SP)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./N3RD/T/pg.json$$$./N3RD/T/yiso.txt"},
