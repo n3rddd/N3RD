@@ -24,12 +24,6 @@
     "cate_exclude": ""
   },
   {
-    "name": "黑木耳资源",
-    "url": "https://www.heimuer.tv",
-    "parse_url": "",
-    "cate_exclude": "^电影$|^电视剧$|^综艺$|^动漫$"
-  },
-  {
     "name": "海外资源",
     "url": "https://hw8.live",
     "parse_url": "",
