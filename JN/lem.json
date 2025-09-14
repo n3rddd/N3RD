@@ -64,7 +64,7 @@
 {"key":"vod_360资源","name":"雷蒙影视 | 🚀360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","categories":["国产剧","短片","动画片","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","纪录片","台湾剧","大陆综艺","国产动漫","日韩动漫","西部片"]},
 {"key":"vod_海外资源","name":"雷蒙影视 | ️🚀海外资源","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"vod_华为资源","name":"雷蒙影视 | ️🚀华为资源","type":1,"api":"http://nikanba.live/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-{"key":"csp_Jianpian_FM","name":"雷蒙影视 | 🏆荐片(SP)","api":"csp_Jianpian","type":3,"playerType":"2","ext":"https://ka1dfj.slsw6.com"},
+{"key":"csp_Jianpian_FM","name":"雷蒙影视 | 🏆荐片(SP)","api":"csp_Jianpian","type":3,"playerType":"2","ext":"https://ev5356.970xw.com"},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_Gz360_FM","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"api":"csp_Gz360","playerType":2},
 {"key":"drjs_瓜子","name":"雷蒙影视 | 🍉瓜子(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/瓜子影视.js"},
