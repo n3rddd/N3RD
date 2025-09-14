@@ -1,7 +1,8 @@
 var rule = {
     title: '荐片[优]',
     //host: 'https://api.ubj83.com',
-    host: 'https://ij1men.slsw6.com',
+    //host: 'https://ij1men.slsw6.com',
+    host: 'https://ev5356.970xw.com',
     homeUrl: '/api/dyTag/hand_data?category_id=88',
     url: '/api/crumb/list?page=fypage&type=0&limit=24&fyfilter',
     class_name: '电影&电视剧&动漫&短剧&综艺',
