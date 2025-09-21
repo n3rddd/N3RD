@@ -50,13 +50,15 @@
 
 {"name":"雷蒙推荐 APPS",
 "list":[
-{"name":"WebViewTV","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/refs/heads/main/APP/WebViewTV_1.10.10.apk","version":"1.10.10","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/hxh19950701/WebViewTvLive/refs/heads/main/app/src/main/res/drawable/ic_launcher.png"},
-{"name":"YourTV","url":"https://cors.isteed.cc/https://github.com/horsemail/yourtv/releases/download/v1.8.9/yourtv_v1.8.9.apk","version":"1.8.9","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/horsemail/yourtv/refs/heads/main/app/src/main/res/drawable/logo0.png"},
-{"name":"HTV","url":"https://cors.isteed.cc/https://github.com/HTWMedia/HTV/releases/download/v3.5/HTV-v3.5.0.apk","version":"3.5.0","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/HTWMedia/HTV/refs/heads/main/android/app/src/main/play_store_512.png"},
+{"name":"WebViewTV","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/refs/heads/main/APP/WebViewTV_1.13.3.apk","version":"1.13.3","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/hxh19950701/WebViewTvLive/refs/heads/main/app/src/main/res/drawable/ic_launcher.png"},
+{"name":"YourTV","url":"https://cors.isteed.cc/https://github.com/horsemail/yourtv/releases/download/v1.9.9/yourtv_v1.9.9.apk","version":"1.9.9","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/horsemail/yourtv/refs/heads/main/app/src/main/res/drawable/logo0.png"},
+{"name":"HTV","url":"https://cors.isteed.cc/https://github.com/HTWMedia/HTV/releases/download/v4.8.0/HTV-v4.8.0.apk","version":"4.8.0","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/HTWMedia/HTV/refs/heads/main/android/app/src/main/play_store_512.png"},
 {"name":"天光云影","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/refs/heads/main/APP/tv-3.3.9-all-sdk21-original.apk","version":"3.3.9","icon":"https://itopdog.xyxza.com/gameggg/imgfile/20241107/07154337hlir.png"},
 {"name":"Z视介","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/refs/heads/main/APP/tv-3.3.9-all-sdk21-disguised.apk","version":"3.3.9","icon":"https://itopdog.xyxza.com/gameggg/imgfile/20241107/07154337hlir.png"},
 {"name":"CloudStream","url":"https://cors.isteed.cc/https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease-release.apk","version":"Pre-Release","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"},
 {"name":"CloudStream","url":"https://cors.isteed.cc/https://github.com/recloudstream/cloudstream/releases/download/v4.4.0/4.4.0.apk","version":"4.4.0","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"},
+
+{"name":"当贝市场","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/MARKET/refs/heads/main/APP/dbmarket.apk","version":"dbmarket","icon":"https://p1.itc.cn/images01/20200924/8f090a79718242f7b7e46d4f66028c71.jpeg"},
 
 {"name":"影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/lystv/fmapp/refs/heads/ok/apk/release/leanback-arm64_v8a.apk","version":"v8a 64位","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
 {"name":"影视","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/lystv/fmapp/refs/heads/ok/apk/release/leanback-armeabi_v7a.apk","version":"v7a 32位","icon":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/TV/release/app/src/main/res/mipmap-hdpi/ic_launcher.png"},
