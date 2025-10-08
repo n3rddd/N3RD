@@ -1,13 +1,8 @@
 {
-"spider":"./N3RD/J/lem1007.jar;md5;FC165AF775A1E37FCFB2C79754A8DCA7",
+"spider":"./N3RD/J/lem1008.jar;md5;3D951C4082DF4A748B6696D506F88551",
 
+//"spider":"./N3RD/J/lem1007.jar;md5;FC165AF775A1E37FCFB2C79754A8DCA7",
 //"spider":"./N3RD/J/lem0930.jar;md5;D89E47B161EB9AE1B08E53C8EA8449E8",
-//"spider":"./N3RD/J/lem0928.jar;md5;5CB2CA4AB8B583CC54DA5039016071FF",
-//"spider":"./N3RD/J/lem0927.jar;md5;008A25335936C20A8680466FDADA3741",
-//"spider":"./N3RD/J/lem0926.jar;md5;E5F0E32C4A0771F6EDF885F1342A4167",
-//"spider":"./N3RD/J/lem0924.jar;md5;A7FB19A7B925B537018FBED0749DBC1E",
-//"spider":"./N3RD/J/lem0923.jar;md5;69C16A04A30E70622157D7E81A071EA0",
-//"spider":"./N3RD/J/lem0922.jar;md5;EE4DC86E964BB13D356337EB8C10D13A",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -155,13 +150,13 @@
 {"key":"csp_AppRJ_潮流_FM","name":"雷蒙影视 | 🏜潮流(SP)","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn"},
 {"key":"csp_AppRJ_梦回_FM","name":"雷蒙影视 | 🏈梦回(SP)","type":3,"api":"csp_AppRJ","ext":"http://v.lkuys.cn"},
 {"key":"csp_AppRJ_星辉_FM","name":"雷蒙影视 | 🦢星辉(SP)","type":3,"api":"csp_AppRJ","ext":"http://tt.ysdqjs.cn"},
-{"key":"csp_AppGet_肥猫_FM","name":"雷蒙影视 | 🐼肥猫(SP)","type":3,"api":"csp_AppGet","ext":{"url":"https://mac.555618.xyz","dataKey":"#getapp@TMD@2025","siteApi":"get","version":"201"}},
-{"key":"csp_AppGet_干饭_FM","name":"雷蒙影视 | 🍚干饭(SP)","type":3,"api":"csp_AppGet","ext":{"url":"http://110.42.53.99:1080","dataKey":"staraugust123456","siteApi":"qiji","version":"301"}},
+{"key":"csp_AppGet_肥猫_FM","name":"雷蒙影视 | 🐼肥猫(SP)","type":3,"api":"csp_AppGet","ext":"https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"},
+{"key":"csp_AppGet_干饭_FM","name":"雷蒙影视 | 🍚干饭(SP)","type":3,"api":"csp_AppQi","ext":"http://110.42.53.99:1080|staraugust123456|301"},
 {"key":"csp_AppGet_光盘_FM","name":"雷蒙影视 | 📀光盘(SP)","type":3,"api":"csp_AppGet","ext":{"url":"https://appcms.rx4k.top","dataKey":"ZX10ysTYZWtIJCTU","siteApi":"qiji","version":"120"}},
 {"key":"csp_AppGet_行动_FM","name":"雷蒙影视 | 😌行动(SP)","type":3,"api":"csp_AppGet","ext":{"url":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt","dataKey":"dksvndkaAjekakcE","siteApi":"qiji","version":""}},
 {"key":"csp_AppGet_再来_FM","name":"雷蒙影视 | ✌️再来(SP)","type":3,"api":"csp_AppGet","ext":{"url":"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt","dataKey":"37kj83zs1q16jk6t","siteApi":"qiji","version":""}},
 {"key":"csp_AppGet_一碗_FM","name":"雷蒙影视 | 🥣一碗(SP)","type":3,"api":"csp_AppGet","ext":{"url":"https://ceshi307386.oss-cn-beijing.aliyuncs.com/csurl.txt","dataKey":"Z98KXaLtO2wC1Pte","siteApi":"qiji","version":"119"}},
-{"key":"csp_AppGet_猫抓_FM","name":"雷蒙影视 | 🐱猫抓(SP)","type":3,"api":"csp_AppGet","ext":{"url":"http://172.247.189.145:8989","dataKey":"6d1061a50b656564","siteApi":"get","version":""}},
+{"key":"csp_AppGet_猫抓_FM","name":"雷蒙影视 | 🐱猫抓(SP)","type":3,"api":"csp_AppGet","ext":"https://dy.8ttv.cn|1111111111111111"},
 {"key":"csp_AppGet_仓鼠_FM","name":"雷蒙影视 | 🐹耗子(SP)","type":3,"api":"csp_AppGet","ext":{"url":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","dataKey":"ca94b06ca359d80e","siteApi":"qiji","version":""}},
 {"key":"csp_AppGet_蔬菜_FM","name":"雷蒙影视 | 🥦蔬菜(SP)","type":3,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","dataKey":"huohushipingetap","siteApi":"get","version":"140"}},
 {"key":"csp_AppGet_黑猫_FM","name":"雷蒙影视 | 🐼黑猫(SP)","type":3,"api":"csp_AppGet","ext":{"url":"https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899","dataKey":"k9o3p2c8b7m3z0o8","siteApi":"get","version":""}},
