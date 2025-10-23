@@ -183,6 +183,7 @@
 {"key":"csp_FourK_FM","name":"雷蒙影视 | 🐿️绝对(SP)","type":3,"api":"csp_FourK","ext":"https://www.4kvm.tv"},
 {"key":"csp_Kugou_FM","name":"雷蒙影视 | 🐾酷狗(SP)","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
 {"key":"csp_Kanqiu_FM","name":"雷蒙影视 | ⚾看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
+{"key":"csp_LivingFM","name":"雷蒙影视 |🐼直播(SP)","type":3,"api":"csp_LivingFM","playerType":2,"ext":"https://api.muxia.fun"},
 
 // ⇩⇩ CM SPIDER ⇩⇩ 
 {"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/freeok.json"},
