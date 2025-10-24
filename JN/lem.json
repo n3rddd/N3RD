@@ -16,6 +16,7 @@
 {"name":"雷蒙影视宣传片","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/ctvpv.txt","ua":"okhttp/3.15","logo":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON1.png"},
 {"name":"CatVod-1","type":0,"url":"https://iptv.catvod.com/tv.m3u"},
 {"name":"CatVod-2","type":0,"url":"https://live.catvod.com/tv.m3u"},
+{"name":"冰茶","type":0,"playerType":2,"url":"https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true","ua":"bingcha/1.1 (mianfeifenxiang) "},
 {"name":"咪咕","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"雷蒙影视电视直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"雷蒙影视轻量直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/litelive.m3u","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -224,6 +225,7 @@
 
 // ⇩⇩ PY ⇩⇩
 {"key":"py_余白_APP","name":"雷蒙影视 | 🧿余白(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://dec.yb4k.top","api":"/api.php/getappapi","datakey":"KsmJgfp3MVQFKWRa","dataiv":"KsmJgfp3MVQFKWRa"}},
+{"key":"py_秒看_APP","name":"雷蒙影视 | 🧿秒看(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://mk1080.top/get.txt","api":"/api.php/getappapi","datakey":"c60d88b2eep53za8","dataiv":"c60d88b2eep53za8"}},
 {"key":"py_咖啡_APP","name":"雷蒙影视 | 🧿咖啡(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt","api":"/api.php/qijiappapi","datakey":"37kj83zs1q16jk6t","dataiv":"37kj83zs1q16jk6t"}},
 {"key":"py_若雪_APP","name":"雷蒙影视 | 🧿若雪(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://appcms.rx4k.top","api":"/api.php/qijiappapi","datakey":"ZX10ysTYZWtIJCTU","dataiv":"ZX10ysTYZWtIJCTU"}},
 {"key":"py_蓝鹰_APP","name":"雷蒙影视 | 🧿蓝鹰(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","api":"/api.php/qijiappapi","datakey":"ca94b06ca359d80e","dataiv":"ca94b06ca359d80e"}},
