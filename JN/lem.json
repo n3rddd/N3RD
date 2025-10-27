@@ -297,6 +297,7 @@
 {"key":"py_悠悠","name":"雷蒙影视 | 🧿悠悠(PY)","type":3,"api":"./PY/app/悠悠APP.py"},
 {"key":"py_云端","name":"雷蒙影视 | 🧿云端(PY)","type":3,"api":"./PY/app/云端APP.py"},
 {"key":"py_云速","name":"雷蒙影视 | 🧿云速(PY)","type":3,"api":"./PY/app/云速影视APP.py"},
+{"key":"py_redflix","name":"雷蒙影视 | 🧿REDFLIX(PY)","type":3,"api":"./PY/html/redflix.py"},
 {"key":"py_LREEOK","name":"雷蒙影视 | 🧿LREEOK(PY)","type":3,"api":"./PY/html/LREEOK.py"},
 {"key":"py_4KAV","name":"雷蒙影视 | 🧿4KAV(PY)","type":3,"api":"./PY/html/4KAV.py"},
 {"key":"py_NUNFLIX","name":"雷蒙影视 | 🧿Nunflix(PY)","type":3,"api":"./PY/html/NUNFLIX.py"},
