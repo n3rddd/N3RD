@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1027.jar;md5;F50EE80B26A7FBBBCB0FD9C079368755",
+"spider":"./N3RD/J/lem1031.jar;md5;956901B9A4FF80725BDB11C49DD70D5E",
 
+//"spider":"./N3RD/J/lem1027.jar;md5;F50EE80B26A7FBBBCB0FD9C079368755",
 //"spider":"./N3RD/J/lem1025.jar;md5;8CE51760E8662B4FCE19ACA2D6EF6F82",
 //"spider":"./N3RD/J/lem1022.jar;md5;75BCDD089FBF3D778E787D74451108EA",
 //"spider":"./N3RD/J/lem1021.jar;md5;F3BA5B5F0022A7200B524E06D6DAE5A9",
@@ -86,11 +87,11 @@
 {"key":"csp_YCyzGuard","name":"雷蒙影视 | ☀原创(SP)","type":3,"api":"csp_YCyzGuard","timeout":30,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_BttooGuard","name":"雷蒙影视 | 🍄两个BT(SP)","type":3,"api":"csp_BttwooGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_DdrkGuard","name":"雷蒙影视 | ⏮️低端影视(SP)","type":3,"api":"csp_DdrkGuard","timeout":15,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_AppSxGuard_下饭","name":"雷蒙影视 | 🍙下饭(SP)","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCP2Jl7r3FGDx3lYjd0UDop6mF1H7BIBQDdY7r2sGVAP3S/L0ixe/EshP2U8oWDL+PmnkkcZKQZ475TAVSug/QPVeNQ=="},
 {"key":"csp_AppSxGuard_鲸鱼","name":"雷蒙影视 | 👀鲸鱼(SP)","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZz8r+wzZkfJbkFR5FJ1EK9mVu7apib64Gl8ND6FCETepkkEhht0ptIq9qCQ=="},
 {"key":"csp_AppTTGuard_欢视","name":"雷蒙影视 | 👓欢视(SP)","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
 {"key":"csp_AppTTGuard_热播","name":"雷蒙影视 | 📺热播(SP)","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 {"key":"csp_AppSxGuard_红豆","name":"雷蒙影视 | 🍊红豆(SP)","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="},
-{"key":"csp_AppSxGuard_下饭","name":"雷蒙影视 | 🍙下饭(SP)","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="},
 {"key":"csp_NmyswvGuard","name":"雷蒙影视 | 🍓糯米(SP)","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_AueteGuard","name":"雷蒙影视 | 🏝奥特(SP)","type": 3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_JPJGuard","name":"雷蒙影视 | 🐭荐片(SP)","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
