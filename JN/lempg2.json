@@ -175,6 +175,8 @@
 {"key":"csp_AList","name":"雷蒙影视 | 💿Alist(SP)","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"timeout":60,"playerType":2,"ext":"./N3RD/T/alistjar.json"},
 {"key":"csp_WebDAV","name":"雷蒙影视 | 💿WebDAV(SP)","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":1,"timeout":60,"playerType":2,"ext":"./N3RD/T/webdav.json"},
 
+{"key":"pansou","name":"雷蒙影视 | 📀盘搜(PY)","type":3,"api":"./PY/html/pansou.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"https://so.252035.xyz/","channels":"","plugins":"","cloud_types":"quark,tianyi,123"},"changeable":1},
+  
 {"key":"drjs_funletu_PG","name":"雷蒙影视 | 📀趣盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/funletu.js"},
 {"key":"drjs_xzys_PG","name":"雷蒙影视 | 📀校长影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/xzys.js"},
 {"key":"drjs_dydhhy_PG","name":"雷蒙影视 | 📀DYD(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dydhhy.js"},
