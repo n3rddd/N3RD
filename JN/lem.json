@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1108.jar;md5;CF50866CB3A5FCA292F383A6655EC7DF",
+"spider":"./N3RD/J/lem1112.jar;md5;049679BE77E561ADEF75CC66DD41DFF9",
 
+//"spider":"./N3RD/J/lem1108.jar;md5;CF50866CB3A5FCA292F383A6655EC7DF",
 //"spider":"./N3RD/J/lem1106.jar;md5;D06B53639B6F1297EEBF6446A4B1334D",
 //"spider":"./N3RD/J/lem1103.jar;md5;274E197ED22C3EE3ED8F5A1DF4599192",
 //"spider":"./N3RD/J/lem1031.jar;md5;956901B9A4FF80725BDB11C49DD70D5E",
@@ -223,7 +224,6 @@
 // ⇩⇩ PY ⇩⇩
 {"key":"py_爱影_APP","name":"雷蒙影视 | 🧿爱影(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt","api":"/api.php/qijiappapi","datakey":"sada21321sdq231d","dataiv":"sada21321sdq231d"}},
 {"key":"py_咖啡_APP","name":"雷蒙影视 | 🧿咖啡(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt","api":"/api.php/qijiappapi","datakey":"37kj83zs1q16jk6t","dataiv":"37kj83zs1q16jk6t"}},
-{"key":"py_若雪_APP","name":"雷蒙影视 | 🧿若雪(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://appcms.rx4k.top","api":"/api.php/qijiappapi","datakey":"ZX10ysTYZWtIJCTU","dataiv":"ZX10ysTYZWtIJCTU"}},
 {"key":"py_蓝鹰_APP","name":"雷蒙影视 | 🧿蓝鹰(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","api":"/api.php/qijiappapi","datakey":"ca94b06ca359d80e","dataiv":"ca94b06ca359d80e"}},
 {"key":"py_开心_APP","name":"雷蒙影视 | 🧿开心(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt","api":"/api.php/qijiappapi","datakey":"ca94b06ca3c7d80e","dataiv":"ca94b06ca3c7d80e"}},
 {"key":"py_仓鼠_APP","name":"雷蒙影视 | 🧿仓鼠(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt","api":"/api.php/qijiappapi","datakey":"da61247f5b662597","dataiv":"da61247f5b662597"}},
@@ -232,6 +232,7 @@
 {"key":"py_影视_APP","name":"雷蒙影视 | 🧿影视(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt","api":"/api.php/qijiappapi","datakey":"sada21321sdq231d","dataiv":"sada21321sdq231d"}},
 {"key":"py_小猪_APP","name":"雷蒙影视 | 🧿小猪(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt","api":"/api.php/qijiappapi","datakey":"seb5tq9mykp2w9ry","dataiv":"seb5tq9mykp2w9ry"}},
 {"key":"py_云云_APP","name":"雷蒙影视 | 🧿云云(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt","api":"/api.php/qijiappapi","datakey":"staraugust123456","dataiv":"staraugust123456"}},
+{"key":"py_瑞奇_APP","name":"雷蒙影视 | 🧿瑞奇(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://rqxk.gdata.fun","api":"/api.php/getappapi","datakey":"yangruiqiYsapp00","dataiv":"yangruiqiYsapp00"}},
 {"key":"py_优势_APP","name":"雷蒙影视 | 🧿优势(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://zxy-ys.810211.dpdns.org","api":"/api.php/getappapi","datakey":"1234567890123456","dataiv":"1234567890123456"}},
 {"key":"py_坚果_APP","name":"雷蒙影视 | 🧿坚果(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://qiliniao-1331306839.cos.ap-chengdu.myqcloud.com/jg.txt","api":"/api.php/getappapi","datakey":"2015692015692015","dataiv":"2015692015692015"}},
 {"key":"py_星空_APP","name":"雷蒙影视 | 🧿星空(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://xkcms.xkgzs.xyz","api":"/api.php/getappapi","datakey":"AJcdjkAjkdJDkvcd","dataiv":"AJcdjkAjkdJDkvcd"}},
