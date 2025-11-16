@@ -1,16 +1,23 @@
-# coding=utf-8
-# !/usr/bin/python
+"""
+@header({
+  searchable: 1,
+  filterable: 1,
+  quickSearch: 1,
+  title: '飞快',
+  lang: 'hipy'
+})
+"""
+
 import sys
+import json
+import re
+import base64
 import datetime
-from copy import deepcopy
 from urllib.parse import quote_plus, unquote
 from lxml import etree
 
 sys.path.append('..')
 from base.spider import Spider
-import json
-import re
-import base64
 
 
 class Spider(Spider):
@@ -18,142 +25,149 @@ class Spider(Spider):
         return "飞快"
 
     def init(self, extend=""):
-        print(f"[飞快] ============{extend}============")
         pass
 
     def homeContent(self, filter):
         result = {}
         cateManual = {
             "电影": "1",
-            "欧美剧": "16",
-            "日韩剧": "15",
-            "日韩动漫": "27",
-            "欧美动漫": "28",
-            "短剧": "32"
+            "剧集": "2",
+            "综艺": "3",
+            "动漫": "4"
         }
-        classes = []
-        for k in cateManual:
-            classes.append({'type_name': k, 'type_id': cateManual[k]})
+        classes = [{'type_name': k, 'type_id': v} for k, v in cateManual.items()]
         result['class'] = classes
-        if filter:
-            result['filters'] = self.get_filters()
+
         return result
 
-    def get_filters(self):
-        filt = deepcopy(self.config.get('filter', {}))
-        current_year = datetime.datetime.now().year
-        years = [{"n": "全部", "v": ""}] + [{"n": str(y), "v": str(y)} for y in range(current_year, 2009, -1)]
-        for tid, arr in filt.items():
-            for item in arr:
-                key = item.get('key') or item.get('k')
-                if key in ('year', '11'):
-                    item['value'] = years
-        return filt
+    def _parse_video_item(self, a_element):
+        """解析单个视频项的公共方法"""
+        try:
+            href = a_element.xpath('./@href')[0] if a_element.xpath('./@href') else ''
+            m = re.search(r'/voddetail/(\d+)\.html', href)
+            if not m:
+                return None
+            sid = m.group(1)
+
+            title_nodes = (a_element.xpath('.//div[contains(@class, "module-poster-item-title")]//text()') or
+                          a_element.xpath('.//div[contains(@class, "module-card-item-title")]/a//text()') or
+                          a_element.xpath('./@title') or a_element.xpath('.//img/@alt'))
+            name = title_nodes[0].strip() if title_nodes else f"视频_{sid}"
+            
+            img = self._parse_image_url(a_element)
+            
+            remark_nodes = a_element.xpath('.//div[contains(@class, "module-item-note")]//text()')
+            remark = ''.join([x.strip() for x in remark_nodes if x.strip()]) if remark_nodes else ""
+
+            return {
+                "vod_id": sid,
+                "vod_name": name,
+                "vod_pic": img,
+                "vod_remarks": remark
+            }
+        except Exception:
+            return None
+
+    def _parse_image_url(self, element):
+        """解析图片URL的公共方法"""
+        img_nodes = (element.xpath('.//img[contains(@class, "lazy")]/@data-original[contains(., ".webp") or contains(., ".jpg") or contains(., ".png")]') or
+                    element.xpath('.//img[contains(@class, "lazy")]/@src[contains(., ".webp") or contains(., ".jpg") or contains(., ".png")]') or
+                    element.xpath('.//img/@data-original[contains(., ".webp") or contains(., ".jpg") or contains(., ".png")]') or
+                    element.xpath('.//img/@src[contains(., ".webp") or contains(., ".jpg") or contains(., ".png")]'))
+        
+        if img_nodes:
+            img = img_nodes[0]
+            if img.startswith('/'):
+                img = 'https://feikuai.tv' + img
+            return img
+        return ''
 
     def homeVideoContent(self):
-        return {'list': []}
+        recommend_list = []
+        try:
+            url = "https://feikuai.tv/"
+            rsp = self.fetch(url, headers=self.header)
+            if not rsp or not rsp.text:
+                return {'list': recommend_list}
+
+            root = self._parse_html(rsp)
+            if not root:
+                return {'list': recommend_list}
+
+            recommend_links = root.xpath(
+                '//div[contains(@class, "module-focus")]//a[contains(@href, "/voddetail/")] | '
+                '//div[contains(@class, "module-hot")]//a[contains(@href, "/voddetail/")] | '
+                '//div[contains(@class, "module-recommend")]//a[contains(@href, "/voddetail/")] | '
+                '//div[contains(@class, "module-items") and contains(@class, "module-poster-items")]//a[contains(@href, "/voddetail/")]'
+            )
+
+            seen = set()
+            for a in recommend_links:
+                video_item = self._parse_video_item(a)
+                if video_item and video_item["vod_id"] not in seen:
+                    seen.add(video_item["vod_id"])
+                    recommend_list.append(video_item)
+
+            recommend_list = recommend_list[:30]
+        except Exception:
+            pass
+        return {'list': recommend_list}
 
     def _parse_html(self, rsp):
         try:
+            parser = etree.HTMLParser(encoding='utf-8', recover=True, remove_blank_text=True)
             if hasattr(rsp, 'content'):
-                parser = etree.HTMLParser(encoding='utf-8', recover=True, remove_blank_text=True)
                 return etree.HTML(rsp.content, parser=parser)
-            else:
-                parser = etree.HTMLParser(encoding='utf-8', recover=True, remove_blank_text=True)
-                return etree.HTML(rsp.text.encode('utf-8', errors='ignore'), parser=parser)
+            return etree.HTML(rsp.text.encode('utf-8', errors='ignore'), parser=parser)
         except Exception:
-            return self.html(rsp.text)
+
+            return None
 
     def _build_vodshow_url(self, tid, pg, ext):
         area = (ext.get('area') or ext.get('1') or '').strip()
         cate = (ext.get('class') or ext.get('3') or '').strip()
         year = (ext.get('year') or ext.get('11') or '').strip()
-        by = (ext.get('by') or ext.get('2') or '').strip()
-        by_map = {'最新': 'time', '最热': 'hits', '评分': 'score'}
-        by_val = by_map.get(by, '')
+        
         enc_area = quote_plus(area) if area else ''
         enc_cate = quote_plus(cate) if cate else ''
         pg_str = '' if str(pg) in ('', '1') else str(pg)
-        url = f'https://feikuai.tv/vodshow/{tid}-{enc_area}-{by_val}-{enc_cate}-----{pg_str}---{year}.html'
-        return url
+        return f'https://feikuai.tv/vodshow/{tid}-{enc_area}--{enc_cate}-----{pg_str}---{year}.html'
 
     def categoryContent(self, tid, pg, filter, extend):
+        if tid == '0':
+            return self.homeVideoContent()
+        
         result = {'list': [], 'page': pg, 'pagecount': 9999, 'limit': 90, 'total': 999999}
         try:
-            ext = extend or {}
+            ext = json.loads(extend) if extend and isinstance(extend, str) else {}
             url = self._build_vodshow_url(tid, pg, ext)
         except Exception:
             url = f'https://feikuai.tv/vodshow/{tid}-----------.html'
-        print(f"[飞快] Category URL: {url}")
+        
         headers = self.header.copy()
-        # Prefer a realistic referer like browser does
-        tid_str = str(tid)
-        if tid_str == '1':
-            headers['Referer'] = 'https://feikuai.tv/vodtype/1.html'
-        elif tid_str in ('15', '16', '32'):
-            headers['Referer'] = 'https://feikuai.tv/vodtype/2.html'
-        elif tid_str in ('27', '28'):
-            headers['Referer'] = 'https://feikuai.tv/vodtype/4.html'
-        else:
-            headers['Referer'] = 'https://feikuai.tv/'
+
+        headers['Referer'] = f'https://feikuai.tv/vodtype/{tid}.html'
+        
         rsp = self.fetch(url, headers=headers)
         if not rsp or not rsp.text:
             return result
+        
         root = self._parse_html(rsp)
         videos = []
         seen = set()
         try:
-            # Primary: category pages use poster-style list
-            links = root.xpath('//div[contains(@class, "module-items") and contains(@class, "module-poster-items")]//a[contains(@href, "/voddetail/")]')
-            # Fallback: direct poster item anchors
-            if not links:
-                links = root.xpath('//a[contains(@class, "module-poster-item") and contains(@href, "/voddetail/")]')
-            # Fallback: card-style list (e.g., search-style cards reused)
-            if not links:
-                links = root.xpath('//div[contains(@class, "module-card-items")]//a[contains(@href, "/voddetail/")]')
+            links = root.xpath('//div[contains(@class, "module-items") and contains(@class, "module-poster-items")]//a[contains(@href, "/voddetail/")]') or \
+                    root.xpath('//a[contains(@class, "module-poster-item") and contains(@href, "/voddetail/")]') or \
+                    root.xpath('//div[contains(@class, "module-card-items")]//a[contains(@href, "/voddetail/")]')
+            
             for a in links:
-                try:
-                    href = a.xpath('./@href')
-                    if not href:
-                        continue
-                    href = href[0]
-                    m = re.search(r'/voddetail/(\d+)\.html', href)
-                    if not m:
-                        continue
-                    sid = m.group(1)
-                    if sid in seen:
-                        continue
-                    seen.add(sid)
-                    # Prefer poster-style title on category pages
-                    title_nodes = a.xpath('.//div[contains(@class, "module-poster-item-title")]//text()')
-                    if not title_nodes:
-                        title_nodes = a.xpath('.//div[contains(@class, "module-card-item-title")]/a//text()')
-                    if not title_nodes:
-                        title_nodes = a.xpath('./@title')
-                    if not title_nodes:
-                        title_nodes = a.xpath('.//img/@alt')
-                    name = title_nodes[0].strip() if title_nodes else ''
-                    img = ''
-                    img_nodes = a.xpath('.//img[contains(@class, "lazy")]/@data-original')
-                    if not img_nodes:
-                        img_nodes = a.xpath('.//img[contains(@class, "lazy")]/@src')
-                    if not img_nodes:
-                        img_nodes = a.xpath('.//img/@data-original')
-                    if not img_nodes:
-                        img_nodes = a.xpath('.//img/@src')
-                    if img_nodes:
-                        img = img_nodes[0]
-                        if img.startswith('/'):
-                            img = 'https://feikuai.tv' + img
-                    remark_nodes = a.xpath('.//div[contains(@class, "module-item-note")]//text()')
-                    remark = ''
-                    if remark_nodes:
-                        remark = ''.join([x.strip() for x in remark_nodes if x.strip()])
-                    videos.append({"vod_id": sid, "vod_name": name, "vod_pic": img, "vod_remarks": remark})
-                except Exception:
-                    continue
+                video_item = self._parse_video_item(a)
+                if video_item and video_item["vod_id"] not in seen:
+                    seen.add(video_item["vod_id"])
+                    videos.append(video_item)
         except Exception:
             pass
+        
         result['list'] = videos
         return result
 
@@ -162,8 +176,6 @@ class Spider(Spider):
             if not raw:
                 return ''
             enc = str(encrypt or '0').strip()
-
-            # 1. 先按业务规则解开第一层
             if enc == '1':
                 txt = unquote(raw)
             elif enc == '2':
@@ -174,12 +186,9 @@ class Spider(Spider):
                     txt = unquote(raw)
             else:
                 txt = raw
-
-            # 2. 把 %uXXXX 转成真正的汉字
-            #    %u7B2C01%u96C6 -> 第01集
+                
             txt = re.sub(r'%u([0-9a-fA-F]{4})',
                          lambda m: chr(int(m.group(1), 16)), txt)
-
             return txt
         except Exception:
             return raw
@@ -189,38 +198,41 @@ class Spider(Spider):
             return {'list': []}
         tid = str(ids[0]).strip()
         url = f'https://feikuai.tv/voddetail/{tid}.html'
-        print(f"[飞快] detail: {url}")
         try:
             rsp = self.fetch(url, headers=self.header)
             if not rsp or not rsp.text:
-                return self._create_fallback_vod(tid, '获取页面失败')
+                return {'list': []}
             root = self._parse_html(rsp)
-            if root is None:
-                return self._create_fallback_vod(tid, '解析HTML失败')
-        except Exception as e:
-            return self._create_fallback_vod(tid, f'异常: {str(e)}')
-        title = ''
-        try:
-            tnodes = root.xpath('//h1/text() | //div[contains(@class, "module-info-heading")]//h1/text()')
-            title = tnodes[0].strip() if tnodes else ''
+            if not root:
+                return {'list': []}
         except Exception:
-            title = ''
+            return {'list': []}
+        
+        title = root.xpath('//h1/text() | //div[contains(@class, "module-info-heading")]//h1/text()')
+        title = title[0].strip() if title else ''
         pic = ''
         try:
-            pnodes = root.xpath('//div[contains(@class, "module-info-poster")]//img/@data-original | //div[contains(@class, "module-info-poster")]//img/@src | //img[contains(@class, "lazy")]/@data-original | //img[contains(@class, "lazy")]/@src')
+            pnodes = root.xpath('//div[contains(@class, "module-info-poster")]//img/@data-original[contains(., ".webp") or contains(., ".jpg") or contains(., ".png")]')
+            if not pnodes:
+                pnodes = root.xpath('//div[contains(@class, "module-info-poster")]//img/@src[contains(., ".webp") or contains(., ".jpg") or contains(., ".png")]')
+            if not pnodes:
+                pnodes = root.xpath('//img[contains(@class, "lazy")]/@data-original[contains(., ".webp") or contains(., ".jpg") or contains(., ".png")]')
+            if not pnodes:
+                pnodes = root.xpath('//img[contains(@class, "lazy")]/@src[contains(., ".webp") or contains(., ".jpg") or contains(., ".png")]')
             if pnodes:
                 pic = pnodes[0]
                 if pic.startswith('/'):
                     pic = 'https://feikuai.tv' + pic
         except Exception:
             pic = ''
+        
         detail = ''
         try:
             dnodes = root.xpath('//div[contains(@class, "module-info-introduction-content")]//text()')
-            if dnodes:
-                detail = '\n'.join([x.strip() for x in dnodes if x.strip()])
+            detail = '\n'.join([x.strip() for x in dnodes if x.strip()]) if dnodes else ''
         except Exception:
             detail = ''
+        
         vod = {
             "vod_id": tid,
             "vod_name": title,
@@ -233,22 +245,19 @@ class Spider(Spider):
             "vod_director": "",
             "vod_content": detail
         }
+        
         playFrom = []
         playList = []
         try:
-            # Only collect episode links inside playlist containers to avoid grabbing buttons like “立即播放”
             ep_links = root.xpath('//div[contains(@class, "module-play-list")]//a[contains(@href, "/vodplay/")] | //ul[contains(@class, "module-play-list")]//a[contains(@href, "/vodplay/")]')
             groups = {}
             for a in ep_links:
                 try:
-                    hrefs = a.xpath('./@href')
-                    if not hrefs:
-                        continue
-                    href = hrefs[0]
+                    href = a.xpath('./@href')[0] if a.xpath('./@href') else ''
                     m = re.search(r'/vodplay/(\d+)-(\d+)-(\d+)\.html', href)
                     if not m:
                         continue
-                    vid, sid, epid = m.group(1), m.group(2), m.group(3)
+                    vid, sid, epid = m.groups()
                     if vid != tid:
                         continue
                     name = ''.join(a.xpath('string(.)')).strip()
@@ -259,55 +268,38 @@ class Spider(Spider):
                     groups[sid].append(f"{name}${vid}-{sid}-{epid}")
                 except Exception:
                     continue
-            # Determine source order by his-tab-list blocks
+            
             ordered_sids = []
             for blk in root.xpath('//div[contains(@class, "his-tab-list")]'):
                 try:
                     first = blk.xpath('.//a[contains(@href, "/vodplay/")][1]/@href')
-                    if not first:
-                        continue
-                    mm = re.search(r'/vodplay/(\d+)-(\d+)-(\d+)\.html', first[0])
-                    if not mm:
-                        continue
-                    sid = mm.group(2)
-                    if sid not in ordered_sids:
-                        ordered_sids.append(sid)
+                    if first:
+                        mm = re.search(r'/vodplay/(\d+)-(\d+)-(\d+)\.html', first[0])
+                        if mm:
+                            sid = mm.group(2)
+                            if sid not in ordered_sids:
+                                ordered_sids.append(sid)
                 except Exception:
                     continue
-            labels = []
-            try:
-                labels = [x.strip() for x in root.xpath('//div[contains(@class, "module-tab-items-box")]//div[contains(@class, "module-tab-item")]//span/text()') if x.strip()]
-            except Exception:
-                labels = []
+            
+            labels = [x.strip() for x in root.xpath('//div[contains(@class, "module-tab-items-box")]//div[contains(@class, "module-tab-item")]//span/text()') if x.strip()]
+            
             for idx, sid in enumerate(ordered_sids):
                 sname = labels[idx] if idx < len(labels) else f"线路{sid}"
                 playFrom.append(sname)
                 playList.append('#'.join(groups.get(sid, [])))
         except Exception:
             pass
-        if not playFrom or not playList:
-            playFrom = ['飞快']
-            playList = [f'暂无播放源$https://feikuai.tv/voddetail/{tid}.html']
+        
         vod['vod_play_from'] = '$$$'.join(playFrom) if playFrom else ""
         vod['vod_play_url'] = '$$$'.join(playList)
         return {'list': [vod]}
 
-    def _create_fallback_vod(self, tid, error_msg):
-        return {
-            'list': [{
-                'vod_id': tid,
-                'vod_name': f'加载失败: {error_msg}',
-                'vod_pic': '',
-                'vod_content': f'无法加载视频详情。错误: {error_msg}',
-                'vod_play_from': '飞快',
-                'vod_play_url': f'错误$https://feikuai.tv/voddetail/{tid}.html'
-            }]
-        }
-
     def searchContent(self, key, quick, pg='1'):
         videos = []
         try:
-            if str(pg) in ('', '1'):
+            pg = str(pg)
+            if pg in ('', '1'):
                 url = f'https://feikuai.tv/vodsearch/-------------.html?wd={quote_plus(key)}'
                 headers = self.header.copy()
                 headers['Referer'] = f'https://feikuai.tv/vodsearch/-------------.html?wd={quote_plus(key)}'
@@ -317,81 +309,51 @@ class Spider(Spider):
                 headers['X-Requested-With'] = 'XMLHttpRequest'
                 headers['Accept'] = '*/*'
                 headers['Referer'] = f'https://feikuai.tv/vodsearch/-------------.html?wd={quote_plus(key)}'
-            print(f"[飞快] search url: {url}")
+            
             rsp = self.fetch(url, headers=headers)
             if not rsp or not rsp.text:
                 return {'list': []}
+            
             root = self._parse_html(rsp)
-            items = root.xpath('//div[@id="resultList"]//a[contains(@href, "/voddetail/")]')
-            if not items:
-                items = root.xpath('//div[contains(@class, "module-card-items")]//a[contains(@href, "/voddetail/")]')
-            if not items:
-                items = root.xpath('//div[contains(@class, "module-items") and contains(@class, "module-poster-items")]//a[contains(@href, "/voddetail/")]')
-            if not items:
-                items = root.xpath('//a[contains(@href, "/voddetail/")]')
+            items = root.xpath('//div[@id="resultList"]//a[contains(@href, "/voddetail/")]') or \
+                    root.xpath('//div[contains(@class, "module-card-items")]//a[contains(@href, "/voddetail/")]') or \
+                    root.xpath('//div[contains(@class, "module-items") and contains(@class, "module-poster-items")]//a[contains(@href, "/voddetail/")]') or \
+                    root.xpath('//a[contains(@href, "/voddetail/")]')
+            
             seen = set()
             for a in items:
-                try:
-                    hrefs = a.xpath('./@href')
-                    if not hrefs:
-                        continue
-                    href = hrefs[0]
-                    m = re.search(r'/voddetail/(\d+)\.html', href)
-                    if not m:
-                        continue
-                    sid = m.group(1)
-                    if sid in seen:
-                        continue
-                    seen.add(sid)
-                    title_nodes = a.xpath('.//div[contains(@class, "module-card-item-title")]//text()')
-                    if not title_nodes:
-                        title_nodes = a.xpath('.//div[contains(@class, "module-poster-item-title")]/text()')
-                    if not title_nodes:
-                        title_nodes = a.xpath('./@title')
-                    if not title_nodes:
-                        title_nodes = a.xpath('.//img/@alt')
-                    name = title_nodes[0].strip() if title_nodes else ''
-                    img = ''
-                    img_nodes = a.xpath('.//img[contains(@class, "lazy")]/@data-original')
-                    if not img_nodes:
-                        img_nodes = a.xpath('.//img[contains(@class, "lazy")]/@src')
-                    if not img_nodes:
-                        img_nodes = a.xpath('.//img/@data-original')
-                    if not img_nodes:
-                        img_nodes = a.xpath('.//img/@src')
-                    if img_nodes:
-                        img = img_nodes[0]
-                        if img.startswith('/'):
-                            img = 'https://feikuai.tv' + img
-                    remark_nodes = a.xpath('.//div[contains(@class, "module-item-note")]//text()')
-                    remark = ''
-                    if remark_nodes:
-                        remark = ''.join([x.strip() for x in remark_nodes if x.strip()])
-                    videos.append({"vod_id": sid, "vod_name": name, "vod_pic": img, "vod_remarks": remark})
-                except Exception:
-                    continue
-            print(f"[飞快] search items: {len(videos)}")
-            return {'list': videos}
+                video_item = self._parse_video_item(a)
+                if video_item and video_item["vod_id"] not in seen:
+                    seen.add(video_item["vod_id"])
+                    videos.append(video_item)
         except Exception:
-            return {'list': []}
+            pass
+        return {'list': videos}
 
     def playerContent(self, flag, id, vipFlags):
         play_url = f'https://feikuai.tv/vodplay/{id}.html'
         vurl = play_url
-        rsp = self.fetch(play_url, headers=self.header, timeout=45)
-        text = rsp.text
-        m = re.search(r'(?:var\s+)?player_[a-zA-Z0-9_]+\s*=\s*(\{(?:[^{}]|\{(?:[^{}]|\{[^{}]*\})*\})*\})(?=\s*</script>)', text, re.S)
-        if m:
-            data = json.loads(m.group(1))
-            vurl = data.get('url') or ''
-            vurl = self._decode_url_field(vurl, str(data.get('encrypt', '0')))
-            if vurl.startswith('//'):
-                vurl = 'https:' + vurl
-            # 👇 只要它是 playlist.m3u8，就走本地代理
+        try:
+            rsp = self.fetch(play_url, headers=self.header, timeout=45)
+            if not rsp or not rsp.text:
+                return {"parse": 0, "url": vurl, "header": self.header}
+            pattern = r'(?:var\s+)?player_[a-zA-Z0-9_]+\s*=\s*(\{(?:[^{}]|\{(?:[^{}]|\{[^{}]*\})*\})*\})(?=\s*</script>)'
+            m = re.search(pattern, rsp.text, re.S)
+            if m:
+                data = json.loads(m.group(1))
+                vurl = data.get('url') or ''
+                vurl = self._decode_url_field(vurl, str(data.get('encrypt', '0')))
+                if vurl.startswith('//'):
+                    vurl = 'https:' + vurl
+                if vurl.endswith('.m3u8'):
+                    return {"parse": 1, "url": vurl, "header": self.header}
+        except Exception:
+            pass
         return {"parse": 0, "url": vurl, "header": self.header}
     
     def localProxy(self, params):
         pass
+
     def isVideoFormat(self, url):
         return url
 
@@ -404,49 +366,9 @@ class Spider(Spider):
     def getProxyUrl(self, local=True):
         return 'http://127.0.0.1:9978/proxy?do=py'
 
-    config = {
-        "filter": {
-            "1": [
-                {"key": "class", "name": "类型", "value": [{"n": "全部", "v": ""}, {"n": "恐怖", "v": "恐怖"}, {"n": "惊悚", "v": "惊悚"}, {"n": "爱情", "v": "爱情"}, {"n": "同性", "v": "同性"}, {"n": "喜剧", "v": "喜剧"}, {"n": "动画", "v": "动画"}, {"n": "纪录片", "v": "纪录片"}]},
-                {"key": "area", "name": "地区", "value": [{"n": "全部", "v": ""}, {"n": "日本", "v": "日本"}, {"n": "韩国", "v": "韩国"}, {"n": "美国", "v": "美国"}, {"n": "英国", "v": "英国"}, {"n": "法国", "v": "法国"}, {"n": "德国", "v": "德国"}, {"n": "意大利", "v": "意大利"}, {"n": "巴西", "v": "巴西"}, {"n": "瑞典", "v": "瑞典"}]},
-                {"key": "year", "name": "年份", "value": []},
-                {"key": "by", "name": "排序", "value": [{"n": "最新", "v": "最新"}, {"n": "最热", "v": "最热"}, {"n": "评分", "v": "评分"}]}
-            ],
-            "16": [
-                {"key": "class", "name": "类型", "value": [{"n": "全部", "v": ""}, {"n": "恐怖", "v": "恐怖"}, {"n": "惊悚", "v": "惊悚"}, {"n": "爱情", "v": "爱情"}, {"n": "同性", "v": "同性"}, {"n": "喜剧", "v": "喜剧"}, {"n": "动画", "v": "动画"}, {"n": "纪录片", "v": "纪录片"}]},
-                {"key": "area", "name": "地区", "value": [{"n": "全部", "v": ""}, {"n": "美国", "v": "美国"}, {"n": "英国", "v": "英国"}, {"n": "法国", "v": "法国"}, {"n": "德国", "v": "德国"}, {"n": "意大利", "v": "意大利"}, {"n": "巴西", "v": "巴西"}, {"n": "瑞典", "v": "瑞典"}]},
-                {"key": "year", "name": "年份", "value": []},
-                {"key": "by", "name": "排序", "value": [{"n": "最新", "v": "最新"}, {"n": "评分", "v": "评分"}]}
-            ],
-            "15": [
-                {"key": "class", "name": "类型", "value": [{"n": "全部", "v": ""}, {"n": "恐怖", "v": "恐怖"}, {"n": "惊悚", "v": "惊悚"}, {"n": "爱情", "v": "爱情"}, {"n": "同性", "v": "同性"}, {"n": "喜剧", "v": "喜剧"}, {"n": "动画", "v": "动画"}, {"n": "纪录片", "v": "纪录片"}]},
-                {"key": "area", "name": "地区", "value": [{"n": "全部", "v": ""}, {"n": "日本", "v": "日本"}, {"n": "韩国", "v": "韩国"}]},
-                {"key": "year", "name": "年份", "value": []},
-                {"key": "by", "name": "排序", "value": [{"n": "最新", "v": "最新"}, {"n": "评分", "v": "评分"}]}
-            ],
-            "27": [
-                {"key": "area", "name": "地区", "value": [{"n": "全部", "v": ""}, {"n": "日本", "v": "日本"}, {"n": "韩国", "v": "韩国"}]},
-                {"key": "class", "name": "类型", "value": [{"n": "全部", "v": ""}, {"n": "同性", "v": "同性"}, {"n": "恐怖", "v": "恐怖"}, {"n": "情色", "v": "情色"}, {"n": "搞笑", "v": "搞笑"}]},
-                {"key": "year", "name": "年份", "value": []},
-                {"key": "by", "name": "排序", "value": [{"n": "最新", "v": "最新"}, {"n": "评分", "v": "评分"}]}
-            ],
-            "28": [
-                {"key": "area", "name": "地区", "value": [{"n": "全部", "v": ""}, {"n": "美国", "v": "美国"}, {"n": "其他", "v": "其他"}]},
-                {"key": "class", "name": "类型", "value": [{"n": "全部", "v": ""}, {"n": "同性", "v": "同性"}, {"n": "恐怖", "v": "恐怖"}, {"n": "搞笑", "v": "搞笑"}]},
-                {"key": "year", "name": "年份", "value": []},
-                {"key": "by", "name": "排序", "value": [{"n": "最新", "v": "最新"}, {"n": "评分", "v": "评分"}]}
-            ],
-            "32": [
-                {"key": "year", "name": "年份", "value": []},
-                {"key": "by", "name": "排序", "value": [{"n": "最新", "v": "最新"}, {"n": "评分", "v": "评分"}]}
-            ]
-        }
-    }
-
     header = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
         "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-        "Accept-Encoding": "gzip, deflate",
         "Connection": "keep-alive"
     }
