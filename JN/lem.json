@@ -225,6 +225,7 @@
 
 // ⇩⇩ PY ⇩⇩
 {"key":"py_爱影_APP","name":"雷蒙影视 | 🧿爱影(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt","api":"/api.php/qijiappapi","datakey":"sada21321sdq231d","dataiv":"sada21321sdq231d"}},
+{"key":"py_金牌_APP","name":"雷蒙影视 | 🧿金牌(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://dtqj1.gg1080.com:443/dtjp.txt","api":"/api.php/qijiappapi","datakey":"kecbio48dsq131ed","dataiv":"kecbio48dsq131ed"}},
 {"key":"py_咖啡_APP","name":"雷蒙影视 | 🧿咖啡(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt","api":"/api.php/qijiappapi","datakey":"37kj83zs1q16jk6t","dataiv":"37kj83zs1q16jk6t"}},
 {"key":"py_蓝鹰_APP","name":"雷蒙影视 | 🧿蓝鹰(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","api":"/api.php/qijiappapi","datakey":"ca94b06ca359d80e","dataiv":"ca94b06ca359d80e"}},
 {"key":"py_开心_APP","name":"雷蒙影视 | 🧿开心(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt","api":"/api.php/qijiappapi","datakey":"ca94b06ca3c7d80e","dataiv":"ca94b06ca3c7d80e"}},
