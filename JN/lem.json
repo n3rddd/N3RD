@@ -224,6 +224,12 @@
 
 
 // ⇩⇩ PY ⇩⇩
+{"key":"py_火猫_APP","name":"雷蒙影视 | 🧿火猫(MUOU)","type":3,"api":"./PY/app/appmuou.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://app.789dd.cn","name":"火猫影视"}},
+{"key":"py_羊羊_APP","name":"雷蒙影视 | 🧿羊羊(MUOU)","type":3,"api":"./PY/app/appmuou.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://ht.zhenxun.love","name":"羊羊学院"}},
+{"key":"py_思念_APP","name":"雷蒙影视 | 🧿思念(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://snys2.xyz","ver":"2"}},
+{"key":"py_星空_APP","name":"雷蒙影视 | 🧿星空(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://fox.qwqfun.com"}},
+{"key":"py_极兔_APP","name":"雷蒙影视 | 🧿极兔(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://www.mzd.asia"}},
+{"key":"py_二三_APP","name":"雷蒙影视 | 🧿二三(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://a.cfys.xn--fiqs8s"}},
 {"key":"py_爱影_APP","name":"雷蒙影视 | 🧿爱影(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt","api":"/api.php/qijiappapi","datakey":"sada21321sdq231d","dataiv":"sada21321sdq231d"}},
 {"key":"py_金牌_APP","name":"雷蒙影视 | 🧿金牌(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://dtqj1.gg1080.com:443/dtjp.txt","api":"/api.php/qijiappapi","datakey":"kecbio48dsq131ed","dataiv":"kecbio48dsq131ed"}},
 {"key":"py_咖啡_APP","name":"雷蒙影视 | 🧿咖啡(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt","api":"/api.php/qijiappapi","datakey":"37kj83zs1q16jk6t","dataiv":"37kj83zs1q16jk6t"}},
