@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1127.jar;md5;B960DD85AC82EC370FCC9666D8E74911",
+"spider":"./N3RD/J/lem1128.jar;md5;DFFB5C740B8B54BC4E01FC3EC25BEECF",
 
+//"spider":"./N3RD/J/lem1127.jar;md5;B960DD85AC82EC370FCC9666D8E74911",
 //"spider":"./N3RD/J/lem1126.jar;md5;B99C987C93517168812991AB5FB41674",
 //"spider":"./N3RD/J/lem1125.jar;md5;9EDD8752F1B1F6DE3983917BA031B2D8",
 //"spider":"./N3RD/J/lem1122.jar;md5;036E0360E6F85E374B1994285B8156C4",
@@ -226,6 +227,7 @@
 
 // ⇩⇩ PY ⇩⇩
 {"key":"py_羊羊_APP","name":"雷蒙影视 | 🧿羊羊(MUOU)","type":3,"api":"./PY/app/appmuou.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://ht.zhenxun.love","name":"羊羊学院"}},
+{"key":"py_吉米_APP","name":"雷蒙影视 | 🧿吉米(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://fox.tvmao.top"}},
 {"key":"py_思念_APP","name":"雷蒙影视 | 🧿思念(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://snys2.xyz","ver":"2"}},
 {"key":"py_星空_APP","name":"雷蒙影视 | 🧿星空(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://fox.qwqfun.com"}},
 {"key":"py_极兔_APP","name":"雷蒙影视 | 🧿极兔(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://www.mzd.asia"}},
