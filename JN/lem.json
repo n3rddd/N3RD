@@ -1,14 +1,12 @@
 {
-"spider":"./N3RD/J/lem1129.jar;md5;F29FD9C5634A45855896EE56382BC6E5",
+"spider":"./N3RD/J/lem1202.jar;md5;6EC33251008301E60790AE7CBDB5EE94",
 
+//"spider":"./N3RD/J/lem1129.jar;md5;F29FD9C5634A45855896EE56382BC6E5",
 //"spider":"./N3RD/J/lem1128.jar;md5;DFFB5C740B8B54BC4E01FC3EC25BEECF",
 //"spider":"./N3RD/J/lem1127.jar;md5;B960DD85AC82EC370FCC9666D8E74911",
 //"spider":"./N3RD/J/lem1126.jar;md5;B99C987C93517168812991AB5FB41674",
 //"spider":"./N3RD/J/lem1125.jar;md5;9EDD8752F1B1F6DE3983917BA031B2D8",
 //"spider":"./N3RD/J/lem1122.jar;md5;036E0360E6F85E374B1994285B8156C4",
-//"spider":"./N3RD/J/lem1119.jar;md5;91ACD453D5CDED1B0531F9E2F863A196",
-//"spider":"./N3RD/J/lem1115.jar;md5;C6AC66E5EC6C5A77DC63360EAE73BBB4",
-//"spider":"./N3RD/J/lem1112.jar;md5;049679BE77E561ADEF75CC66DD41DFF9",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -235,6 +233,8 @@
 {"key":"py_二三_APP","name":"雷蒙影视 | 🧿二三(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://a.cfys.xn--fiqs8s"}},
 {"key":"py_爱影_APP","name":"雷蒙影视 | 🧿爱影(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt","api":"/api.php/qijiappapi","datakey":"sada21321sdq231d","dataiv":"sada21321sdq231d"}},
 {"key":"py_金牌_APP","name":"雷蒙影视 | 🧿金牌(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://dtqj1.gg1080.com:443/dtjp.txt","api":"/api.php/qijiappapi","datakey":"kecbio48dsq131ed","dataiv":"kecbio48dsq131ed"}},
+{"key":"py_爱盈_APP","name":"雷蒙影视 | 🧿爱盈(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt","api":"/api.php/qijiappapi","datakey":"sda1231sasddad21","dataiv":"sda1231sasddad21"}},
+{"key":"py_顾我_APP","name":"雷蒙影视 | 🧿顾我(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt","api":"/api.php/qijiappapi","datakey":"ca94b06ca3c7d80e","dataiv":"ca94b06ca3c7d80e"}},
 {"key":"py_咖啡_APP","name":"雷蒙影视 | 🧿咖啡(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt","api":"/api.php/qijiappapi","datakey":"37kj83zs1q16jk6t","dataiv":"37kj83zs1q16jk6t"}},
 {"key":"py_蓝鹰_APP","name":"雷蒙影视 | 🧿蓝鹰(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","api":"/api.php/qijiappapi","datakey":"ca94b06ca359d80e","dataiv":"ca94b06ca359d80e"}},
 {"key":"py_仓鼠_APP","name":"雷蒙影视 | 🧿仓鼠(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt","api":"/api.php/qijiappapi","datakey":"da61247f5b662597","dataiv":"da61247f5b662597"}},
