@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1207.jar;md5;C89254E47F36B8B71B3CED6BA032A210",
+"spider":"./N3RD/J/lem1210.jar;md5;9D19B2DAF3DAAD01BC60B7C0BDD3AC21",
 
+//"spider":"./N3RD/J/lem1207.jar;md5;C89254E47F36B8B71B3CED6BA032A210",
 //"spider":"./N3RD/J/lem1206.jar;md5;5292292F8B415BDB43B0E8A5BA4ABCA2",
 //"spider":"./N3RD/J/lem1204.jar;md5;035E512EC63DF4D55BE32648436415DA",
 //"spider":"./N3RD/J/lem1203.jar;md5;4962830E27A988D3989E970DA5480F3C",
@@ -87,7 +88,8 @@
 {"key":"csp_BttooGuard","name":"雷蒙影视 | 🍄两个BT(SP)","type":3,"api":"csp_BttwooGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_AppTTGuard_热播","name":"雷蒙影视 | 📺热播(SP)","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 {"key":"csp_JqqGuard","name":"雷蒙影视 | 🐻剧圈(SP)","type":3,"api":"csp_JqqGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_AppSxGuard_下饭","name":"雷蒙影视 | 🍙下饭(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="},
+{"key":"csp_AppSxGuard_下饭","name":"雷蒙影视 | 🍙下饭(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="},
+{"key":"csp_AppSxGuard_猫猫","name":"雷蒙影视 | 🐟猫猫(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwtCFsub0/WmdmYi/k2NkJsm7Vk4dJQZft2UtrrwhKK52i/dDilKkU5Nz+V0bwkYsVuU="},
 {"key":"csp_AppSxGuard_鲸鱼","name":"雷蒙影视 | 👀鲸鱼(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZz8r+wzZkfJbkFR5FJ1EK9mVu7apib64Gl8ND6FCETepkkEhht0ptIq9qCQ=="},
 {"key":"csp_AppSxGuard_橘子","name":"雷蒙影视 | 🍊橘子(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="},
 {"key":"csp_AppTTGuard_欢视","name":"雷蒙影视 | 👓欢视(SP)","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
