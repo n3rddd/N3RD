@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0104.jar;md5;31A9DAEC0BAE7B1BE187102657117968",
+"spider":"./N3RD/J/lem0105.jar;md5;F06B538B87755656406E549470686BB1",
 
+//"spider":"./N3RD/J/lem0104.jar;md5;31A9DAEC0BAE7B1BE187102657117968",
 //"spider":"./N3RD/J/lem0102.jar;md5;3E045F0C656999D491675624F4C4923E",
 //"spider":"./N3RD/J/lem1230.jar;md5;748407F75DB16C42CB4978D143049683",
 //"spider":"./N3RD/J/lem1227.jar;md5;A022A376526513A95BF673ED386FA15B",
@@ -196,7 +197,7 @@
 
 // ⇩⇩ 网盘搜索 ⇩⇩ 
 {"key":"csp_SeedhubGuard","name":"雷蒙影视 | 📀SeedHub(网盘APP扫码)","type":3,"api":"csp_SeedhubGuard","changeable":0,"ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":1,"quickSearch":1,"changeable":0, "indexs":0,"style":{"type":"list"}},
-{"key":"csp_S_zpsGuard","name":"雷蒙影视 | 📀聚盘搜(网盘APP扫码)","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"https://api.jkai.de/"},"indexs":0,"style":{"type":"list"}},
+{"key":"csp_S_zpsGuard","name":"雷蒙影视 | 📀聚盘搜(网盘APP扫码)","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"https://pansou.591668.xyz/"},"indexs":0,"style":{"type":"list"}},
 {"key":"csp_KkSsGuard","name":"雷蒙影视 | 📀抠抠(网盘APP扫码)","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_UuSsGuard","name":"雷蒙影视 | 📀优汐(网盘APP扫码)","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_YiSoGuard","name":"雷蒙影视 | 📀易搜(网盘APP扫码)","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","yiSoCookie":"satoken=4437cb8c-a260-411b-9a0d-1fa622ab422f"}},
@@ -229,7 +230,8 @@
 {"key":"py_鲸鱼_APP","name":"雷蒙影视 | 🧿鲸鱼(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","api":"/api.php/qijiappapi","datakey":"AAdgrdghjfgswerA","dataiv":"AAdgrdghjfgswerA"}},
 {"key":"py_小猪_APP","name":"雷蒙影视 | 🧿小猪(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt","api":"/api.php/qijiappapi","datakey":"seb5tq9mykp2w9ry","dataiv":"seb5tq9mykp2w9ry"}},
 {"key":"py_云云_APP","name":"雷蒙影视 | 🧿云云(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt","api":"/api.php/qijiappapi","datakey":"staraugust123456","dataiv":"staraugust123456"}},
-{"key":"py_雨滴_APP","name":"雷蒙影视 | 🧿雨滴(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt","api":"/api.php/getappapi","datakey":"685bf108bc47b67d","dataiv":"685bf108bc47b67d}},
+{"key":"py_随看_APP","name":"雷蒙影视 | 🧿随看(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://suikan.tpmbt.cn","api":"/api.php/getappapi","datakey":"pHQsm6wjYaCuSPEz","dataiv":"pHQsm6wjYaCuSPEz"}},
+{"key":"py_雨滴_APP","name":"雷蒙影视 | 🧿雨滴(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt","api":"/api.php/getappapi","datakey":"685bf108bc47b67d","dataiv":"685bf108bc47b67d"}},
 {"key":"py_白鸽_APP","name":"雷蒙影视 | 🧿白鸽(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://cy.baige.asia","api":"/api.php/getappapi","datakey":"599D0FE5178642FD","dataiv":"599D0FE5178642FD"}},
 {"key":"py_奇奇_APP","name":"雷蒙影视 | 🧿奇奇(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://103.236.61.192:8006","api":"/api.php/getappapi","datakey":"123456789abcdefg","dataiv":"123456789abcdefg"}},
 {"key":"py_剧猫_APP","name":"雷蒙影视 | 🧿剧猫(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://zjm-1302383509.cos.ap-guangzhou.myqcloud.com/zjm.txt","api":"/api.php/getappapi","datakey":"zjmznbl2026zcxgb","dataiv":"zjmznbl2026zcxgb"}},
