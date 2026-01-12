@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0111.jar;md5;3DEA8BDA2254886A64F4E5A1E91AC5DF",
+"spider":"./N3RD/J/lem0112.jar;md5;0C4162F846512EE4D1CF64FF44A65786",
 
+//"spider":"./N3RD/J/lem0111.jar;md5;3DEA8BDA2254886A64F4E5A1E91AC5DF",
 //"spider":"./N3RD/J/lem0110.jar;md5;18E9EE9F10A665DDE0E8BF5538BEB347",
 //"spider":"./N3RD/J/lem0105.jar;md5;F06B538B87755656406E549470686BB1",
 //"spider":"./N3RD/J/lem0104.jar;md5;31A9DAEC0BAE7B1BE187102657117968",
@@ -196,7 +197,7 @@
 
 // ⇩⇩ 网盘搜索 ⇩⇩ 
 {"key":"csp_SeedhubGuard","name":"雷蒙影视 | 📀SeedHub(网盘APP扫码)","type":3,"api":"csp_SeedhubGuard","changeable":0,"ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":1,"quickSearch":1,"changeable":0, "indexs":0,"style":{"type":"list"}},
-{"key":"csp_S_zpsGuard","name":"雷蒙影视 | 📀聚盘搜(网盘APP扫码)","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"http://124.221.190.51:8800/"},"indexs":0,"style":{"type":"list"}},
+{"key":"csp_S_zpsGuard","name":"雷蒙影视 | 📀聚盘搜(网盘APP扫码)","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"http://38.55.131.86:82/"},"indexs":0,"style":{"type":"list"}},
 {"key":"csp_KkSsGuard","name":"雷蒙影视 | 📀抠抠(网盘APP扫码)","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_UuSsGuard","name":"雷蒙影视 | 📀优汐(网盘APP扫码)","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_YiSoGuard","name":"雷蒙影视 | 📀易搜(网盘APP扫码)","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","yiSoCookie":"satoken=4437cb8c-a260-411b-9a0d-1fa622ab422f"}},
