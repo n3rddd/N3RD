@@ -218,6 +218,8 @@
 
 
 // ⇩⇩ PY ⇩⇩
+{"key":"py_木瓜_APP","name":"雷蒙影视 | 🧿木瓜(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://www.yezitv.top/dtym.json","ver":"2"}},
+{"key":"py_花柳_APP","name":"雷蒙影视 | 🧿花柳(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://nico.oiio.fun","ver":"2"}},
 {"key":"py_恋鱼_APP","name":"雷蒙影视 | 🧿恋鱼(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver":"2"}},
 {"key":"py_叶子_APP","name":"雷蒙影视 | 🧿叶子(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://yzysap.oss-cn-hangzhou.aliyuncs.com/yzysapp.json","ver":"2"}},
 {"key":"py_爆炸_APP","name":"雷蒙影视 | 🧿爆炸(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt","api":"/api.php/qijiappapi","datakey":"37kj83zs1q16jk6t","dataiv":"37kj83zs1q16jk6t"}},
