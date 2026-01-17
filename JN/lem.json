@@ -1,12 +1,10 @@
 {
-"spider":"./N3RD/J/lem0115.jar;md5;6C76B3E5541C04CB549A19ED114EA33D",
+"spider":"./N3RD/J/lem0117.jar;md5;E2D3B817C9D9A69732ED3E7F36EF8371",
 
+//"spider":"./N3RD/J/lem0115.jar;md5;6C76B3E5541C04CB549A19ED114EA33D",
 //"spider":"./N3RD/J/lem0112.jar;md5;0C4162F846512EE4D1CF64FF44A65786",
 //"spider":"./N3RD/J/lem0111.jar;md5;3DEA8BDA2254886A64F4E5A1E91AC5DF",
 //"spider":"./N3RD/J/lem0110.jar;md5;18E9EE9F10A665DDE0E8BF5538BEB347",
-//"spider":"./N3RD/J/lem0105.jar;md5;F06B538B87755656406E549470686BB1",
-//"spider":"./N3RD/J/lem0104.jar;md5;31A9DAEC0BAE7B1BE187102657117968",
-//"spider":"./N3RD/J/lem0102.jar;md5;3E045F0C656999D491675624F4C4923E",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -52,6 +50,7 @@
 {"key":"csp_DouDouGuard","name":"雷蒙影视 | 📡豆瓣片单(SP)","type":3,"api":"csp_DouDouGuard","searchable":0},
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/豆瓣[官].js"},
 {"key":"csp_YGPGuard","name":"雷蒙影视 | 🎞预告片(SP)","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"csp_MusicGuard","name":"雷蒙影视 | 🎙️易听音乐(SP)","type":3,"api":"csp_MusicGuard","style":{"type":"rect","ratio":1},"playerType":2,"searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drjs_雷蒙资源","name":"雷蒙影视 | 😎雷蒙资源","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙资源.js?type=url&params=http://tv.850930.xyz/雷蒙资源静态.json$1"},
 {"key":"drjs_雷蒙直播","name":"雷蒙影视 | 🤠雷蒙直播","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/雷蒙直播.js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/live2cms.json"},
 {"key":"lfjs_电视直播","name":"雷蒙影视 | 📺电视直播","type":3,"searchable":0,"quickSearch":1,"filterable":1,"changeable":1,"api":"./dr_py/js/lf_live10_min-output.js","ext":"./dr_py/json/lf_live.json"},
@@ -92,7 +91,7 @@
 {"key":"csp_AppSxGuard_剧圈","name":"雷蒙影视 | 🐻剧圈(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="},
 {"key":"csp_AppTTGuard_热播","name":"雷蒙影视 | 📺热播(SP)","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 {"key":"csp_AppSxGuard_下饭","name":"雷蒙影视 | 🍙下饭(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="},
-{"key":"csp_AppSxGuard_极狐","name":"雷蒙影视 | 🦊极狐(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+Szfz8zv0jAjao20UU0cIAxL6DQ15qJ1O+BZw910sXeeL8VPwXcg/2xjQv8/GZnOrqqcWiP4CKLWif2sVyC8ihYjNklP7o6mQAL7VoFMG5d5pWhXSwS1CO7g1gbyVYEQxV0sT36wczr1h9ANQMp05z40WLhuXPJeeRYy14vg"},
+{"key":"csp_AppSxGuard_极狐","name":"雷蒙影视 | 🦊极狐(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+SLe3Je/kGpsKc2zX0ocJ1EK7HEju+hsY+lK2shiqnHZcN1Sz2Im+G8mF+shR8vK6KaQCCnyQajK1uW0QGH/31V4eBoD+JzwElClCJ1GEctm4nhZXAylAQ=="},
 {"key":"csp_AppSxGuard_猫猫","name":"雷蒙影视 | 🐟猫猫(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSspW+fnt3j0Gkxas3qVQ5bZRBVvSwnsuM5MOJ0isFT7Xq5Kctln34euXsyXL42Edzeou/SGHg="},
 {"key":"csp_AppSxGuard_包子","name":"雷蒙影视 | 🍩包子(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXQ3SsRv/HiK+0XXGnjhlkfQQNopX5TgKxFIobBott+2QTSxa1Bv3jlR7vRcQK"},
 {"key":"csp_AppSxGuard_橘子","name":"雷蒙影视 | 🍊橘子(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSqvyXCz8r+lS8mcJ/xVR1aMxpf9CY77fshWb9Qi+9wjlHTW/B2wksy6y04VuIpAozGrejSUw=="},
