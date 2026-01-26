@@ -220,6 +220,8 @@
 
 
 // ⇩⇩ PY ⇩⇩
+{"key":"py_搜搜_APP","name":"雷蒙影视 | 🧿搜搜(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://www.zjcvod.com","ver":"2"}},
+{"key":"py_火花_APP","name":"雷蒙影视 | 🧿火花(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://huohua.itcxo.cn","ver":"2"}},
 {"key":"py_木瓜_APP","name":"雷蒙影视 | 🧿木瓜(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://www.yezitv.top/dtym.json","ver":"2"}},
 {"key":"py_花柳_APP","name":"雷蒙影视 | 🧿花柳(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://nico.oiio.fun","ver":"2"}},
 {"key":"py_麒麟_APP","name":"雷蒙影视 | 🧿麒麟(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://qh.70qh.top","ver":"2"}},
@@ -236,6 +238,8 @@
 {"key":"py_奇奇_APP","name":"雷蒙影视 | 🧿奇奇(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/a.txt","api":"/api.php/qijiappapi","datakey":"123456789abcdefg","dataiv":"123456789abcdefg"}},
 {"key":"py_优兔_APP","name":"雷蒙影视 | 🧿优兔(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt","api":"/api.php/qijiappapi","datakey":"UrWKPnmQWJA8AQzd","dataiv":"UrWKPnmQWJA8AQzd"}},
 {"key":"py_芬奇_APP","name":"雷蒙影视 | 🧿芬奇(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://wsapi.dafenqi.mom/yuming.txt","api":"/api.php/getappapi","datakey":"bH5mI8iK0tK7aQ5x","dataiv":"bH5mI8iK0tK7aQ5x"}},
+{"key":"py_缘梦_APP","name":"雷蒙影视 | 🧿缘梦(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://165.99.42.137:5432","api":"/api.php/getappapi","datakey":"1234567890987654","dataiv":"1234567890987654"}},
+{"key":"py_王子_APP","name":"雷蒙影视 | 🧿王子(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://app.95112475.xyz","api":"/api.php/getappapi","datakey":"5a9w6x58dsq6z3a6","dataiv":"5a9w6x58dsq6z3a6"}},
 {"key":"py_火狐_APP","name":"雷蒙影视 | 🧿火狐(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://122.114.171.79:568/huohushipin.txt","api":"/api.php/getappapi","datakey":"huohushipingetap","dataiv":"huohushipingetap"}},
 {"key":"py_看呗_APP","name":"雷蒙影视 | 🧿看呗(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://www.winter1.fun","api":"/api.php/getappapi","datakey":"abcdefghigklmn11","dataiv":"abcdefghigklmn11"}},
 {"key":"py_小猫_APP","name":"雷蒙影视 | 🧿小猫(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt","api":"/api.php/getappapi","datakey":"xmyxmyxywlkjxywl","dataiv":"xmyxmyxywlkjxywl"}},
