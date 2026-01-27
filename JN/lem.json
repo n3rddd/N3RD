@@ -293,6 +293,7 @@
 {"key":"py_悠悠","name":"雷蒙影视 | 🧿悠悠(PY)","type":3,"api":"./PY/app/悠悠APP.py"},
 {"key":"py_云端","name":"雷蒙影视 | 🧿云端(PY)","type":3,"api":"./PY/app/云端APP.py"},
 {"key":"py_云速","name":"雷蒙影视 | 🧿云速(PY)","type":3,"api":"./PY/app/云速影视APP.py"},
+{"key":"py_爱听音乐","name":"雷蒙影视 | 🧿爱听(PY)","type":3,"api":"./PY/html/爱听音乐.py"},
 {"key":"py_飞快TV","name":"雷蒙影视 | 🧿飞快(PY)","type":3,"api":"./PY/html/飞快TV.py"},
 {"key":"py_redflix","name":"雷蒙影视 | 🧿REDFLIX(PY)","type":3,"api":"./PY/html/redflix.py"},
 {"key":"py_456movie","name":"雷蒙影视 | 🧿456Movie(PY)","type":3,"api":"./PY/html/456movie.py"},
