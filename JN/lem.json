@@ -154,16 +154,16 @@
 
 // ⇩⇩ FM SPIDER ⇩⇩ 
 {"key":"csp_AppRJ_潮流_FM","name":"雷蒙影视 | 🏜潮流(SP)","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn"},
-{"key":"csp_AppGet_肥猫_FM","name":"雷蒙影视 | 🐼肥猫(SP)","type":3,"api":"csp_AppGet","ext":"http://103.236.61.192:8006|123456789abcdefg"},
-{"key":"csp_AppGet_干饭_FM","name":"雷蒙影视 | 🍚干饭(SP)","type":3,"api":"csp_AppQi","ext":"https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120"},
-{"key":"csp_AppGet_光盘_FM","name":"雷蒙影视 | 📀光盘(SP)","type":3,"api":"csp_AppQi","ext":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120"},
-{"key":"csp_AppGet_行动_FM","name":"雷蒙影视 | 😌行动(SP)","type":3,"api":"csp_AppGet","ext":"https://zjm-1302383509.cos.ap-guangzhou.myqcloud.com/zjm.txt|zjmznbl2026zcxgb"},
+{"key":"csp_AppGet_肥猫_FM","name":"雷蒙影视 | 🐼肥猫(SP)","type":3,"api":"csp_AppGet","ext":"https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x"},
+{"key":"csp_AppGet_干饭_FM","name":"雷蒙影视 | 🍚干饭(SP)","type":3,"api":"csp_AppGet","ext":"http://122.114.171.79:568/huohushipin.txt|huohushipingetap"},
+{"key":"csp_AppGet_光盘_FM","name":"雷蒙影视 | 📀光盘(SP)","type":3,"api":"csp_AppQi","ext":"https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"},
+{"key":"csp_AppGet_行动_FM","name":"雷蒙影视 | 😌行动(SP)","type":3,"api":"csp_AppGet","ext":"http://165.99.42.137:5432|1234567890987654"},
 {"key":"csp_AppGet_再来_FM","name":"雷蒙影视 | ✌️再来(SP)","type":3,"api":"csp_AppGet","ext":"https://www.jumengwu.com|1f0a873caf2550a5"},
 {"key":"csp_AppGet_一碗_FM","name":"雷蒙影视 | 🥣一碗(SP)","type":3,"api":"csp_AppGet","ext":"https://dy.8ttv.cn|1111111111111111"},
-{"key":"csp_AppGet_猫抓_FM","name":"雷蒙影视 | 🐱猫抓(SP)","type":3,"api":"csp_AppGet","ext":"https://www.mfsp4k.top|1234567887654321"},
+{"key":"csp_AppGet_猫抓_FM","name":"雷蒙影视 | 🐱猫抓(SP)","type":3,"api":"csp_AppGet","ext":"https://app.95112475.xyz|5a9w6x58dsq6z3a6"},
 {"key":"csp_AppGet_耗子_FM","name":"雷蒙影视 | 🐹耗子(SP)","type":3,"api":"csp_AppGet","ext":"http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl"},
 {"key":"csp_AppGet_蔬菜_FM","name":"雷蒙影视 | 🥦蔬菜(SP)","type":3,"api":"csp_AppGet","ext":"https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"},
-{"key":"csp_AppGet_黑猫_FM","name":"雷蒙影视 | 🐼黑猫(SP)","type":3,"api":"csp_AppGet","ext":"http://app1-0-0.87333.cc|VwsHxkCViDXEExWa"},
+{"key":"csp_AppGet_黑猫_FM","name":"雷蒙影视 | 🐼黑猫(SP)","type":3,"api":"csp_AppGet","ext":"https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5"},
 {"key":"csp_AppGet_优优_FM","name":"雷蒙影视 | 💯优优(SP)","type":3,"api":"csp_AppGet","ext":"https://ios.hgyx.vip|062dec75d039980e"},
 {"key":"csp_AppGet_兔子_FM","name":"雷蒙影视 | 🐇兔子(SP)","type":3,"api":"csp_AppGet","ext":"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"},
 {"key":"csp_AppGet_永永_FM","name":"雷蒙影视 | ♾️永永(SP)","type":3,"api":"csp_AppGet","ext":"https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"},
@@ -177,7 +177,7 @@
 {"key":"csp_AppGet_丫丫_FM","name":"雷蒙影视 | 🐷丫丫(SP)","type":3,"api":"csp_AppGet","ext":"http://tv.yy-fun.cc|qkxnwkfjwpcnwycl"},
 {"key":"csp_Kugou_FM","name":"雷蒙影视 | 🐾酷狗(SP)","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
 {"key":"csp_Kanqiu_FM","name":"雷蒙影视 | ⚾看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
-{"key":"csp_LivingFM","name":"雷蒙影视 |🐼直播(SP)","type":3,"api":"csp_LivingFM","playerType":2,"ext":"https://bt.muxia.fun"},
+{"key":"csp_LivingFM","name":"雷蒙影视 |🐼直播(SP)","type":3,"api":"csp_LivingFM","playerType":2,"ext":"https://lemonlive-api-1.deno.dev"},
 
 // ⇩⇩ CM SPIDER ⇩⇩ 
 {"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/freeok.json"},
