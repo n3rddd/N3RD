@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0208.jar;md5;DD02508BFF82CB8962CEAA52A58604F6",
+"spider":"./N3RD/J/lem0210.jar;md5;CE5E2A523BDF7C87FC3169463CC23326",
 
+//"spider":"./N3RD/J/lem0208.jar;md5;DD02508BFF82CB8962CEAA52A58604F6",
 //"spider":"./N3RD/J/lem0207.jar;md5;E83BF6604596ABE7D9760754491ECEE2",
 //"spider":"./N3RD/J/lem0205.jar;md5;AE040490B5C8DA41CA5FB268EE714292",
 //"spider":"./N3RD/J/lem0202.jar;md5;B7E1C8B4647D823AB4C072965890EAD0",
@@ -232,6 +233,7 @@
 {"key":"py_鲸鱼_APP","name":"雷蒙影视 | 🧿鲸鱼(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/juyu3.json","api":"/api.php/qijiappapi","datakey":"AAdgrdghjfgsABC1","dataiv":"AAdgrdghjfgsABC1"}},
 {"key":"py_优兔_APP","name":"雷蒙影视 | 🧿优兔(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt","api":"/api.php/qijiappapi","datakey":"UrWKPnmQWJA8AQzd","dataiv":"UrWKPnmQWJA8AQzd"}},
 {"key":"py_芬奇_APP","name":"雷蒙影视 | 🧿芬奇(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://wsapi.dafenqi.mom/yuming.txt","api":"/api.php/getappapi","datakey":"bH5mI8iK0tK7aQ5x","dataiv":"bH5mI8iK0tK7aQ5x"}},
+{"key":"py_旗星_APP","name":"雷蒙影视 | 🧿旗星(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://ys.qist.top/dtym.txt","api":"/api.php/getappapi","datakey":"2SWSPFxugBLPPOKo","dataiv":"2SWSPFxugBLPPOKo"}},
 {"key":"py_缘梦_APP","name":"雷蒙影视 | 🧿缘梦(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://165.99.42.137:5432","api":"/api.php/getappapi","datakey":"1234567890987654","dataiv":"1234567890987654"}},
 {"key":"py_王子_APP","name":"雷蒙影视 | 🧿王子(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://app.95112475.xyz","api":"/api.php/getappapi","datakey":"5a9w6x58dsq6z3a6","dataiv":"5a9w6x58dsq6z3a6"}},
 {"key":"py_小猫_APP","name":"雷蒙影视 | 🧿小猫(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt","api":"/api.php/getappapi","datakey":"xmyxmyxywlkjxywl","dataiv":"xmyxmyxywlkjxywl"}},
