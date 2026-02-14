@@ -74,6 +74,8 @@
 // ⇩⇩ 阿里夸克迅雷UC网盘 ⇩⇩ 
 {"key":"csp_Config","name":"雷蒙影视 | 💿网盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/ctv/pg.json"},
 
+{"key":"py_pansou","name":"雷蒙影视 | 📀盘搜(PY)","type":3,"api":"./PY/html/pansou.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"https://so.252035.xyz/","channels":"","plugins":"","cloud_types":"quark,tianyi,123"},"changeable":1},
+
 {"key":"csp_TGDouban1","name":"雷蒙影视 | 💿TG豆瓣[综合]","type":3,"api":"csp_TGDouban","timeout":120,"ext":{"token":"http://127.0.0.1:9978/file/ctv/pg.json","json":"./N3RD/T/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"https://tg.252035.xyz","tgsearch_media_url":"https://tg.252035.xyz","channellist":"clouddriveresources,dianying4k,kkxlzy,leoziyuan,mcph086,mcph608,mcph860,oscardianying,peccxinpd,quarkfree,q66share,taoxgzy,tgsearchers3,ucquark,ucwpzy,vip115hot,wfysfx02,xiangxiunbb,xunleibl,yunpanx,yggpan,yydf_hzl,+fSHARlBjBSNhN2Ix,+h10ulzfxiQZiYTdi,+P4IU1QbK4ChlNTYx","proxy":"cfg","douban":"./N3RD/T/douban.json","danmu":true},"style":{"type":"rect","ratio":0.7}},
 {"key":"csp_TGDouban2","name":"雷蒙影视 | 💿TG豆瓣[夸克]","type":3,"api":"csp_TGDouban","timeout":120,"ext":{"token":"http://127.0.0.1:9978/file/ctv/pg.json","json":"./N3RD/T/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"https://tg.252035.xyz","tgsearch_media_url":"https://tg.252035.xyz","channellist":"alyp_1,baicaozy,dianyingshare,duan_ju,guoman4k,hdhhd21,jdjdn1111,mcph01,panjclub,q_dianying,q_dianshiju,Q_dongman,quark_movies,quanziyuanshe,sharepanfilms,yoyokuakeduanju,zyfx2022,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx","proxy":"cfg","douban":"./N3RD/T/douban.json","danmu":true},"style":{"type":"rect","ratio":0.7}},
 {"key":"csp_TGDouban3","name":"雷蒙影视 | 💿TG豆瓣[天翼]","type":3,"api":"csp_TGDouban","timeout":120,"ext":{"token":"http://127.0.0.1:9978/file/ctv/pg.json","json":"./N3RD/T/tgsearch.json","keywords":"名称,片名,推荐","tgsearch_url":"https://tg.252035.xyz","tgsearch_media_url":"https://tg.252035.xyz","channellist":"cloudtianyi,kuakeclound,tianyifc,tianyirigeng,txtyzy,tyypzhpd,tyysypzypd,yunpan189","proxy":"cfg","douban":"./N3RD/T/douban.json","danmu":true},"style":{"type":"rect","ratio":0.7}},
@@ -175,9 +177,7 @@
 {"key":"csp_AList","name":"雷蒙影视 | 💿Alist(SP)","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"timeout":60,"playerType":2,"ext":"./N3RD/T/alistjar.json"},
 {"key":"csp_WebDAV","name":"雷蒙影视 | 💿WebDAV(SP)","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":1,"timeout":60,"playerType":2,"ext":"./N3RD/T/webdav.json"},
 
-{"key":"py_pansou","name":"雷蒙影视 | 📀盘搜(PY)","type":3,"api":"./PY/html/pansou.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"https://so.252035.xyz/","channels":"","plugins":"","cloud_types":"quark,tianyi,123"},"changeable":1},
-{"key":"py_飞快TV[推]","name":"雷蒙影视 | 📀飞快TV(PY)","type":3,"api":"./PY/html/飞快TV[推].py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-  
+{"key":"py_飞快TV[推]","name":"雷蒙影视 | 📀飞快TV(PY)","type":3,"api":"./PY/html/飞快TV[推].py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1}, 
 {"key":"drjs_funletu_PG","name":"雷蒙影视 | 📀趣盘搜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/funletu.js"},
 {"key":"drjs_xzys_PG","name":"雷蒙影视 | 📀校长影视(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/xzys.js"},
 {"key":"drjs_dydhhy_PG","name":"雷蒙影视 | 📀DYD(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dydhhy.js"},
