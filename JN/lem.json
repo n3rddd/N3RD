@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0504.jar;md5;8AFF2DF131D84BFD255E398E19FD53EA",
+"spider":"./N3RD/J/lem0507.jar;md5;E9884A88FF4E381CEB8F038F09732C1F",
 
+//"spider":"./N3RD/J/lem0504.jar;md5;8AFF2DF131D84BFD255E398E19FD53EA",
 //"spider":"./N3RD/J/lem0429.jar;md5;0C6768B1EE96B5B605B4F601F60016F0",
 //"spider":"./N3RD/J/lem0423.jar;md5;0D790AF998F931D25818F08E84221550",
 
@@ -169,7 +170,7 @@
 
 // ⇩⇩ 网盘搜索 ⇩⇩ 
 {"key":"csp_SeedhubGuard","name":"雷蒙影视 | 📀SeedHub(网盘APP扫码)","type":3,"api":"csp_SeedhubGuard","changeable":0,"ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":1,"quickSearch":1,"changeable":0, "indexs":0,"style":{"type":"list"}},
-{"key":"csp_S_zpsGuard","name":"雷蒙影视 | 📀聚盘搜(网盘APP扫码)","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"https://ps.i3ei.com/"},"indexs":0,"style":{"type":"list"}},
+{"key":"csp_S_zpsGuard","name":"雷蒙影视 | 📀聚盘搜(网盘APP扫码)","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"http://107.173.211.148/"},"indexs":0,"style":{"type":"list"}},
 {"key":"csp_KkSsGuard","name":"雷蒙影视 | 📀抠抠(网盘APP扫码)","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"csp_UuSsGuard","name":"雷蒙影视 | 📀优汐(网盘APP扫码)","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"csp_YiSoGuard","name":"雷蒙影视 | 📀易搜(网盘APP扫码)","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","yiSoCookie":"satoken=4437cb8c-a260-411b-9a0d-1fa622ab422f"}},
@@ -207,7 +208,6 @@
 {"key":"py_云朵_APP","name":"雷蒙影视 | 🧿云朵(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://yd4kcms.yd4k.top","api":"/api.php/getappapi","datakey":"Tpmm9FD99lJ8Dexa","dataiv":"Tpmm9FD99lJ8Dexa"}},
 {"key":"py_坚果_APP","name":"雷蒙影视 | 🧿坚果(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://qiliniao-1331306839.cos.ap-chengdu.myqcloud.com/jg.txt","api":"/api.php/getappapi","datakey":"2015692015692015","dataiv":"2015692015692015"}},
 {"key":"py_王子_APP","name":"雷蒙影视 | 🧿王子(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://app.95112475.xyz","api":"/api.php/getappapi","datakey":"5a9w6x58dsq6z3a6","dataiv":"5a9w6x58dsq6z3a6"}},
-{"key":"py_星空_APP","name":"雷蒙影视 | 🧿星空(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://xk7.xkgzs.xyz/1/1234.txt","api":"/api.php/getappapi","datakey":"77jkcdvdodfcdkjk","dataiv":"77jkcdvdodfcdkjk"}},
 {"key":"py_秒看_APP","name":"雷蒙影视 | 🧿秒看(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://mk1080.top/get.txt","api":"/api.php/getappapi","datakey":"c60d88b2eep53za8","dataiv":"c60d88b2eep53za8"}},
 {"key":"py_茉莉_APP","name":"雷蒙影视 | 🧿茉莉(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt","api":"/api.php/getappapi","datakey":"88689667dce61725","dataiv":"88689667dce61725"}},
 {"key":"py_灵虎_APP","name":"雷蒙影视 | 🧿灵虎(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://bind.315999.xyz/89.txt","api":"/api.php/getappapi","datakey":"#getapp@TMD@2025","dataiv":"#getapp@TMD@2025"}},
