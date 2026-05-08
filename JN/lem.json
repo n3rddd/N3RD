@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0507.jar;md5;E9884A88FF4E381CEB8F038F09732C1F",
+"spider":"./N3RD/J/lem0508.jar;md5;4257FDD8F3B3ACC3FAA70D84BC251823",
 
+//"spider":"./N3RD/J/lem0507.jar;md5;E9884A88FF4E381CEB8F038F09732C1F",
 //"spider":"./N3RD/J/lem0504.jar;md5;8AFF2DF131D84BFD255E398E19FD53EA",
 //"spider":"./N3RD/J/lem0429.jar;md5;0C6768B1EE96B5B605B4F601F60016F0",
 //"spider":"./N3RD/J/lem0423.jar;md5;0D790AF998F931D25818F08E84221550",
@@ -197,6 +198,7 @@
 {"key":"py_云播_APP","name":"雷蒙影视 | 🧿云播(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://app.hktvyb.cc","ver":"2"}},
 {"key":"py_叶子_APP","name":"雷蒙影视 | 🧿叶子(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://yzysap.oss-cn-hangzhou.aliyuncs.com/yzysapp.json","ver":"2"}},
 {"key":"py_火猫_APP","name":"雷蒙影视 | 🧿火猫(FOX)","type":3,"api":"./PY/app/appfox.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://cunchu8.obs.cn-north-4.myhuaweicloud.com/fox.json","ver":"2"}},
+{"key":"py_首发_APP","name":"雷蒙影视 | 🧿首发(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt","api":"/api.php/qijiappapi","datakey":"FTgP4Gq8zPiqbt7M","dataiv":"FTgP4Gq8zPiqbt7M"}},
 {"key":"py_金牌_APP","name":"雷蒙影视 | 🧿金牌(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://qj4.catbb.xyz","api":"/api.php/qijiappapi","datakey":"eecbio48dsq13kkk","dataiv":"eecbio48dsq13kkk"}},
 {"key":"py_爱影_APP","name":"雷蒙影视 | 🧿爱影(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://aysappto.oss-cn-chengdu.aliyuncs.com/q18.txt","api":"/api.php/qijiappapi","datakey":"fff32466kkf87666","dataiv":"fff32466kkf87666"}},
 {"key":"py_老鹰_APP","name":"雷蒙影视 | 🧿老鹰(QIJI)","type":3,"api":"./PY/app/qijiapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt","api":"/api.php/qijiappapi","datakey":"zxPtEUDGVllIUhDB","dataiv":"zxPtEUDGVllIUhDB"}},
