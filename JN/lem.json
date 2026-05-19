@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0517.jar;md5;1371793C05DE85BDC51599703DE8B742",
+"spider":"./N3RD/J/lem0519.jar;md5;A0F623773B073B7C7C60D2A6547A21C3",
 
+//"spider":"./N3RD/J/lem0517.jar;md5;1371793C05DE85BDC51599703DE8B742",
 //"spider":"./N3RD/J/lem0516.jar;md5;DDA8F47A3796C31E8D0554947807756D",
 //"spider":"./N3RD/J/lem0510.jar;md5;EC51B44EF67393E9D1BE356FB5CC1016",
 
@@ -488,7 +489,8 @@
 "headers":[{"host":"hlsztemgsplive.miguvideo.com","header":{"User-Agent":"okHttp/Mod-1.5.0.0"}}],
 
 "hosts":[
-"img1.wsyzy.org=danmu.888484.xyz",
+"img1.wsyzy.org=fan.cloudflare.182682.xyz",
+"fiizvfck.top=fan.cloudflare.182682.xyz",
 "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
 "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
 "cdn9.163189.xyz=gcore.jsdelivr.net",
