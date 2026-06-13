@@ -3,7 +3,7 @@
 var rule = {
     title: '瓜子',
     host: 'https://api.w32z7vtd.com',
-   // host: 'https://api.8utdtcq.com',
+   // host: 'https://api.w32z7vtd.com',
     url: '/App/IndexList/indexList',
     //   homeUrl: 'http://124.222.116.5/homedata/home.json',
     searchUrl: '/App/Index/findMoreVod#**',
@@ -68,13 +68,13 @@ var rule = {
         var signature2 = md5(signature); //log(signature2)
         var body = 'token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79&token_id=&phone_type=1&time=' + t + '&phone_model=xiaomi-22021211rc&keys=ZH8gpdp9bxjuG2NK97sol3o7Uiz%2B9eVEaVMlE2Fk3j7EResM3YHnECZUH7BONNTjpy7RVNi%2FYimGuNYriC7Cmswv4PNYiFYzw9QhlqZKwNfCM6IUpFZ0T4rZx8G78zkv2tNVbfYC4qNQedGi07nWZ33dlSuVxROVfY5JxOWHMI0%3D&request_key=' + request_key2 + '&signature=' + signature2 + '&app_id=1&ad_version=1'; //log(body)
 
-        var html = fetch('https://api.8utdtcq.com/App/Resource/VurlDetail/showOne', {
+        var html = fetch('https://api.w32z7vtd.com/App/Resource/VurlDetail/showOne', {
             headers: {
                 'Cache-Control': 'no-cache',
                 'Version': '2406025',
                 'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
                 'Ver': '1.9.2',
-                'Referer': 'https://api.8utdtcq.com',
+                'Referer': 'https://api.w32z7vtd.com',
                 'X-Customer-Client-Ip': '127.0.0.1',
                 'Content-Type': 'application/x-www-form-urlencoded',
                 'Host': 'api.8utdtcq.com',
@@ -192,7 +192,7 @@ var rule = {
             'Version': '2406025',
             'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
             'Ver': '1.9.2',
-            'Referer': 'https://api.8utdtcq.com',
+            'Referer': 'https://api.w32z7vtd.com',
             'X-Customer-Client-Ip': '127.0.0.1',
             'Content-Type': 'application/x-www-form-urlencoded',
             'Host': 'api.8utdtcq.com',
@@ -207,7 +207,7 @@ var rule = {
         var request_key = JSON.stringify({ "area": (MY_FL.area || 0).toString(), "sub": (MY_FL.sub || sub).toString(), "year": (MY_FL.year || 0).toString(), "pageSize": "30", "sort": (MY_FL.sort || "d_id").toString(), "page": MY_PAGE, "tid": tid });
         var request_key2 = Encrypt(request_key);
         var body = getbody3(request_key2, t)
-        var html2 = gethtml("https://api.8utdtcq.com/App/IndexList/indexList", body, headers)
+        var html2 = gethtml("https://api.w32z7vtd.com/App/IndexList/indexList", body, headers)
         //console.log("tttttlieb=="+html2)
         var list = JSON.parse(html2).list; //log(list)
         list.forEach(data => {
@@ -283,7 +283,7 @@ var rule = {
             'Version': '2406025',
             'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
             'Ver': '1.9.2',
-            'Referer': 'https://api.8utdtcq.com',
+            'Referer': 'https://api.w32z7vtd.com',
             'X-Customer-Client-Ip': '127.0.0.1',
             'Content-Type': 'application/x-www-form-urlencoded',
             'Host': 'api.8utdtcq.com',
@@ -292,7 +292,7 @@ var rule = {
             'User-Agent': 'okhttp/3.12.0'
         }
         // var MY_URL = MY_URL.split("##")[1]; //log(MY_URL)
-        input = input.replace('https://api.8utdtcq.com/', '');
+        input = input.replace('https://api.w32z7vtd.com/', '');
         //console.log("input----===="+input)
 
         // var vod_continu = input.split("/")[1]; //log(vod_id)
@@ -308,7 +308,7 @@ var rule = {
         });
         var request_key2 = Encrypt(request_key);
         var body = getbody2(request_key2, t)
-        var html = gethtml("https://api.8utdtcq.com/App/IndexPlay/playInfo", body, headers)
+        var html = gethtml("https://api.w32z7vtd.com/App/IndexPlay/playInfo", body, headers)
         var data2 = JSON.parse(html).vodInfo; //console.log("hwudwudg-===="+JSON.stringify(data2))
         var request_key3 = JSON.stringify({
             "vurl_cloud_id": "2",
@@ -317,7 +317,7 @@ var rule = {
         var request_key4 = Encrypt(request_key3); //log(request_key4)
         var body2 = getbody2(request_key4, t)
 
-        var html3 = gethtml("https://api.8utdtcq.com/App/Resource/Vurl/show", body2, headers); //log(html3)
+        var html3 = gethtml("https://api.w32z7vtd.com/App/Resource/Vurl/show", body2, headers); //log(html3)
 
         var list = JSON.parse(html3).list;
         let nnnmm = [];
@@ -428,7 +428,7 @@ var rule = {
             'Version': '2406025',
             'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
             'Ver': '1.9.2',
-            'Referer': 'https://api.8utdtcq.com',
+            'Referer': 'https://api.w32z7vtd.com',
             'X-Customer-Client-Ip': '127.0.0.1',
             'Content-Type': 'application/x-www-form-urlencoded',
             'Host': 'api.8utdtcq.com',
