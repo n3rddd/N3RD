@@ -1,440 +1,179 @@
-globalThis.h_ost = 'https://api.w32z7vtd.com';
+/*
+@header({
+  searchable: 2,
+  filterable: 1,
+  quickSearch: 0,
+  title: '瓜子',
+  author: 'EylinSir',
+  '类型': '影视',
+  logo: 'https://guaziyingshi.xxsnav.com/files/guaziyingshi.png',
+  lang: 'ds'
+})
+*/
+
+// 内置补全依赖 - 适配本地包无全局依赖问题
+const CryptoJS = require('crypto-js');
+const forge = require('node-forge');
 
 var rule = {
+    类型: '影视',
+    author: 'EylinSir',
     title: '瓜子',
     host: 'https://api.w32z7vtd.com',
     url: '/App/IndexList/indexList',
-    searchUrl: '/App/Index/findMoreVod#**',
+    searchUrl: '/App/Index/findMoreVod',
+    logo: 'https://guaziyingshi.xxsnav.com/files/guaziyingshi.png',
     searchable: 2,
-    quickSearch: 1,
+    quickSearch: 0,
     filterable: 1,
-    class_name: '电视剧&电影&动漫&综艺&短剧',
-    class_url: '2&1&4&3&64',
-    play_parse: true,
-    lazy: $js.toString(() => {
-        let d = [];
-        var vod_id = input.split("/")[0];
-        var vurl_id = input.split("/")[1];
-        var resolution = input.split("?")[1]
+    play_parse: true, 
+    class_name: '电影&电视剧&动漫&综艺&短剧',
+    class_url: '1&2&4&3&64',
+    headers: {
+        'User-Agent': 'okhttp/3.12.0',
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Cache-Control': 'no-cache',
+        'Version': '2406025',
+        'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
+        'Ver': '1.9.2',
+        'Referer': 'https://api.w32z7vtd.com'
+    },
+    token: '1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79',
+    rsaPrivateKey: `-----BEGIN PRIVATE KEY-----
+MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGAe6hKrWLi1zQmjTT1
+ozbE4QdFeJGNxubxld6GrFGximxfMsMB6BpJhpcTouAqywAFppiKetUBBbXwYsYU
+1wNr648XVmPmCMCy4rY8vdliFnbMUj086DU6Z+/oXBdWU3/b1G0DN3E9wULRSwcK
+ZT3wj/cCI1vsCm3gj2R5SqkA9Y0CAwEAAQKBgAJH+4CxV0/zBVcLiBCHvSANm0l7
+HetybTh/j2p0Y1sTXro4ALwAaCTUeqdBjWiLSo9lNwDHFyq8zX90+gNxa7c5EqcW
+V9FmlVXr8VhfBzcZo1nXeNdXFT7tQ2yah/odtdcx+vRMSGJd1t/5k5bDd9wAvYdI
+DblMAg+wiKKZ5KcdAkEA1cCakEN4NexkF5tHPRrR6XOY/XHfkqXxEhMqmNbB9U34
+saTJnLWIHC8IXys6Qmzz30TtzCjuOqKRRy+FMM4TdwJBAJQZFPjsGC+RqcG5UvVM
+iMPhnwe/bXEehShK86yJK/g/UiKrO87h3aEu5gcJqBygTq3BBBoH2md3pr/W+hUM
+WBsCQQChfhTIrdDinKi6lRxrdBnn0Ohjg2cwuqK5zzU9p/N+S9x7Ck8wUI53DKm8
+jUJE8WAG7WLj/oCOWEh+ic6NIwTdAkEAj0X8nhx6AXsgCYRql1klbqtVmL8+95KZ
+K7PnLWG/IfjQUy3pPGoSaZ7fdquG8bq8oyf5+dzjE/oTXcByS+6XRQJAP/5ciy1b
+L3NhUhsaOVy55MHXnPjdcTX0FaLi+ybXZIfIQ2P4rb19mVq1feMbCXhz+L1rG8oa
+t5lYKfpe8k83ZA==
+-----END PRIVATE KEY-----`,
 
-        function Encrypt(plainText) {
-            let key = CryptoJS.enc.Utf8.parse("mvXBSW7ekreItNsT");
-            let iv = CryptoJS.enc.Utf8.parse("2U3IrJL8szAKp0Fj");
-            // 将文本加密为 AES/CBC/PKCS5Padding 格式
-            let encrypted = CryptoJS.AES.encrypt(plainText, key, {
-                iv: iv,
-                mode: CryptoJS.mode.CBC,
-                padding: CryptoJS.pad.Pkcs7
-            });
+    CryptoUtils: {
+        aesEncrypt: (t, k, i) => CryptoJS.AES.encrypt(t, CryptoJS.enc.Utf8.parse(k), { iv: CryptoJS.enc.Utf8.parse(i), mode: CryptoJS.mode.CBC, padding: CryptoJS.pad.Pkcs7 }).ciphertext.toString().toUpperCase(),
+        aesDecrypt: (t, k, i) => CryptoJS.AES.decrypt({ ciphertext: CryptoJS.enc.Hex.parse(t) }, CryptoJS.enc.Utf8.parse(k), { iv: CryptoJS.enc.Utf8.parse(i), mode: CryptoJS.mode.CBC, padding: CryptoJS.pad.Pkcs7 }).toString(CryptoJS.enc.Utf8),
+        rsaDecrypt: (t, k) => { try { return forge.pki.privateKeyFromPem(k).decrypt(forge.util.decode64(t)); } catch (e) { return ""; } }
+    },
 
-            // 获取加密结果并转为 Hex 格式
-            let encryptedHex = encrypted.ciphertext.toString(CryptoJS.enc.Hex);
-            return encryptedHex.toUpperCase(); // 返回大写 Hex 格式
-        }
+    makePythonJson: function(dataMap, order) {
+        let parts = [], keys = order || Object.keys(dataMap);
+        let esc = (s) => s.replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/[\u0000-\u001f\u007f-\uffff]/g, c => '\\u' + ('0000' + c.charCodeAt(0).toString(16)).slice(-4));
+        for (let k of keys) parts.push(`"${k}": ${typeof dataMap[k] === 'string' ? `"${esc(dataMap[k])}"` : String(dataMap[k])}`);
+        return `{${parts.join(', ')}}`;
+    },
 
-        function Decrypt(word, key, iv) {
-            let encryptedHexStr = CryptoJS.enc.Hex.parse(word);
-
-            // 使用AES/CBC/PKCS5Padding模式进行解密
-            let decrypt = CryptoJS.AES.decrypt({
-                ciphertext: encryptedHexStr
-            }, key, {
-                iv: iv,
-                mode: CryptoJS.mode.CBC, // 使用CBC模式
-                padding: CryptoJS.pad.Pkcs7 // 使用PKCS#7填充
-            });
-
-            // 将解密后的数据转换为原始文本
-            let decryptedStr = decrypt.toString(CryptoJS.enc.Utf8);
-
-            // 返回解密后的文本
-            return decryptedStr;
-        }
-        var timestamp = new Date().getTime() / 1000; //log(timestamp)
-        var t = timestamp.toString().split('.')[0]; //log(t)
-        var request_key = JSON.stringify({
-            "domain_type": "8",
-            "vod_id": vod_id,
-            "type": "play",
-            "resolution": resolution,
-            "vurl_id": vurl_id
-        }); //log(request_key)
-        var request_key2 = Encrypt(request_key); //log(request_key2)
-        var signature = 'token_id=,token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79,phone_type=1,request_key=' + request_key2 + ',app_id=1,time=' + t + ',keys=ZH8gpdp9bxjuG2NK97sol3o7Uiz+9eVEaVMlE2Fk3j7EResM3YHnECZUH7BONNTjpy7RVNi/YimGuNYriC7Cmswv4PNYiFYzw9QhlqZKwNfCM6IUpFZ0T4rZx8G78zkv2tNVbfYC4qNQedGi07nWZ33dlSuVxROVfY5JxOWHMI0=*&zvdvdvddbfikkkumtmdwqppp?|4Y!s!2br'; //log(signature)
-        var signature2 = md5(signature); //log(signature2)
-        var body = 'token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79&token_id=&phone_type=1&time=' + t + '&phone_model=xiaomi-22021211rc&keys=ZH8gpdp9bxjuG2NK97sol3o7Uiz%2B9eVEaVMlE2Fk3j7EResM3YHnECZUH7BONNTjpy7RVNi%2FYimGuNYriC7Cmswv4PNYiFYzw9QhlqZKwNfCM6IUpFZ0T4rZx8G78zkv2tNVbfYC4qNQedGi07nWZ33dlSuVxROVfY5JxOWHMI0%3D&request_key=' + request_key2 + '&signature=' + signature2 + '&app_id=1&ad_version=1'; //log(body)
-
-        var html = fetch(h_ost + '/App/Resource/VurlDetail/showOne', {
-            headers: {
-                'Cache-Control': 'no-cache',
-                'Version': '2406025',
-                'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
-                'Ver': '1.9.2',
-                'Referer': h_ost,
-                'X-Customer-Client-Ip': '127.0.0.1',
-                'Content-Type': 'application/x-www-form-urlencoded',
-                'Host': 'api.w32z7vtd.com',
-                'Connection': 'Keep-Alive',
-                'User-Agent': 'okhttp/3.12.0'
-            },
-            body: body,
+    // 适配本地包内置请求 替换原生req
+    postData: async function(apiPath, dataMap, keyOrder) {
+        let t = Math.floor(Date.now() / 1000).toString();
+        let requestJson = this.makePythonJson(dataMap, keyOrder);
+        let request_key = this.CryptoUtils.aesEncrypt(requestJson, 'mvXBSW7ekreItNsT', '2U3IrJL8szAKp0Fj');
+        let keys_raw = "Qmxi5ciWXbQzkr7o+SUNiUuQxQEf8/AVyUWY4T/BGhcXBIUz4nOyHBGf9A4KbM0iKF3yp9M7WAY0rrs5PzdTAOB45plcS2zZ0wUibcXuGJ29VVGRWKGwE9zu2vLwhfgjTaaDpXo4rby+7GxXTktzJmxvneOUdYeHi+PZsThlvPI=";
+        let signature = md5(`token_id=,token=${this.token},phone_type=1,request_key=${request_key},app_id=1,time=${t},keys=${keys_raw}*&zvdvdvddbfikkkumtmdwqppp?|4Y!s!2br`);
+        let postDataStr = [`token=${this.token}`, `token_id=`, `phone_type=1`, `time=${t}`, `phone_model=xiaomi-22021211rc`, `keys=${encodeURIComponent(keys_raw)}`, `request_key=${request_key}`, `signature=${signature}`, `app_id=1`, `ad_version=1`].join('&');
+        
+        // 本地包标准fetch请求适配
+        let resp = await fetch(this.host + apiPath, {
             method: 'POST',
-            rejectCoding: true
-        }); //log(html)
-
-        var data = JSON.parse(html).data;
-        var response_key = data.response_key; //log(response_key)
-        var keys = data.keys; //log(keys)
-
-        var bodykey = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGAe6hKrWLi1zQmjTT1ozbE4QdFeJGNxubxld6GrFGximxfMsMB6BpJhpcTouAqywAFppiKetUBBbXwYsYU1wNr648XVmPmCMCy4rY8vdliFnbMUj086DU6Z+/oXBdWU3/b1G0DN3E9wULRSwcKZT3wj/cCI1vsCm3gj2R5SqkA9Y0CAwEAAQKBgAJH+4CxV0/zBVcLiBCHvSANm0l7HetybTh/j2p0Y1sTXro4ALwAaCTUeqdBjWiLSo9lNwDHFyq8zX90+gNxa7c5EqcWV9FmlVXr8VhfBzcZo1nXeNdXFT7tQ2yah/odtdcx+vRMSGJd1t/5k5bDd9wAvYdIDblMAg+wiKKZ5KcdAkEA1cCakEN4NexkF5tHPRrR6XOY/XHfkqXxEhMqmNbB9U34saTJnLWIHC8IXys6Qmzz30TtzCjuOqKRRy+FMM4TdwJBAJQZFPjsGC+RqcG5UvVMiMPhnwe/bXEehShK86yJK/g/UiKrO87h3aEu5gcJqBygTq3BBBoH2md3pr/W+hUMWBsCQQChfhTIrdDinKi6lRxrdBnn0Ohjg2cwuqK5zzU9p/N+S9x7Ck8wUI53DKm8jUJE8WAG7WLj/oCOWEh+ic6NIwTdAkEAj0X8nhx6AXsgCYRql1klbqtVmL8+95KZK7PnLWG/IfjQUy3pPGoSaZ7fdquG8bq8oyf5+dzjE/oTXcByS+6XRQJAP/5ciy1bL3NhUhsaOVy55MHXnPjdcTX0FaLi+ybXZIfIQ2P4rb19mVq1feMbCXhz+L1rG8oat5lYKfpe8k83ZA=="; //log(bodykey)
-        var bodykeyiv = JSON.parse(RSA.decode(keys, bodykey)); //log(bodykeyiv)
-        var key = CryptoJS.enc.Utf8.parse(bodykeyiv.key); //log(key)
-        var iv = CryptoJS.enc.Utf8.parse(bodykeyiv.iv); //log(iv)
-        var html2 = Decrypt(response_key, key, iv); //log(html2)
-        var url = JSON.parse(html2).url; //log(url)
-        input = {
-            url: url,
-            parse: 0,
-            header: rule.headers
-        }
-        setResult(d)
-    }),
-    一级: $js.toString(() => {
-        let d = [];
-
-        function Encrypt(plainText) {
-            let key = CryptoJS.enc.Utf8.parse("mvXBSW7ekreItNsT");
-            let iv = CryptoJS.enc.Utf8.parse("2U3IrJL8szAKp0Fj");
-            // 将文本加密为 AES/CBC/PKCS5Padding 格式
-            let encrypted = CryptoJS.AES.encrypt(plainText, key, {
-                iv: iv,
-                mode: CryptoJS.mode.CBC,
-                padding: CryptoJS.pad.Pkcs7
-            });
-
-            // 获取加密结果并转为 Hex 格式
-            let encryptedHex = encrypted.ciphertext.toString(CryptoJS.enc.Hex);
-            return encryptedHex.toUpperCase(); // 返回大写 Hex 格式
-        }
-
-        function Decrypt(word, key, iv) {
-            let encryptedHexStr = CryptoJS.enc.Hex.parse(word);
-
-            // 使用AES/CBC/PKCS5Padding模式进行解密
-            let decrypt = CryptoJS.AES.decrypt({
-                ciphertext: encryptedHexStr
-            }, key, {
-                iv: iv,
-                mode: CryptoJS.mode.CBC, // 使用CBC模式
-                padding: CryptoJS.pad.Pkcs7 // 使用PKCS#7填充
-            });
-
-            // 将解密后的数据转换为原始文本
-            let decryptedStr = decrypt.toString(CryptoJS.enc.Utf8);
-
-            // 返回解密后的文本
-            return decryptedStr;
-        }
-
-        function getbody3(key, t) {
-            var signature = 'token_id=,token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79,phone_type=1,request_key=' + key + ',app_id=1,time=' + t + ',keys=qDpotE2bedimK3QGqlyV5ieXXC3EhaPLQ+IOJyHnHflCj5w/7ESK7FgywMvrgjxbx0GklEFLI4+JshgySe633OIRstuktwdiCy3CT+fLSpuxBJDIlfXQDaeH3ig1wiB0JsZ601XHiFweGMu4tZfnSpHg3OnoL6nz/uurUif2OK4=*&zvdvdvddbfikkkumtmdwqppp?|4Y!s!2br'; //log(signature)
-            var signature2 = md5(signature).toUpperCase(); //log(signature2)
-            var body = 'token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79&token_id=&phone_type=1&time=' + t + '&phone_model=xiaomi-22021211rc&keys=qDpotE2bedimK3QGqlyV5ieXXC3EhaPLQ%2BIOJyHnHflCj5w%2F7ESK7FgywMvrgjxbx0GklEFLI4%2BJshgySe633OIRstuktwdiCy3CT%2BfLSpuxBJDIlfXQDaeH3ig1wiB0JsZ601XHiFweGMu4tZfnSpHg3OnoL6nz%2FuurUif2OK4%3D&request_key=' + key + '&signature=' + signature2 + '&app_id=1&ad_version=1';
-            return body
-        }
-        const bodykey = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGAe6hKrWLi1zQmjTT1ozbE4QdFeJGNxubxld6GrFGximxfMsMB6BpJhpcTouAqywAFppiKetUBBbXwYsYU1wNr648XVmPmCMCy4rY8vdliFnbMUj086DU6Z+/oXBdWU3/b1G0DN3E9wULRSwcKZT3wj/cCI1vsCm3gj2R5SqkA9Y0CAwEAAQKBgAJH+4CxV0/zBVcLiBCHvSANm0l7HetybTh/j2p0Y1sTXro4ALwAaCTUeqdBjWiLSo9lNwDHFyq8zX90+gNxa7c5EqcWV9FmlVXr8VhfBzcZo1nXeNdXFT7tQ2yah/odtdcx+vRMSGJd1t/5k5bDd9wAvYdIDblMAg+wiKKZ5KcdAkEA1cCakEN4NexkF5tHPRrR6XOY/XHfkqXxEhMqmNbB9U34saTJnLWIHC8IXys6Qmzz30TtzCjuOqKRRy+FMM4TdwJBAJQZFPjsGC+RqcG5UvVMiMPhnwe/bXEehShK86yJK/g/UiKrO87h3aEu5gcJqBygTq3BBBoH2md3pr/W+hUMWBsCQQChfhTIrdDinKi6lRxrdBnn0Ohjg2cwuqK5zzU9p/N+S9x7Ck8wUI53DKm8jUJE8WAG7WLj/oCOWEh+ic6NIwTdAkEAj0X8nhx6AXsgCYRql1klbqtVmL8+95KZK7PnLWG/IfjQUy3pPGoSaZ7fdquG8bq8oyf5+dzjE/oTXcByS+6XRQJAP/5ciy1bL3NhUhsaOVy55MHXnPjdcTX0FaLi+ybXZIfIQ2P4rb19mVq1feMbCXhz+L1rG8oat5lYKfpe8k83ZA==";
-
-        function gethtml(u, body, headers) {
-            var hd = fetch(u, {
-                headers: headers,
-                body: body,
-                method: 'POST',
-                rejectCoding: true
-            });
-            var banner = JSON.parse(hd).data;
-            var response_key = banner.response_key; //log()
-            var keys = banner.keys; //log(keys)
-            var bodykeyiv = JSON.parse(RSA.decode(keys, bodykey));
-            var key = CryptoJS.enc.Utf8.parse(bodykeyiv.key);
-            var iv = CryptoJS.enc.Utf8.parse(bodykeyiv.iv);
-            var html = Decrypt(response_key, key, iv);
-            return html
-        }
-
-        function hqsub(MY_CATE) {
-            var subs = ["5", "12", "30", "22", ""]
-            var tids = ["1", "2", "4", "3", "64"]
-            let index = tids.indexOf(MY_CATE);
-            if (index !== -1) {
-                return subs[index];
-            }
-            return ""; // 或者根据需要返回其他值
-        }
-        var headers = {
-            'Cache-Control': 'no-cache',
-            'Version': '2406025',
-            'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
-            'Ver': '1.9.2',
-            'Referer': h_ost,
-            'X-Customer-Client-Ip': '127.0.0.1',
-            'Content-Type': 'application/x-www-form-urlencoded',
-            'Host': 'api.w32z7vtd.com',
-            'Connection': 'Keep-Alive',
-            'User-Agent': 'okhttp/3.12.0'
-        }
-        var tid = MY_CATE;
-        var sub = hqsub(MY_CATE)
-        var timestamp = new Date().getTime() / 1000;
-        var t = timestamp.toString().split('.')[0];
-        var request_key = JSON.stringify({
-            "area": (MY_FL.area || 0).toString(),
-            "sub": (MY_FL.sub || sub).toString(),
-            "year": (MY_FL.year || 0).toString(),
-            "pageSize": "30",
-            "sort": (MY_FL.sort || "d_id").toString(),
-            "page": MY_PAGE,
-            "tid": tid
+            headers: this.headers,
+            body: postDataStr
         });
-        var request_key2 = Encrypt(request_key);
-        var body = getbody3(request_key2, t)
-        var html2 = gethtml(h_ost + "/App/IndexList/indexList", body, headers)
-        var list = JSON.parse(html2).list; //log(list)
-        list.forEach(data => {
-            d.push({
-                title: data.vod_name,
-                desc: data.vod_continu == 0 ? '电影' : '更新至' + data.vod_continu + '集',
-                year: data.vod_scroe,
-                img: data.vod_pic,
-                url: `${data.vod_id}/${data.vod_continu}`,
-            })
-        })
-        setResult(d)
-    }),
-    二级: $js.toString(() => {
-        function Encrypt(plainText) {
-            let key = CryptoJS.enc.Utf8.parse("mvXBSW7ekreItNsT");
-            let iv = CryptoJS.enc.Utf8.parse("2U3IrJL8szAKp0Fj");
-            // 将文本加密为 AES/CBC/PKCS5Padding 格式
-            let encrypted = CryptoJS.AES.encrypt(plainText, key, {
-                iv: iv,
-                mode: CryptoJS.mode.CBC,
-                padding: CryptoJS.pad.Pkcs7
-            });
+        if (!resp) return null;
+        let content = await resp.text();
+        try {
+            let json = JSON.parse(content);
+            if (!json.data) return null;
+            let bodyki = JSON.parse(this.CryptoUtils.rsaDecrypt(json.data.keys, this.rsaPrivateKey));
+            let decrypted = this.CryptoUtils.aesDecrypt(json.data.response_key, bodyki.key, bodyki.iv);
+            return (decrypted && decrypted !== '{}') ? JSON.parse(decrypted) : null;
+        } catch (e) { return null; }
+    },
 
-            // 获取加密结果并转为 Hex 格式
-            let encryptedHex = encrypted.ciphertext.toString(CryptoJS.enc.Hex);
-            return encryptedHex.toUpperCase(); // 返回大写 Hex 格式
-        }
-
-        function Decrypt(word, key, iv) {
-            let encryptedHexStr = CryptoJS.enc.Hex.parse(word);
-
-            // 使用AES/CBC/PKCS5Padding模式进行解密
-            let decrypt = CryptoJS.AES.decrypt({
-                ciphertext: encryptedHexStr
-            }, key, {
-                iv: iv,
-                mode: CryptoJS.mode.CBC, // 使用CBC模式
-                padding: CryptoJS.pad.Pkcs7 // 使用PKCS#7填充
-            });
-
-            // 将解密后的数据转换为原始文本
-            let decryptedStr = decrypt.toString(CryptoJS.enc.Utf8);
-
-            // 返回解密后的文本
-            return decryptedStr;
-        }
-
-        function getbody2(key, t) {
-            var signature = 'token_id=,token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79,phone_type=1,request_key=' + key + ',app_id=1,time=' + t + ',keys=Qmxi5ciWXbQzkr7o+SUNiUuQxQEf8/AVyUWY4T/BGhcXBIUz4nOyHBGf9A4KbM0iKF3yp9M7WAY0rrs5PzdTAOB45plcS2zZ0wUibcXuGJ29VVGRWKGwE9zu2vLwhfgjTaaDpXo4rby+7GxXTktzJmxvneOUdYeHi+PZsThlvPI=*&zvdvdvddbfikkkumtmdwqppp?|4Y!s!2br'; //log(signature)
-            var signature2 = md5(signature); //log(signature2)
-            var body = 'token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79&token_id=&phone_type=1&time=' + t + '&phone_model=xiaomi-22021211rc&keys=Qmxi5ciWXbQzkr7o%2BSUNiUuQxQEf8%2FAVyUWY4T%2FBGhcXBIUz4nOyHBGf9A4KbM0iKF3yp9M7WAY0rrs5PzdTAOB45plcS2zZ0wUibcXuGJ29VVGRWKGwE9zu2vLwhfgjTaaDpXo4rby%2B7GxXTktzJmxvneOUdYeHi%2BPZsThlvPI%3D&request_key=' + key + '&signature=' + signature2 + '&app_id=1&ad_version=1'; //log(body)
-            return body
-        }
-        const bodykey = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGAe6hKrWLi1zQmjTT1ozbE4QdFeJGNxubxld6GrFGximxfMsMB6BpJhpcTouAqywAFppiKetUBBbXwYsYU1wNr648XVmPmCMCy4rY8vdliFnbMUj086DU6Z+/oXBdWU3/b1G0DN3E9wULRSwcKZT3wj/cCI1vsCm3gj2R5SqkA9Y0CAwEAAQKBgAJH+4CxV0/zBVcLiBCHvSANm0l7HetybTh/j2p0Y1sTXro4ALwAaCTUeqdBjWiLSo9lNwDHFyq8zX90+gNxa7c5EqcWV9FmlVXr8VhfBzcZo1nXeNdXFT7tQ2yah/odtdcx+vRMSGJd1t/5k5bDd9wAvYdIDblMAg+wiKKZ5KcdAkEA1cCakEN4NexkF5tHPRrR6XOY/XHfkqXxEhMqmNbB9U34saTJnLWIHC8IXys6Qmzz30TtzCjuOqKRRy+FMM4TdwJBAJQZFPjsGC+RqcG5UvVMiMPhnwe/bXEehShK86yJK/g/UiKrO87h3aEu5gcJqBygTq3BBBoH2md3pr/W+hUMWBsCQQChfhTIrdDinKi6lRxrdBnn0Ohjg2cwuqK5zzU9p/N+S9x7Ck8wUI53DKm8jUJE8WAG7WLj/oCOWEh+ic6NIwTdAkEAj0X8nhx6AXsgCYRql1klbqtVmL8+95KZK7PnLWG/IfjQUy3pPGoSaZ7fdquG8bq8oyf5+dzjE/oTXcByS+6XRQJAP/5ciy1bL3NhUhsaOVy55MHXnPjdcTX0FaLi+ybXZIfIQ2P4rb19mVq1feMbCXhz+L1rG8oat5lYKfpe8k83ZA==";
-
-        function gethtml(u, body, headers) {
-            var hd = fetch(u, {
-                headers: headers,
-                body: body,
-                method: 'POST',
-                rejectCoding: true
-            });
-            var banner = JSON.parse(hd).data;
-            var response_key = banner.response_key; //log()
-            var keys = banner.keys; //log(keys)
-            var bodykeyiv = JSON.parse(RSA.decode(keys, bodykey));
-            var key = CryptoJS.enc.Utf8.parse(bodykeyiv.key);
-            var iv = CryptoJS.enc.Utf8.parse(bodykeyiv.iv);
-            var html = Decrypt(response_key, key, iv);
-            return html
-        }
-        const headers = {
-            'Cache-Control': 'no-cache',
-            'Version': '2406025',
-            'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
-            'Ver': '1.9.2',
-            'Referer': h_ost,
-            'X-Customer-Client-Ip': '127.0.0.1',
-            'Content-Type': 'application/x-www-form-urlencoded',
-            'Host': 'api.w32z7vtd.com',
-            'Connection': 'Keep-Alive',
-            'User-Agent': 'okhttp/3.12.0'
-        }
-        input = input.replace(h_ost, '');
-        var vod_id = input.split("/")[0];
-        var timestamp = new Date().getTime() / 1000;
-        var t = timestamp.toString().split('.')[0];
-        var request_key = JSON.stringify({
-            "token_id": "393668",
-            "vod_id": vod_id,
-            "mobile_time": t,
-            "token": "1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79"
+    预处理: async function() {
+        let area = [{"n": "全部", "v": "0"}, {"n": "大陆", "v": "大陆"}, {"n": "香港", "v": "香港"}, {"n": "台湾", "v": "台湾"}, {"n": "美国", "v": "美国"}, {"n": "韩国", "v": "韩国"}, {"n": "日本", "v": "日本"}, {"n": "其他", "v": "其他"}];
+        let year = [{"n": "全部", "v": "0"}];
+        for (let i = 2025; i >= 2005; i--) year.push({"n": String(i), "v": String(i)});
+        let sort = [{"n": "最新", "v": "d_id"}, {"n": "最热", "v": "d_hits"}, {"n": "推荐", "v": "d_score"}];
+        let filters = {};
+        this.class_url.split('&').forEach(tid => {
+            filters[tid] = [{"key": "area", "name": "地区", "value": area}, {"key": "year", "name": "年份", "value": year}, {"key": "sort", "name": "排序", "value": sort}];
         });
-        var request_key2 = Encrypt(request_key);
-        var body = getbody2(request_key2, t)
-        var html = gethtml(h_ost + "/App/IndexPlay/playInfo", body, headers)
-        var data2 = JSON.parse(html).vodInfo; //console.log("hwudwudg-===="+JSON.stringify(data2))
-        var request_key3 = JSON.stringify({
-            "vurl_cloud_id": "2",
-            "vod_d_id": vod_id
-        }); //log(request_key3)
-        var request_key4 = Encrypt(request_key3); //log(request_key4)
-        var body2 = getbody2(request_key4, t)
+        rule.filter = filters;
+    },
 
-        var html3 = gethtml(h_ost + "/App/Resource/Vurl/show", body2, headers); //log(html3)
+    推荐: async function() { return []; },
+    
+    一级: async function(tid, pg, filter, extend) {
+        let body = { "area": String(extend.area || '0'), "year": String(extend.year || '0'), "pageSize": "30", "sort": String(extend.sort || 'd_id'), "page": String(pg), "tid": String(tid) };
+        let data = await this.postData('/App/IndexList/indexList', body, ['area', 'year', 'pageSize', 'sort', 'page', 'tid']);
+        return (data && data.list) ? data.list.map(item => ({
+            vod_id: item.vod_id + '/' + (item.vod_continu || 0),
+            vod_name: item.vod_name,
+            vod_pic: item.vod_pic,
+            vod_remarks: item.vod_continu === 0 ? '电影' : `更新至${item.vod_continu}集`
+        })) : [];
+    },
 
-        var list = JSON.parse(html3).list;
-        let nnnmm = [];
-        list.forEach(item => {
-            // 获取play对象的所有值
-            const playParams = Object.values(item.play);
-            let lastParam = null;
+    二级: async function(ids) {
+        let vod_id = ids[0].split('/')[0], t = Math.floor(Date.now() / 1000).toString();
+        let qdata = await this.postData('/App/IndexPlay/playInfo', { "token_id": "1649412", "vod_id": String(vod_id), "mobile_time": t, "token": this.token }, ['token_id', 'vod_id', 'mobile_time', 'token']);
+        let jdata = await this.postData('/App/Resource/Vurl/show', { "vurl_cloud_id": "2", "vod_d_id": String(vod_id) }, ['vurl_cloud_id', 'vod_d_id']);
+        if (!qdata || !qdata.vodInfo) return {};
+        let vod = qdata.vodInfo;
+        let playList = (jdata && jdata.list) ? jdata.list.filter(i => i.play).map((item, idx) => {
+            let n = [], p = [];
+            for (let k in item.play) { if (item.play[k]?.param) { n.push(k); p.push(item.play[k].param); } }
+            return p.length > 0 ? `${jdata.list.length === 1 ? vod.vod_name : idx + 1}$${p[p.length-1]}||${n.join('@')}` : null;
+        }).filter(Boolean) : [];
 
-            // 从数组的最后一个元素开始，向前查找，直到找到一个非空的param值
-            for (let i = playParams.length - 1; i >= 0; i--) {
-                if (playParams[i].param) {
-                    lastParam = playParams[i].param;
-                    break;
-                }
+        return {
+            vod_id: vod_id, 
+            vod_name: vod.vod_name, 
+            vod_pic: vod.vod_pic, 
+            type_name: vod.vod_class || '',
+            vod_year: vod.vod_year, 
+            vod_area: vod.vod_area, 
+            vod_actor: vod.vod_actor, 
+            vod_director: vod.vod_director,
+            vod_content: (vod.vod_use_content || '').trim(), 
+            vod_play_from: '嗑瓜子', 
+            vod_play_url: playList.join('#')
+        };
+    },
+
+    搜索: async function(key, quick, pg) {
+        let data = await this.postData('/App/Index/findMoreVod', { "keywords": key, "order_val": "1", "page": String(pg || 1) }, ['keywords', 'order_val', 'page']);
+        return (data && data.list) ? data.list.map(item => ({
+            vod_id: item.vod_id + '/' + (item.vod_continu || 0),
+            vod_name: item.vod_name,
+            vod_pic: item.vod_pic,
+            vod_remarks: item.vod_continu === 0 ? '电影' : `更新至${item.vod_continu}集`
+        })) : [];
+    },
+
+    lazy: async function(flag, id, flags) {
+        try {
+            let parts = id.split('||');
+            if (parts.length < 2) return { parse: 0, url: '' };
+            let params = {}, keys = [];
+            parts[0].split('&').forEach(pair => {
+                let [k, v] = pair.split('=');
+                if (k) { params[k] = v; if (!keys.includes(k)) keys.push(k); }
+            });
+            let res = (parts[1] || '').split('@').sort((a, b) => (parseInt(b.replace(/\D/g, '')) || 0) - (parseInt(a.replace(/\D/g, '')) || 0));
+            if (res.length > 0) {
+                params['resolution'] = res[0];
+                if (!keys.includes('resolution')) keys.push('resolution');
+                let data = await this.postData('/App/Resource/VurlDetail/showOne', params, keys);
+                if (data && (data.url || data.m3u8 || data.vurl)) return { parse: 0, url: data.url || data.m3u8 || data.vurl, header: this.headers };
             }
-
-            // 使用正则表达式匹配vurl_id
-            const vurlIdMatch = lastParam.match(/vurl_id=(\d+)/);
-            const resolution = lastParam.match(/resolution=(\d+)/);
-            // 如果匹配成功，将title和vurl_id组合后push到result数组
-            if (vurlIdMatch) {
-                nnnmm.push(`${item.title}$${vod_id}/${vurlIdMatch[1]}?${resolution[1]}`);
-            }
-        });
-        VOD = {
-            title: data2.vod_name,
-            type: data2.videoTag.toString(),
-            desc: data2.vod_use_content,
-            vod_actor: data2.vod_actor,
-            vod_area: data2.vod_area,
-            vod_director: data2.vod_director,
-            img: data2.vod_pic,
-            vod_play_from: '💢大山专线',
-            vod_play_url: nnnmm.join('#')
-        }
-    }),
-    搜索: $js.toString(() => {
-        let d = [];
-
-        function Encrypt(plainText) {
-            let key = CryptoJS.enc.Utf8.parse("mvXBSW7ekreItNsT");
-            let iv = CryptoJS.enc.Utf8.parse("2U3IrJL8szAKp0Fj");
-            // 将文本加密为 AES/CBC/PKCS5Padding 格式
-            let encrypted = CryptoJS.AES.encrypt(plainText, key, {
-                iv: iv,
-                mode: CryptoJS.mode.CBC,
-                padding: CryptoJS.pad.Pkcs7
-            });
-
-            // 获取加密结果并转为 Hex 格式
-            let encryptedHex = encrypted.ciphertext.toString(CryptoJS.enc.Hex);
-            return encryptedHex.toUpperCase(); // 返回大写 Hex 格式
-        }
-
-        function Decrypt(word, key, iv) {
-            let encryptedHexStr = CryptoJS.enc.Hex.parse(word);
-
-            // 使用AES/CBC/PKCS5Padding模式进行解密
-            let decrypt = CryptoJS.AES.decrypt({
-                ciphertext: encryptedHexStr
-            }, key, {
-                iv: iv,
-                mode: CryptoJS.mode.CBC, // 使用CBC模式
-                padding: CryptoJS.pad.Pkcs7 // 使用PKCS#7填充
-            });
-
-            // 将解密后的数据转换为原始文本
-            let decryptedStr = decrypt.toString(CryptoJS.enc.Utf8);
-
-            // 返回解密后的文本
-            return decryptedStr;
-        }
-
-        function getbody3(key, t) {
-            var signature = 'token_id=,token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79,phone_type=1,request_key=' + key + ',app_id=1,time=' + t + ',keys=qDpotE2bedimK3QGqlyV5ieXXC3EhaPLQ+IOJyHnHflCj5w/7ESK7FgywMvrgjxbx0GklEFLI4+JshgySe633OIRstuktwdiCy3CT+fLSpuxBJDIlfXQDaeH3ig1wiB0JsZ601XHiFweGMu4tZfnSpHg3OnoL6nz/uurUif2OK4=*&zvdvdvddbfikkkumtmdwqppp?|4Y!s!2br'; //log(signature)
-            var signature2 = md5(signature); //log(signature2)
-            var body = 'token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79&token_id=&phone_type=1&time=' + t + '&phone_model=xiaomi-22021211rc&keys=qDpotE2bedimK3QGqlyV5ieXXC3EhaPLQ%2BIOJyHnHflCj5w%2F7ESK7FgywMvrgjxbx0GklEFLI4%2BJshgySe633OIRstuktwdiCy3CT%2BfLSpuxBJDIlfXQDaeH3ig1wiB0JsZ601XHiFweGMu4tZfnSpHg3OnoL6nz%2FuurUif2OK4%3D&request_key=' + key + '&signature=' + signature2 + '&app_id=1&ad_version=1';
-            return body
-        }
-        const bodykey = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGAe6hKrWLi1zQmjTT1ozbE4QdFeJGNxubxld6GrFGximxfMsMB6BpJhpcTouAqywAFppiKetUBBbXwYsYU1wNr648XVmPmCMCy4rY8vdliFnbMUj086DU6Z+/oXBdWU3/b1G0DN3E9wULRSwcKZT3wj/cCI1vsCm3gj2R5SqkA9Y0CAwEAAQKBgAJH+4CxV0/zBVcLiBCHvSANm0l7HetybTh/j2p0Y1sTXro4ALwAaCTUeqdBjWiLSo9lNwDHFyq8zX90+gNxa7c5EqcWV9FmlVXr8VhfBzcZo1nXeNdXFT7tQ2yah/odtdcx+vRMSGJd1t/5k5bDd9wAvYdIDblMAg+wiKKZ5KcdAkEA1cCakEN4NexkF5tHPRrR6XOY/XHfkqXxEhMqmNbB9U34saTJnLWIHC8IXys6Qmzz30TtzCjuOqKRRy+FMM4TdwJBAJQZFPjsGC+RqcG5UvVMiMPhnwe/bXEehShK86yJK/g/UiKrO87h3aEu5gcJqBygTq3BBBoH2md3pr/W+hUMWBsCQQChfhTIrdDinKi6lRxrdBnn0Ohjg2cwuqK5zzU9p/N+S9x7Ck8wUI53DKm8jUJE8WAG7WLj/oCOWEh+ic6NIwTdAkEAj0X8nhx6AXsgCYRql1klbqtVmL8+95KZK7PnLWG/IfjQUy3pPGoSaZ7fdquG8bq8oyf5+dzjE/oTXcByS+6XRQJAP/5ciy1bL3NhUhsaOVy55MHXnPjdcTX0FaLi+ybXZIfIQ2P4rb19mVq1feMbCXhz+L1rG8oat5lYKfpe8k83ZA==";
-
-        function gethtml(u, body, headers) {
-            var hd = fetch(u, {
-                headers: headers,
-                body: body,
-                method: 'POST',
-                rejectCoding: true
-            });
-            var banner = JSON.parse(hd).data;
-            var response_key = banner.response_key; //log()
-            var keys = banner.keys; //log(keys)
-            var bodykeyiv = JSON.parse(RSA.decode(keys, bodykey));
-            var key = CryptoJS.enc.Utf8.parse(bodykeyiv.key);
-            var iv = CryptoJS.enc.Utf8.parse(bodykeyiv.iv);
-            var html = Decrypt(response_key, key, iv);
-            return html
-        }
-        var timestamp = new Date().getTime() / 1000;
-        var t = timestamp.toString().split('.')[0];
-        var url = input.split("#")[0]; //url
-        var request_key11 = input.split("#")[1]
-
-        var request_key = JSON.stringify({
-            "keywords": request_key11,
-            "order_val": "1"
-        })
-        var request_key2 = Encrypt(request_key);
-        var body = getbody3(request_key2, t)
-        var headers = {
-            'Cache-Control': 'no-cache',
-            'Version': '2406025',
-            'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
-            'Ver': '1.9.2',
-            'Referer': h_ost,
-            'X-Customer-Client-Ip': '127.0.0.1',
-            'Content-Type': 'application/x-www-form-urlencoded',
-            'Host': 'api.w32z7vtd.com',
-            'Connection': 'Keep-Alive',
-            'User-Agent': 'okhttp/3.12.0'
-        }
-        var html = gethtml(url, body, headers)
-
-        var list = JSON.parse(html).list; //log(list)
-        list.forEach(data => {
-            d.push({
-                title: data.vod_name,
-                desc: data.vod_continu == 0 ? '电影' : '更新至' + data.vod_continu + '集',
-                content: data.vod_addtime,
-                img: data.vod_pic,
-                url: `${data.vod_id}/${data.vod_continu}`,
-            })
-        })
-        setResult(d)
-    }),
-}
+        } catch (e) {}
+        return { parse: 0, url: '' };
+    }
+};
