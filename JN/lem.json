@@ -54,6 +54,7 @@
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"py_瓜子","name":"雷蒙影视 | 🍉瓜子(PY)","type":3,"api":"./PY/app/瓜子.py"},
 {"jar":"./N3RD/J/pg.jar","key":"csp_Guazi_pg","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"api":"csp_Guazi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drjs_瓜子","name":"雷蒙影视 | 🍉瓜子(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/瓜子.js"},
 {"key":"csp_IkanBot","name":"雷蒙影视 | 🤖爱看机器人(SP)","type":3,"api":"csp_IkanBot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_爱看机器人","name":"雷蒙影视 | 🤖爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"csp_BiliGuard","name":"雷蒙影视 | 🅱哔哩哔哩(SP)","type":3,"api":"csp_BiliGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":{"json":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/XB/Bili1.json"}},
