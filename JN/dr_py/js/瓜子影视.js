@@ -2,15 +2,15 @@
 
 var rule = {
     title: '瓜子',
-    host: 'https://api.cj7wq4.com',
+    host: 'https://api.8utdtcq.com',
     url: '/App/IndexList/indexList',
     //   homeUrl: 'http://124.222.116.5/homedata/home.json',
     searchUrl: '/App/Index/findMoreVod#**',
     searchable: 2,
     quickSearch: 1,
     filterable: 1,
-    class_name: '电影&电视剧&动漫&综艺&短剧',
-    class_url: '1&2&4&3&64',
+    class_name: '电视剧&电影&动漫&综艺&短剧',
+    class_url: '2&1&4&3&64',
     filter:'H4sIAAAAAAAAA+2a7U4aQRSG/3sVht/bZHf5WnorjWlo4YfphwlqE2NMtGoLWIsmFbRi2qYqoBgxtVVR8GZ2duUuOmchfuDuDHI2xJhD4hGYyTzv7hlm57yZ6aFh/gpogefDL5y38Jq+fuc0vklO8eZAPJWMB5S7Te/j75JebR/ibyeTd8Z1H/9mMBiJLZZb8+WusW7GhC5q4F7jzP3+Qsh2qbXxSQjpdMGSWrsb1umhkNTpgr6mXM06a4qvqd0FS7KqJbv5VUgyLxfsRsHKHyos+9NauuR3U2HNE7bZUKyFHP/E0hXF+rPmfOEMp/A/+HS1dOT827m0cwd2ZgOvtrBjFatCtZ0u6Fz/qHDp4ly3u2BJ5mmRLRfM+ndxupdrrL6rWPkaTwLb+sVveA3ubatStbZ2+B2GAdDTbvGfeZ4X62h3uU+6883I9adbCtxXoqlkPOW1Erm1PeKVSFf1kBDhdPCBEpRRgn5QdBlF94OiySiaHxRVRvEj+1pMQuEdfKAYMorhByUqo0T9oERklAiaoqnPtDA7O5aRwgoPIQhBCDoEDQJ+aqgq55vnvyUSVJXjVGCqQFdBhwqKVNCmRiBEIRgQ8HMp1ossLRZTFR40CDqEIIQQhDCECIQoBAMCXpbRmywDZBkgywBZBsgyQJYBsgyQZYAsA2QZeFnW5rFVqIhT6ONzcXzylddj0aXpET8VWbZsNop25rOIE0Zn52PVzq9KKHoMfTH5IsuUJJgIlmKnj6z5RQkliqaUVtnZuYRioBMzt2LN5iUUfF4yJfkd01T0xaTXzXpGhtF8+MnY32SZCeKnWX2PNdZkvxn0TbPnmq3vTdnVoCeanT20G3uyn6ZLbvpeocdSE55LtEtbf2u0fX7BVtLCNTrxcjSBf7wVZ3lxKeHEE4mJUX6FPsDs+QMJbPz1WAqPau2vs7TYHvJGeU0N591Ie0z+1H80fluxxr7UyW8jv438Nk8S+W2D8NugghOnk/y2Lgr5bQ+kkN9GfpurBPLbHiKL/LaB+W2bDbNeYpmS0D7Q/dk3yzBBfzbNMkzInx2zDIM3EJ19rAyD9lzam1gZBu3tWX9P2HZehsGbe86mWIZBu3vXu3ChteOC6XsxIGsHAXs61k6IrJ0uCFk7niSydtxJZO146CBrxxNC1g5ZO0IKWTvdFLJ2bkkga4esnYFaO+bpAVTC2bJ1sS8854A/g9I2KuQk9DGU4Y71Ike5eEl9J4tKbwTs6ZTeQSq9uyBUenuSqPR2J1Hp7aGDSm9PCJXeVHoLKVR6d1Oo9L4lgUpvKr0He6rC2Rfziu4qI9yl6+iDFXCqIlfrgYQ+W8H3f3xj1gPJp+MVPZBcTlj0PSuoxkfAnkCNPzTzH+StPxCsRAAA',
     // limit: 6,
     //double: false,
@@ -67,16 +67,16 @@ var rule = {
         var signature2 = md5(signature); //log(signature2)
         var body = 'token=1be86e8e18a9fa18b2b8d5432699dad0.ac008ed650fd087bfbecf2fda9d82e9835253ef24843e6b18fcd128b10763497bcf9d53e959f5377cde038c20ccf9d17f604c9b8bb6e61041def86729b2fc7408bd241e23c213ac57f0226ee656e2bb0a583ae0e4f3bf6c6ab6c490c9a6f0d8cdfd366aacf5d83193671a8f77cd1af1ff2e9145de92ec43ec87cf4bdc563f6e919fe32861b0e93b118ec37d8035fbb3c.59dd05c5d9a8ae726528783128218f15fe6f2c0c8145eddab112b374fcfe3d79&token_id=&phone_type=1&time=' + t + '&phone_model=xiaomi-22021211rc&keys=ZH8gpdp9bxjuG2NK97sol3o7Uiz%2B9eVEaVMlE2Fk3j7EResM3YHnECZUH7BONNTjpy7RVNi%2FYimGuNYriC7Cmswv4PNYiFYzw9QhlqZKwNfCM6IUpFZ0T4rZx8G78zkv2tNVbfYC4qNQedGi07nWZ33dlSuVxROVfY5JxOWHMI0%3D&request_key=' + request_key2 + '&signature=' + signature2 + '&app_id=1&ad_version=1'; //log(body)
 
-        var html = fetch('https://api.cj7wq4.com/App/Resource/VurlDetail/showOne', {
+        var html = fetch('https://api.8utdtcq.com/App/Resource/VurlDetail/showOne', {
             headers: {
                 'Cache-Control': 'no-cache',
                 'Version': '2406025',
                 'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
                 'Ver': '1.9.2',
-                'Referer': 'https://api.cj7wq4.com',
+                'Referer': 'https://api.8utdtcq.com',
                 'X-Customer-Client-Ip': '127.0.0.1',
                 'Content-Type': 'application/x-www-form-urlencoded',
-                'Host': 'api.cj7wq4.com',
+                'Host': 'api.8utdtcq.com',
                 'Connection': 'Keep-Alive',
                 //'Accept-Encoding': 'gzip',
                 'User-Agent': 'okhttp/3.12.0'
@@ -191,10 +191,10 @@ var rule = {
             'Version': '2406025',
             'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
             'Ver': '1.9.2',
-            'Referer': 'https://api.cj7wq4.com',
+            'Referer': 'https://api.8utdtcq.com',
             'X-Customer-Client-Ip': '127.0.0.1',
             'Content-Type': 'application/x-www-form-urlencoded',
-            'Host': 'api.cj7wq4.com',
+            'Host': 'api.8utdtcq.com',
             'Connection': 'Keep-Alive',
             //'Accept-Encoding': 'gzip',
             'User-Agent': 'okhttp/3.12.0'
@@ -206,7 +206,7 @@ var rule = {
         var request_key = JSON.stringify({ "area": (MY_FL.area || 0).toString(), "sub": (MY_FL.sub || sub).toString(), "year": (MY_FL.year || 0).toString(), "pageSize": "30", "sort": (MY_FL.sort || "d_id").toString(), "page": MY_PAGE, "tid": tid });
         var request_key2 = Encrypt(request_key);
         var body = getbody3(request_key2, t)
-        var html2 = gethtml("https://api.cj7wq4.com/App/IndexList/indexList", body, headers)
+        var html2 = gethtml("https://api.8utdtcq.com/App/IndexList/indexList", body, headers)
         //console.log("tttttlieb=="+html2)
         var list = JSON.parse(html2).list; //log(list)
         list.forEach(data => {
@@ -282,16 +282,16 @@ var rule = {
             'Version': '2406025',
             'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
             'Ver': '1.9.2',
-            'Referer': 'https://api.cj7wq4.com',
+            'Referer': 'https://api.8utdtcq.com',
             'X-Customer-Client-Ip': '127.0.0.1',
             'Content-Type': 'application/x-www-form-urlencoded',
-            'Host': 'api.cj7wq4.com',
+            'Host': 'api.8utdtcq.com',
             'Connection': 'Keep-Alive',
             //'Accept-Encoding': 'gzip',
             'User-Agent': 'okhttp/3.12.0'
         }
         // var MY_URL = MY_URL.split("##")[1]; //log(MY_URL)
-        input = input.replace('https://api.cj7wq4.com/', '');
+        input = input.replace('https://api.8utdtcq.com/', '');
         //console.log("input----===="+input)
 
         // var vod_continu = input.split("/")[1]; //log(vod_id)
@@ -307,7 +307,7 @@ var rule = {
         });
         var request_key2 = Encrypt(request_key);
         var body = getbody2(request_key2, t)
-        var html = gethtml("https://api.cj7wq4.com/App/IndexPlay/playInfo", body, headers)
+        var html = gethtml("https://api.8utdtcq.com/App/IndexPlay/playInfo", body, headers)
         var data2 = JSON.parse(html).vodInfo; //console.log("hwudwudg-===="+JSON.stringify(data2))
         var request_key3 = JSON.stringify({
             "vurl_cloud_id": "2",
@@ -316,7 +316,7 @@ var rule = {
         var request_key4 = Encrypt(request_key3); //log(request_key4)
         var body2 = getbody2(request_key4, t)
 
-        var html3 = gethtml("https://api.cj7wq4.com/App/Resource/Vurl/show", body2, headers); //log(html3)
+        var html3 = gethtml("https://api.8utdtcq.com/App/Resource/Vurl/show", body2, headers); //log(html3)
 
         var list = JSON.parse(html3).list;
         let nnnmm = [];
@@ -349,7 +349,7 @@ var rule = {
             vod_area: data2.vod_area,
             vod_director: data2.vod_director,
             img: data2.vod_pic,
-            vod_play_from: '瓜子',
+            vod_play_from: '雷蒙影视',
             vod_play_url: nnnmm.join('#')
         }
     }),
@@ -427,10 +427,10 @@ var rule = {
             'Version': '2406025',
             'PackageName': 'com.uf076bf0c246.qe439f0d5e.m8aaf56b725a.ifeb647346f',
             'Ver': '1.9.2',
-            'Referer': 'https://api.cj7wq4.com',
+            'Referer': 'https://api.8utdtcq.com',
             'X-Customer-Client-Ip': '127.0.0.1',
             'Content-Type': 'application/x-www-form-urlencoded',
-            'Host': 'api.cj7wq4.com',
+            'Host': 'api.8utdtcq.com',
             'Connection': 'Keep-Alive',
             'User-Agent': 'okhttp/3.12.0'
         }
