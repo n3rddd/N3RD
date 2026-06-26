@@ -1,7 +1,7 @@
 {
-"spider":"./N3RD/J/lem0626.jar;md5;12AA67703873B6A25DD2CC755B523534",
+"spider":"./N3RD/J/lem0625.jar;md5;1AFDFCC5B0ADE57F39D09D9DCF409851",
 
-//"spider":"./N3RD/J/lem0625.jar;md5;1AFDFCC5B0ADE57F39D09D9DCF409851",
+//"spider":"./N3RD/J/lem0626.jar;md5;12AA67703873B6A25DD2CC755B523534",
 //"spider":"./N3RD/J/lem0622.jar;md5;7613B65F29255FC71D1EB74089794E64",
 //"spider":"./N3RD/J/lem0623.jar;md5;D757F9AD9EA3548FBB89F4554343D5D5",
 //"spider":"./N3RD/J/lem0621.jar;md5;8C3E1FDE0B8C44E1DE6192595845085A",
@@ -38,7 +38,7 @@
 {"jar":"./N3RD/J/market.jar","key":"csp_Market","name":"雷蒙影视 | 🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
 {"key":"csp_FirstAidGuard","name":"雷蒙影视 | 🚑急救教学(SP)","type":3,"api":"csp_FirstAidGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
-{"key":"csp_Douban_LEM","name":"雷蒙影视 | 📡我的豆瓣(SP)","type":3,"api":"csp_DoubanLEM","searchable":0,"ext":"./N3RD/T/douban.json"},
+{"key":"csp_Douban","name":"雷蒙影视 | 📡我的豆瓣(SP)","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
 {"key":"csp_DouDouGuard","name":"雷蒙影视 | 📡豆瓣片单(SP)","type":3,"api":"csp_DouDouGuard","searchable":0},
 {"key":"drjs_豆瓣推荐","name":"雷蒙影视 | 📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/豆瓣[官].js"},
 {"key":"csp_YGPGuard","name":"雷蒙影视 | 🎞预告片(SP)","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
@@ -49,7 +49,7 @@
 
 
 // ⇩⇩ Lem缝合包 ⇩⇩ 
-{"key":"csp_Jianpian_FM","name":"雷蒙影视 | 🏆荐片(SP)","api":"csp_JianpianFM","type":3,"playerType":"2","ext":"https://api.ztcgi.com"},
+{"key":"csp_Jianpian_FM","name":"雷蒙影视 | 🏆荐片(SP)","api":"csp_Jianpian","type":3,"playerType":"2","ext":"https://api.ztcgi.com"},
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_AppgzGuard","name":"雷蒙影视 | 👀瓜子(SP)","type":3,"api":"csp_AppgzGuard","timeout":15,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"py_瓜子","name":"雷蒙影视 | 🍉瓜子(PY)","type":3,"api":"./PY/app/瓜子.py"},
@@ -190,14 +190,14 @@
 {"key":"csp_AppGet_一碗_FM","name":"雷蒙影视 | 🥣一碗(SP)","type":3,"api":"csp_AppGet","ext":"https://app.95112475.xyz|5a9w6x58dsq6z3a6"},
 {"key":"csp_AppGet_蔬菜_FM","name":"雷蒙影视 | 🫛蔬菜(SP)","type":3,"api":"csp_AppGet","ext":"https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"},
 {"key":"csp_AppGet_永永_FM","name":"雷蒙影视 | ♾️永永(SP)","type":3,"api":"csp_AppGet","ext":"https://444421.xyz|#getapp@TMD@2025|120"},
-{"key":"csp_Jpys_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_JpysFM"},
+{"key":"csp_Jpys_FM","name":"雷蒙影视 | 🥇️金牌(SP)","type":3,"api":"csp_Jpys"},
 {"key":"csp_Wwys_FM","name":"雷蒙影视 | 🌾️农民(SP)","type":3,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
 {"key":"csp_SaoHuo_FM","name":"雷蒙影视 | 🔥骚火(SP)","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 {"key":"csp_Czsapp_FM","name":"雷蒙影视 | 🏭厂长(SP)","type":3,"playerType":"2","api":"csp_CzsappFM","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy89.com"},
 {"key":"csp_Dm84_FM","name":"雷蒙影视 | 🤣巴士(SP)","type":3,"playerType":"2","api":"csp_Dm84","ext":"https://dm84.net"},
 {"key":"csp_AppGet_方舟_FM","name":"雷蒙影视 | 🐷方舟(SP)","type":3,"api":"csp_AppGet","ext":"https://www.cyfz.top|e72cdfd629e8895d"},
 {"key":"csp_AppGet_番薯_FM","name":"雷蒙影视 | 🍠番薯(SP)","type":3,"api":"csp_AppGet","ext":"https://new.app.bytegooty.com|N4yj7l7xKxHF4*gz"},
-{"key":"csp_Kugou_FM","name":"雷蒙影视 | 🐾酷狗(SP)","type":3,"api":"csp_KugouFM","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
+{"key":"csp_Kugou_FM","name":"雷蒙影视 | 🐾酷狗(SP)","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
 {"key":"csp_Kanqiu_FM","name":"雷蒙影视 | ⚾看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
 {"key":"csp_GuaziTY_FM","name":"雷蒙影视 | 🏀体育(SP)","type":3,"api":"csp_GuaziTY","style":{"type":"rect","ratio":1.333},"searchable":0,"quickSearch":0,"filterable":1,"timeout":12,"order_num":0,"changeable":0},
 
