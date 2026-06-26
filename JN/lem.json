@@ -201,20 +201,6 @@
 {"key":"csp_Kanqiu_FM","name":"雷蒙影视 | ⚾看球(SP)","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
 {"key":"csp_GuaziTY_FM","name":"雷蒙影视 | 🏀体育(SP)","type":3,"api":"csp_GuaziTY","style":{"type":"rect","ratio":1.333},"searchable":0,"quickSearch":0,"filterable":1,"timeout":12,"order_num":0,"changeable":0},
 
-// ⇩⇩ CM SPIDER ⇩⇩ 
-{"key":"csp_CandyMuj_freeok","name":"雷蒙影视 | 🆗FreeOK(SP)","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/freeok.json"},
-{"key":"csp_CandyMuj_hjtv","name":"雷蒙影视 | 🍺韩剧TV(SP)","type":3,"api":"csp_CandyMuj_hjtv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_netflixgc","name":"雷蒙影视 | 💖奈飞工厂(SP)","type":3,"api":"csp_CandyMuj_netflixgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/netflixgc.json"},
-{"key":"csp_CandyMuj_dyls","name":"雷蒙影视 | 🚅极速影视(SP)","type":3,"api":"csp_CandyMuj_dyls","searchable":1,"quickSearch":1,"filterable":1,"ext":"./N3RD/T/dyls.json"},
-{"key":"csp_CandyMuj_haokongbu","name":"雷蒙影视 | 🧛‍♂️好恐怖(SP)","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_taoju","name":"雷蒙影视 | 🌊淘剧影院(SP)","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_lm5","name":"雷蒙影视 | 🌃星辰影院(SP)","type":3,"api":"csp_CandyMuj_lm5","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_cokemv","name":"雷蒙影视 | 🥤Cokemv(SP)","type":3,"api":"csp_CandyMuj_cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_qiqiyy","name":"雷蒙影视 | 👩琪琪影院(SP)","type":3,"api":"csp_CandyMuj_qiqiyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_nkvod","name":"雷蒙影视 | 🔱耐看点播(SP)","type":3,"api":"csp_CandyMuj_nkvod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_yzzy","name":"雷蒙影视 | 💯优质资源(SP)","type":3,"api":"csp_CandyMuj_yzzy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CandyMuj_yinfans","name":"雷蒙影视 | 🧲音范丝(SP)","type":3,"api":"csp_CandyMuj_yinfans","searchable":1,"quickSearch":1,"filterable":1},
-
 // ⇩⇩ 网盘搜索 ⇩⇩ 
 {"key":"csp_SeedhubGuard","name":"雷蒙影视 | 📀SeedHub(网盘APP扫码)","type":3,"api":"csp_SeedhubGuard","ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":1,"quickSearch":1,"changeable":0, "indexs":0,"style":{"type":"list"}},
 {"key":"csp_S_zpsGuard","name":"雷蒙影视 | 📀聚盘搜(网盘APP扫码)","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"http://107.173.211.148/"},"indexs":0,"style":{"type":"list"}},
