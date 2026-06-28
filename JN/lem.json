@@ -143,7 +143,7 @@
 {"key":"csp_OlyyAmns","name":"雷蒙影视 | 🌍欧乐(SP)","type":3,"api":"csp_OlyyAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_AiyfAmns","name":"雷蒙影视 | 🌍壹帆(SP)","type":3,"api":"csp_AiyfAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_HuyaLiveAmns","name":"雷蒙影视 | 📡虎牙(SP)","type":3,"api":"csp_HuyaLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
-{"key":"csp_GuaziLiveAmns","name":"雷蒙影视 | 🏆瓜子(SP)","type":3,"api":"csp_GuaziLiveAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com"},
+{"key":"csp_GuaziLiveAmns","name":"雷蒙影视 | 🏆体育(SP)","type":3,"api":"csp_GuaziLiveAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com"},
 {"key":"csp_FeiqLiveAmns","name":"雷蒙影视 | 🏆飞球(SP)","type":3,"api":"csp_FeiqLiveAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_BbkqLiveAmns","name":"雷蒙影视 | 🏆88(SP)","type":3,"api":"csp_BbkqLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw"},
 {"key":"csp_KafLiveAmns","name":"雷蒙影视 | 🏆咖啡(SP)","type":3,"api":"csp_KafLiveAmns","searchable":0,"quickSearch":0,"changeable":0},
