@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0628.jar;md5;5C3EA1AC738790257070CF1C6A1E0FAD",
+"spider":"./N3RD/J/lem0701.jar;md5;6805954C4511DCB244DCA3CF9FB1EB27",
 
+//"spider":"./N3RD/J/lem0628.jar;md5;5C3EA1AC738790257070CF1C6A1E0FAD",
 //"spider":"./N3RD/J/lem06262.jar;md5;D80F0822F06A575112D50D240086D702",
 //"spider":"./N3RD/J/lem0626.jar;md5;12AA67703873B6A25DD2CC755B523534",
 //"spider":"./N3RD/J/lem0625.jar;md5;1AFDFCC5B0ADE57F39D09D9DCF409851",
@@ -70,7 +71,6 @@
 {"key":"csp_NewCzGuard","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_LibvioGuard","name": "雷蒙影视 | 🌟Libvio(SP)","type": 3,"api": "csp_LibvioGuard","timeout":10,"searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","siteUrl":"https://www.libvio.pw/"}},
 {"key":"csp_BttooGuard","name":"雷蒙影视 | 🍄两个BT(SP)","type":3,"api":"csp_BttwooGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_JPJGuard","name":"雷蒙影视 | 🥝荐片(SP)","type":3,"api":"csp_JPJGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_NmyswvGuard","name":"雷蒙影视 | 🍓糯米(SP)","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_JpysGuard","name":"雷蒙影视 | 💮文才(SP)","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_T4Guard_奶酪","name":"雷蒙影视 | 🧀奶酪(SP)","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="},
@@ -78,6 +78,7 @@
 {"key":"csp_AppSxGuard_茉莉","name":"雷蒙影视 | 🌸茉莉(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="},
 {"key":"csp_AppSxGuard_播客","name":"雷蒙影视 | 🦊播客(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"},
 {"key":"csp_AppSxGuard_剧圈","name":"雷蒙影视 | 🐻剧圈(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
+{"key":"csp_JPJGuard","name":"雷蒙影视 | 🥝荐片(SP)","type":3,"api":"csp_JPJGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_AueteGuard","name":"雷蒙影视 | 🏝奥特(SP)","type": 3,"api":"csp_AueteGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_SixVGuard","name":"雷蒙影视 | 🧲6V电影网(SP)","type":3,"api":"csp_SixVGuard","timeout":10,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},
 {"key":"csp_AppSxGuard_咕咕","name":"雷蒙影视 | 🦉咕咕(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"},
