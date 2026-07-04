@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0703.jar;md5;00068019F5E64AE42D9B92E06CDD6AAA",
+"spider":"./N3RD/J/lem0704.jar;md5;55D940C323AE540BCD6F8643E4E65B98",
 
+//"spider":"./N3RD/J/lem0703.jar;md5;00068019F5E64AE42D9B92E06CDD6AAA",
 //"spider":"./N3RD/J/lem0701.jar;md5;6805954C4511DCB244DCA3CF9FB1EB27",
 //"spider":"./N3RD/J/lem0622.jar;md5;7613B65F29255FC71D1EB74089794E64",
 
@@ -108,7 +109,7 @@
 {"key":"csp_AowuDmAmns_Aw","name":"雷蒙影视 | 🐱嗷嗚(SP)","type":3,"api":"csp_AowuDmAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"563357143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b78627645980399087f30260707c8613b0ad40dab539ddb35d7ac9f78fcf015b7e10bc9ca2f37e127890269cdd3efdfa6ce6789494fdc5352c9e544f3b048a43885af6fb083f8545f6bfa3d33291ea4210bb397b004f1b5c2660408febda99840eec91efa7142878bb1e553ad0872a0851f903d7748b0bdee1ad7975b8f4c4838fda079f1bdebb0ab77f51da3dfa8eb30ca3c0bf56e584abfd70e025a03aeff2bca60aa9075588a4953a1b7fef021b"},
 {"key":"csp_FanShuAmns","name":"雷蒙影视 | 🐱番薯(SP)","type":3,"api":"csp_FanShuAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_AowuDmAmns_Mw","name":"雷蒙影视 | 🐱喵物(SP)","type":3,"api":"csp_AowuDmAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"db8b57143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b7862764598039301c43cf706efcd55499494d72c680001c30550747b3dc5994760e3d6e17208e5ed771b2b4162f65e72b3e530fdd9622474e1c5f8aecda41dcd17901c7ddc61193a63fd8aaa1a96dc8673f93a8116755fd04bb1baaa93215334aaa1327972f2dd7292eb3d593e60cad0b9a3dde2a1158640cfc93dac5af45ddd8f971e3be0ccb5c776752b9b92a7f67dc89375d7ad442bddb0c661554a03c420029010a932d2dd8e65d6dc5"},
-{"key":"csp_GazeAmns","name":"雷蒙影视 | 🔗Gaze(SP)","type":3,"api":"csp_GazeAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gaze.show,https://gazes.store,https://gazes.top,https://gazes.host"},
+{"key":"csp_GazeAmns","name":"雷蒙影视 | 🔗Gaze(SP)","type":3,"api":"csp_GazeAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gaze.red,https://gazes.store,https://gazes.top,https://gazes.host"},
 {"key":"csp_BidysAmns","name":"雷蒙影视 | 🔗哔嘀(SP)","type":3,"api":"csp_BidysAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://v.xl01.eu.cc,https://xl02.com.de,https://v.xl02.eu.cc,https://v.xl01.cc.ua"},
 {"key":"csp_CzzyAmns","name":"雷蒙影视 | 🔗厂长(SP)","type":3,"api":"csp_CzzyAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"https://czzy.top,https://www.4kcz.com,https://www.cz4k.com","filters":""}},
 {"key":"csp_HgggAmns_Mj","name":"雷蒙影视 | 🎬漫剧(SP)","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"comic_series"},
@@ -134,6 +135,8 @@
 {"key":"csp_FeiqLiveAmns","name":"雷蒙影视 | 🏆飞球(SP)","type":3,"api":"csp_FeiqLiveAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_BbkqLiveAmns","name":"雷蒙影视 | 🏆88(SP)","type":3,"api":"csp_BbkqLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw"},
 {"key":"csp_KafLiveAmns","name":"雷蒙影视 | 🏆咖啡(SP)","type":3,"api":"csp_KafLiveAmns","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"TSty","name":"雷蒙影视 | 📖听书(SP)","type":3,"api":"csp_TStyAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"TStzg","name":"雷蒙影视 | 📖书书(SP)","type":3,"api":"csp_TStzgAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_KuGouAmns","name":"雷蒙影视 | 🎸酷狗(SP)","type":3,"api":"csp_KuGouAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"music"},
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
