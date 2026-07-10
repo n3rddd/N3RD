@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0707.jar;md5;BD0E9A3D1225013CAA8C4898D82D7304",
+"spider":"./N3RD/J/lem0710.jar;md5;2A5F0C4EE8A1EA9D6A159691F25F7100",
 
+//"spider":"./N3RD/J/lem0707.jar;md5;BD0E9A3D1225013CAA8C4898D82D7304",
 //"spider":"./N3RD/J/lem07052.jar;md5;86939EB7F2B3ED8669CBF926C5B4C29F",
 //"spider":"./N3RD/J/lem07042.jar;md5;8A4270B72B639CCBFA0C7BC474D53B02",
 //"spider":"./N3RD/J/lem0704.jar;md5;55D940C323AE540BCD6F8643E4E65B98",
@@ -195,11 +196,12 @@
 
 // ⇩⇩ 网盘搜索 ⇩⇩ 
 {"key":"csp_SeedhubGuard","name":"雷蒙影视 | 📀SeedHub(网盘APP扫码)","type":3,"api":"csp_SeedhubGuard","ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":1,"quickSearch":1,"changeable":0, "indexs":0,"style":{"type":"list"}},
-{"key":"csp_S_zpsGuard","name":"雷蒙影视 | 📀聚盘搜(网盘APP扫码)","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"http://107.173.211.148/"},"indexs":0,"style":{"type":"list"}},
-{"key":"csp_KkSsGuard","name":"雷蒙影视 | 📀抠抠(网盘APP扫码)","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
-{"key":"csp_UuSsGuard","name":"雷蒙影视 | 📀优汐(网盘APP扫码)","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
-{"key":"csp_YpanSoGuard","name":"雷蒙影视 | 📀盘她(网盘APP扫码)","type":3,"api":"csp_YpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
+{"key":"csp_S_zpsGuard_盘搜","name":"雷蒙影视 | 📀盘搜(网盘APP扫码)","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"http://107.173.211.148/"},"indexs":0,"style":{"type":"list"}},
+{"key":"csp_S_zpsGuard_易搜","name":"雷蒙影视 | 📀易搜(网盘APP扫码)","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"https://so.252035.xyz/"},"indexs":0,"style":{"type":"list"}},
+{"key":"csp_YpanSoGuard","name":"雷蒙影视 | 📀盘她(网盘APP扫码)","type":3,"api":"csp_YpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"csp_BpanSoGuard","name":"雷蒙影视 | 📀盘他(网盘APP扫码)","type":3,"api":"csp_BpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
+{"key":"csp_KkSsGuard","name":"雷蒙影视 | 📀抠抠(网盘APP扫码)","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
+{"key":"csp_UuSsGuard","name":"雷蒙影视 | 📀优汐(网盘APP扫码)","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
  
 // ⇩⇩ 解析 ⇩⇩ 
 {"key":"drjs_优酷[官]","name":"雷蒙影视 | 🔻优酷(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/优酷[官].js"},
