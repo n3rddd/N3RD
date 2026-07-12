@@ -74,7 +74,7 @@
 // ⇩⇩ 阿里夸克迅雷UC网盘 ⇩⇩ 
 {"key":"csp_Config","name":"雷蒙影视 | 💿网盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/ctv/pg.json"},
 
-{"key":"csp_PanSouGo","name":"雷蒙影视 | 💿PanSouGo(SP)","type":3,"api":"csp_PanSouGo","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.json$$$https://so.252035.xyz/|https://pansou.xxmu.top/|http://www.masterlife.top:83/$$$cfg$$$0$$$PANSOUGO$$$user$$$pass$$$ALL$$$-广告|预告"},
+{"key":"csp_PanSouGo","name":"雷蒙影视 | 💿PanSouGo(SP)","type":3,"api":"csp_PanSouGo","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":{"token":"http://127.0.0.1:9978/file/ctv/pg.json","siteurl":"https://so.252035.xyz/|https://pansou.xxmu.top/|http://www.masterlife.top:83/","proxy":"cfg","danmu":"0","plugins":"all","panlist":"all","filters":{"include":["1080p","4K"],"exclude":["广告","预告"]}},
 {"key":"py_pansou","name":"雷蒙影视 | 📀PanSou(PY)","type":3,"api":"./PY/html/pansou.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"https://so.252035.xyz/","channels":"","plugins":"","cloud_types":""},"changeable":1},
 {"key":"py_盘搜","name":"雷蒙影视 | 📀盘搜(PY)","type":3,"api":"./PY/html/盘搜-海报.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"https://so.252035.xyz/","channels":"","plugins":"","cloud_types":""},"changeable":1},
 
