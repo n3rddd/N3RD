@@ -6,31 +6,24 @@
   "dns": {
     "servers": [
       {
+        "type": "https",
         "tag": "remote",
-        "address": "https://8.8.8.8/dns-query",
-	"strategy": "prefer_ipv4",
+        "server": "8.8.8.8",
         "detour": "select"
       },
       {
+        "type": "https",
         "tag": "local",
-        "address": "https://223.5.5.5/dns-query",
-	"strategy": "prefer_ipv4",
-        "detour": "direct"
+        "server": "223.5.5.5"
       },
       {
-        "tag": "block",
-        "address": "rcode://success"
-      },
-      {
+        "type": "fakeip",
         "tag": "fakeip",
-        "address": "fakeip"
+        "inet4_range": "198.18.0.0/15",
+        "inet6_range": "fc00::/18"
       }
     ],
     "rules": [
-      {
-        "outbound": ["any"],
-        "server": "local"
-      },
       {
         "clash_mode": "Global",
         "server": "remote"
@@ -38,13 +31,16 @@
       {
         "clash_mode": "Direct",
         "server": "local"
+      },
+      {
+        "query_type": [
+          "A",
+          "AAAA"
+        ],
+        "server": "fakeip",
+        "rewrite_ttl": 1
       }
     ],
-    "fakeip": {
-      "enabled": true,
-      "inet4_range": "198.18.0.0/15",
-      "inet6_range": "fc00::/18"
-    },
     "strategy": "prefer_ipv4",
     "independent_cache": true,
     "reverse_mapping": true
@@ -55,10 +51,7 @@
       "tag": "mixed-in",
       "listen": "0.0.0.0",
       "listen_port": 10172,
-      "tcp_fast_open":true,
-      "sniff": false,
-      "sniff_override_destination": false,
-      "domain_strategy": "prefer_ipv4",
+      "tcp_fast_open": true,
       "set_system_proxy": false
     },
     {
@@ -66,20 +59,14 @@
       "tag": "socks-in",
       "listen": "0.0.0.0",
       "listen_port": 10173,
-      "tcp_fast_open":true,
-      "sniff": false,
-      "sniff_override_destination": false,
-      "domain_strategy": "prefer_ipv4"
+      "tcp_fast_open": true
     },
     {
       "type": "mixed",
       "tag": "mixed-in2",
       "listen": "0.0.0.0",
       "listen_port": 10174,
-      "tcp_fast_open":true,
-      "sniff": false,
-      "sniff_override_destination": false,
-      "domain_strategy": "prefer_ipv4",
+      "tcp_fast_open": true,
       "set_system_proxy": false
     },
     {
@@ -87,10 +74,7 @@
       "tag": "mixed-in3",
       "listen": "0.0.0.0",
       "listen_port": 10175,
-      "tcp_fast_open":true,
-      "sniff": false,
-      "sniff_override_destination": false,
-      "domain_strategy": "prefer_ipv4",
+      "tcp_fast_open": true,
       "set_system_proxy": false
     }
   ],
@@ -114,18 +98,13 @@
     {
       "type": "direct",
       "tag": "direct"
-    },
-    {
-      "type": "block",
-      "tag": "block"
-    },
-    {
-      "type": "dns",
-      "tag": "dns-out"
     }
   ],
   "route": {
     "rules": [
+      {
+        "action": "sniff"
+      },
       {
         "type": "logical",
         "mode": "or",
@@ -137,23 +116,33 @@
             "port": 53
           }
         ],
-        "outbound": "dns-out"
+        "action": "hijack-dns"
+      },
+      {
+        "inbound": [
+          "mixed-in",
+          "socks-in",
+          "mixed-in2",
+          "mixed-in3"
+        ],
+        "action": "resolve",
+        "strategy": "prefer_ipv4"
       },
       {
         "ip_is_private": true,
         "outbound": "direct"
       },
       {
-	      "inbound":[
-		      "mixed-in2"
-	      ],
-	      "outbound":"select2"
+        "inbound": [
+          "mixed-in2"
+        ],
+        "outbound": "select2"
       },
       {
-	      "inbound":[
-		      "mixed-in3"
-	      ],
-	      "outbound":"select3"
+        "inbound": [
+          "mixed-in3"
+        ],
+        "outbound": "select3"
       },
       {
         "clash_mode": "Direct",
@@ -178,10 +167,14 @@
             "protocol": "stun"
           }
         ],
-        "outbound": "block"
+        "action": "reject"
       }
     ],
-    "auto_detect_interface": false
+    "auto_detect_interface": false,
+    "default_domain_resolver": {
+      "server": "local",
+      "strategy": "prefer_ipv4"
+    }
   },
   "experimental": {
     "cache_file": {
@@ -197,4 +190,3 @@
     }
   }
 }
-
