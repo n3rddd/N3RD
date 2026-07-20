@@ -87,6 +87,8 @@
 {"key":"csp_Guanying","name":"雷蒙影视 | 💿观影(SP)","type":3,"api":"csp_Guanying","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.json$$$https://www.xn--74qz10cqsltibh40akss.com/$$$cfg$$$1$$$./N3RD/T/guanying.txt$$$GUANYING$$$username$$$password"},
 {"key":"csp_FourKZN","name":"雷蒙影视 | 💿4K指南(SP)","type":3,"api":"csp_FourKZN","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.json$$$https://4kzn.cc/$$$cfg$$$1$$$./N3RD/T/4kzn.txt$$$4KZN"},
 {"key":"csp_Wobg_蜡笔网盘","name":"雷蒙影视 | 💿蜡笔网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://127.0.0.1:9978/file/ctv/pg.json$$$https://xiaocgege.shop/$$$cfg$$$1$$$./N3RD/T/wogg.json$$$LABI"},
+{"key":"csp_PingLian","name":"雷蒙影视 | 💿盘链(SP)","type":3,"api":"csp_PingLian","searchable":1,"timeout":60,"ext":".http://127.0.0.1:9978/file/ctv/pg.json$$$https://pinglian.lol$$$$$$0$$$$$$PANLIAN$$$USER$$$PASS"},
+{"key":"csp_Qwmp4","name":"雷蒙影视 | 💿七味(SP)","type":3,"api":"csp_Qwmp4","searchable":1,"quickSearch":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.json$$$https://www.qwmp4.com/$$$cfg$$$0$$$$$QIWEI"},
 
 {"key":"csp_PushShare","name":"雷蒙影视 | 💿我的资源分享(SP)","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://127.0.0.1:9978/file/ctv/pg.json$$$./N3RD/T/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_AlistShare","name":"雷蒙影视 | 💿网盘分享合集(SP)","type":3,"api":"csp_AlistShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":120,"ext":"http://127.0.0.1:9978/file/ctv/pg.json$$$null$$$cfg$$$1","style":{"type":"list","ratio":1.1}},
