@@ -1,5 +1,5 @@
 {
-"spider":"./N3RD/J/lem07216.jar;md5;9520CE906B09C867EF30C2BAB89A949F",
+"spider":"./N3RD/J/lem07212.jar;md5;A58833A90124C3F641A6FCD2F4D69A97",
 
 //"spider":"./N3RD/J/lem0721.jar;md5;4D14DB2F6DF40ECB7CE3957C3DDCBE77",
 //"spider":"./N3RD/J/lem0720.jar;md5;849FA96CC3A4DFD29E60112F9BB7A72F",
@@ -56,7 +56,6 @@
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_GuaziAmns","name":"雷蒙影视 | ⭐瓜子(SP)","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"}},
 {"key":"csp_AppgzGuard","name":"雷蒙影视 | 👀瓜子(SP)","type":3,"api":"csp_AppgzGuard","timeout":15,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Gz360","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"timeout":12,"searchable":1,"quickSearch":0,"api":"csp_Gz360"},
 {"key":"py_瓜子影视","name":"雷蒙影视 | 🌱瓜子(PY)","type":3,"api":"./PY/app/瓜子影视.py"},
 {"key":"csp_IkanBot","name":"雷蒙影视 | 🤖爱看机器人(SP)","type":3,"api":"csp_IkanBot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_爱看机器人","name":"雷蒙影视 | 🤖爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
