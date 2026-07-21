@@ -1,5 +1,5 @@
 {
-"spider":"./N3RD/J/lem07212.jar;md5;A58833A90124C3F641A6FCD2F4D69A97",
+"spider":"./N3RD/J/lem07215.jar;md5;FF12FFE7310CA26DC0CEA175CDA1FDD2",
 
 //"spider":"./N3RD/J/lem0721.jar;md5;4D14DB2F6DF40ECB7CE3957C3DDCBE77",
 //"spider":"./N3RD/J/lem0720.jar;md5;849FA96CC3A4DFD29E60112F9BB7A72F",
@@ -56,11 +56,8 @@
 {"key":"drjs_荐片","name":"雷蒙影视 | 🏆荐片(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/荐片.js"},
 {"key":"csp_GuaziAmns","name":"雷蒙影视 | ⭐瓜子(SP)","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"}},
 {"key":"csp_AppgzGuard","name":"雷蒙影视 | 👀瓜子(SP)","type":3,"api":"csp_AppgzGuard","timeout":15,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"py_瓜子影视","name":"雷蒙影视 | 🍉瓜子(PY)","type":3,"api":"./PY/app/瓜子影视.py"},
-//{"key":"csp_Gz360_FM","name":"雷蒙影视 | 🌻瓜子(SP)","type":3,"api":"csp_Gz360","playerType":2},
-//{"key":"drjs_瓜子影视","name":"雷蒙影视 | 🌱瓜子(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/瓜子影视.js"},
-//{"key":"drjs_瓜子","name":"雷蒙影视 | 🍈瓜子(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/瓜子.js"},
-//{"jar":"./N3RD/J/pg.jar","key":"csp_Guazi_pg","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"api":"csp_Guazi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Gz360","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"timeout":12,"searchable":1,"quickSearch":0,"api":"csp_Gz360"},
+{"key":"py_瓜子影视","name":"雷蒙影视 | 🌱瓜子(PY)","type":3,"api":"./PY/app/瓜子影视.py"},
 {"key":"csp_IkanBot","name":"雷蒙影视 | 🤖爱看机器人(SP)","type":3,"api":"csp_IkanBot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drjs_爱看机器人","name":"雷蒙影视 | 🤖爱看机器人(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/ikanbot2.js"},
 {"key":"csp_BiliGuard","name":"雷蒙影视 | 🅱哔哩哔哩(SP)","type":3,"api":"csp_BiliGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":{"json":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/XB/Bili1.json"}},
@@ -147,7 +144,6 @@
 // ⇩⇩ XM SPIDER ⇩⇩ 
 {"key":"csp_AppRJ","name":"雷蒙影视 | 🚀秒播(SP)","type":3,"quickSearch":1,"searchable":1,"api":"csp_AppRJ","timeout":12,"ext":"http://v.rbotv.cn"},
 {"key":"csp_Wwys","name":"雷蒙影视 | 🌾农民(SP)","type":3,"api":"csp_Wwys","timeout":12,"ext":"https://vip.wwgz.cn:5200"},
-{"key":"csp_Gz360","name":"雷蒙影视 | 🍉瓜子(SP)","type":3,"timeout":12,"searchable":1,"quickSearch":0,"api":"csp_Gz360"},
 {"key":"csp_App3Q","name":"雷蒙影视 | 🍅大鹅(SP)","type":3,"timeout":15,"api":"csp_App3Q","ext":"https://asd123sx23xdacsx.top"},
 {"key":"csp_PianKu8","name":"雷蒙影视 | 🍬山楂(SP)","type":3,"api":"csp_PianKu8"},
 {"key":"csp_AppGet_爱影","name":"雷蒙影视 | 💥爱影(SP)","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":"https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"},
