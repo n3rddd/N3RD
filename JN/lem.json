@@ -143,7 +143,7 @@
 
 // ⇩⇩ XM SPIDER ⇩⇩ 
 {"key":"csp_AppRJ","name":"雷蒙影视 | 🚀秒播(SP)","type":3,"quickSearch":1,"searchable":1,"api":"csp_AppRJ","timeout":12,"ext":"http://v.rbotv.cn"},
-{"key":"YunZhenXiang","name":"🚀帧享(SP)","type":3,"api":"csp_YunZhenXiang","searchable":1,"quickSearch":1,"filterable":1,"ext":{"index_url":"https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json","key_api":"https://www.tangsan.fun/zx.php"}},
+{"key":"YunZhenXiang","name":"雷蒙影视 | 🚀帧享(SP)","type":3,"api":"csp_YunZhenXiang","searchable":1,"quickSearch":1,"filterable":1,"ext":{"index_url":"https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json","key_api":"https://www.tangsan.fun/zx.php"}},
 {"key":"csp_Wwys","name":"雷蒙影视 | 🌾农民(SP)","type":3,"api":"csp_Wwys","timeout":12,"ext":"https://vip.wwgz.cn:5200"},
 {"key":"csp_App3Q","name":"雷蒙影视 | 🍅大鹅(SP)","type":3,"timeout":15,"api":"csp_App3Q","ext":"https://asd123sx23xdacsx.top"},
 {"key":"csp_PianKu8","name":"雷蒙影视 | 🍬山楂(SP)","type":3,"api":"csp_PianKu8"},
