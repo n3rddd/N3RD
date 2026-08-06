@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0804.jar;md5;336CDF91483C1E74445BEDC2DE5C3973",
+"spider":"./N3RD/J/lem0806.jar;md5;B2EB137D5BE5E3AA5501FBDB1D97AA21",
 
+//"spider":"./N3RD/J/lem0804.jar;md5;336CDF91483C1E74445BEDC2DE5C3973",
 //"spider":"./N3RD/J/lem0802.jar;md5;23C26359F817DA3AFB02D8111D4B9B87",
 //"spider":"./N3RD/J/lem0731.jar;md5;CC0D15DC0CEB5FC618EA51DC22C21E88",
 //"spider":"./N3RD/J/lem0622.jar;md5;7613B65F29255FC71D1EB74089794E64",
@@ -139,7 +140,9 @@
 
 // ⇩⇩ XM SPIDER ⇩⇩ 
 {"key":"csp_AppRJ","name":"雷蒙影视 | 🚀秒播(SP)","type":3,"quickSearch":1,"searchable":1,"api":"csp_AppRJ","timeout":12,"ext":"http://v.rbotv.cn"},
-{"key":"YunZhenXiang","name":"雷蒙影视 | 🚀帧享(SP)","type":3,"api":"csp_YunZhenXiang","searchable":1,"quickSearch":1,"filterable":1,"ext":{"index_url":"https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json","key_api":"https://www.tangsan.fun/zx.php"}},
+{"key":"YunZhenXiang","name":"雷蒙影视 | 🚀帧享(SP)","type":3,"api":"csp_YunZhenXiang","searchable":1,"quickSearch":1,"filterable":1,"ext":{"index_url":"https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json","key_api":"https://www.tangsan.fun/zx.php"}},
+{"key":"csp_AiKan","name":"雷蒙影视 | 🚀爱看(SP)","type":3,"api":"csp_AiKan","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.117.123:4680"},
+{"key":"csp_HkybSpider","name":"雷蒙影视 | 🚀世界(SP)","type":3,"api":"csp_HkybSpider","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Wwys","name":"雷蒙影视 | 🌾农民(SP)","type":3,"api":"csp_Wwys","timeout":12,"ext":"https://vip.wwgz.cn:5200"},
 {"key":"csp_Tounimabi","name":"雷蒙影视 | 🐷八戒(SP)","type":3,"api":"csp_Tounimabi","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_AppYd_布布","name":"雷蒙影视 | 🌺布布(SP)","type":3,"api":"csp_AppYd","ext":{"host":"https://bubutv.top","finger":"SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA","updateId":"38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7","deviceBrand":"vivo","deviceModel":"V2309A","pkg":"com.sunshine.tv","sk":"SK-thanks","ver":"6"}},
@@ -148,8 +151,9 @@
 {"key":"csp_AppGet_爱影","name":"雷蒙影视 | 💥爱影(SP)","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":"https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"},
 {"key":"csp_FengYe","name":"雷蒙影视 | 🍁枫叶(SP)","type":3,"api":"csp_FengYe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.vip1949.com/"},
 {"key":"csp_App99_双星","name":"雷蒙影视 | 🥪双星(SP)","type":3,"api":"csp_App99","ext":{"host":"http://175.178.65.250:19987/app/bn","LoginPath":"/app/log","appkey":"f66f65db127e48449f073c2c6eb0f993","versionName":"6.4.5","name":"双子星动漫","package":"com.yingfu.mobile.android.pgsp","buildNumber":"2003","buildSignature":"054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}},
-{"key":"csp_CycSpider_稀饭","name":"雷蒙影视 | 🍚稀饭(SP)","type":3,"api":"csp_CycSpider","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tangsan.fun/config.php?source=xifan"},
-{"key":"csp_CycSpider_次元","name":"雷蒙影视 | 🍠次元(SP)","type":3,"api":"csp_CycSpider","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tangsan.fun/config.php?source=cyc"},
+{"key":"csp_CycSpider","name":"雷蒙影视 | 🍚稀饭(SP)","type":3,"api":"csp_CycSpider","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tangsan.fun/config.php?source=xifan"},
+{"key":"csp_AppGet_方舟","name":"雷蒙影视 | 🌸方舟(SP)","type":3,"searchable":1,"api":"csp_AppGet","ext":"https://www.cyfz.top|e72cdfd629e8895d|V119|okhttp/3.10"},
+{"key":"csp_Ciyuancheng","name":"雷蒙影视 | 🌸次元(SP)","type":3,"api":"csp_Ciyuancheng","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_AppGet_咕咕","name":"雷蒙影视 | 🥖咕咕(SP)","type":3,"searchable":1,"api":"csp_AppGet","ext":"https://www.gugu3.com|nKfZ8KX6JTNWRzTD|V119|okhttp/3.10"},
 {"key":"csp_HeMa","name":"雷蒙影视 | 🔥盒马(SP)","type":3,"timeout":12,"api":"csp_HeMa"},
 {"key":"csp_AppXYXM","name":"雷蒙影视 | 🌟星丫(SP)","type":3,"searchable":1,"timeout":12,"api":"csp_AppXYXM","ext":""},
