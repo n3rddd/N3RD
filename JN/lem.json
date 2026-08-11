@@ -1,12 +1,7 @@
 {
-"spider":"./N3RD/J/lem0810.jar;md5;5CC442BF38D401A434CF41649233DE80",
+"spider":"./N3RD/J/lem0811.jar;md5;A7B9D5ED01B484592A7B7592CD516A05",
 
-//"spider":"./N3RD/J/lem0809.jar;md5;6016B511E72AE389BA3DCDB149363F45",
-//"spider":"./N3RD/J/lem0806.jar;md5;B2EB137D5BE5E3AA5501FBDB1D97AA21",
-//"spider":"./N3RD/J/lem0804.jar;md5;336CDF91483C1E74445BEDC2DE5C3973",
-//"spider":"./N3RD/J/lem0802.jar;md5;23C26359F817DA3AFB02D8111D4B9B87",
-//"spider":"./N3RD/J/lem0731.jar;md5;CC0D15DC0CEB5FC618EA51DC22C21E88",
-//"spider":"./N3RD/J/lem0622.jar;md5;7613B65F29255FC71D1EB74089794E64",
+//"spider":"./N3RD/J/lem0810.jar;md5;5CC442BF38D401A434CF41649233DE80",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -142,7 +137,7 @@
 
 // ⇩⇩ XM SPIDER ⇩⇩ 
 {"key":"csp_AppRJ","name":"雷蒙影视 | 🚀秒播(SP)","type":3,"quickSearch":1,"searchable":1,"api":"csp_AppRJ","timeout":12,"ext":"http://v.rbotv.cn"},
-{"key":"YunZhenXiang","name":"雷蒙影视 | 🚀帧享(SP)","type":3,"api":"csp_YunZhenXiang","searchable":1,"quickSearch":1,"filterable":1,"ext":{"index_url":"https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json","key_api":"https://www.tangsan.fun/zx.php"}},
+{"key":"csp_YunZhenXiang","name":"雷蒙影视 | 🚀帧享(SP)","type":3,"api":"csp_YunZhenXiang","searchable":1,"quickSearch":1,"filterable":1,"ext":{"index_url":"https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json","key_api":"https://www.tangsan.fun/zx.php"}},
 {"key":"csp_AiKan","name":"雷蒙影视 | 🚀爱看(SP)","type":3,"api":"csp_AiKan","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.117.123:4680"},
 {"key":"csp_HkybSpider","name":"雷蒙影视 | 🚀世界(SP)","type":3,"api":"csp_HkybSpider","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Wwys","name":"雷蒙影视 | 🌾农民(SP)","type":3,"api":"csp_Wwys","quickSearch":1,"timeout":12,"ext":"https://vip.wwgz.cn:5200"},
@@ -154,7 +149,7 @@
 {"key":"csp_FengYe","name":"雷蒙影视 | 🍁枫叶(SP)","type":3,"api":"csp_FengYe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.vip1949.com/"},
 {"key":"csp_App99_双星","name":"雷蒙影视 | 🥪双星(SP)","type":3,"api":"csp_App99","ext":{"host":"http://175.178.65.250:19987/app/bn","LoginPath":"/app/log","appkey":"f66f65db127e48449f073c2c6eb0f993","versionName":"6.4.5","name":"双子星动漫","package":"com.yingfu.mobile.android.pgsp","buildNumber":"2003","buildSignature":"054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}},
 {"key":"csp_CycSpider","name":"雷蒙影视 | 🍚稀饭(SP)","type":3,"api":"csp_CycSpider","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tangsan.fun/config.php?source=xifan"},
-{"key":"csp_Ciyuancheng","name":"雷蒙影视 | 🌸次元(SP)","type":3,"api":"csp_Ciyuancheng","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Ciyuancheng","name":"雷蒙影视 | 🍚次元(SP)","type":3,"api":"csp_Ciyuancheng","searchable":1,"quickSearch":1,"filterable":1,"ext":"{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMUtaUVIxVEJTUFJZMUhIOEU4V04xWThaSyIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg3MDM0NDMwLCJuYmYiOjE3ODY0Mjk2MzAsImlhdCI6MTc4NjQyOTYzMH0.epvHnPb8cO-yFfGvA1BnyGzYMDDJrB2YOvbnB9Efb4c\"}"},
 {"key":"csp_HeMa","name":"雷蒙影视 | 🔥盒马(SP)","type":3,"timeout":12,"genre":"shortdrama","api":"csp_HeMa"},
 {"key":"csp_QM","name":"雷蒙影视 | 🌟七猫(SP)","type":3,"searchable":1,"timeout":12,"genre":"shortdrama","api":"csp_DuanJuAiQiMiao","ext":""},
 {"key":"csp_AppXYXM","name":"雷蒙影视 | 🌟星丫(SP)","type":3,"searchable":1,"timeout":12,"genre":"shortdrama","api":"csp_AppXYXM","ext":""},
@@ -165,7 +160,7 @@
 {"key":"csp_JianpianXM","name":"雷蒙影视 | 🧲荐片(SP)","quickSearch":0,"changeable":"0","searchable":1,"timeout":15,"type":3,"api":"csp_JianpianXM","style":{"type":"rect","ratio":1.333},"ext":"https://api.ztcgi.com"},
 {"key":"csp_JpysXM","name":"雷蒙影视 | 🥇金牌(SP)","type":3,"timeout":12,"searchable":1,"quickSearch":0,"api":"csp_JpysXM","ext":"https://y2s52n7.com"},
 {"key":"csp_TingBook","name":"雷蒙影视 | 📻六月(SP)","type":3,"api":"csp_TingBook","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":"https://app.365ting.com","style":{"type":"list"}},
-{"key":"csp_KuKuMusic","name":"雷蒙影视 | 🎵酷酷(SP)","type":3,"api":"csp_KuKuMusic","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"oval","ratio":1}},
+{"key":"csp_KuKuMusic","name":"雷蒙影视 | 🎵酷酷(SP)","type":3,"api":"csp_KuKuMusic","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"oval","ratio":1}},
 {"key":"csp_YXZB","name":"雷蒙影视 | 📡游戏(SP)","type":3,"api":"csp_YXZB","searchable":0,"quickSearch":0,"style":{"type":"rect","ratio":3.8}},
 
 // ⇩⇩ QJ SPIDER ⇩⇩ 
