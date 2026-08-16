@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0814.jar;md5;AD3980296262211631247DE88CC89B4D",
+"spider":"./N3RD/J/lem0816.jar;md5;1BFA85F4BC44AAB47026B6197C5AB472",
 
+//"spider":"./N3RD/J/lem0814.jar;md5;AD3980296262211631247DE88CC89B4D",
 //"spider":"./N3RD/J/lem0812.jar;md5;6A3F3F1330D55746E89681853B989A42",
 //"spider":"./N3RD/J/lem0811.jar;md5;A7B9D5ED01B484592A7B7592CD516A05",
 //"spider":"./N3RD/J/lem0810.jar;md5;5CC442BF38D401A434CF41649233DE80",
@@ -14,7 +15,7 @@
 "lives":[
 {"name":"雷蒙影视宣传片","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/ctvpv.txt","ua":"okhttp/3.15","logo":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON1.png"},
 {"name":"直播","type":0,"url":"https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":2},
-{"name":"咪咕","type":0,"url":"https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"综合直播","type":0,"url":"http://193.123.86.190:14888/TV/iptv.php","ua":"bingcha/1.1 (mianfeifenxiang)","playerType":2},
 {"name":"IPTV","type":0,"playerType":2,"url":"https://live.ottiptv.cc/iptv.m3u?userid=5803665715&sign=65177c4b80fc8438071a048ac5aec7980991f960675556c5c93cdb3c5a6f7082e86f69204a098d26a1bc196b6c880d567ed4a2e65c270ce37ca71e387de6289dbf6a784a3c5e9c&auth_token=b6823db883fc12f91cf1127973951993","ua":"okHttp/Mod-1.5.0.0"},
 {"name":"世界杯","type":0,"url":"http://82.156.243.185:33389/fwc.m3u","playerType":2},
 {"name":"雷蒙影视电视直播","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -62,7 +63,7 @@
 {"key":"csp_T4Guard_光影","name":"雷蒙影视 | 🌞光影(SP)","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="},
 {"key":"csp_YCyzGuard","name":"雷蒙影视 | 👒原创(SP)","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_NewCzGuard","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_HmysGuard","name":"雷蒙影视 | ⏮️海绵(SP)","type":3,"api":"csp_HmysGuard","timeout":10,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_HmysGuard","name":"雷蒙影视 | 🍄海绵(SP)","type":3,"api":"csp_HmysGuard","timeout":10,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_LibvioGuard","name": "雷蒙影视 | 🌟Libvio(SP)","type": 3,"api": "csp_LibvioGuard","timeout":10,"searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","siteUrl":"https://www.libvio.pw/"}},
 {"key":"csp_BttooGuard","name":"雷蒙影视 | 🍄两个BT(SP)","type":3,"api":"csp_BttwooGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_NmyswvGuard","name":"雷蒙影视 | 🍓糯米(SP)","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
@@ -134,8 +135,9 @@
 {"key":"csp_FeiqLiveAmns","name":"雷蒙影视 | 🏆飞球(SP)","type":3,"api":"csp_FeiqLiveAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_BbkqLiveAmns","name":"雷蒙影视 | 🏆88(SP)","type":3,"api":"csp_BbkqLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"BbkqLive"},
 {"key":"csp_KafLiveAmns","name":"雷蒙影视 | 🏆咖啡(SP)","type":3,"api":"csp_KafLiveAmns","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"TSty","name":"雷蒙影视 | 📖听书(SP)","type":3,"api":"csp_TStyAmns","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"TStzg","name":"雷蒙影视 | 📖书书(SP)","type":3,"api":"csp_TStzgAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"csp_TSaowuAmns","name":"雷蒙影视 | 📖听听(SP)","type":3,"api":"csp_TSaowuAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"csp_TStyAmns","name":"雷蒙影视 | 📖听书(SP)","type":3,"api":"csp_TStyAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"csp_TStzgAmns","name":"雷蒙影视 | 📖书书(SP)","type":3,"api":"csp_TStzgAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_KuGouAmns","name":"雷蒙影视 | 🎸酷狗(SP)","type":3,"api":"csp_KuGouAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"music"},
 
 // ⇩⇩ XM SPIDER ⇩⇩ 
@@ -148,7 +150,6 @@
 {"key":"csp_DuoDuo","name":"雷蒙影视 | 🌺大鹅(SP)","type":3,"api":"csp_DuoDuo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://323433ssdfd.top","finger":"WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2","aid":"com.web.player","sk":"WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1","client":"8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a","sign":"ddtvf65f3a83d6d9ad6f"}},
 {"key":"csp_App99_半日","name":"雷蒙影视 | ☀️半日(SP)","type":3,"api":"csp_App99","ext":{"host":"http://103.217.190.91:19987/app/bn","appkey":"24d625a8a29b4700a1a294c6f3b29e2c","versionName":"3.5.8","name":"半日闲","package":"com.yf.lelian","buildNumber":"2001","buildSignature":"A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"}},
 {"key":"csp_PianKu8","name":"雷蒙影视 | 🍬山楂(SP)","type":3,"api":"csp_PianKu8"},
-{"key":"csp_AppGet_爱影","name":"雷蒙影视 | 💥爱影(SP)","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":"https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"},
 {"key":"csp_FengYe","name":"雷蒙影视 | 🍁枫叶(SP)","type":3,"api":"csp_FengYe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.vip1949.com/"},
 {"key":"csp_App99_双星","name":"雷蒙影视 | 🥪双星(SP)","type":3,"api":"csp_App99","ext":{"host":"http://175.178.65.250:19987/app/bn","LoginPath":"/app/log","appkey":"f66f65db127e48449f073c2c6eb0f993","versionName":"6.4.5","name":"双子星动漫","package":"com.yingfu.mobile.android.pgsp","buildNumber":"2003","buildSignature":"054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}},
 {"key":"csp_Ciyuancheng","name":"雷蒙影视 | 🍚次元(SP)","type":3,"api":"csp_Ciyuancheng","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMUtaUVIxVEJTUFJZMUhIOEU4V04xWThaSyIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg3MDM0NDMwLCJuYmYiOjE3ODY0Mjk2MzAsImlhdCI6MTc4NjQyOTYzMH0.epvHnPb8cO-yFfGvA1BnyGzYMDDJrB2YOvbnB9Efb4c"}},
