@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0823.jar;md5;BCD84A50518DF5E50F7F2DBCAAB3CF11",
+"spider":"./N3RD/J/lem0826.jar;md5;5EEFAE43E078DF08758F2F68ADDA9B60",
 
+//"spider":"./N3RD/J/lem0823.jar;md5;BCD84A50518DF5E50F7F2DBCAAB3CF11",
 //"spider":"./N3RD/J/lem0819.jar;md5;79697F081595A75CC21C1FC5B6F60487",
 //"spider":"./N3RD/J/lem0818.jar;md5;466867B52FDA9B0190A0F945C0A0B37B",
 //"spider":"./N3RD/J/lem0816.jar;md5;1BFA85F4BC44AAB47026B6197C5AB472",
@@ -58,7 +59,7 @@
 {"key":"csp_BiliGuard","name":"雷蒙影视 | 🅱哔哩哔哩(SP)","type":3,"api":"csp_BiliGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":{"json":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/XB/Bili1.json"}},
 {"key":"drjs_我的哔哩[官]","name":"雷蒙影视 | 🅱我的哔哩(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/我的哔哩[官].js?type=url&params=https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/Bili1.json"},
 {"key":"csp_MyDriveGuard","name":"雷蒙影视 | 🗂我的云盘(配置)","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":1,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
-{"key":"csp_WoGGGuard","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
+{"key":"csp_WoGGGuard","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"csp_T4Guard_光影","name":"雷蒙影视 | 🌞光影(SP)","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="},
 {"key":"csp_YCyzGuard","name":"雷蒙影视 | 👒原创(SP)","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_NewCzGuard","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -79,7 +80,6 @@
 {"key":"csp_Uvod","name":"雷蒙影视 | 💎优视频(SP)","type":3,"api":"csp_Uvod","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_PTT","name":"雷蒙影视 | 🎈PTT(SP)","type":3,"api":"csp_PTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84Guard","name":"雷蒙影视 | 🐾动漫巴士(SP)","type":3,"api":"csp_Dm84Guard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
-{"key":"csp_Anime1Guard","name":"雷蒙影视 | 🐾Anime1动画线上看(SP)","type":3,"api":"csp_Anime1Guard","timeout":10,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_YHDM","name":"雷蒙影视 | 🐾樱花动漫(SP)","api":"csp_YHDM","timeout":15,"type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_SP360_LEM","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP360LEM","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_KanqiuGuard","name":"雷蒙影视 | ⚽88看球(SP)","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
@@ -514,11 +514,18 @@
 ],
 
 "doh":[
+{"name":"阿里","url":"https://dns.alidns.com/dns-query","ips":["223.5.5.5","223.6.6.6","2400:3200::1"]},
+{"name":"腾讯","url":"https://doh.pub/dns-query","ips":["119.29.29.29","119.28.28.28","2402:4e00::"]},
+{"name":"360","url":"https://doh.360.cn/dns-query","ips":["101.226.4.6","218.30.118.6"]},
+{"name":"OneDNS","url":"https://doh-pure.onedns.net/dns-query","ips":["117.50.10.10","52.80.52.52"]},
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
 {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
 {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
-{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
+{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]},
+{"name":"NextDNS","url":"https://dns.nextdns.io/your_profile_id","ips":["45.90.28.0","45.90.30.0"]},
+{"name":"ControlD","url":"https://freedns.controld.com/p0","ips":["76.76.2.0","76.76.10.0"]}
+],
 
 "proxy": [
 "raw.githubusercontent.com",
