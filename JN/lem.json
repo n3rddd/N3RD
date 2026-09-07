@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0905.jar;md5;72AABA52D230F823B7C0BA7C815AA69F",
+"spider":"./N3RD/J/lem0907.jar;md5;BBBFAE9A46B1B5F1F5441319838668DF",
 
+//"spider":"./N3RD/J/lem0905.jar;md5;72AABA52D230F823B7C0BA7C815AA69F",
 //"spider":"./N3RD/J/lem0831.jar;md5;FDF556E60C1C744498600AE12A2C45A8",
 //"spider":"./N3RD/J/lem0826.jar;md5;5EEFAE43E078DF08758F2F68ADDA9B60",
 //"spider":"./N3RD/J/lem0823.jar;md5;BCD84A50518DF5E50F7F2DBCAAB3CF11",
@@ -110,8 +111,7 @@
 {"key":"csp_DMmoduAmns","name":"雷蒙影视 | 🐱魔都(SP)","type":3,"api":"csp_DMmoduAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_BidysAmns","name":"雷蒙影视 | 🔗哔嘀(SP)","type":3,"api":"csp_BidysAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Bidys"},
 {"key":"csp_CzzyAmns","name":"雷蒙影视 | 🔗厂长(SP)","type":3,"api":"csp_CzzyAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Czzy"},
-{"key":"csp_HgggAmns_Mj","name":"雷蒙影视 | 🎬漫剧(SP)","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"MjHggg","genre":"shortdrama"},
-{"key":"csp_HgggAmns_Dj","name":"雷蒙影视 | 🎬短剧(SP)","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"DjHggg","genre":"shortdrama"},
+{"key":"csp_HgggAmns_Dj","name":"雷蒙影视 | 🎬短剧(SP)","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama"},
 {"key":"csp_HHkkAmns","name":"雷蒙影视 | 🎬豪堪(SP)","type":3,"api":"csp_HHkkAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
 {"key":"csp_HemaAmns","name":"雷蒙影视 | 🎬盒马(SP)","type":3,"api":"csp_HemaAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
 {"key":"csp_BddjAmns","name":"雷蒙影视 | 🎬拜拜(SP)","type":3,"api":"csp_BddjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
@@ -149,7 +149,6 @@
 {"key":"csp_WhaleApp","name":"雷蒙影视 | 👀爱影(SP)","type":3,"api":"csp_WhaleApp","searchable":1,"quickSearch":1,"filterable":1,"ext":{"proxy":"https://www.tangsan.fun/jingyu.php","site":"aiyingshi","pic":"http://222.211.75.252:23433"}},
 {"key":"csp_Gulu","name":"雷蒙影视 | 👀咕噜(SP)","type":3,"api":"csp_Gulu","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_AppGet_四K","name":"雷蒙影视 | 👀四K(SP)","type":3,"api":"csp_AppGet","quickSearch":1,"timeout":12,"ext":"https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"},
-{"key":"csp_AppGet_4K","name":"雷蒙影视 | 🌾4K(SP)","type":3,"api":"csp_AppGet","quickSearch":1,"timeout":12,"ext":"http://110.42.67.130:1226|kj37zs29q22jk96t|V122|okhttp/3.10.0"},
 {"key":"csp_Wwys","name":"雷蒙影视 | 🌾农民(SP)","type":3,"api":"csp_Wwys","quickSearch":1,"timeout":12,"ext":"https://vip.wwgz.cn:5200"},
 {"key":"csp_Tounimabi","name":"雷蒙影视 | 🐷八戒(SP)","type":3,"api":"csp_Tounimabi","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_App99_半日","name":"雷蒙影视 | ☀️半日(SP)","type":3,"api":"csp_App99","ext":{"host":"http://103.217.190.91:19987/app/bn","appkey":"24d625a8a29b4700a1a294c6f3b29e2c","versionName":"3.5.8","name":"半日闲","package":"com.yf.lelian","buildNumber":"2001","buildSignature":"A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"}},
@@ -258,6 +257,7 @@
 {"key":"py_曼波_APP","name":"雷蒙影视 | 🧿曼波(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://app.omofun1.top","api":"/api.php/getappapi","datakey":"66dc309cbeeca454","dataiv":"66dc309cbeeca454"}},
 {"key":"py_咕咕_APP","name":"雷蒙影视 | 🧿咕咕(GET)","type":3,"api":"./PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://www.gugu3.com","api":"/api.php/getappapi","datakey":"nKfZ8KX6JTNWRzTD","dataiv":"nKfZ8KX6JTNWRzTD"}},
 
+{"key":"py_红果","name":"雷蒙影视 | 🧿红果(PY)","type":3,"api":"./PY/app/红果.py"},
 {"key":"py_CliCli","name":"雷蒙影视 | 🧿CliCli(PY)","type":3,"api":"./PY/app/CliCli动漫APP.py"},
 {"key":"py_HiTV","name":"雷蒙影视 | 🧿HiTV(PY)","type":3,"api":"./PY/app/hitvAPP.py"},
 {"key":"py_MiFun","name":"雷蒙影视 | 🧿MiFun(PY)","type":3,"api":"./PY/app/MiFunAPP.py"},
