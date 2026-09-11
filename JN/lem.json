@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem0910.jar;md5;87898A55E104DD8C8C9DF93C5FC437AD",
+"spider":"./N3RD/J/lem0911.jar;md5;252846B63C7B547BB9FDEBE5F4F66F5F",
 
+//"spider":"./N3RD/J/lem0910.jar;md5;87898A55E104DD8C8C9DF93C5FC437AD",
 //"spider":"./N3RD/J/lem0907.jar;md5;BBBFAE9A46B1B5F1F5441319838668DF",
 //"spider":"./N3RD/J/lem0905.jar;md5;72AABA52D230F823B7C0BA7C815AA69F",
 
@@ -102,9 +103,8 @@
 {"key":"csp_AppV7Amns_黄人","name":"雷蒙影视 | 📦黄人(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":0,"ext":"AppV7Xhr"},
 {"key":"csp_AppV7Amns_师兄","name":"雷蒙影视 | 📦师兄(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":0,"ext":"AppV7Dsx"},
 {"key":"csp_AppV6Amns_Tg","name":"雷蒙影视 | 📦特狗(SP)","type":3,"api":"csp_AppV6Amns","searchable":1,"quickSearch":1,"changeable":0,"ext":"AppV6Tg"},
-{"key":"csp_DMcycAmns","name":"雷蒙影视 | 🐱囧途(SP)","type":3,"api":"csp_DMcycAmns","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"csp_DMoxAmns","name":"雷蒙影视 | 🐱牛来(SP)","type":3,"api":"csp_DMoxAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_DMfansAmns","name":"雷蒙影视 | 🐱番薯(SP)","type":3,"api":"csp_DMfansAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"csp_DMoxAmns","name":"雷蒙影视 | 🐱牛来(SP)","type":3,"api":"csp_DMoxAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_DMqingkAmns","name":"雷蒙影视 | 🐱青云(SP)","type":3,"api":"csp_DMqingkAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_DMmoduAmns","name":"雷蒙影视 | 🐱魔都(SP)","type":3,"api":"csp_DMmoduAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_BidysAmns","name":"雷蒙影视 | 🔗哔嘀(SP)","type":3,"api":"csp_BidysAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Bidys"},
