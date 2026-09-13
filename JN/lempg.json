@@ -183,6 +183,7 @@
   
 // ⇩⇩ 爬虫SPIDER ⇩⇩ 
 {"key":"csp_Guazi","name":"雷蒙影视 | 🌻瓜子(SP)","type":3,"api":"csp_Guazi","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":""},
+{"key":"csp_HongGuo","name":"雷蒙影视 | 🍎红果短剧(SP)","type":3,"api":"csp_HongGuo","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"playerType":2},
 {"key":"csp_Kuaikan","name":"雷蒙影视 | 👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"雷蒙影视 | 🌸动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_Ysj","name":"雷蒙影视 | 🌸异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
