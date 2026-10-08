@@ -1,11 +1,8 @@
 {
-"spider":"./N3RD/J/lem1005.jar;md5;82573E853028B9581033428F87E87F39",
+"spider":"./N3RD/J/lem1008.jar;md5;A85273CABF8DE867FFE33620A6D71351",
 
+//"spider":"./N3RD/J/lem1005.jar;md5;82573E853028B9581033428F87E87F39",
 //"spider":"./N3RD/J/lem0930.jar;md5;B4634B2C1559698AF90776A7961DF275",
-//"spider":"./N3RD/J/lem0927.jar;md5;A7F006BB8C75B1BA1112B04C249BFDE4",
-//"spider":"./N3RD/J/lem0922.jar;md5;9F62A2E7256F0FD722085CE948CE4E2E",
-//"spider":"./N3RD/J/lem0918.jar;md5;1AF8C7324689A0AFC24795A1F393FB98",
-//"spider":"./N3RD/J/lem0911.jar;md5;252846B63C7B547BB9FDEBE5F4F66F5F",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -90,7 +87,7 @@
 {"key":"csp_Tingshu275Guard","name":"雷蒙影视 | 🎧听书(SP)","type":3,"api":"csp_Tingshu275Guard","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
 
 // ⇩⇩ AW SPIDER ⇩⇩ 
-{"key":"csp_HgdhAmns","name":"雷蒙影视 | 🔥短剧(SP)","type":3,"api":"csp_HgdhAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","ext":"Hgdh"},
+{"key":"csp_HgdhAmns","name":"雷蒙影视 | 🔥短剧(SP)","type":3,"api":"csp_HgdhAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama","ext":"Hgdh"},
 {"key":"csp_HxqAmns","name":"雷蒙影视 | 🚀韩剧(SP)","type":3,"api":"csp_HxqAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_JinPaiAmns","name":"雷蒙影视 | 🚀金牌(SP)","type":3,"api":"csp_JinPaiAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_NewGrV2Amns","name":"雷蒙影视 | 🚀秋天(SP)","type":3,"api":"csp_NewGrV2Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"NewGrV2"},
@@ -104,15 +101,15 @@
 {"key":"csp_AppV7Amns_柿子","name":"雷蒙影视 | 📦柿子(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},
 {"key":"csp_AppV7Amns_黄人","name":"雷蒙影视 | 📦黄人(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},
 {"key":"csp_AppV7Amns_师兄","name":"雷蒙影视 | 📦师兄(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
-{"key":"csp_DMfansAmns","name":"雷蒙影视 | 🐱番薯(SP)","type":3,"api":"csp_DMfansAmns","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_DMfansAmns","name":"雷蒙影视 | 🐱番薯(SP)","type":3,"api":"csp_DMfansAmns","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"csp_DMoxAmns","name":"雷蒙影视 | 🐱牛来(SP)","type":3,"api":"csp_DMoxAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_DMqingkAmns","name":"雷蒙影视 | 🐱青云(SP)","type":3,"api":"csp_DMqingkAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_DMmoduAmns","name":"雷蒙影视 | 🐱魔都(SP)","type":3,"api":"csp_DMmoduAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_BidysAmns","name":"雷蒙影视 | 🛸哔嘀(SP)","type":3,"api":"csp_BidysAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Bidys"},
 {"key":"csp_CzzyAmns","name":"雷蒙影视 | 🛸厂长(SP)","type":3,"api":"csp_CzzyAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Czzy"},
 {"key":"csp_LibvioAmns","name":"雷蒙影视 | 🛸LBV(SP)","type":3,"api":"csp_LibvioAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Libvio"},
-{"key":"csp_HgggAmns_Dj","name":"雷蒙影视 | 📽️短剧(SP)","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":1,"genre":"shortdrama"},
-{"key":"csp_HHkkAmns","name":"雷蒙影视 | 📽️豪堪(SP)","type":3,"api":"csp_HHkkAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
+{"key":"csp_HgggAmns_Dj","name":"雷蒙影视 | 📽️短剧(SP)","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama"},
+{"key":"csp_HHkkAmns","name":"雷蒙影视 | 📽️豪堪(SP)","type":3,"api":"csp_HHkkAmns","searchable":1,"quickSearch":0,"changeable":0,"genre":"shortdrama"},
 {"key":"csp_HemaAmns","name":"雷蒙影视 | 📽️盒马(SP)","type":3,"api":"csp_HemaAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
 {"key":"csp_BddjAmns","name":"雷蒙影视 | 📽️拜拜(SP)","type":3,"api":"csp_BddjAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
 {"key":"csp_WgdjAmns","name":"雷蒙影视 | 📽️围观(SP)","type":3,"api":"csp_WgdjAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
@@ -121,7 +118,6 @@
 {"key":"csp_RbysAmns","name":"雷蒙影视 | ⭐热播(SP)","type":3,"api":"csp_RbysAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Rbys"},
 {"key":"csp_DubkAmns","name":"雷蒙影视 | ⭐杜北(SP)","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Dubk"},
 {"key":"csp_JPianAmns","name":"雷蒙影视 | ⭐荐片(SP)","type":3,"api":"csp_JPianAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"JPian"},
-{"key":"csp_YIysAmns","name":"雷蒙影视 | ⭐伊外(SP)","type":3,"api":"csp_YIysAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_AiBotAmns","name":"雷蒙影视 | ⭐爱看(SP)","type":3,"api":"csp_AiBotAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_AiGuaAmns","name":"雷蒙影视 | 🌍爱瓜(SP)","type":3,"api":"csp_AiGuaAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_YspAmns","name":"雷蒙影视 | 🌍U视(SP)","type":3,"api":"csp_YspAmns","searchable":1,"quickSearch":1,"changeable":1},
