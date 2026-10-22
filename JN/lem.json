@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1018.jar;md5;3C17B08251601D6ECDEA6AD4FF534AFD",
+"spider":"./N3RD/J/lem1022.jar;md5;A3435D4FE7029EED10ADB4426D520727",
 
+//"spider":"./N3RD/J/lem1018.jar;md5;3C17B08251601D6ECDEA6AD4FF534AFD",
 //"spider":"./N3RD/J/lem1015.jar;md5;30434EB6BC3FF8D36D2C62EA43766613",
 //"spider":"./N3RD/J/lem1011.jar;md5;DBB7DA4736F738A65D395763BA8663FA",
 
@@ -13,6 +14,7 @@
 "lives":[
 {"name":"雷蒙影视宣传片","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/ctvpv.txt","ua":"okhttp/3.15","logo":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON1.png"},
 {"name":"综合直播","type":0,"url":"http://193.123.86.190:14888/TV/iptv.php","ua":"bingcha/1.1 (mianfeifenxiang)","playerType":2},
+{"name":"牛播一","url":"http://127.0.0.1:9978/proxy?do=cctva","timeZone":"Asia/Shanghai"},
 {"name":"直播","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":2},
 {"name":"IPTV","type":0,"playerType":2,"url":"https://live.ottiptv.cc/iptv.m3u?userid=5803665715&sign=65177c4b80fc8438071a048ac5aec7980991f960675556c5c93cdb3c5a6f7082e86f69204a098d26a1bc196b6c880d567ed4a2e65c270ce37ca71e387de6289dbf6a784a3c5e9c&auth_token=b6823db883fc12f91cf1127973951993","ua":"okHttp/Mod-1.5.0.0"},
 {"name":"世界杯","type":0,"url":"http://82.156.243.185:33389/fwc.m3u","playerType":2},
@@ -59,7 +61,6 @@
 {"key":"csp_MyDriveGuard","name":"雷蒙影视 | 🗂我的云盘(配置)","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":1,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"csp_WoGGGuard","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"csp_T4Guard_光影","name":"雷蒙影视 | 🌞光影(SP)","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="},
-{"key":"csp_YCyzGuard","name":"雷蒙影视 | 👒原创(SP)","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_NewCzGuard","name":"雷蒙影视 | 👴厂长资源(SP)","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_HmysGuard","name":"雷蒙影视 | 🐬海绵(SP)","type":3,"api":"csp_HmysGuard","timeout":10,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_LibvioGuard","name": "雷蒙影视 | 🌟Libvio(SP)","type": 3,"api": "csp_LibvioGuard","timeout":10,"searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","siteUrl":"https://www.libvio.pw/"}},
@@ -68,6 +69,7 @@
 {"key":"csp_JpysGuard","name":"雷蒙影视 | 💮文才(SP)","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_T4Guard_奶酪","name":"雷蒙影视 | 🧀奶酪(SP)","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="},
 {"key":"csp_AppTTGuard_热播","name":"雷蒙影视 | 📺热播(SP)","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
+{"key":"csp_FyGuard","name":"雷蒙影视 | ☁️风云(SP)","type":3,"api":"csp_FyGuard","ext":{"type":"video","name":"Fy"},"quickSearch":1,"searchable":1,"changeable":1},},
 {"key":"csp_App99Guard_茉莉","name":"雷蒙影视 | 🌸茉莉(SP)","type":3,"api":"csp_App99Guard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="},
 {"key":"csp_AppSxGuard_剧圈","name":"雷蒙影视 | 🐻剧圈(SP)","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
 {"key":"csp_JPJGuard","name":"雷蒙影视 | 🥝荐片(SP)","type":3,"api":"csp_JPJGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
@@ -109,7 +111,7 @@
 {"key":"csp_BidysAmns","name":"雷蒙影视 | 🛸哔嘀(SP)","type":3,"api":"csp_BidysAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Bidys"},
 {"key":"csp_CzzyAmns","name":"雷蒙影视 | 🛸厂长(SP)","type":3,"api":"csp_CzzyAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Czzy"},
 {"key":"csp_LibvioAmns","name":"雷蒙影视 | 🛸LBV(SP)","type":3,"api":"csp_LibvioAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Libvio"},
-{"key":"csp_HgggAmns_Dj","name":"雷蒙影视 | 📽️短剧(SP)","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama"},
+{"key":"csp_HgggAmns_Dj","name":"雷蒙影视 | 📽️短剧(SP)","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"DjHggg","genre":"shortdrama"},
 {"key":"csp_HHkkAmns","name":"雷蒙影视 | 📽️豪堪(SP)","type":3,"api":"csp_HHkkAmns","searchable":1,"quickSearch":0,"changeable":0,"genre":"shortdrama"},
 {"key":"csp_HemaAmns","name":"雷蒙影视 | 📽️盒马(SP)","type":3,"api":"csp_HemaAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
 {"key":"csp_BddjAmns","name":"雷蒙影视 | 📽️拜拜(SP)","type":3,"api":"csp_BddjAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
