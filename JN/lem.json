@@ -1,10 +1,8 @@
 {
-"spider":"./N3RD/J/lem1024.jar;md5;E45471004CD379233D2194714667EA26",
+"spider":"./N3RD/J/lem1025.jar;md5;A9E04AE1C5A450EE825FEE6BD9A39370",
 
+//"spider":"./N3RD/J/lem1024.jar;md5;E45471004CD379233D2194714667EA26",
 //"spider":"./N3RD/J/lem1022.jar;md5;A3435D4FE7029EED10ADB4426D520727",
-//"spider":"./N3RD/J/lem1018.jar;md5;3C17B08251601D6ECDEA6AD4FF534AFD",
-//"spider":"./N3RD/J/lem1015.jar;md5;30434EB6BC3FF8D36D2C62EA43766613",
-//"spider":"./N3RD/J/lem1011.jar;md5;DBB7DA4736F738A65D395763BA8663FA",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -106,9 +104,10 @@
 {"key":"csp_AppV7Amns_柿子","name":"雷蒙影视 | 📦柿子(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},
 {"key":"csp_AppV7Amns_黄人","name":"雷蒙影视 | 📦黄人(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},
 {"key":"csp_AppV7Amns_师兄","name":"雷蒙影视 | 📦师兄(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
-{"key":"csp_DMxiguaAmns","name":"雷蒙影视 | 🐱冬瓜(SP)","type":3,"api":"csp_DMxiguaAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"DMxigua"},
+{"key":"csp_DMcycAmns","name":"雷蒙影视 | 🐱嗷嗚(SP)","type":3,"api":"csp_DMcycAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_DMoxAmns","name":"雷蒙影视 | 🐱牛来(SP)","type":3,"api":"csp_DMoxAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_DMqingkAmns","name":"雷蒙影视 | 🐱青云(SP)","type":3,"api":"csp_DMqingkAmns","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_DMxiguaAmns","name":"雷蒙影视 | 🐱冬瓜(SP)","type":3,"api":"csp_DMxiguaAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"DMxigua"},
 {"key":"csp_DMmoduAmns","name":"雷蒙影视 | 🐱魔都(SP)","type":3,"api":"csp_DMmoduAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_BidysAmns","name":"雷蒙影视 | 🛸哔嘀(SP)","type":3,"api":"csp_BidysAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Bidys"},
 {"key":"csp_CzzyAmns","name":"雷蒙影视 | 🛸厂长(SP)","type":3,"api":"csp_CzzyAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Czzy"},
