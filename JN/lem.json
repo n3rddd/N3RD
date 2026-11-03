@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1031.jar;md5;CC6E37071081DF3EE82CD1B26BA526A2",
+"spider":"./N3RD/J/lem1103.jar;md5;71877DD21A04838D0455E014884AC1CA",
 
+//"spider":"./N3RD/J/lem1031.jar;md5;CC6E37071081DF3EE82CD1B26BA526A2",
 //"spider":"./N3RD/J/lem1025.jar;md5;A9E04AE1C5A450EE825FEE6BD9A39370",
 //"spider":"./N3RD/J/lem1024.jar;md5;E45471004CD379233D2194714667EA26",
 //"spider":"./N3RD/J/lem1022.jar;md5;A3435D4FE7029EED10ADB4426D520727",
@@ -140,6 +141,8 @@
 {"key":"csp_QTfmAmns","name":"雷蒙影视 | 🎸蜻蜓(SP)","type":3,"api":"csp_QTfmAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"music"},
 
 // ⇩⇩ XM SPIDER ⇩⇩ 
+{"key":"csp_HongGuo","name":"雷蒙影视 | 🍒红果(SP)","type":3,"api":"csp_HongGuo","searchable":1,"quickSearch":0,"filterable":1,"lang":"ds","genre":"短剧","ext":{"danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
+{"key":"csp_KaFeiDJ","name":"雷蒙影视 | ☕️咖啡(SP)","type":3,"api":"csp_KaFeiDJ","searchable":1,"quickSearch":0,"filterable":1,"lang":"ds","genre":"短剧","ext":{"danmu_api":"https://dm.211.li/nonay"}},
 {"key":"AppV7_小猪","name":"雷蒙影视 | 🐷小猪(SP)","type":3,"api":"csp_AppV7","searchable":1,"quickSearch":1,"filterable":1,"ext":"AppV7Fz"},
 {"key":"AppV7_追剧","name":"雷蒙影视 | 📺追剧(SP)","type":3,"api":"csp_AppV7","searchable":1,"quickSearch":1,"filterable":1,"ext":"AppV7Zjdr"},
 {"key":"AppV7_师兄","name":"雷蒙影视 | 📦师兄(SP)","type":3,"api":"csp_AppV7","searchable":1,"quickSearch":1,"filterable":1,"ext":"AppV7Dsx"},
@@ -157,11 +160,9 @@
 {"key":"csp_Wwys","name":"雷蒙影视 | 🌾农民(SP)","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"timeout":12,"ext":{"site":"https://vip.wwgz.cn:5200","danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
 {"key":"csp_Gz360","name":"雷蒙影视 | 🌻瓜子(SP)","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"timeout":12,"ext":{"danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
 {"key":"csp_YunDuo","name":"雷蒙影视 | 🦢大鹅(SP)","type":3,"api":"csp_YunDuo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://323433ssdfd.top","finger":"WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2","aid":"com.web.player","sk":"WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1","client":"8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a","sign":"ddtvf65f3a83d6d9ad6f","danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
-{"key":"csp_FengYe","name":"雷蒙影视 | 🍁枫叶(SP)","type":3,"api":"csp_FengYe","searchable":1,"quickSearch":1,"filterable":0,"ext":{"site":"https://www.vip1949.com/","danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
 {"key":"csp_XiFanAcg","name":"雷蒙影视 | 🥣稀饭(SP)","type":3,"api":"csp_XiFanAcg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"email":"","password":""}},
 {"key":"csp_Dmghg","name":"雷蒙影视 | 🚩共和(SP)","type":3,"api":"csp_Dmghg","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ciyuancheng","name":"雷蒙影视 | 🧚次元(SP)","type":3,"api":"csp_Ciyuancheng","searchable":1,"quickSearch":1,"filterable":1,"ext":{"username":"nimasile","password":"xiaomi888","danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
-{"key":"csp_HongGuo","name":"雷蒙影视 | 🍒红果(SP)","type":3,"api":"csp_HongGuo","searchable":1,"quickSearch":0,"filterable":1,"lang":"ds","genre":"短剧","ext":{"danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
 {"key":"csp_AppXYXM","name":"雷蒙影视 | 🌟星丫(SP)","type":3,"api":"csp_AppXYXM","searchable":1,"quickSearch":1,"filterable":1,"timeout":12,"genre":"shortdrama","ext":{"danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
 {"key":"csp_GuaziTY","name":"雷蒙影视 | ⚽体育(SP)","type":3,"api":"csp_GuaziTY","searchable":0,"quickSearch":0,"filterable":1,"timeout":12,"changeable":0,"order_num":0,"style":{"type":"rect","ratio":1.333},"ext":{"danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
 {"key":"csp_KanQiu","name":"雷蒙影视 | ⚽叭叭(SP)","type":3,"api":"csp_KanQiu","searchable":0,"quickSearch":0,"filterable":1,"timeout":12,"changeable":0,"order_num":0,"style":{"type":"rect","ratio":1.333},"ext":{"danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
