@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1108.jar;md5;F89CE69B90F4284FAB24B1BBA64A6B13",
+"spider":"./N3RD/J/lem1109.jar;md5;FDA8A9AD5103AFD5AF4E60B081D85D76",
 
+//"spider":"./N3RD/J/lem1108.jar;md5;F89CE69B90F4284FAB24B1BBA64A6B13",
 //"spider":"./N3RD/J/lem1104.jar;md5;EC5444AFF8B0E91238F9211179C09463",
 //"spider":"./N3RD/J/lem1103.jar;md5;71877DD21A04838D0455E014884AC1CA",
 //"spider":"./N3RD/J/lem1031.jar;md5;CC6E37071081DF3EE82CD1B26BA526A2",
@@ -94,6 +95,7 @@
 {"key":"csp_HxqAmns","name":"雷蒙影视 | 🚀韩剧(SP)","type":3,"api":"csp_HxqAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_JinPaiAmns","name":"雷蒙影视 | 🚀金牌(SP)","type":3,"api":"csp_JinPaiAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_NewGrV2Amns","name":"雷蒙影视 | 🚀秋天(SP)","type":3,"api":"csp_NewGrV2Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"NewGrV2"},
+{"key":"csp_AppV7Amns_师兄","name":"雷蒙影视 | 📦师兄(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
 {"key":"csp_AppV7Amns_粉猪","name":"雷蒙影视 | 📦粉猪(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Fz"},
 {"key":"csp_AppV7Amns_咸鱼","name":"雷蒙影视 | 📦咸鱼(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xy"},
 {"key":"csp_AppV7Amns_达人","name":"雷蒙影视 | 📦达人(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Zjdr"},
@@ -103,7 +105,6 @@
 {"key":"csp_AppV7Amns_零七","name":"雷蒙影视 | 📦零七(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Llq"},
 {"key":"csp_AppV7Amns_柿子","name":"雷蒙影视 | 📦柿子(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},
 {"key":"csp_AppV7Amns_黄人","name":"雷蒙影视 | 📦黄人(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},
-{"key":"csp_AppV7Amns_师兄","name":"雷蒙影视 | 📦师兄(SP)","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
 {"key":"csp_DMcycAmns","name":"雷蒙影视 | 🐱嗷嗚(SP)","type":3,"api":"csp_DMcycAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_DMoxAmns","name":"雷蒙影视 | 🐱牛来(SP)","type":3,"api":"csp_DMoxAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_DMlmmAmns","name":"雷蒙影视 | 🐱快快(SP)","type":3,"api":"csp_DMlmmAmns","searchable":1,"quickSearch":1,"changeable":1},
