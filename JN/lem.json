@@ -1,10 +1,8 @@
 {
-"spider":"./N3RD/J/lem1109.jar;md5;FDA8A9AD5103AFD5AF4E60B081D85D76",
+"spider":"./N3RD/J/lem1111.jar;md5;E8350E7C1DB6FA701FC1307B4FA6E175",
 
+//"spider":"./N3RD/J/lem1109.jar;md5;FDA8A9AD5103AFD5AF4E60B081D85D76",
 //"spider":"./N3RD/J/lem1108.jar;md5;F89CE69B90F4284FAB24B1BBA64A6B13",
-//"spider":"./N3RD/J/lem1104.jar;md5;EC5444AFF8B0E91238F9211179C09463",
-//"spider":"./N3RD/J/lem1103.jar;md5;71877DD21A04838D0455E014884AC1CA",
-//"spider":"./N3RD/J/lem1031.jar;md5;CC6E37071081DF3EE82CD1B26BA526A2",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -120,6 +118,7 @@
 {"key":"csp_WgdjAmns","name":"雷蒙影视 | 📽️围观(SP)","type":3,"api":"csp_WgdjAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
 {"key":"csp_QmdjAmns","name":"雷蒙影视 | 📽️喵喵(SP)","type":3,"api":"csp_QmdjAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
 {"key":"csp_XydjAmns","name":"雷蒙影视 | 📽️星星(SP)","type":3,"api":"csp_XydjAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
+{"key":"csp_JuzhiAmns","name":"雷蒙影视 | ⭐橘汁(SP)","type":3,"api":"csp_JuzhiAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Juzhi"},
 {"key":"csp_RbysAmns","name":"雷蒙影视 | ⭐热播(SP)","type":3,"api":"csp_RbysAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Rbys"},
 {"key":"csp_DubkAmns","name":"雷蒙影视 | ⭐杜北(SP)","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Dubk"},
 {"key":"csp_JPianAmns","name":"雷蒙影视 | ⭐荐片(SP)","type":3,"api":"csp_JPianAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"JPian"},
@@ -141,7 +140,6 @@
 {"key":"csp_QTfmAmns","name":"雷蒙影视 | 🎸蜻蜓(SP)","type":3,"api":"csp_QTfmAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"music"},
 
 // ⇩⇩ XM SPIDER ⇩⇩ 
-{"key":"csp_HongGuo","name":"雷蒙影视 | 🍒红果(SP)","type":3,"api":"csp_HongGuo","searchable":1,"quickSearch":0,"filterable":1,"lang":"ds","genre":"短剧","ext":{"danmu":true,"danmu_api":"https://dm.211.li/nonay"}},
 {"key":"csp_KaFeiDJ","name":"雷蒙影视 | ☕️咖啡(SP)","type":3,"api":"csp_KaFeiDJ","searchable":1,"quickSearch":0,"filterable":1,"lang":"ds","genre":"短剧","ext":{"danmu_api":"https://dm.211.li/nonay"}},
 {"key":"csp_AppV7_小猪","name":"雷蒙影视 | 🐷小猪(SP)","type":3,"api":"csp_AppV7","searchable":1,"quickSearch":1,"filterable":1,"ext":"AppV7Fz"},
 {"key":"csp_AppV7_追剧","name":"雷蒙影视 | 📺追剧(SP)","type":3,"api":"csp_AppV7","searchable":1,"quickSearch":1,"filterable":1,"ext":"AppV7Zjdr"},
