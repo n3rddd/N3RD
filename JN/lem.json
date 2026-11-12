@@ -1,6 +1,7 @@
 {
-"spider":"./N3RD/J/lem1111.jar;md5;E8350E7C1DB6FA701FC1307B4FA6E175",
+"spider":"./N3RD/J/lem1112.jar;md5;FEFDC61261585EDC2F413263B8229478",
 
+//"spider":"./N3RD/J/lem1111.jar;md5;E8350E7C1DB6FA701FC1307B4FA6E175",
 //"spider":"./N3RD/J/lem1109.jar;md5;FDA8A9AD5103AFD5AF4E60B081D85D76",
 //"spider":"./N3RD/J/lem1108.jar;md5;F89CE69B90F4284FAB24B1BBA64A6B13",
 
@@ -88,6 +89,7 @@
 {"key":"csp_YueTingGuard","name":"雷蒙影视 | 🎧听书(SP)","type":3,"api":"csp_YueTingGuard","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
 
 // ⇩⇩ AW SPIDER ⇩⇩ 
+{"key":"csp_XfdhAmns","name":"雷蒙影视 | 🔥下饭(SP)","type":3,"api":"csp_XfdhAmns","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_HgdhAmns","name":"雷蒙影视 | 🔥短剧(SP)","type":3,"api":"csp_HgdhAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama","ext":"Hgdh"},
 {"key":"csp_XxxgAmns","name":"雷蒙影视 | 🔥经典(SP)","type":3,"api":"csp_XxxgAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"Xxxg"},
 {"key":"csp_HxqAmns","name":"雷蒙影视 | 🚀韩剧(SP)","type":3,"api":"csp_HxqAmns","searchable":1,"quickSearch":1,"changeable":1},
@@ -563,6 +565,7 @@
 "img1.wsyzy.org=cmcc.vvvv.ee",
 "fiizvfck.top=cmcc.vvvv.ee",
 "images.67c6c7a.com=cmcc.vvvv.ee",
+"sub.ottiptv.cc=cmcc.vvvv.ee",
 "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
 "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
 "cdn9.163189.xyz=gcore.jsdelivr.net",
