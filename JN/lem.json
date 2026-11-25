@@ -1,11 +1,8 @@
 {
-"spider":"./N3RD/J/lem1123.jar;md5;06BD42014D55A9F5B5326A46CAB44BD3",
+"spider":"./N3RD/J/lem1125.jar;md5;FC8EE9D0E9530FDB0EA555FD36D9F1CD",
 
+//"spider":"./N3RD/J/lem1123.jar;md5;06BD42014D55A9F5B5326A46CAB44BD3",
 //"spider":"./N3RD/J/lem1122.jar;md5;458DABF9EEE403A19D1095D195B896D2",
-//"spider":"./N3RD/J/lem1118.jar;md5;3B5023FD4E058645B9DB28075EF70E58",
-//"spider":"./N3RD/J/lem1114.jar;md5;64C782F80170AC640C48A360D0CB6ECA",
-//"spider":"./N3RD/J/lem1112.jar;md5;FEFDC61261585EDC2F413263B8229478",
-//"spider":"./N3RD/J/lem1111.jar;md5;E8350E7C1DB6FA701FC1307B4FA6E175",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
 
@@ -489,6 +486,10 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Web解析聚合","type":3,"url":"Web"},
+
+//AW
+{"name":"嗷呜","type":0,"url":"https://free.maccms.xyz?url="},
+{"name":"真帅","type":0,"url":"https://jx.77flv.cc/?url="},
 
 //QJ
 {"name":"巧技","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili"],"header":{"User-Agent":"okhttp/4.9.1"}}},
